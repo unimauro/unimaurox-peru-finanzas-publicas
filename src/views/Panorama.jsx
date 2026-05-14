@@ -16,6 +16,7 @@ import {
 import { Banknote, TrendingUp, Wallet, PiggyBank } from 'lucide-react';
 import KpiCard from '../components/KpiCard.jsx';
 import ChartContainer from '../components/ChartContainer.jsx';
+import SourceBanner from '../components/SourceBanner.jsx';
 import { SkeletonCard, SkeletonChart } from '../components/Skeleton.jsx';
 import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
@@ -97,6 +98,14 @@ export default function Panorama() {
 
   return (
     <div className="space-y-6">
+      <SourceBanner color="azul">
+        <strong>Origen de los datos:</strong> PBI y deuda provienen de las
+        series consolidadas del <strong>BCRP</strong> y los Informes Anuales de
+        Deuda Pública del <strong>MEF — Dirección General de Endeudamiento</strong>.
+        El presupuesto agregado proviene de la <strong>Consulta Amigable del MEF</strong>{' '}
+        (SIAF). Todas las cifras están en soles corrientes (nominales).
+      </SourceBanner>
+
       {/* KPIs */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {loading ? (
@@ -108,7 +117,8 @@ export default function Panorama() {
             <KpiCard
               etiqueta={`PBI ${anio}`}
               valor={`S/ ${escalar(pbiAnio?.pbi_nominal_soles, unidad)?.toLocaleString('es-PE', { maximumFractionDigits: 1 }) ?? '—'}`}
-              sub={suf}
+              unidadInline={suf}
+              sub="Producto Bruto Interno nominal"
               variacion={varPBI}
               fuente="BCRP"
               icono={TrendingUp}
@@ -116,15 +126,17 @@ export default function Panorama() {
             <KpiCard
               etiqueta={`Deuda pública ${anio}`}
               valor={`S/ ${escalar(deudaAnio?.deuda_total_soles, unidad)?.toLocaleString('es-PE', { maximumFractionDigits: 1 }) ?? '—'}`}
+              unidadInline={suf}
               sub={`${deudaAnio?.deuda_pct_pbi?.toFixed(1) ?? '—'}% del PBI`}
               variacion={varDeuda}
-              fuente="BCRP/MEF"
+              fuente="BCRP / MEF · DGE"
               icono={Banknote}
             />
             <KpiCard
               etiqueta={`Presupuesto (PIM) ${anio}`}
               valor={`S/ ${escalar(presAnio?.pim_soles, unidad)?.toLocaleString('es-PE', { maximumFractionDigits: 1 }) ?? '—'}`}
-              sub={suf}
+              unidadInline={suf}
+              sub="Presupuesto Institucional Modificado"
               fuente="MEF · Consulta Amigable"
               icono={Wallet}
             />

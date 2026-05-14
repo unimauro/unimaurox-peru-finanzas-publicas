@@ -1,6 +1,19 @@
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react';
 
-export default function KpiCard({ etiqueta, valor, sub, variacion, fuente, icono: Icono }) {
+/**
+ * KPI card. La unidad (millones / miles / etc.) se muestra inline al lado
+ * del valor para que el lector entienda la magnitud sin tener que mirar el
+ * subtexto.
+ */
+export default function KpiCard({
+  etiqueta,
+  valor,
+  unidadInline,
+  sub,
+  variacion,
+  fuente,
+  icono: Icono,
+}) {
   const flecha =
     variacion == null ? Minus : variacion > 0 ? TrendingUp : variacion < 0 ? TrendingDown : Minus;
   const Flecha = flecha;
@@ -21,7 +34,14 @@ export default function KpiCard({ etiqueta, valor, sub, variacion, fuente, icono
         </div>
       )}
       <p className="kpi-label">{etiqueta}</p>
-      <p className="kpi-value mt-1 text-peru-azul dark:text-white">{valor}</p>
+      <p className="kpi-value mt-1 flex flex-wrap items-baseline gap-1.5 text-peru-azul dark:text-white">
+        <span>{valor}</span>
+        {unidadInline && (
+          <span className="text-sm font-semibold text-peru-rojo dark:text-peru-dorado md:text-base">
+            {unidadInline}
+          </span>
+        )}
+      </p>
       {sub && (
         <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">{sub}</p>
       )}

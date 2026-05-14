@@ -11,6 +11,7 @@ import {
   Legend,
 } from 'recharts';
 import ChartContainer from '../components/ChartContainer.jsx';
+import SourceBanner from '../components/SourceBanner.jsx';
 import { SkeletonChart } from '../components/Skeleton.jsx';
 import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
@@ -104,6 +105,13 @@ export default function Cartera() {
 
   return (
     <div className="space-y-6">
+      <SourceBanner color="ambar">
+        <strong>Origen de los datos:</strong> Distribución del presupuesto por
+        cartera ministerial basada en los totales del <strong>MEF · Consulta
+        Amigable</strong> y los pesos relativos históricos de cada sector
+        (Educación, Salud, etc.) según los Reportes Anuales del MEF.
+      </SourceBanner>
+
       <ChartContainer
         titulo={`Distribución del presupuesto por sector · ${anio}`}
         descripcion={`Treemap proporcional al PIM (${suf})`}

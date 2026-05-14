@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { feature } from 'topojson-client';
 import ChartContainer from '../components/ChartContainer.jsx';
+import SourceBanner from '../components/SourceBanner.jsx';
 import { SkeletonChart } from '../components/Skeleton.jsx';
 import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
@@ -188,6 +189,14 @@ export default function Mapa() {
 
   return (
     <div className="space-y-6">
+      <SourceBanner color="ambar">
+        <strong>Origen de los datos:</strong> Presupuesto por región desde los
+        totales del <strong>MEF</strong> distribuidos por pesos regionales
+        históricos. Población departamental: proyecciones del <strong>INEI</strong>.
+        GeoJSON: 25 departamentos del Perú (Callao separado; Lima Metropolitana
+        y Lima Provincias agregadas).
+      </SourceBanner>
+
       <div className="flex flex-wrap items-center gap-3">
         <div className="flex flex-wrap gap-1 rounded-lg border border-slate-200 bg-white p-1 dark:border-slate-700 dark:bg-slate-800">
           {METRICAS.map((m) => (

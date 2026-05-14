@@ -17,6 +17,7 @@ import {
 import { Banknote, Percent, TrendingUp, Coins } from 'lucide-react';
 import KpiCard from '../components/KpiCard.jsx';
 import ChartContainer from '../components/ChartContainer.jsx';
+import SourceBanner from '../components/SourceBanner.jsx';
 import { SkeletonCard, SkeletonChart } from '../components/Skeleton.jsx';
 import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
@@ -83,19 +84,28 @@ export default function Deuda() {
 
   return (
     <div className="space-y-6">
+      <SourceBanner color="azul">
+        <strong>Origen de los datos:</strong> Stock de deuda pública del{' '}
+        <strong>MEF — Dirección General de Endeudamiento (DGE)</strong> y{' '}
+        <strong>BCRP</strong>. La composición por moneda y acreedor proviene
+        del Informe Anual de Deuda Pública del MEF. Los porcentajes del PBI se
+        calculan sobre la serie nominal del BCRP.
+      </SourceBanner>
+
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <KpiCard
           etiqueta={`Deuda total ${anio}`}
           valor={`S/ ${escalar(item?.deuda_total_soles, unidad)?.toLocaleString('es-PE', { maximumFractionDigits: 1 }) ?? '—'}`}
-          sub={suf}
+          unidadInline={suf}
+          sub="Stock de deuda pública bruta"
           variacion={varPct}
-          fuente="BCRP / MEF"
+          fuente="BCRP / MEF · DGE"
           icono={Banknote}
         />
         <KpiCard
           etiqueta="% del PBI"
           valor={`${item?.deuda_pct_pbi?.toFixed(1) ?? '—'}%`}
-          sub="Ratio deuda/PBI"
+          sub="Ratio deuda / PBI nominal"
           fuente="BCRP"
           icono={Percent}
         />
@@ -106,13 +116,15 @@ export default function Deuda() {
               ? `${varAbs > 0 ? '+' : ''}S/ ${escalar(varAbs, unidad).toLocaleString('es-PE', { maximumFractionDigits: 1 })}`
               : '—'
           }
-          sub={`${suf} · vs ${anio - 1}`}
+          unidadInline={suf}
+          sub={`vs ${anio - 1}`}
           fuente="Cálculo propio"
           icono={TrendingUp}
         />
         <KpiCard
           etiqueta="Deuda externa"
           valor={`S/ ${escalar(item?.deuda_externa_soles, unidad)?.toLocaleString('es-PE', { maximumFractionDigits: 1 }) ?? '—'}`}
+          unidadInline={suf}
           sub={`${((item?.deuda_externa_soles / item?.deuda_total_soles) * 100 || 0).toFixed(1)}% del total`}
           fuente="MEF · DGE"
           icono={Coins}

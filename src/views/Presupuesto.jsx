@@ -10,6 +10,7 @@ import {
   Legend,
 } from 'recharts';
 import ChartContainer from '../components/ChartContainer.jsx';
+import SourceBanner from '../components/SourceBanner.jsx';
 import { SkeletonChart } from '../components/Skeleton.jsx';
 import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
@@ -85,6 +86,14 @@ export default function Presupuesto() {
 
   return (
     <div className="space-y-6">
+      <SourceBanner color="ambar">
+        <strong>Origen de los datos:</strong> Totales anuales del{' '}
+        <strong>MEF — Consulta Amigable (SIAF)</strong>. PIA, PIM y Devengado son
+        cifras oficiales agregadas. El desglose por <em>sector</em> en el heatmap
+        se distribuye según pesos históricos publicados por el MEF; para cifras
+        100 % oficiales del SIAF, ver <code>scripts/fetch_mef.py</code>.
+      </SourceBanner>
+
       <ChartContainer
         titulo="PIA · PIM · Devengado por año"
         descripcion={`Presupuesto institucional aprobado, modificado y ejecutado · ${suf}`}
