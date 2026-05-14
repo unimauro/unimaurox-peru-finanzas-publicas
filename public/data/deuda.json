@@ -826,5 +826,48 @@
         "porcentaje": 8
       }
     ]
+  },
+  {
+    "anio": 2026,
+    "deuda_total_soles": 389300000000.0,
+    "deuda_interna_soles": 186864000000.0,
+    "deuda_externa_soles": 202436000000.0,
+    "deuda_pct_pbi": 34.0,
+    "composicion_moneda": [
+      {
+        "moneda": "Soles",
+        "porcentaje": 72.6
+      },
+      {
+        "moneda": "Dólares",
+        "porcentaje": 19.6
+      },
+      {
+        "moneda": "Euros",
+        "porcentaje": 5.9
+      },
+      {
+        "moneda": "Otros",
+        "porcentaje": 2.0
+      }
+    ],
+    "composicion_acreedor": [
+      {
+        "acreedor": "Bonos soberanos",
+        "porcentaje": 60
+      },
+      {
+        "acreedor": "Multilateral",
+        "porcentaje": 22
+      },
+      {
+        "acreedor": "Bilateral",
+        "porcentaje": 10
+      },
+      {
+        "acreedor": "Banca comercial",
+        "porcentaje": 8
+      }
+    ]
   }
 ]

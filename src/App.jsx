@@ -7,7 +7,9 @@ const Panorama = lazy(() => import('./views/Panorama.jsx'));
 const Presupuesto = lazy(() => import('./views/Presupuesto.jsx'));
 const Mapa = lazy(() => import('./views/Mapa.jsx'));
 const Cartera = lazy(() => import('./views/Cartera.jsx'));
+const Funciones = lazy(() => import('./views/Funciones.jsx'));
 const Deuda = lazy(() => import('./views/Deuda.jsx'));
+const Economia = lazy(() => import('./views/Economia.jsx'));
 const Guia = lazy(() => import('./views/Guia.jsx'));
 
 const VIEW_TITLES = {
@@ -15,7 +17,9 @@ const VIEW_TITLES = {
   presupuesto: 'Presupuesto y Ejecución',
   mapa: 'Mapa Regional',
   cartera: 'Por Cartera Ministerial',
+  funciones: 'Salud · Educación · Construcción · Defensa · Sociales',
   deuda: 'Análisis de Deuda Pública',
+  economia: 'Economía Real: SUNAT · Comercio · Minería',
   guia: 'Guía & Preguntas Frecuentes',
 };
 
@@ -50,7 +54,9 @@ export default function App() {
             {vista === 'presupuesto' && <Presupuesto />}
             {vista === 'mapa' && <Mapa />}
             {vista === 'cartera' && <Cartera />}
+            {vista === 'funciones' && <Funciones />}
             {vista === 'deuda' && <Deuda />}
+            {vista === 'economia' && <Economia />}
             {vista === 'guia' && <Guia />}
           </Suspense>
 

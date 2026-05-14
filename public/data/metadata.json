@@ -1,21 +1,24 @@
 {
-  "generado_en": "2026-05-14T19:29:12.397266Z",
+  "generado_en": "2026-05-14T19:50:54.429505Z",
   "rango_anios": [
     1990,
-    2025
+    2026
   ],
   "fuentes": {
     "bcrp": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api",
     "mef": "https://apps5.mineco.gob.pe/transparencia/Mensual/",
     "inei": "https://www.inei.gob.pe/"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "datasets": [
     "pbi.json",
     "deuda.json",
     "presupuesto.json",
     "presupuesto_por_region.json",
     "presupuesto_por_cartera.json",
+    "presupuesto_funcion.json",
+    "macroeconomico.json",
+    "composicion_recaudacion.json",
     "poblacion.json"
   ],
   "nota": "El PBI y la deuda pública se obtienen del BCRP cuando la API responde; el detalle de presupuesto por región/sector se construye a partir de totales públicos del MEF distribuidos según pesos históricos conocidos. Para reemplazar con cifras 100% oficiales del SIAF Consulta Amigable, ver scripts/fetch_mef.py."

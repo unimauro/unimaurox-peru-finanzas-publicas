@@ -1,11 +1,16 @@
-import { LayoutDashboard, Wallet, Map, Building2, Landmark, HelpCircle, X } from 'lucide-react';
+import {
+  LayoutDashboard, Wallet, Map, Building2, Landmark,
+  Pickaxe, HeartPulse, HelpCircle, X,
+} from 'lucide-react';
 
 const items = [
   { id: 'panorama', label: 'Panorama General', icon: LayoutDashboard },
   { id: 'presupuesto', label: 'Presupuesto y Ejecución', icon: Wallet },
   { id: 'mapa', label: 'Mapa Regional', icon: Map },
   { id: 'cartera', label: 'Por Cartera Ministerial', icon: Building2 },
+  { id: 'funciones', label: 'Salud · Educación · Etc.', icon: HeartPulse },
   { id: 'deuda', label: 'Deuda Pública', icon: Landmark },
+  { id: 'economia', label: 'Economía Real', icon: Pickaxe },
   { id: 'guia', label: 'Guía & FAQ', icon: HelpCircle },
 ];
 

@@ -3,7 +3,7 @@ import { createContext, useContext, useMemo, useState } from 'react';
 const FilterContext = createContext(null);
 
 const ANIO_MIN = 1990;
-const ANIO_MAX = 2025;
+const ANIO_MAX = 2026;
 
 export function FilterProvider({ children }) {
   const [anio, setAnio] = useState(ANIO_MAX);

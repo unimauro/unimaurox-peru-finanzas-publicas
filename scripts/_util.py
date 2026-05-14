@@ -11,7 +11,7 @@ DATA_OUT.mkdir(parents=True, exist_ok=True)
 DATA_RAW.mkdir(parents=True, exist_ok=True)
 
 ANIO_MIN = 1990
-ANIO_MAX = 2025
+ANIO_MAX = 2026
 
 
 def guardar_json(nombre: str, obj) -> Path:

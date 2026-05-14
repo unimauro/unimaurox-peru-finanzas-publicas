@@ -1,0 +1,26 @@
+[
+  {
+    "concepto": "Impuesto a la Renta",
+    "porcentaje": 35
+  },
+  {
+    "concepto": "IGV interno",
+    "porcentaje": 28
+  },
+  {
+    "concepto": "IGV importaciones",
+    "porcentaje": 18
+  },
+  {
+    "concepto": "ISC",
+    "porcentaje": 8
+  },
+  {
+    "concepto": "Aranceles",
+    "porcentaje": 3
+  },
+  {
+    "concepto": "Otros tributarios",
+    "porcentaje": 8
+  }
+]

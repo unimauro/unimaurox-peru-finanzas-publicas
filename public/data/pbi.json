@@ -142,5 +142,9 @@
   {
     "anio": 2025,
     "pbi_nominal_soles": 1075000000000.0
+  },
+  {
+    "anio": 2026,
+    "pbi_nominal_soles": 1145000000000.0
   }
 ]
