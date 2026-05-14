@@ -1,7 +1,9 @@
-import { Menu, Moon, Sun, ExternalLink } from 'lucide-react';
+import { useState } from 'react';
+import { Menu, Moon, Sun, ExternalLink, Share2 } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext.jsx';
 import { useFilters } from '../context/FilterContext.jsx';
 import DonateButtons from './DonateButtons.jsx';
+import ShareModal from './ShareModal.jsx';
 
 const UNIDADES = [
   { v: 'soles', l: 'Soles' },
@@ -13,6 +15,7 @@ const UNIDADES = [
 export default function Topbar({ abrirSidebar }) {
   const { theme, toggle } = useTheme();
   const { anio, setAnio, anioMin, anioMax, unidad, setUnidad } = useFilters();
+  const [shareOpen, setShareOpen] = useState(false);
 
   return (
     <header className="sticky top-0 z-10 flex flex-wrap items-center gap-3 border-b border-slate-200 bg-white/80 px-4 py-3 backdrop-blur dark:border-slate-800 dark:bg-slate-900/80">
@@ -56,6 +59,15 @@ export default function Topbar({ abrirSidebar }) {
       </div>
 
       <div className="flex items-center gap-2">
+        <button
+          onClick={() => setShareOpen(true)}
+          className="inline-flex items-center gap-1.5 rounded-lg border border-peru-azul bg-peru-azul px-3 py-1.5 text-sm font-semibold text-white transition hover:bg-peru-azulMedio"
+          aria-label="Compartir dashboard"
+          title="Compartir en redes"
+        >
+          <Share2 size={14} />
+          <span className="hidden sm:inline">Compartir</span>
+        </button>
         <DonateButtons />
         <a
           href="https://github.com/unimauro/unimaurox-peru-finanzas-publicas"
@@ -71,6 +83,7 @@ export default function Topbar({ abrirSidebar }) {
           {theme === 'dark' ? <Sun size={16} /> : <Moon size={16} />}
         </button>
       </div>
+      <ShareModal abierto={shareOpen} onClose={() => setShareOpen(false)} />
     </header>
   );
 }
