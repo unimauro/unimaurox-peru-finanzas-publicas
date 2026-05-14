@@ -1,0 +1,98 @@
+[
+  {
+    "proyecto": "Quellaveco (ampliación)",
+    "empresa": "Anglo American",
+    "region": "MOQUEGUA",
+    "inversion_usd_mm": 5700,
+    "estado": "Operación",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Mina Justa",
+    "empresa": "Marcobre / Minsur",
+    "region": "ICA",
+    "inversion_usd_mm": 1700,
+    "estado": "Operación",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Toromocho (ampliación)",
+    "empresa": "Chinalco",
+    "region": "JUNIN",
+    "inversion_usd_mm": 1355,
+    "estado": "Operación",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Ariana",
+    "empresa": "Southern Peaks Mining",
+    "region": "JUNIN",
+    "inversion_usd_mm": 125,
+    "estado": "Operación",
+    "mineral": "Zinc/Plomo"
+  },
+  {
+    "proyecto": "Yanacocha Sulfuros",
+    "empresa": "Newmont",
+    "region": "CAJAMARCA",
+    "inversion_usd_mm": 2500,
+    "estado": "Construcción",
+    "mineral": "Cobre/Oro"
+  },
+  {
+    "proyecto": "Zafranal",
+    "empresa": "Teck / Mitsubishi",
+    "region": "AREQUIPA",
+    "inversion_usd_mm": 1473,
+    "estado": "Construcción",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Reposición Antamina",
+    "empresa": "Antamina",
+    "region": "ANCASH",
+    "inversion_usd_mm": 2000,
+    "estado": "Construcción",
+    "mineral": "Cobre/Zinc"
+  },
+  {
+    "proyecto": "Tía María",
+    "empresa": "Southern Perú",
+    "region": "AREQUIPA",
+    "inversion_usd_mm": 1400,
+    "estado": "Pre-construcción",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Conga",
+    "empresa": "Newmont",
+    "region": "CAJAMARCA",
+    "inversion_usd_mm": 4800,
+    "estado": "Suspendido",
+    "mineral": "Cobre/Oro"
+  },
+  {
+    "proyecto": "Los Calatos",
+    "empresa": "Hampton Mining",
+    "region": "MOQUEGUA",
+    "inversion_usd_mm": 655,
+    "estado": "Pre-factibilidad",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Coroccohuayco",
+    "empresa": "Glencore",
+    "region": "CUSCO",
+    "inversion_usd_mm": 590,
+    "estado": "Pre-factibilidad",
+    "mineral": "Cobre"
+  },
+  {
+    "proyecto": "Pampa de Pongo",
+    "empresa": "Zhongrong / Jinzhao",
+    "region": "AREQUIPA",
+    "inversion_usd_mm": 2500,
+    "estado": "Pre-factibilidad",
+    "mineral": "Hierro"
+  }
+]

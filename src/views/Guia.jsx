@@ -216,6 +216,76 @@ export default function Guia() {
         </ul>
       </section>
 
+      {/* Autoría */}
+      <section className="card overflow-hidden">
+        <div className="flex flex-col items-center gap-4 sm:flex-row sm:items-start">
+          <img
+            src="https://github.com/unimauro.png"
+            alt="Carlos Mauro Cárdenas"
+            className="h-24 w-24 rounded-full border-4 border-peru-azul object-cover shadow-md"
+          />
+          <div className="flex-1 text-center sm:text-left">
+            <h2 className="text-xl font-bold text-slate-900 dark:text-white">
+              Carlos Mauro Cárdenas Fernandez
+            </h2>
+            <p className="mt-1 text-sm text-slate-600 dark:text-slate-300">
+              Ingeniero con base en Lima, Perú · GenAI, AI Agents, Quantum Computing,
+              ML, DevOps, Cloud & Data Science. Apasionado por la <strong>transparencia
+              de datos públicos</strong> y proyectos open source.
+            </p>
+            <div className="mt-3 flex flex-wrap items-center justify-center gap-2 sm:justify-start">
+              <a
+                href="https://unimauro.github.io/"
+                target="_blank"
+                rel="noreferrer"
+                className="chip hover:bg-peru-azul/10 hover:text-peru-azul dark:hover:bg-peru-azul/30 dark:hover:text-white"
+              >
+                🏠 unimauro.github.io
+              </a>
+              <a
+                href="https://github.com/unimauro"
+                target="_blank"
+                rel="noreferrer"
+                className="chip hover:bg-peru-azul/10 hover:text-peru-azul dark:hover:bg-peru-azul/30 dark:hover:text-white"
+              >
+                💻 @unimauro
+              </a>
+              <a
+                href="https://www.linkedin.com/in/carloscardenasf/"
+                target="_blank"
+                rel="noreferrer"
+                className="chip hover:bg-peru-azul/10 hover:text-peru-azul dark:hover:bg-peru-azul/30 dark:hover:text-white"
+              >
+                💼 LinkedIn
+              </a>
+              <a
+                href="https://twitter.com/unimauro"
+                target="_blank"
+                rel="noreferrer"
+                className="chip hover:bg-peru-azul/10 hover:text-peru-azul dark:hover:bg-peru-azul/30 dark:hover:text-white"
+              >
+                𝕏 @unimauro
+              </a>
+              <a
+                href="https://unimauro.github.io/salariosperu/"
+                target="_blank"
+                rel="noreferrer"
+                className="chip hover:bg-peru-azul/10 hover:text-peru-azul dark:hover:bg-peru-azul/30 dark:hover:text-white"
+              >
+                📊 SalariosPerú
+              </a>
+            </div>
+          </div>
+        </div>
+        <p className="mt-4 border-t border-slate-200 pt-4 text-center text-xs text-slate-500 dark:border-slate-700 dark:text-slate-400">
+          Este dashboard es 100 % independiente · sin afiliación con BCRP, MEF o INEI ·
+          datos públicos · código MIT.
+          <br />
+          Si te sirvió y quieres apoyar futuras actualizaciones: ☕ Yape o Buy Me a Coffee
+          (botones arriba).
+        </p>
+      </section>
+
       {/* FAQ corta */}
       <section className="card">
         <h2 className="mb-4 text-lg font-semibold text-slate-900 dark:text-white">

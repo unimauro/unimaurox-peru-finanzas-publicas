@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-05-14T19:50:54.429505Z",
+  "generado_en": "2026-05-14T20:26:44.903551Z",
   "rango_anios": [
     1990,
     2026
@@ -9,7 +9,7 @@
     "mef": "https://apps5.mineco.gob.pe/transparencia/Mensual/",
     "inei": "https://www.inei.gob.pe/"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "datasets": [
     "pbi.json",
     "deuda.json",
@@ -19,7 +19,12 @@
     "presupuesto_funcion.json",
     "macroeconomico.json",
     "composicion_recaudacion.json",
-    "poblacion.json"
+    "poblacion.json",
+    "canon_inversion.json",
+    "canon_por_region.json",
+    "obras_top_empresas.json",
+    "inversion_componentes.json",
+    "cartera_proyectos_mineros.json"
   ],
   "nota": "El PBI y la deuda pública se obtienen del BCRP cuando la API responde; el detalle de presupuesto por región/sector se construye a partir de totales públicos del MEF distribuidos según pesos históricos conocidos. Para reemplazar con cifras 100% oficiales del SIAF Consulta Amigable, ver scripts/fetch_mef.py."
 }

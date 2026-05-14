@@ -1,0 +1,77 @@
+[
+  {
+    "empresa": "Banco de Crédito BCP",
+    "rubro": "Banca",
+    "monto_acumulado_soles": 3120000000
+  },
+  {
+    "empresa": "Southern Perú Copper",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 2580000000
+  },
+  {
+    "empresa": "Antamina",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 1410000000
+  },
+  {
+    "empresa": "Volcan Compañía Minera",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 920000000
+  },
+  {
+    "empresa": "BBVA Continental",
+    "rubro": "Banca",
+    "monto_acumulado_soles": 820000000
+  },
+  {
+    "empresa": "Banco Interbank",
+    "rubro": "Banca",
+    "monto_acumulado_soles": 690000000
+  },
+  {
+    "empresa": "Telefónica del Perú",
+    "rubro": "Telecom",
+    "monto_acumulado_soles": 540000000
+  },
+  {
+    "empresa": "Yanacocha",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 510000000
+  },
+  {
+    "empresa": "Cerro Verde",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 460000000
+  },
+  {
+    "empresa": "Backus AB InBev",
+    "rubro": "Consumo",
+    "monto_acumulado_soles": 380000000
+  },
+  {
+    "empresa": "Banco de la Nación",
+    "rubro": "Banca",
+    "monto_acumulado_soles": 340000000
+  },
+  {
+    "empresa": "Glencore Perú",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 310000000
+  },
+  {
+    "empresa": "Hudbay Constancia",
+    "rubro": "Minería",
+    "monto_acumulado_soles": 280000000
+  },
+  {
+    "empresa": "Repsol Comercial",
+    "rubro": "Energía",
+    "monto_acumulado_soles": 240000000
+  },
+  {
+    "empresa": "Engie Energía Perú",
+    "rubro": "Energía",
+    "monto_acumulado_soles": 200000000
+  }
+]

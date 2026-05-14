@@ -23,6 +23,11 @@ export const cargarPresupuestoCartera = () => fetchJSON('presupuesto_por_cartera
 export const cargarPresupuestoFuncion = () => fetchJSON('presupuesto_funcion.json');
 export const cargarMacroeconomico = () => fetchJSON('macroeconomico.json');
 export const cargarComposicionRecaudacion = () => fetchJSON('composicion_recaudacion.json');
+export const cargarCanonInversion = () => fetchJSON('canon_inversion.json');
+export const cargarCanonRegional = () => fetchJSON('canon_por_region.json');
+export const cargarObrasTopEmpresas = () => fetchJSON('obras_top_empresas.json');
+export const cargarInversionComponentes = () => fetchJSON('inversion_componentes.json');
+export const cargarCarteraProyectos = () => fetchJSON('cartera_proyectos_mineros.json');
 export const cargarPoblacion = () => fetchJSON('poblacion.json');
 export const cargarMetadata = () => fetchJSON('metadata.json');
 

@@ -10,6 +10,7 @@ const Cartera = lazy(() => import('./views/Cartera.jsx'));
 const Funciones = lazy(() => import('./views/Funciones.jsx'));
 const Deuda = lazy(() => import('./views/Deuda.jsx'));
 const Economia = lazy(() => import('./views/Economia.jsx'));
+const CanonInversion = lazy(() => import('./views/CanonInversion.jsx'));
 const Guia = lazy(() => import('./views/Guia.jsx'));
 
 const VIEW_TITLES = {
@@ -20,6 +21,7 @@ const VIEW_TITLES = {
   funciones: 'Salud · Educación · Construcción · Defensa · Sociales',
   deuda: 'Análisis de Deuda Pública',
   economia: 'Economía Real: SUNAT · Comercio · Minería',
+  canon: 'Canon Minero · Obras por Impuestos · Inversión Privada',
   guia: 'Guía & Preguntas Frecuentes',
 };
 
@@ -67,6 +69,7 @@ export default function App() {
             {vista === 'funciones' && <Funciones />}
             {vista === 'deuda' && <Deuda />}
             {vista === 'economia' && <Economia />}
+            {vista === 'canon' && <CanonInversion />}
             {vista === 'guia' && <Guia />}
           </Suspense>
 

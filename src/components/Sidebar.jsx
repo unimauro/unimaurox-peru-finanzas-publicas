@@ -1,6 +1,6 @@
 import {
   LayoutDashboard, Wallet, Map, Building2, Landmark,
-  Pickaxe, HeartPulse, HelpCircle, X,
+  Pickaxe, HeartPulse, Mountain, HelpCircle, X,
 } from 'lucide-react';
 
 const items = [
@@ -11,6 +11,7 @@ const items = [
   { id: 'funciones', label: 'Salud · Educación · Etc.', icon: HeartPulse },
   { id: 'deuda', label: 'Deuda Pública', icon: Landmark },
   { id: 'economia', label: 'Economía Real', icon: Pickaxe },
+  { id: 'canon', label: 'Canon · OxI · Minería', icon: Mountain },
   { id: 'guia', label: 'Guía & FAQ', icon: HelpCircle },
 ];
 

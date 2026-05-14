@@ -1,0 +1,3752 @@
+[
+  {
+    "anio": 1997,
+    "region": "ANCASH",
+    "canon_minero_soles": 10891089.10891089
+  },
+  {
+    "anio": 1997,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 5940594.059405941
+  },
+  {
+    "anio": 1997,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 4455445.544554455
+  },
+  {
+    "anio": 1997,
+    "region": "CUSCO",
+    "canon_minero_soles": 4455445.544554455
+  },
+  {
+    "anio": 1997,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 3960396.0396039602
+  },
+  {
+    "anio": 1997,
+    "region": "TACNA",
+    "canon_minero_soles": 3465346.5346534657
+  },
+  {
+    "anio": 1997,
+    "region": "PASCO",
+    "canon_minero_soles": 2475247.5247524753
+  },
+  {
+    "anio": 1997,
+    "region": "ICA",
+    "canon_minero_soles": 1980198.0198019801
+  },
+  {
+    "anio": 1997,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 1980198.0198019801
+  },
+  {
+    "anio": 1997,
+    "region": "PUNO",
+    "canon_minero_soles": 1485148.5148514851
+  },
+  {
+    "anio": 1997,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 1485148.5148514851
+  },
+  {
+    "anio": 1997,
+    "region": "JUNIN",
+    "canon_minero_soles": 1485148.5148514851
+  },
+  {
+    "anio": 1997,
+    "region": "LIMA",
+    "canon_minero_soles": 1485148.5148514851
+  },
+  {
+    "anio": 1997,
+    "region": "APURIMAC",
+    "canon_minero_soles": 1237623.7623762377
+  },
+  {
+    "anio": 1997,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 990099.0099009901
+  },
+  {
+    "anio": 1997,
+    "region": "PIURA",
+    "canon_minero_soles": 891089.108910891
+  },
+  {
+    "anio": 1997,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 247524.75247524751
+  },
+  {
+    "anio": 1997,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 247524.75247524751
+  },
+  {
+    "anio": 1997,
+    "region": "HUANUCO",
+    "canon_minero_soles": 247524.75247524751
+  },
+  {
+    "anio": 1997,
+    "region": "LORETO",
+    "canon_minero_soles": 148514.8514851485
+  },
+  {
+    "anio": 1997,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 148514.8514851485
+  },
+  {
+    "anio": 1997,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 99009.900990099
+  },
+  {
+    "anio": 1997,
+    "region": "TUMBES",
+    "canon_minero_soles": 99009.900990099
+  },
+  {
+    "anio": 1997,
+    "region": "UCAYALI",
+    "canon_minero_soles": 99009.900990099
+  },
+  {
+    "anio": 1997,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 1998,
+    "region": "ANCASH",
+    "canon_minero_soles": 26138613.86138614
+  },
+  {
+    "anio": 1998,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 14257425.742574256
+  },
+  {
+    "anio": 1998,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 10693069.306930693
+  },
+  {
+    "anio": 1998,
+    "region": "CUSCO",
+    "canon_minero_soles": 10693069.306930693
+  },
+  {
+    "anio": 1998,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 9504950.495049505
+  },
+  {
+    "anio": 1998,
+    "region": "TACNA",
+    "canon_minero_soles": 8316831.683168317
+  },
+  {
+    "anio": 1998,
+    "region": "PASCO",
+    "canon_minero_soles": 5940594.059405941
+  },
+  {
+    "anio": 1998,
+    "region": "ICA",
+    "canon_minero_soles": 4752475.247524752
+  },
+  {
+    "anio": 1998,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 4752475.247524752
+  },
+  {
+    "anio": 1998,
+    "region": "PUNO",
+    "canon_minero_soles": 3564356.435643564
+  },
+  {
+    "anio": 1998,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 3564356.435643564
+  },
+  {
+    "anio": 1998,
+    "region": "JUNIN",
+    "canon_minero_soles": 3564356.435643564
+  },
+  {
+    "anio": 1998,
+    "region": "LIMA",
+    "canon_minero_soles": 3564356.435643564
+  },
+  {
+    "anio": 1998,
+    "region": "APURIMAC",
+    "canon_minero_soles": 2970297.0297029703
+  },
+  {
+    "anio": 1998,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 2376237.623762376
+  },
+  {
+    "anio": 1998,
+    "region": "PIURA",
+    "canon_minero_soles": 2138613.8613861385
+  },
+  {
+    "anio": 1998,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 594059.405940594
+  },
+  {
+    "anio": 1998,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 594059.405940594
+  },
+  {
+    "anio": 1998,
+    "region": "HUANUCO",
+    "canon_minero_soles": 594059.405940594
+  },
+  {
+    "anio": 1998,
+    "region": "LORETO",
+    "canon_minero_soles": 356435.64356435643
+  },
+  {
+    "anio": 1998,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 356435.64356435643
+  },
+  {
+    "anio": 1998,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 237623.76237623763
+  },
+  {
+    "anio": 1998,
+    "region": "TUMBES",
+    "canon_minero_soles": 237623.76237623763
+  },
+  {
+    "anio": 1998,
+    "region": "UCAYALI",
+    "canon_minero_soles": 237623.76237623763
+  },
+  {
+    "anio": 1998,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 1999,
+    "region": "ANCASH",
+    "canon_minero_soles": 20693069.306930695
+  },
+  {
+    "anio": 1999,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 11287128.712871287
+  },
+  {
+    "anio": 1999,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 8465346.534653464
+  },
+  {
+    "anio": 1999,
+    "region": "CUSCO",
+    "canon_minero_soles": 8465346.534653464
+  },
+  {
+    "anio": 1999,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 7524752.475247525
+  },
+  {
+    "anio": 1999,
+    "region": "TACNA",
+    "canon_minero_soles": 6584158.415841585
+  },
+  {
+    "anio": 1999,
+    "region": "PASCO",
+    "canon_minero_soles": 4702970.297029703
+  },
+  {
+    "anio": 1999,
+    "region": "ICA",
+    "canon_minero_soles": 3762376.2376237623
+  },
+  {
+    "anio": 1999,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 3762376.2376237623
+  },
+  {
+    "anio": 1999,
+    "region": "PUNO",
+    "canon_minero_soles": 2821782.1782178218
+  },
+  {
+    "anio": 1999,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 2821782.1782178218
+  },
+  {
+    "anio": 1999,
+    "region": "JUNIN",
+    "canon_minero_soles": 2821782.1782178218
+  },
+  {
+    "anio": 1999,
+    "region": "LIMA",
+    "canon_minero_soles": 2821782.1782178218
+  },
+  {
+    "anio": 1999,
+    "region": "APURIMAC",
+    "canon_minero_soles": 2351485.1485148515
+  },
+  {
+    "anio": 1999,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 1881188.1188118812
+  },
+  {
+    "anio": 1999,
+    "region": "PIURA",
+    "canon_minero_soles": 1693069.3069306929
+  },
+  {
+    "anio": 1999,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 470297.0297029703
+  },
+  {
+    "anio": 1999,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 470297.0297029703
+  },
+  {
+    "anio": 1999,
+    "region": "HUANUCO",
+    "canon_minero_soles": 470297.0297029703
+  },
+  {
+    "anio": 1999,
+    "region": "LORETO",
+    "canon_minero_soles": 282178.21782178216
+  },
+  {
+    "anio": 1999,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 282178.21782178216
+  },
+  {
+    "anio": 1999,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 188118.81188118813
+  },
+  {
+    "anio": 1999,
+    "region": "TUMBES",
+    "canon_minero_soles": 188118.81188118813
+  },
+  {
+    "anio": 1999,
+    "region": "UCAYALI",
+    "canon_minero_soles": 188118.81188118813
+  },
+  {
+    "anio": 1999,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2000,
+    "region": "ANCASH",
+    "canon_minero_soles": 23960396.03960396
+  },
+  {
+    "anio": 2000,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 13069306.93069307
+  },
+  {
+    "anio": 2000,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 9801980.1980198
+  },
+  {
+    "anio": 2000,
+    "region": "CUSCO",
+    "canon_minero_soles": 9801980.1980198
+  },
+  {
+    "anio": 2000,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 8712871.287128713
+  },
+  {
+    "anio": 2000,
+    "region": "TACNA",
+    "canon_minero_soles": 7623762.376237624
+  },
+  {
+    "anio": 2000,
+    "region": "PASCO",
+    "canon_minero_soles": 5445544.554455446
+  },
+  {
+    "anio": 2000,
+    "region": "ICA",
+    "canon_minero_soles": 4356435.6435643565
+  },
+  {
+    "anio": 2000,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 4356435.6435643565
+  },
+  {
+    "anio": 2000,
+    "region": "PUNO",
+    "canon_minero_soles": 3267326.7326732674
+  },
+  {
+    "anio": 2000,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 3267326.7326732674
+  },
+  {
+    "anio": 2000,
+    "region": "JUNIN",
+    "canon_minero_soles": 3267326.7326732674
+  },
+  {
+    "anio": 2000,
+    "region": "LIMA",
+    "canon_minero_soles": 3267326.7326732674
+  },
+  {
+    "anio": 2000,
+    "region": "APURIMAC",
+    "canon_minero_soles": 2722772.277227723
+  },
+  {
+    "anio": 2000,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 2178217.8217821782
+  },
+  {
+    "anio": 2000,
+    "region": "PIURA",
+    "canon_minero_soles": 1960396.0396039602
+  },
+  {
+    "anio": 2000,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 544554.4554455446
+  },
+  {
+    "anio": 2000,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 544554.4554455446
+  },
+  {
+    "anio": 2000,
+    "region": "HUANUCO",
+    "canon_minero_soles": 544554.4554455446
+  },
+  {
+    "anio": 2000,
+    "region": "LORETO",
+    "canon_minero_soles": 326732.6732673267
+  },
+  {
+    "anio": 2000,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 326732.6732673267
+  },
+  {
+    "anio": 2000,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 217821.78217821784
+  },
+  {
+    "anio": 2000,
+    "region": "TUMBES",
+    "canon_minero_soles": 217821.78217821784
+  },
+  {
+    "anio": 2000,
+    "region": "UCAYALI",
+    "canon_minero_soles": 217821.78217821784
+  },
+  {
+    "anio": 2000,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2001,
+    "region": "ANCASH",
+    "canon_minero_soles": 28316831.683168318
+  },
+  {
+    "anio": 2001,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 15445544.554455444
+  },
+  {
+    "anio": 2001,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 11584158.415841583
+  },
+  {
+    "anio": 2001,
+    "region": "CUSCO",
+    "canon_minero_soles": 11584158.415841583
+  },
+  {
+    "anio": 2001,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 10297029.702970298
+  },
+  {
+    "anio": 2001,
+    "region": "TACNA",
+    "canon_minero_soles": 9009900.990099011
+  },
+  {
+    "anio": 2001,
+    "region": "PASCO",
+    "canon_minero_soles": 6435643.564356436
+  },
+  {
+    "anio": 2001,
+    "region": "ICA",
+    "canon_minero_soles": 5148514.851485149
+  },
+  {
+    "anio": 2001,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 5148514.851485149
+  },
+  {
+    "anio": 2001,
+    "region": "PUNO",
+    "canon_minero_soles": 3861386.138613861
+  },
+  {
+    "anio": 2001,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 3861386.138613861
+  },
+  {
+    "anio": 2001,
+    "region": "JUNIN",
+    "canon_minero_soles": 3861386.138613861
+  },
+  {
+    "anio": 2001,
+    "region": "LIMA",
+    "canon_minero_soles": 3861386.138613861
+  },
+  {
+    "anio": 2001,
+    "region": "APURIMAC",
+    "canon_minero_soles": 3217821.782178218
+  },
+  {
+    "anio": 2001,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 2574257.4257425745
+  },
+  {
+    "anio": 2001,
+    "region": "PIURA",
+    "canon_minero_soles": 2316831.6831683167
+  },
+  {
+    "anio": 2001,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 643564.3564356436
+  },
+  {
+    "anio": 2001,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 643564.3564356436
+  },
+  {
+    "anio": 2001,
+    "region": "HUANUCO",
+    "canon_minero_soles": 643564.3564356436
+  },
+  {
+    "anio": 2001,
+    "region": "LORETO",
+    "canon_minero_soles": 386138.61386138614
+  },
+  {
+    "anio": 2001,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 386138.61386138614
+  },
+  {
+    "anio": 2001,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 257425.74257425743
+  },
+  {
+    "anio": 2001,
+    "region": "TUMBES",
+    "canon_minero_soles": 257425.74257425743
+  },
+  {
+    "anio": 2001,
+    "region": "UCAYALI",
+    "canon_minero_soles": 257425.74257425743
+  },
+  {
+    "anio": 2001,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2002,
+    "region": "ANCASH",
+    "canon_minero_soles": 35940594.05940594
+  },
+  {
+    "anio": 2002,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 19603960.3960396
+  },
+  {
+    "anio": 2002,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 14702970.297029702
+  },
+  {
+    "anio": 2002,
+    "region": "CUSCO",
+    "canon_minero_soles": 14702970.297029702
+  },
+  {
+    "anio": 2002,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 13069306.93069307
+  },
+  {
+    "anio": 2002,
+    "region": "TACNA",
+    "canon_minero_soles": 11435643.564356437
+  },
+  {
+    "anio": 2002,
+    "region": "PASCO",
+    "canon_minero_soles": 8168316.831683169
+  },
+  {
+    "anio": 2002,
+    "region": "ICA",
+    "canon_minero_soles": 6534653.465346535
+  },
+  {
+    "anio": 2002,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 6534653.465346535
+  },
+  {
+    "anio": 2002,
+    "region": "PUNO",
+    "canon_minero_soles": 4900990.0990099
+  },
+  {
+    "anio": 2002,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 4900990.0990099
+  },
+  {
+    "anio": 2002,
+    "region": "JUNIN",
+    "canon_minero_soles": 4900990.0990099
+  },
+  {
+    "anio": 2002,
+    "region": "LIMA",
+    "canon_minero_soles": 4900990.0990099
+  },
+  {
+    "anio": 2002,
+    "region": "APURIMAC",
+    "canon_minero_soles": 4084158.4158415846
+  },
+  {
+    "anio": 2002,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 3267326.7326732674
+  },
+  {
+    "anio": 2002,
+    "region": "PIURA",
+    "canon_minero_soles": 2940594.05940594
+  },
+  {
+    "anio": 2002,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 816831.6831683168
+  },
+  {
+    "anio": 2002,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 816831.6831683168
+  },
+  {
+    "anio": 2002,
+    "region": "HUANUCO",
+    "canon_minero_soles": 816831.6831683168
+  },
+  {
+    "anio": 2002,
+    "region": "LORETO",
+    "canon_minero_soles": 490099.0099009901
+  },
+  {
+    "anio": 2002,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 490099.0099009901
+  },
+  {
+    "anio": 2002,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 326732.6732673267
+  },
+  {
+    "anio": 2002,
+    "region": "TUMBES",
+    "canon_minero_soles": 326732.6732673267
+  },
+  {
+    "anio": 2002,
+    "region": "UCAYALI",
+    "canon_minero_soles": 326732.6732673267
+  },
+  {
+    "anio": 2002,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2003,
+    "region": "ANCASH",
+    "canon_minero_soles": 42475247.524752475
+  },
+  {
+    "anio": 2003,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 23168316.831683166
+  },
+  {
+    "anio": 2003,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 17376237.623762377
+  },
+  {
+    "anio": 2003,
+    "region": "CUSCO",
+    "canon_minero_soles": 17376237.623762377
+  },
+  {
+    "anio": 2003,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 15445544.554455446
+  },
+  {
+    "anio": 2003,
+    "region": "TACNA",
+    "canon_minero_soles": 13514851.485148516
+  },
+  {
+    "anio": 2003,
+    "region": "PASCO",
+    "canon_minero_soles": 9653465.346534654
+  },
+  {
+    "anio": 2003,
+    "region": "ICA",
+    "canon_minero_soles": 7722772.277227723
+  },
+  {
+    "anio": 2003,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 7722772.277227723
+  },
+  {
+    "anio": 2003,
+    "region": "PUNO",
+    "canon_minero_soles": 5792079.207920792
+  },
+  {
+    "anio": 2003,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 5792079.207920792
+  },
+  {
+    "anio": 2003,
+    "region": "JUNIN",
+    "canon_minero_soles": 5792079.207920792
+  },
+  {
+    "anio": 2003,
+    "region": "LIMA",
+    "canon_minero_soles": 5792079.207920792
+  },
+  {
+    "anio": 2003,
+    "region": "APURIMAC",
+    "canon_minero_soles": 4826732.673267327
+  },
+  {
+    "anio": 2003,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 3861386.1386138615
+  },
+  {
+    "anio": 2003,
+    "region": "PIURA",
+    "canon_minero_soles": 3475247.524752475
+  },
+  {
+    "anio": 2003,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 965346.5346534654
+  },
+  {
+    "anio": 2003,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 965346.5346534654
+  },
+  {
+    "anio": 2003,
+    "region": "HUANUCO",
+    "canon_minero_soles": 965346.5346534654
+  },
+  {
+    "anio": 2003,
+    "region": "LORETO",
+    "canon_minero_soles": 579207.9207920792
+  },
+  {
+    "anio": 2003,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 579207.9207920792
+  },
+  {
+    "anio": 2003,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 386138.61386138614
+  },
+  {
+    "anio": 2003,
+    "region": "TUMBES",
+    "canon_minero_soles": 386138.61386138614
+  },
+  {
+    "anio": 2003,
+    "region": "UCAYALI",
+    "canon_minero_soles": 386138.61386138614
+  },
+  {
+    "anio": 2003,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2004,
+    "region": "ANCASH",
+    "canon_minero_soles": 76237623.76237623
+  },
+  {
+    "anio": 2004,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 41584158.41584158
+  },
+  {
+    "anio": 2004,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 31188118.81188119
+  },
+  {
+    "anio": 2004,
+    "region": "CUSCO",
+    "canon_minero_soles": 31188118.81188119
+  },
+  {
+    "anio": 2004,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 27722772.277227722
+  },
+  {
+    "anio": 2004,
+    "region": "TACNA",
+    "canon_minero_soles": 24257425.74257426
+  },
+  {
+    "anio": 2004,
+    "region": "PASCO",
+    "canon_minero_soles": 17326732.673267327
+  },
+  {
+    "anio": 2004,
+    "region": "ICA",
+    "canon_minero_soles": 13861386.138613861
+  },
+  {
+    "anio": 2004,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 13861386.138613861
+  },
+  {
+    "anio": 2004,
+    "region": "PUNO",
+    "canon_minero_soles": 10396039.603960395
+  },
+  {
+    "anio": 2004,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 10396039.603960395
+  },
+  {
+    "anio": 2004,
+    "region": "JUNIN",
+    "canon_minero_soles": 10396039.603960395
+  },
+  {
+    "anio": 2004,
+    "region": "LIMA",
+    "canon_minero_soles": 10396039.603960395
+  },
+  {
+    "anio": 2004,
+    "region": "APURIMAC",
+    "canon_minero_soles": 8663366.336633664
+  },
+  {
+    "anio": 2004,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 6930693.0693069305
+  },
+  {
+    "anio": 2004,
+    "region": "PIURA",
+    "canon_minero_soles": 6237623.762376237
+  },
+  {
+    "anio": 2004,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 1732673.2673267326
+  },
+  {
+    "anio": 2004,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 1732673.2673267326
+  },
+  {
+    "anio": 2004,
+    "region": "HUANUCO",
+    "canon_minero_soles": 1732673.2673267326
+  },
+  {
+    "anio": 2004,
+    "region": "LORETO",
+    "canon_minero_soles": 1039603.9603960396
+  },
+  {
+    "anio": 2004,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 1039603.9603960396
+  },
+  {
+    "anio": 2004,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 693069.3069306931
+  },
+  {
+    "anio": 2004,
+    "region": "TUMBES",
+    "canon_minero_soles": 693069.3069306931
+  },
+  {
+    "anio": 2004,
+    "region": "UCAYALI",
+    "canon_minero_soles": 693069.3069306931
+  },
+  {
+    "anio": 2004,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2005,
+    "region": "ANCASH",
+    "canon_minero_soles": 189504950.4950495
+  },
+  {
+    "anio": 2005,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 103366336.63366336
+  },
+  {
+    "anio": 2005,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 77524752.47524752
+  },
+  {
+    "anio": 2005,
+    "region": "CUSCO",
+    "canon_minero_soles": 77524752.47524752
+  },
+  {
+    "anio": 2005,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 68910891.08910891
+  },
+  {
+    "anio": 2005,
+    "region": "TACNA",
+    "canon_minero_soles": 60297029.7029703
+  },
+  {
+    "anio": 2005,
+    "region": "PASCO",
+    "canon_minero_soles": 43069306.930693075
+  },
+  {
+    "anio": 2005,
+    "region": "ICA",
+    "canon_minero_soles": 34455445.54455446
+  },
+  {
+    "anio": 2005,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 34455445.54455446
+  },
+  {
+    "anio": 2005,
+    "region": "PUNO",
+    "canon_minero_soles": 25841584.15841584
+  },
+  {
+    "anio": 2005,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 25841584.15841584
+  },
+  {
+    "anio": 2005,
+    "region": "JUNIN",
+    "canon_minero_soles": 25841584.15841584
+  },
+  {
+    "anio": 2005,
+    "region": "LIMA",
+    "canon_minero_soles": 25841584.15841584
+  },
+  {
+    "anio": 2005,
+    "region": "APURIMAC",
+    "canon_minero_soles": 21534653.465346538
+  },
+  {
+    "anio": 2005,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 17227722.77227723
+  },
+  {
+    "anio": 2005,
+    "region": "PIURA",
+    "canon_minero_soles": 15504950.495049503
+  },
+  {
+    "anio": 2005,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 4306930.693069307
+  },
+  {
+    "anio": 2005,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 4306930.693069307
+  },
+  {
+    "anio": 2005,
+    "region": "HUANUCO",
+    "canon_minero_soles": 4306930.693069307
+  },
+  {
+    "anio": 2005,
+    "region": "LORETO",
+    "canon_minero_soles": 2584158.415841584
+  },
+  {
+    "anio": 2005,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 2584158.415841584
+  },
+  {
+    "anio": 2005,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 1722772.2772277228
+  },
+  {
+    "anio": 2005,
+    "region": "TUMBES",
+    "canon_minero_soles": 1722772.2772277228
+  },
+  {
+    "anio": 2005,
+    "region": "UCAYALI",
+    "canon_minero_soles": 1722772.2772277228
+  },
+  {
+    "anio": 2005,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2006,
+    "region": "ANCASH",
+    "canon_minero_soles": 381188118.8118812
+  },
+  {
+    "anio": 2006,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 207920792.0792079
+  },
+  {
+    "anio": 2006,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 155940594.05940592
+  },
+  {
+    "anio": 2006,
+    "region": "CUSCO",
+    "canon_minero_soles": 155940594.05940592
+  },
+  {
+    "anio": 2006,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 138613861.38613862
+  },
+  {
+    "anio": 2006,
+    "region": "TACNA",
+    "canon_minero_soles": 121287128.7128713
+  },
+  {
+    "anio": 2006,
+    "region": "PASCO",
+    "canon_minero_soles": 86633663.36633664
+  },
+  {
+    "anio": 2006,
+    "region": "ICA",
+    "canon_minero_soles": 69306930.69306931
+  },
+  {
+    "anio": 2006,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 69306930.69306931
+  },
+  {
+    "anio": 2006,
+    "region": "PUNO",
+    "canon_minero_soles": 51980198.019801974
+  },
+  {
+    "anio": 2006,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 51980198.019801974
+  },
+  {
+    "anio": 2006,
+    "region": "JUNIN",
+    "canon_minero_soles": 51980198.019801974
+  },
+  {
+    "anio": 2006,
+    "region": "LIMA",
+    "canon_minero_soles": 51980198.019801974
+  },
+  {
+    "anio": 2006,
+    "region": "APURIMAC",
+    "canon_minero_soles": 43316831.68316832
+  },
+  {
+    "anio": 2006,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 34653465.346534654
+  },
+  {
+    "anio": 2006,
+    "region": "PIURA",
+    "canon_minero_soles": 31188118.811881185
+  },
+  {
+    "anio": 2006,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 8663366.336633664
+  },
+  {
+    "anio": 2006,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 8663366.336633664
+  },
+  {
+    "anio": 2006,
+    "region": "HUANUCO",
+    "canon_minero_soles": 8663366.336633664
+  },
+  {
+    "anio": 2006,
+    "region": "LORETO",
+    "canon_minero_soles": 5198019.801980198
+  },
+  {
+    "anio": 2006,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 5198019.801980198
+  },
+  {
+    "anio": 2006,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3465346.5346534653
+  },
+  {
+    "anio": 2006,
+    "region": "TUMBES",
+    "canon_minero_soles": 3465346.5346534653
+  },
+  {
+    "anio": 2006,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3465346.5346534653
+  },
+  {
+    "anio": 2006,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2007,
+    "region": "ANCASH",
+    "canon_minero_soles": 1123306930.6930692
+  },
+  {
+    "anio": 2007,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 612712871.2871287
+  },
+  {
+    "anio": 2007,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 459534653.4653465
+  },
+  {
+    "anio": 2007,
+    "region": "CUSCO",
+    "canon_minero_soles": 459534653.4653465
+  },
+  {
+    "anio": 2007,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 408475247.5247525
+  },
+  {
+    "anio": 2007,
+    "region": "TACNA",
+    "canon_minero_soles": 357415841.5841584
+  },
+  {
+    "anio": 2007,
+    "region": "PASCO",
+    "canon_minero_soles": 255297029.7029703
+  },
+  {
+    "anio": 2007,
+    "region": "ICA",
+    "canon_minero_soles": 204237623.76237625
+  },
+  {
+    "anio": 2007,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 204237623.76237625
+  },
+  {
+    "anio": 2007,
+    "region": "PUNO",
+    "canon_minero_soles": 153178217.82178217
+  },
+  {
+    "anio": 2007,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 153178217.82178217
+  },
+  {
+    "anio": 2007,
+    "region": "JUNIN",
+    "canon_minero_soles": 153178217.82178217
+  },
+  {
+    "anio": 2007,
+    "region": "LIMA",
+    "canon_minero_soles": 153178217.82178217
+  },
+  {
+    "anio": 2007,
+    "region": "APURIMAC",
+    "canon_minero_soles": 127648514.85148515
+  },
+  {
+    "anio": 2007,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 102118811.88118812
+  },
+  {
+    "anio": 2007,
+    "region": "PIURA",
+    "canon_minero_soles": 91906930.6930693
+  },
+  {
+    "anio": 2007,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 25529702.97029703
+  },
+  {
+    "anio": 2007,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 25529702.97029703
+  },
+  {
+    "anio": 2007,
+    "region": "HUANUCO",
+    "canon_minero_soles": 25529702.97029703
+  },
+  {
+    "anio": 2007,
+    "region": "LORETO",
+    "canon_minero_soles": 15317821.782178218
+  },
+  {
+    "anio": 2007,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 15317821.782178218
+  },
+  {
+    "anio": 2007,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 10211881.188118812
+  },
+  {
+    "anio": 2007,
+    "region": "TUMBES",
+    "canon_minero_soles": 10211881.188118812
+  },
+  {
+    "anio": 2007,
+    "region": "UCAYALI",
+    "canon_minero_soles": 10211881.188118812
+  },
+  {
+    "anio": 2007,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2008,
+    "region": "ANCASH",
+    "canon_minero_soles": 1157722772.2772276
+  },
+  {
+    "anio": 2008,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 631485148.5148515
+  },
+  {
+    "anio": 2008,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 473613861.3861386
+  },
+  {
+    "anio": 2008,
+    "region": "CUSCO",
+    "canon_minero_soles": 473613861.3861386
+  },
+  {
+    "anio": 2008,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 420990099.009901
+  },
+  {
+    "anio": 2008,
+    "region": "TACNA",
+    "canon_minero_soles": 368366336.6336634
+  },
+  {
+    "anio": 2008,
+    "region": "PASCO",
+    "canon_minero_soles": 263118811.88118812
+  },
+  {
+    "anio": 2008,
+    "region": "ICA",
+    "canon_minero_soles": 210495049.5049505
+  },
+  {
+    "anio": 2008,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 210495049.5049505
+  },
+  {
+    "anio": 2008,
+    "region": "PUNO",
+    "canon_minero_soles": 157871287.12871286
+  },
+  {
+    "anio": 2008,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 157871287.12871286
+  },
+  {
+    "anio": 2008,
+    "region": "JUNIN",
+    "canon_minero_soles": 157871287.12871286
+  },
+  {
+    "anio": 2008,
+    "region": "LIMA",
+    "canon_minero_soles": 157871287.12871286
+  },
+  {
+    "anio": 2008,
+    "region": "APURIMAC",
+    "canon_minero_soles": 131559405.94059406
+  },
+  {
+    "anio": 2008,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 105247524.75247525
+  },
+  {
+    "anio": 2008,
+    "region": "PIURA",
+    "canon_minero_soles": 94722772.27722771
+  },
+  {
+    "anio": 2008,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 26311881.18811881
+  },
+  {
+    "anio": 2008,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 26311881.18811881
+  },
+  {
+    "anio": 2008,
+    "region": "HUANUCO",
+    "canon_minero_soles": 26311881.18811881
+  },
+  {
+    "anio": 2008,
+    "region": "LORETO",
+    "canon_minero_soles": 15787128.712871287
+  },
+  {
+    "anio": 2008,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 15787128.712871287
+  },
+  {
+    "anio": 2008,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 10524752.475247525
+  },
+  {
+    "anio": 2008,
+    "region": "TUMBES",
+    "canon_minero_soles": 10524752.475247525
+  },
+  {
+    "anio": 2008,
+    "region": "UCAYALI",
+    "canon_minero_soles": 10524752.475247525
+  },
+  {
+    "anio": 2008,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2009,
+    "region": "ANCASH",
+    "canon_minero_soles": 741247524.7524753
+  },
+  {
+    "anio": 2009,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 404316831.6831683
+  },
+  {
+    "anio": 2009,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 303237623.76237625
+  },
+  {
+    "anio": 2009,
+    "region": "CUSCO",
+    "canon_minero_soles": 303237623.76237625
+  },
+  {
+    "anio": 2009,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 269544554.4554455
+  },
+  {
+    "anio": 2009,
+    "region": "TACNA",
+    "canon_minero_soles": 235851485.14851487
+  },
+  {
+    "anio": 2009,
+    "region": "PASCO",
+    "canon_minero_soles": 168465346.53465348
+  },
+  {
+    "anio": 2009,
+    "region": "ICA",
+    "canon_minero_soles": 134772277.22772276
+  },
+  {
+    "anio": 2009,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 134772277.22772276
+  },
+  {
+    "anio": 2009,
+    "region": "PUNO",
+    "canon_minero_soles": 101079207.92079207
+  },
+  {
+    "anio": 2009,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 101079207.92079207
+  },
+  {
+    "anio": 2009,
+    "region": "JUNIN",
+    "canon_minero_soles": 101079207.92079207
+  },
+  {
+    "anio": 2009,
+    "region": "LIMA",
+    "canon_minero_soles": 101079207.92079207
+  },
+  {
+    "anio": 2009,
+    "region": "APURIMAC",
+    "canon_minero_soles": 84232673.26732674
+  },
+  {
+    "anio": 2009,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 67386138.61386138
+  },
+  {
+    "anio": 2009,
+    "region": "PIURA",
+    "canon_minero_soles": 60647524.75247524
+  },
+  {
+    "anio": 2009,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 16846534.653465346
+  },
+  {
+    "anio": 2009,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 16846534.653465346
+  },
+  {
+    "anio": 2009,
+    "region": "HUANUCO",
+    "canon_minero_soles": 16846534.653465346
+  },
+  {
+    "anio": 2009,
+    "region": "LORETO",
+    "canon_minero_soles": 10107920.792079208
+  },
+  {
+    "anio": 2009,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 10107920.792079208
+  },
+  {
+    "anio": 2009,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 6738613.861386139
+  },
+  {
+    "anio": 2009,
+    "region": "TUMBES",
+    "canon_minero_soles": 6738613.861386139
+  },
+  {
+    "anio": 2009,
+    "region": "UCAYALI",
+    "canon_minero_soles": 6738613.861386139
+  },
+  {
+    "anio": 2009,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2010,
+    "region": "ANCASH",
+    "canon_minero_soles": 924000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 504000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 378000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "CUSCO",
+    "canon_minero_soles": 378000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 336000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "TACNA",
+    "canon_minero_soles": 294000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "PASCO",
+    "canon_minero_soles": 210000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "ICA",
+    "canon_minero_soles": 168000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 168000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "PUNO",
+    "canon_minero_soles": 126000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 126000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "JUNIN",
+    "canon_minero_soles": 126000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "LIMA",
+    "canon_minero_soles": 126000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "APURIMAC",
+    "canon_minero_soles": 105000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 84000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "PIURA",
+    "canon_minero_soles": 75600000.0
+  },
+  {
+    "anio": 2010,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 21000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 21000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "HUANUCO",
+    "canon_minero_soles": 21000000.0
+  },
+  {
+    "anio": 2010,
+    "region": "LORETO",
+    "canon_minero_soles": 12600000.0
+  },
+  {
+    "anio": 2010,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 12600000.0
+  },
+  {
+    "anio": 2010,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 8400000.0
+  },
+  {
+    "anio": 2010,
+    "region": "TUMBES",
+    "canon_minero_soles": 8400000.0
+  },
+  {
+    "anio": 2010,
+    "region": "UCAYALI",
+    "canon_minero_soles": 8400000.0
+  },
+  {
+    "anio": 2010,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2011,
+    "region": "ANCASH",
+    "canon_minero_soles": 905485148.5148515
+  },
+  {
+    "anio": 2011,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 493900990.0990099
+  },
+  {
+    "anio": 2011,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 370425742.57425743
+  },
+  {
+    "anio": 2011,
+    "region": "CUSCO",
+    "canon_minero_soles": 370425742.57425743
+  },
+  {
+    "anio": 2011,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 329267326.7326733
+  },
+  {
+    "anio": 2011,
+    "region": "TACNA",
+    "canon_minero_soles": 288108910.89108914
+  },
+  {
+    "anio": 2011,
+    "region": "PASCO",
+    "canon_minero_soles": 205792079.2079208
+  },
+  {
+    "anio": 2011,
+    "region": "ICA",
+    "canon_minero_soles": 164633663.36633664
+  },
+  {
+    "anio": 2011,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 164633663.36633664
+  },
+  {
+    "anio": 2011,
+    "region": "PUNO",
+    "canon_minero_soles": 123475247.52475247
+  },
+  {
+    "anio": 2011,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 123475247.52475247
+  },
+  {
+    "anio": 2011,
+    "region": "JUNIN",
+    "canon_minero_soles": 123475247.52475247
+  },
+  {
+    "anio": 2011,
+    "region": "LIMA",
+    "canon_minero_soles": 123475247.52475247
+  },
+  {
+    "anio": 2011,
+    "region": "APURIMAC",
+    "canon_minero_soles": 102896039.6039604
+  },
+  {
+    "anio": 2011,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 82316831.68316832
+  },
+  {
+    "anio": 2011,
+    "region": "PIURA",
+    "canon_minero_soles": 74085148.51485148
+  },
+  {
+    "anio": 2011,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 20579207.92079208
+  },
+  {
+    "anio": 2011,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 20579207.92079208
+  },
+  {
+    "anio": 2011,
+    "region": "HUANUCO",
+    "canon_minero_soles": 20579207.92079208
+  },
+  {
+    "anio": 2011,
+    "region": "LORETO",
+    "canon_minero_soles": 12347524.752475247
+  },
+  {
+    "anio": 2011,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 12347524.752475247
+  },
+  {
+    "anio": 2011,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 8231683.168316832
+  },
+  {
+    "anio": 2011,
+    "region": "TUMBES",
+    "canon_minero_soles": 8231683.168316832
+  },
+  {
+    "anio": 2011,
+    "region": "UCAYALI",
+    "canon_minero_soles": 8231683.168316832
+  },
+  {
+    "anio": 2011,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2012,
+    "region": "ANCASH",
+    "canon_minero_soles": 1115683168.3168316
+  },
+  {
+    "anio": 2012,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 608554455.4455445
+  },
+  {
+    "anio": 2012,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 456415841.5841584
+  },
+  {
+    "anio": 2012,
+    "region": "CUSCO",
+    "canon_minero_soles": 456415841.5841584
+  },
+  {
+    "anio": 2012,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 405702970.29702973
+  },
+  {
+    "anio": 2012,
+    "region": "TACNA",
+    "canon_minero_soles": 354990099.00990105
+  },
+  {
+    "anio": 2012,
+    "region": "PASCO",
+    "canon_minero_soles": 253564356.43564358
+  },
+  {
+    "anio": 2012,
+    "region": "ICA",
+    "canon_minero_soles": 202851485.14851487
+  },
+  {
+    "anio": 2012,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 202851485.14851487
+  },
+  {
+    "anio": 2012,
+    "region": "PUNO",
+    "canon_minero_soles": 152138613.86138612
+  },
+  {
+    "anio": 2012,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 152138613.86138612
+  },
+  {
+    "anio": 2012,
+    "region": "JUNIN",
+    "canon_minero_soles": 152138613.86138612
+  },
+  {
+    "anio": 2012,
+    "region": "LIMA",
+    "canon_minero_soles": 152138613.86138612
+  },
+  {
+    "anio": 2012,
+    "region": "APURIMAC",
+    "canon_minero_soles": 126782178.21782179
+  },
+  {
+    "anio": 2012,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 101425742.57425743
+  },
+  {
+    "anio": 2012,
+    "region": "PIURA",
+    "canon_minero_soles": 91283168.31683168
+  },
+  {
+    "anio": 2012,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 25356435.64356436
+  },
+  {
+    "anio": 2012,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 25356435.64356436
+  },
+  {
+    "anio": 2012,
+    "region": "HUANUCO",
+    "canon_minero_soles": 25356435.64356436
+  },
+  {
+    "anio": 2012,
+    "region": "LORETO",
+    "canon_minero_soles": 15213861.386138614
+  },
+  {
+    "anio": 2012,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 15213861.386138614
+  },
+  {
+    "anio": 2012,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 10142574.257425742
+  },
+  {
+    "anio": 2012,
+    "region": "TUMBES",
+    "canon_minero_soles": 10142574.257425742
+  },
+  {
+    "anio": 2012,
+    "region": "UCAYALI",
+    "canon_minero_soles": 10142574.257425742
+  },
+  {
+    "anio": 2012,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2013,
+    "region": "ANCASH",
+    "canon_minero_soles": 830118811.8811882
+  },
+  {
+    "anio": 2013,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 452792079.2079208
+  },
+  {
+    "anio": 2013,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 339594059.4059406
+  },
+  {
+    "anio": 2013,
+    "region": "CUSCO",
+    "canon_minero_soles": 339594059.4059406
+  },
+  {
+    "anio": 2013,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 301861386.1386139
+  },
+  {
+    "anio": 2013,
+    "region": "TACNA",
+    "canon_minero_soles": 264128712.87128714
+  },
+  {
+    "anio": 2013,
+    "region": "PASCO",
+    "canon_minero_soles": 188663366.33663368
+  },
+  {
+    "anio": 2013,
+    "region": "ICA",
+    "canon_minero_soles": 150930693.06930694
+  },
+  {
+    "anio": 2013,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 150930693.06930694
+  },
+  {
+    "anio": 2013,
+    "region": "PUNO",
+    "canon_minero_soles": 113198019.8019802
+  },
+  {
+    "anio": 2013,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 113198019.8019802
+  },
+  {
+    "anio": 2013,
+    "region": "JUNIN",
+    "canon_minero_soles": 113198019.8019802
+  },
+  {
+    "anio": 2013,
+    "region": "LIMA",
+    "canon_minero_soles": 113198019.8019802
+  },
+  {
+    "anio": 2013,
+    "region": "APURIMAC",
+    "canon_minero_soles": 94331683.16831684
+  },
+  {
+    "anio": 2013,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 75465346.53465347
+  },
+  {
+    "anio": 2013,
+    "region": "PIURA",
+    "canon_minero_soles": 67918811.88118811
+  },
+  {
+    "anio": 2013,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 18866336.633663367
+  },
+  {
+    "anio": 2013,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 18866336.633663367
+  },
+  {
+    "anio": 2013,
+    "region": "HUANUCO",
+    "canon_minero_soles": 18866336.633663367
+  },
+  {
+    "anio": 2013,
+    "region": "LORETO",
+    "canon_minero_soles": 11319801.98019802
+  },
+  {
+    "anio": 2013,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 11319801.98019802
+  },
+  {
+    "anio": 2013,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 7546534.653465346
+  },
+  {
+    "anio": 2013,
+    "region": "TUMBES",
+    "canon_minero_soles": 7546534.653465346
+  },
+  {
+    "anio": 2013,
+    "region": "UCAYALI",
+    "canon_minero_soles": 7546534.653465346
+  },
+  {
+    "anio": 2013,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2014,
+    "region": "ANCASH",
+    "canon_minero_soles": 661524752.4752475
+  },
+  {
+    "anio": 2014,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 360831683.16831684
+  },
+  {
+    "anio": 2014,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 270623762.37623763
+  },
+  {
+    "anio": 2014,
+    "region": "CUSCO",
+    "canon_minero_soles": 270623762.37623763
+  },
+  {
+    "anio": 2014,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 240554455.44554457
+  },
+  {
+    "anio": 2014,
+    "region": "TACNA",
+    "canon_minero_soles": 210485148.5148515
+  },
+  {
+    "anio": 2014,
+    "region": "PASCO",
+    "canon_minero_soles": 150346534.65346536
+  },
+  {
+    "anio": 2014,
+    "region": "ICA",
+    "canon_minero_soles": 120277227.72277229
+  },
+  {
+    "anio": 2014,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 120277227.72277229
+  },
+  {
+    "anio": 2014,
+    "region": "PUNO",
+    "canon_minero_soles": 90207920.79207921
+  },
+  {
+    "anio": 2014,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 90207920.79207921
+  },
+  {
+    "anio": 2014,
+    "region": "JUNIN",
+    "canon_minero_soles": 90207920.79207921
+  },
+  {
+    "anio": 2014,
+    "region": "LIMA",
+    "canon_minero_soles": 90207920.79207921
+  },
+  {
+    "anio": 2014,
+    "region": "APURIMAC",
+    "canon_minero_soles": 75173267.32673268
+  },
+  {
+    "anio": 2014,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 60138613.86138614
+  },
+  {
+    "anio": 2014,
+    "region": "PIURA",
+    "canon_minero_soles": 54124752.47524752
+  },
+  {
+    "anio": 2014,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 15034653.465346536
+  },
+  {
+    "anio": 2014,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 15034653.465346536
+  },
+  {
+    "anio": 2014,
+    "region": "HUANUCO",
+    "canon_minero_soles": 15034653.465346536
+  },
+  {
+    "anio": 2014,
+    "region": "LORETO",
+    "canon_minero_soles": 9020792.079207921
+  },
+  {
+    "anio": 2014,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 9020792.079207921
+  },
+  {
+    "anio": 2014,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 6013861.386138614
+  },
+  {
+    "anio": 2014,
+    "region": "TUMBES",
+    "canon_minero_soles": 6013861.386138614
+  },
+  {
+    "anio": 2014,
+    "region": "UCAYALI",
+    "canon_minero_soles": 6013861.386138614
+  },
+  {
+    "anio": 2014,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2015,
+    "region": "ANCASH",
+    "canon_minero_soles": 397089108.9108911
+  },
+  {
+    "anio": 2015,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 216594059.4059406
+  },
+  {
+    "anio": 2015,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 162445544.55445543
+  },
+  {
+    "anio": 2015,
+    "region": "CUSCO",
+    "canon_minero_soles": 162445544.55445543
+  },
+  {
+    "anio": 2015,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 144396039.6039604
+  },
+  {
+    "anio": 2015,
+    "region": "TACNA",
+    "canon_minero_soles": 126346534.65346536
+  },
+  {
+    "anio": 2015,
+    "region": "PASCO",
+    "canon_minero_soles": 90247524.75247525
+  },
+  {
+    "anio": 2015,
+    "region": "ICA",
+    "canon_minero_soles": 72198019.8019802
+  },
+  {
+    "anio": 2015,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 72198019.8019802
+  },
+  {
+    "anio": 2015,
+    "region": "PUNO",
+    "canon_minero_soles": 54148514.85148515
+  },
+  {
+    "anio": 2015,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 54148514.85148515
+  },
+  {
+    "anio": 2015,
+    "region": "JUNIN",
+    "canon_minero_soles": 54148514.85148515
+  },
+  {
+    "anio": 2015,
+    "region": "LIMA",
+    "canon_minero_soles": 54148514.85148515
+  },
+  {
+    "anio": 2015,
+    "region": "APURIMAC",
+    "canon_minero_soles": 45123762.37623762
+  },
+  {
+    "anio": 2015,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 36099009.9009901
+  },
+  {
+    "anio": 2015,
+    "region": "PIURA",
+    "canon_minero_soles": 32489108.910891086
+  },
+  {
+    "anio": 2015,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 9024752.475247525
+  },
+  {
+    "anio": 2015,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 9024752.475247525
+  },
+  {
+    "anio": 2015,
+    "region": "HUANUCO",
+    "canon_minero_soles": 9024752.475247525
+  },
+  {
+    "anio": 2015,
+    "region": "LORETO",
+    "canon_minero_soles": 5414851.485148515
+  },
+  {
+    "anio": 2015,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 5414851.485148515
+  },
+  {
+    "anio": 2015,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3609900.99009901
+  },
+  {
+    "anio": 2015,
+    "region": "TUMBES",
+    "canon_minero_soles": 3609900.99009901
+  },
+  {
+    "anio": 2015,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3609900.99009901
+  },
+  {
+    "anio": 2015,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2016,
+    "region": "ANCASH",
+    "canon_minero_soles": 366376237.62376237
+  },
+  {
+    "anio": 2016,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 199841584.15841582
+  },
+  {
+    "anio": 2016,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 149881188.11881188
+  },
+  {
+    "anio": 2016,
+    "region": "CUSCO",
+    "canon_minero_soles": 149881188.11881188
+  },
+  {
+    "anio": 2016,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 133227722.77227724
+  },
+  {
+    "anio": 2016,
+    "region": "TACNA",
+    "canon_minero_soles": 116574257.42574258
+  },
+  {
+    "anio": 2016,
+    "region": "PASCO",
+    "canon_minero_soles": 83267326.73267327
+  },
+  {
+    "anio": 2016,
+    "region": "ICA",
+    "canon_minero_soles": 66613861.38613862
+  },
+  {
+    "anio": 2016,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 66613861.38613862
+  },
+  {
+    "anio": 2016,
+    "region": "PUNO",
+    "canon_minero_soles": 49960396.039603956
+  },
+  {
+    "anio": 2016,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 49960396.039603956
+  },
+  {
+    "anio": 2016,
+    "region": "JUNIN",
+    "canon_minero_soles": 49960396.039603956
+  },
+  {
+    "anio": 2016,
+    "region": "LIMA",
+    "canon_minero_soles": 49960396.039603956
+  },
+  {
+    "anio": 2016,
+    "region": "APURIMAC",
+    "canon_minero_soles": 41633663.366336636
+  },
+  {
+    "anio": 2016,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 33306930.69306931
+  },
+  {
+    "anio": 2016,
+    "region": "PIURA",
+    "canon_minero_soles": 29976237.623762373
+  },
+  {
+    "anio": 2016,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 8326732.673267327
+  },
+  {
+    "anio": 2016,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 8326732.673267327
+  },
+  {
+    "anio": 2016,
+    "region": "HUANUCO",
+    "canon_minero_soles": 8326732.673267327
+  },
+  {
+    "anio": 2016,
+    "region": "LORETO",
+    "canon_minero_soles": 4996039.603960396
+  },
+  {
+    "anio": 2016,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 4996039.603960396
+  },
+  {
+    "anio": 2016,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3330693.0693069305
+  },
+  {
+    "anio": 2016,
+    "region": "TUMBES",
+    "canon_minero_soles": 3330693.0693069305
+  },
+  {
+    "anio": 2016,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3330693.0693069305
+  },
+  {
+    "anio": 2016,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2017,
+    "region": "ANCASH",
+    "canon_minero_soles": 435861386.1386139
+  },
+  {
+    "anio": 2017,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 237742574.25742573
+  },
+  {
+    "anio": 2017,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 178306930.6930693
+  },
+  {
+    "anio": 2017,
+    "region": "CUSCO",
+    "canon_minero_soles": 178306930.6930693
+  },
+  {
+    "anio": 2017,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 158495049.5049505
+  },
+  {
+    "anio": 2017,
+    "region": "TACNA",
+    "canon_minero_soles": 138683168.3168317
+  },
+  {
+    "anio": 2017,
+    "region": "PASCO",
+    "canon_minero_soles": 99059405.94059406
+  },
+  {
+    "anio": 2017,
+    "region": "ICA",
+    "canon_minero_soles": 79247524.75247525
+  },
+  {
+    "anio": 2017,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 79247524.75247525
+  },
+  {
+    "anio": 2017,
+    "region": "PUNO",
+    "canon_minero_soles": 59435643.56435643
+  },
+  {
+    "anio": 2017,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 59435643.56435643
+  },
+  {
+    "anio": 2017,
+    "region": "JUNIN",
+    "canon_minero_soles": 59435643.56435643
+  },
+  {
+    "anio": 2017,
+    "region": "LIMA",
+    "canon_minero_soles": 59435643.56435643
+  },
+  {
+    "anio": 2017,
+    "region": "APURIMAC",
+    "canon_minero_soles": 49529702.97029703
+  },
+  {
+    "anio": 2017,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 39623762.37623762
+  },
+  {
+    "anio": 2017,
+    "region": "PIURA",
+    "canon_minero_soles": 35661386.13861386
+  },
+  {
+    "anio": 2017,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 9905940.594059406
+  },
+  {
+    "anio": 2017,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 9905940.594059406
+  },
+  {
+    "anio": 2017,
+    "region": "HUANUCO",
+    "canon_minero_soles": 9905940.594059406
+  },
+  {
+    "anio": 2017,
+    "region": "LORETO",
+    "canon_minero_soles": 5943564.3564356435
+  },
+  {
+    "anio": 2017,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 5943564.3564356435
+  },
+  {
+    "anio": 2017,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3962376.2376237623
+  },
+  {
+    "anio": 2017,
+    "region": "TUMBES",
+    "canon_minero_soles": 3962376.2376237623
+  },
+  {
+    "anio": 2017,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3962376.2376237623
+  },
+  {
+    "anio": 2017,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2018,
+    "region": "ANCASH",
+    "canon_minero_soles": 473108910.8910891
+  },
+  {
+    "anio": 2018,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 258059405.94059405
+  },
+  {
+    "anio": 2018,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 193544554.45544553
+  },
+  {
+    "anio": 2018,
+    "region": "CUSCO",
+    "canon_minero_soles": 193544554.45544553
+  },
+  {
+    "anio": 2018,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 172039603.96039605
+  },
+  {
+    "anio": 2018,
+    "region": "TACNA",
+    "canon_minero_soles": 150534653.46534654
+  },
+  {
+    "anio": 2018,
+    "region": "PASCO",
+    "canon_minero_soles": 107524752.47524753
+  },
+  {
+    "anio": 2018,
+    "region": "ICA",
+    "canon_minero_soles": 86019801.98019803
+  },
+  {
+    "anio": 2018,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 86019801.98019803
+  },
+  {
+    "anio": 2018,
+    "region": "PUNO",
+    "canon_minero_soles": 64514851.48514851
+  },
+  {
+    "anio": 2018,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 64514851.48514851
+  },
+  {
+    "anio": 2018,
+    "region": "JUNIN",
+    "canon_minero_soles": 64514851.48514851
+  },
+  {
+    "anio": 2018,
+    "region": "LIMA",
+    "canon_minero_soles": 64514851.48514851
+  },
+  {
+    "anio": 2018,
+    "region": "APURIMAC",
+    "canon_minero_soles": 53762376.237623766
+  },
+  {
+    "anio": 2018,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 43009900.99009901
+  },
+  {
+    "anio": 2018,
+    "region": "PIURA",
+    "canon_minero_soles": 38708910.891089104
+  },
+  {
+    "anio": 2018,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2018,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2018,
+    "region": "HUANUCO",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2018,
+    "region": "LORETO",
+    "canon_minero_soles": 6451485.148514852
+  },
+  {
+    "anio": 2018,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 6451485.148514852
+  },
+  {
+    "anio": 2018,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 4300990.099009901
+  },
+  {
+    "anio": 2018,
+    "region": "TUMBES",
+    "canon_minero_soles": 4300990.099009901
+  },
+  {
+    "anio": 2018,
+    "region": "UCAYALI",
+    "canon_minero_soles": 4300990.099009901
+  },
+  {
+    "anio": 2018,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2019,
+    "region": "ANCASH",
+    "canon_minero_soles": 424316831.6831683
+  },
+  {
+    "anio": 2019,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 231445544.55445543
+  },
+  {
+    "anio": 2019,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 173584158.41584158
+  },
+  {
+    "anio": 2019,
+    "region": "CUSCO",
+    "canon_minero_soles": 173584158.41584158
+  },
+  {
+    "anio": 2019,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 154297029.7029703
+  },
+  {
+    "anio": 2019,
+    "region": "TACNA",
+    "canon_minero_soles": 135009900.990099
+  },
+  {
+    "anio": 2019,
+    "region": "PASCO",
+    "canon_minero_soles": 96435643.56435645
+  },
+  {
+    "anio": 2019,
+    "region": "ICA",
+    "canon_minero_soles": 77148514.85148515
+  },
+  {
+    "anio": 2019,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 77148514.85148515
+  },
+  {
+    "anio": 2019,
+    "region": "PUNO",
+    "canon_minero_soles": 57861386.13861386
+  },
+  {
+    "anio": 2019,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 57861386.13861386
+  },
+  {
+    "anio": 2019,
+    "region": "JUNIN",
+    "canon_minero_soles": 57861386.13861386
+  },
+  {
+    "anio": 2019,
+    "region": "LIMA",
+    "canon_minero_soles": 57861386.13861386
+  },
+  {
+    "anio": 2019,
+    "region": "APURIMAC",
+    "canon_minero_soles": 48217821.78217822
+  },
+  {
+    "anio": 2019,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 38574257.425742574
+  },
+  {
+    "anio": 2019,
+    "region": "PIURA",
+    "canon_minero_soles": 34716831.683168314
+  },
+  {
+    "anio": 2019,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 9643564.356435644
+  },
+  {
+    "anio": 2019,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 9643564.356435644
+  },
+  {
+    "anio": 2019,
+    "region": "HUANUCO",
+    "canon_minero_soles": 9643564.356435644
+  },
+  {
+    "anio": 2019,
+    "region": "LORETO",
+    "canon_minero_soles": 5786138.613861387
+  },
+  {
+    "anio": 2019,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 5786138.613861387
+  },
+  {
+    "anio": 2019,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3857425.7425742573
+  },
+  {
+    "anio": 2019,
+    "region": "TUMBES",
+    "canon_minero_soles": 3857425.7425742573
+  },
+  {
+    "anio": 2019,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3857425.7425742573
+  },
+  {
+    "anio": 2019,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2020,
+    "region": "ANCASH",
+    "canon_minero_soles": 413425742.57425743
+  },
+  {
+    "anio": 2020,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 225504950.4950495
+  },
+  {
+    "anio": 2020,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 169128712.8712871
+  },
+  {
+    "anio": 2020,
+    "region": "CUSCO",
+    "canon_minero_soles": 169128712.8712871
+  },
+  {
+    "anio": 2020,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 150336633.66336635
+  },
+  {
+    "anio": 2020,
+    "region": "TACNA",
+    "canon_minero_soles": 131544554.45544556
+  },
+  {
+    "anio": 2020,
+    "region": "PASCO",
+    "canon_minero_soles": 93960396.03960396
+  },
+  {
+    "anio": 2020,
+    "region": "ICA",
+    "canon_minero_soles": 75168316.83168317
+  },
+  {
+    "anio": 2020,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 75168316.83168317
+  },
+  {
+    "anio": 2020,
+    "region": "PUNO",
+    "canon_minero_soles": 56376237.62376238
+  },
+  {
+    "anio": 2020,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 56376237.62376238
+  },
+  {
+    "anio": 2020,
+    "region": "JUNIN",
+    "canon_minero_soles": 56376237.62376238
+  },
+  {
+    "anio": 2020,
+    "region": "LIMA",
+    "canon_minero_soles": 56376237.62376238
+  },
+  {
+    "anio": 2020,
+    "region": "APURIMAC",
+    "canon_minero_soles": 46980198.01980198
+  },
+  {
+    "anio": 2020,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 37584158.41584159
+  },
+  {
+    "anio": 2020,
+    "region": "PIURA",
+    "canon_minero_soles": 33825742.574257426
+  },
+  {
+    "anio": 2020,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 9396039.603960397
+  },
+  {
+    "anio": 2020,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 9396039.603960397
+  },
+  {
+    "anio": 2020,
+    "region": "HUANUCO",
+    "canon_minero_soles": 9396039.603960397
+  },
+  {
+    "anio": 2020,
+    "region": "LORETO",
+    "canon_minero_soles": 5637623.762376238
+  },
+  {
+    "anio": 2020,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 5637623.762376238
+  },
+  {
+    "anio": 2020,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 3758415.8415841586
+  },
+  {
+    "anio": 2020,
+    "region": "TUMBES",
+    "canon_minero_soles": 3758415.8415841586
+  },
+  {
+    "anio": 2020,
+    "region": "UCAYALI",
+    "canon_minero_soles": 3758415.8415841586
+  },
+  {
+    "anio": 2020,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2021,
+    "region": "ANCASH",
+    "canon_minero_soles": 795485148.5148515
+  },
+  {
+    "anio": 2021,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 433900990.0990099
+  },
+  {
+    "anio": 2021,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 325425742.57425743
+  },
+  {
+    "anio": 2021,
+    "region": "CUSCO",
+    "canon_minero_soles": 325425742.57425743
+  },
+  {
+    "anio": 2021,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 289267326.7326733
+  },
+  {
+    "anio": 2021,
+    "region": "TACNA",
+    "canon_minero_soles": 253108910.89108914
+  },
+  {
+    "anio": 2021,
+    "region": "PASCO",
+    "canon_minero_soles": 180792079.2079208
+  },
+  {
+    "anio": 2021,
+    "region": "ICA",
+    "canon_minero_soles": 144633663.36633664
+  },
+  {
+    "anio": 2021,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 144633663.36633664
+  },
+  {
+    "anio": 2021,
+    "region": "PUNO",
+    "canon_minero_soles": 108475247.52475247
+  },
+  {
+    "anio": 2021,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 108475247.52475247
+  },
+  {
+    "anio": 2021,
+    "region": "JUNIN",
+    "canon_minero_soles": 108475247.52475247
+  },
+  {
+    "anio": 2021,
+    "region": "LIMA",
+    "canon_minero_soles": 108475247.52475247
+  },
+  {
+    "anio": 2021,
+    "region": "APURIMAC",
+    "canon_minero_soles": 90396039.6039604
+  },
+  {
+    "anio": 2021,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 72316831.68316832
+  },
+  {
+    "anio": 2021,
+    "region": "PIURA",
+    "canon_minero_soles": 65085148.51485148
+  },
+  {
+    "anio": 2021,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 18079207.92079208
+  },
+  {
+    "anio": 2021,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 18079207.92079208
+  },
+  {
+    "anio": 2021,
+    "region": "HUANUCO",
+    "canon_minero_soles": 18079207.92079208
+  },
+  {
+    "anio": 2021,
+    "region": "LORETO",
+    "canon_minero_soles": 10847524.752475247
+  },
+  {
+    "anio": 2021,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 10847524.752475247
+  },
+  {
+    "anio": 2021,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 7231683.168316832
+  },
+  {
+    "anio": 2021,
+    "region": "TUMBES",
+    "canon_minero_soles": 7231683.168316832
+  },
+  {
+    "anio": 2021,
+    "region": "UCAYALI",
+    "canon_minero_soles": 7231683.168316832
+  },
+  {
+    "anio": 2021,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2022,
+    "region": "ANCASH",
+    "canon_minero_soles": 1273386138.6138613
+  },
+  {
+    "anio": 2022,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 694574257.4257425
+  },
+  {
+    "anio": 2022,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 520930693.0693069
+  },
+  {
+    "anio": 2022,
+    "region": "CUSCO",
+    "canon_minero_soles": 520930693.0693069
+  },
+  {
+    "anio": 2022,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 463049504.95049506
+  },
+  {
+    "anio": 2022,
+    "region": "TACNA",
+    "canon_minero_soles": 405168316.8316832
+  },
+  {
+    "anio": 2022,
+    "region": "PASCO",
+    "canon_minero_soles": 289405940.5940594
+  },
+  {
+    "anio": 2022,
+    "region": "ICA",
+    "canon_minero_soles": 231524752.47524753
+  },
+  {
+    "anio": 2022,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 231524752.47524753
+  },
+  {
+    "anio": 2022,
+    "region": "PUNO",
+    "canon_minero_soles": 173643564.35643563
+  },
+  {
+    "anio": 2022,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 173643564.35643563
+  },
+  {
+    "anio": 2022,
+    "region": "JUNIN",
+    "canon_minero_soles": 173643564.35643563
+  },
+  {
+    "anio": 2022,
+    "region": "LIMA",
+    "canon_minero_soles": 173643564.35643563
+  },
+  {
+    "anio": 2022,
+    "region": "APURIMAC",
+    "canon_minero_soles": 144702970.2970297
+  },
+  {
+    "anio": 2022,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 115762376.23762377
+  },
+  {
+    "anio": 2022,
+    "region": "PIURA",
+    "canon_minero_soles": 104186138.61386138
+  },
+  {
+    "anio": 2022,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 28940594.05940594
+  },
+  {
+    "anio": 2022,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 28940594.05940594
+  },
+  {
+    "anio": 2022,
+    "region": "HUANUCO",
+    "canon_minero_soles": 28940594.05940594
+  },
+  {
+    "anio": 2022,
+    "region": "LORETO",
+    "canon_minero_soles": 17364356.435643565
+  },
+  {
+    "anio": 2022,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 17364356.435643565
+  },
+  {
+    "anio": 2022,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 11576237.623762377
+  },
+  {
+    "anio": 2022,
+    "region": "TUMBES",
+    "canon_minero_soles": 11576237.623762377
+  },
+  {
+    "anio": 2022,
+    "region": "UCAYALI",
+    "canon_minero_soles": 11576237.623762377
+  },
+  {
+    "anio": 2022,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2023,
+    "region": "ANCASH",
+    "canon_minero_soles": 911584158.4158416
+  },
+  {
+    "anio": 2023,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 497227722.7722772
+  },
+  {
+    "anio": 2023,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 372920792.0792079
+  },
+  {
+    "anio": 2023,
+    "region": "CUSCO",
+    "canon_minero_soles": 372920792.0792079
+  },
+  {
+    "anio": 2023,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 331485148.5148515
+  },
+  {
+    "anio": 2023,
+    "region": "TACNA",
+    "canon_minero_soles": 290049504.95049506
+  },
+  {
+    "anio": 2023,
+    "region": "PASCO",
+    "canon_minero_soles": 207178217.8217822
+  },
+  {
+    "anio": 2023,
+    "region": "ICA",
+    "canon_minero_soles": 165742574.25742576
+  },
+  {
+    "anio": 2023,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 165742574.25742576
+  },
+  {
+    "anio": 2023,
+    "region": "PUNO",
+    "canon_minero_soles": 124306930.6930693
+  },
+  {
+    "anio": 2023,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 124306930.6930693
+  },
+  {
+    "anio": 2023,
+    "region": "JUNIN",
+    "canon_minero_soles": 124306930.6930693
+  },
+  {
+    "anio": 2023,
+    "region": "LIMA",
+    "canon_minero_soles": 124306930.6930693
+  },
+  {
+    "anio": 2023,
+    "region": "APURIMAC",
+    "canon_minero_soles": 103589108.9108911
+  },
+  {
+    "anio": 2023,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 82871287.12871288
+  },
+  {
+    "anio": 2023,
+    "region": "PIURA",
+    "canon_minero_soles": 74584158.41584158
+  },
+  {
+    "anio": 2023,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 20717821.78217822
+  },
+  {
+    "anio": 2023,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 20717821.78217822
+  },
+  {
+    "anio": 2023,
+    "region": "HUANUCO",
+    "canon_minero_soles": 20717821.78217822
+  },
+  {
+    "anio": 2023,
+    "region": "LORETO",
+    "canon_minero_soles": 12430693.06930693
+  },
+  {
+    "anio": 2023,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 12430693.06930693
+  },
+  {
+    "anio": 2023,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 8287128.712871287
+  },
+  {
+    "anio": 2023,
+    "region": "TUMBES",
+    "canon_minero_soles": 8287128.712871287
+  },
+  {
+    "anio": 2023,
+    "region": "UCAYALI",
+    "canon_minero_soles": 8287128.712871287
+  },
+  {
+    "anio": 2023,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2024,
+    "region": "ANCASH",
+    "canon_minero_soles": 1047722772.2772278
+  },
+  {
+    "anio": 2024,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 571485148.5148515
+  },
+  {
+    "anio": 2024,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 428613861.3861386
+  },
+  {
+    "anio": 2024,
+    "region": "CUSCO",
+    "canon_minero_soles": 428613861.3861386
+  },
+  {
+    "anio": 2024,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 380990099.009901
+  },
+  {
+    "anio": 2024,
+    "region": "TACNA",
+    "canon_minero_soles": 333366336.6336634
+  },
+  {
+    "anio": 2024,
+    "region": "PASCO",
+    "canon_minero_soles": 238118811.88118812
+  },
+  {
+    "anio": 2024,
+    "region": "ICA",
+    "canon_minero_soles": 190495049.5049505
+  },
+  {
+    "anio": 2024,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 190495049.5049505
+  },
+  {
+    "anio": 2024,
+    "region": "PUNO",
+    "canon_minero_soles": 142871287.12871286
+  },
+  {
+    "anio": 2024,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 142871287.12871286
+  },
+  {
+    "anio": 2024,
+    "region": "JUNIN",
+    "canon_minero_soles": 142871287.12871286
+  },
+  {
+    "anio": 2024,
+    "region": "LIMA",
+    "canon_minero_soles": 142871287.12871286
+  },
+  {
+    "anio": 2024,
+    "region": "APURIMAC",
+    "canon_minero_soles": 119059405.94059406
+  },
+  {
+    "anio": 2024,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 95247524.75247525
+  },
+  {
+    "anio": 2024,
+    "region": "PIURA",
+    "canon_minero_soles": 85722772.27722771
+  },
+  {
+    "anio": 2024,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 23811881.18811881
+  },
+  {
+    "anio": 2024,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 23811881.18811881
+  },
+  {
+    "anio": 2024,
+    "region": "HUANUCO",
+    "canon_minero_soles": 23811881.18811881
+  },
+  {
+    "anio": 2024,
+    "region": "LORETO",
+    "canon_minero_soles": 14287128.712871287
+  },
+  {
+    "anio": 2024,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 14287128.712871287
+  },
+  {
+    "anio": 2024,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 9524752.475247525
+  },
+  {
+    "anio": 2024,
+    "region": "TUMBES",
+    "canon_minero_soles": 9524752.475247525
+  },
+  {
+    "anio": 2024,
+    "region": "UCAYALI",
+    "canon_minero_soles": 9524752.475247525
+  },
+  {
+    "anio": 2024,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2025,
+    "region": "ANCASH",
+    "canon_minero_soles": 1115247524.7524753
+  },
+  {
+    "anio": 2025,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 608316831.6831683
+  },
+  {
+    "anio": 2025,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 456237623.7623762
+  },
+  {
+    "anio": 2025,
+    "region": "CUSCO",
+    "canon_minero_soles": 456237623.7623762
+  },
+  {
+    "anio": 2025,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 405544554.4554455
+  },
+  {
+    "anio": 2025,
+    "region": "TACNA",
+    "canon_minero_soles": 354851485.14851487
+  },
+  {
+    "anio": 2025,
+    "region": "PASCO",
+    "canon_minero_soles": 253465346.53465348
+  },
+  {
+    "anio": 2025,
+    "region": "ICA",
+    "canon_minero_soles": 202772277.22772276
+  },
+  {
+    "anio": 2025,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 202772277.22772276
+  },
+  {
+    "anio": 2025,
+    "region": "PUNO",
+    "canon_minero_soles": 152079207.92079207
+  },
+  {
+    "anio": 2025,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 152079207.92079207
+  },
+  {
+    "anio": 2025,
+    "region": "JUNIN",
+    "canon_minero_soles": 152079207.92079207
+  },
+  {
+    "anio": 2025,
+    "region": "LIMA",
+    "canon_minero_soles": 152079207.92079207
+  },
+  {
+    "anio": 2025,
+    "region": "APURIMAC",
+    "canon_minero_soles": 126732673.26732674
+  },
+  {
+    "anio": 2025,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 101386138.61386138
+  },
+  {
+    "anio": 2025,
+    "region": "PIURA",
+    "canon_minero_soles": 91247524.75247525
+  },
+  {
+    "anio": 2025,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 25346534.653465346
+  },
+  {
+    "anio": 2025,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 25346534.653465346
+  },
+  {
+    "anio": 2025,
+    "region": "HUANUCO",
+    "canon_minero_soles": 25346534.653465346
+  },
+  {
+    "anio": 2025,
+    "region": "LORETO",
+    "canon_minero_soles": 15207920.792079208
+  },
+  {
+    "anio": 2025,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 15207920.792079208
+  },
+  {
+    "anio": 2025,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 10138613.861386139
+  },
+  {
+    "anio": 2025,
+    "region": "TUMBES",
+    "canon_minero_soles": 10138613.861386139
+  },
+  {
+    "anio": 2025,
+    "region": "UCAYALI",
+    "canon_minero_soles": 10138613.861386139
+  },
+  {
+    "anio": 2025,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  },
+  {
+    "anio": 2026,
+    "region": "ANCASH",
+    "canon_minero_soles": 1182772277.227723
+  },
+  {
+    "anio": 2026,
+    "region": "AREQUIPA",
+    "canon_minero_soles": 645148514.8514851
+  },
+  {
+    "anio": 2026,
+    "region": "CAJAMARCA",
+    "canon_minero_soles": 483861386.1386138
+  },
+  {
+    "anio": 2026,
+    "region": "CUSCO",
+    "canon_minero_soles": 483861386.1386138
+  },
+  {
+    "anio": 2026,
+    "region": "MOQUEGUA",
+    "canon_minero_soles": 430099009.9009901
+  },
+  {
+    "anio": 2026,
+    "region": "TACNA",
+    "canon_minero_soles": 376336633.6633664
+  },
+  {
+    "anio": 2026,
+    "region": "PASCO",
+    "canon_minero_soles": 268811881.1881188
+  },
+  {
+    "anio": 2026,
+    "region": "ICA",
+    "canon_minero_soles": 215049504.95049506
+  },
+  {
+    "anio": 2026,
+    "region": "LA LIBERTAD",
+    "canon_minero_soles": 215049504.95049506
+  },
+  {
+    "anio": 2026,
+    "region": "PUNO",
+    "canon_minero_soles": 161287128.71287128
+  },
+  {
+    "anio": 2026,
+    "region": "AYACUCHO",
+    "canon_minero_soles": 161287128.71287128
+  },
+  {
+    "anio": 2026,
+    "region": "JUNIN",
+    "canon_minero_soles": 161287128.71287128
+  },
+  {
+    "anio": 2026,
+    "region": "LIMA",
+    "canon_minero_soles": 161287128.71287128
+  },
+  {
+    "anio": 2026,
+    "region": "APURIMAC",
+    "canon_minero_soles": 134405940.5940594
+  },
+  {
+    "anio": 2026,
+    "region": "HUANCAVELICA",
+    "canon_minero_soles": 107524752.47524753
+  },
+  {
+    "anio": 2026,
+    "region": "PIURA",
+    "canon_minero_soles": 96772277.22772276
+  },
+  {
+    "anio": 2026,
+    "region": "LAMBAYEQUE",
+    "canon_minero_soles": 26881188.118811883
+  },
+  {
+    "anio": 2026,
+    "region": "AMAZONAS",
+    "canon_minero_soles": 26881188.118811883
+  },
+  {
+    "anio": 2026,
+    "region": "HUANUCO",
+    "canon_minero_soles": 26881188.118811883
+  },
+  {
+    "anio": 2026,
+    "region": "LORETO",
+    "canon_minero_soles": 16128712.87128713
+  },
+  {
+    "anio": 2026,
+    "region": "MADRE DE DIOS",
+    "canon_minero_soles": 16128712.87128713
+  },
+  {
+    "anio": 2026,
+    "region": "SAN MARTIN",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2026,
+    "region": "TUMBES",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2026,
+    "region": "UCAYALI",
+    "canon_minero_soles": 10752475.247524753
+  },
+  {
+    "anio": 2026,
+    "region": "CALLAO",
+    "canon_minero_soles": 0.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "componente": "Equipamiento minero",
+    "porcentaje": 22
+  },
+  {
+    "componente": "Equipamiento de planta",
+    "porcentaje": 17
+  },
+  {
+    "componente": "Infraestructura",
+    "porcentaje": 16
+  },
+  {
+    "componente": "Exploración",
+    "porcentaje": 12
+  },
+  {
+    "componente": "Desarrollo y preparación",
+    "porcentaje": 11
+  },
+  {
+    "componente": "Edificios y construcciones",
+    "porcentaje": 10
+  },
+  {
+    "componente": "Otros",
+    "porcentaje": 12
+  }
+]

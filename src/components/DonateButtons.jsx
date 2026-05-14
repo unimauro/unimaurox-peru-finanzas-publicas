@@ -42,23 +42,23 @@ export default function DonateButtons() {
 function YapeModal({ onClose }) {
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
+      className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-black/60 p-3 sm:items-center sm:p-4"
       onClick={onClose}
     >
       <div
-        className="relative w-full max-w-sm rounded-2xl bg-white p-6 shadow-2xl dark:bg-slate-900"
+        className="relative my-4 w-full max-w-sm rounded-2xl bg-white p-4 shadow-2xl dark:bg-slate-900 sm:p-6"
         onClick={(e) => e.stopPropagation()}
       >
         <button
           onClick={onClose}
-          className="absolute right-3 top-3 rounded-full p-1.5 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800"
+          className="absolute right-2 top-2 z-10 rounded-full bg-white/90 p-1.5 text-slate-500 shadow-sm hover:bg-slate-100 dark:bg-slate-800/90 dark:text-slate-300 dark:hover:bg-slate-700"
           aria-label="Cerrar"
         >
           <X size={18} />
         </button>
 
-        <div className="mb-4 flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-purple-600 text-white">
+        <div className="mb-3 flex items-center gap-2 pr-8">
+          <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-purple-600 text-white">
             <QrCode size={18} />
           </div>
           <div>
@@ -71,19 +71,19 @@ function YapeModal({ onClose }) {
           </div>
         </div>
 
-        <div className="flex flex-col items-center gap-3">
+        <div className="flex flex-col items-center gap-2">
           <img
             src={`${BASE}/yape.png`}
             alt="QR de Yape para Carlos Mauro"
-            className="h-64 w-64 rounded-xl border border-slate-200 object-contain dark:border-slate-700"
+            className="h-44 w-44 rounded-xl border border-slate-200 object-contain dark:border-slate-700 sm:h-56 sm:w-56"
           />
           <p className="text-center text-xs text-slate-500 dark:text-slate-400">
-            Escanea el QR desde la app Yape · todo aporte se va a mantener data
+            Escanea desde la app Yape · todo aporte ayuda a mantener data
             actualizada y pagar el dominio.
           </p>
         </div>
 
-        <div className="mt-5 flex flex-col gap-2">
+        <div className="mt-4 flex flex-col gap-2">
           <a
             href="https://buymeacoffee.com/unimauro"
             target="_blank"
@@ -91,11 +91,9 @@ function YapeModal({ onClose }) {
             className="inline-flex items-center justify-center gap-2 rounded-lg bg-yellow-300 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-yellow-400"
           >
             <Coffee size={16} />
-            ¿Desde el extranjero? Buy me a coffee
+            <span className="hidden xs:inline">¿Desde el extranjero?</span> Buy me a coffee
           </a>
-          <p className="text-center text-[11px] text-slate-400">
-            Gracias por el apoyo 🙏
-          </p>
+          <p className="text-center text-[11px] text-slate-400">Gracias por el apoyo 🙏</p>
         </div>
       </div>
     </div>
