@@ -23,14 +23,45 @@ import ErrorBox from '../components/ErrorBox.jsx';
 import { useData } from '../hooks/useData.js';
 import { cargarDeuda } from '../utils/data.js';
 import { useFilters } from '../context/FilterContext.jsx';
-import { escalar, sufijoUnidad, tickSoles, formatPctLiteral } from '../utils/format.js';
+import { escalar, sufijoUnidad, tickSoles } from '../utils/format.js';
 
 const PALETA_MONEDA = ['#0B2545', '#C9A02E', '#16a34a', '#0ea5e9'];
 
 export default function Deuda() {
+  // 1. Hooks
   const { anio, unidad } = useFilters();
   const deudaQ = useData(cargarDeuda, []);
 
+  const ordenada = useMemo(
+    () => [...(deudaQ.data || [])].sort((a, b) => a.anio - b.anio),
+    [deudaQ.data],
+  );
+
+  const serie = useMemo(
+    () =>
+      ordenada.map((d) => ({
+        anio: d.anio,
+        interna: escalar(d.deuda_interna_soles, unidad),
+        externa: escalar(d.deuda_externa_soles, unidad),
+        total: escalar(d.deuda_total_soles, unidad),
+        pct_pbi: d.deuda_pct_pbi,
+      })),
+    [ordenada, unidad],
+  );
+
+  const nuevaDeuda = useMemo(
+    () =>
+      ordenada.map((d, i) => {
+        const prevD = ordenada[i - 1];
+        return {
+          anio: d.anio,
+          nueva: prevD ? escalar(d.deuda_total_soles - prevD.deuda_total_soles, unidad) : null,
+        };
+      }),
+    [ordenada, unidad],
+  );
+
+  // 2. Early returns
   if (deudaQ.error) return <ErrorBox error={deudaQ.error} />;
   if (deudaQ.loading)
     return (
@@ -43,12 +74,6 @@ export default function Deuda() {
     );
 
   const suf = sufijoUnidad(unidad);
-
-  const ordenada = useMemo(
-    () => [...(deudaQ.data || [])].sort((a, b) => a.anio - b.anio),
-    [deudaQ.data],
-  );
-
   const item = ordenada.find((d) => d.anio === anio);
   const prev = ordenada.find((d) => d.anio === anio - 1);
 
@@ -56,23 +81,6 @@ export default function Deuda() {
   const varPct =
     item && prev ? ((item.deuda_total_soles - prev.deuda_total_soles) / prev.deuda_total_soles) * 100 : null;
 
-  const serie = ordenada.map((d) => ({
-    anio: d.anio,
-    interna: escalar(d.deuda_interna_soles, unidad),
-    externa: escalar(d.deuda_externa_soles, unidad),
-    total: escalar(d.deuda_total_soles, unidad),
-    pct_pbi: d.deuda_pct_pbi,
-  }));
-
-  const nuevaDeuda = ordenada.map((d, i) => {
-    const prevD = ordenada[i - 1];
-    return {
-      anio: d.anio,
-      nueva: prevD ? escalar(d.deuda_total_soles - prevD.deuda_total_soles, unidad) : null,
-    };
-  });
-
-  // Composición moneda/acreedor en el año
   const composicionMoneda = (item?.composicion_moneda || []).map((c) => ({
     name: c.moneda,
     value: c.porcentaje,

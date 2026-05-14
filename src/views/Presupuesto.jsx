@@ -18,10 +18,8 @@ import { cargarPresupuesto, cargarPresupuestoCartera } from '../utils/data.js';
 import { useFilters } from '../context/FilterContext.jsx';
 import { escalar, sufijoUnidad, tickSoles } from '../utils/format.js';
 
-// Color del heatmap según % ejecución (0..100)
 function colorEjecucion(pct) {
   if (pct == null) return '#e2e8f0';
-  // Escala: rojo (<60) → naranja (75) → amarillo (85) → verde (>=95)
   const clamp = Math.max(0, Math.min(100, pct));
   if (clamp < 60) return '#dc2626';
   if (clamp < 75) return '#f97316';
@@ -31,27 +29,24 @@ function colorEjecucion(pct) {
 }
 
 export default function Presupuesto() {
-  const { unidad, anio: anioFiltro } = useFilters();
+  // 1. Hooks (siempre se llaman, sin early return entremedio)
+  const { unidad } = useFilters();
   const presQ = useData(cargarPresupuesto, []);
   const carteraQ = useData(cargarPresupuestoCartera, []);
   const [anioDrill, setAnioDrill] = useState(null);
 
-  if (presQ.error || carteraQ.error) return <ErrorBox error={presQ.error || carteraQ.error} />;
-  if (presQ.loading || carteraQ.loading) return <SkeletonChart altura={500} />;
+  const seriePIA_PIM_DEV = useMemo(() => {
+    return (presQ.data || [])
+      .map((d) => ({
+        anio: d.anio,
+        PIA: escalar(d.pia_soles, unidad),
+        PIM: escalar(d.pim_soles, unidad),
+        Devengado: escalar(d.devengado_soles, unidad),
+        ejecucion_pct: d.pim_soles ? (d.devengado_soles / d.pim_soles) * 100 : null,
+      }))
+      .sort((a, b) => a.anio - b.anio);
+  }, [presQ.data, unidad]);
 
-  const suf = sufijoUnidad(unidad);
-
-  const seriePIA_PIM_DEV = (presQ.data || [])
-    .map((d) => ({
-      anio: d.anio,
-      PIA: escalar(d.pia_soles, unidad),
-      PIM: escalar(d.pim_soles, unidad),
-      Devengado: escalar(d.devengado_soles, unidad),
-      ejecucion_pct: d.pim_soles ? (d.devengado_soles / d.pim_soles) * 100 : null,
-    }))
-    .sort((a, b) => a.anio - b.anio);
-
-  // Heatmap: año x sector con % de ejecución
   const sectores = useMemo(() => {
     const set = new Set();
     (carteraQ.data || []).forEach((c) => set.add(c.sector));
@@ -72,17 +67,24 @@ export default function Presupuesto() {
     return m;
   }, [carteraQ.data]);
 
-  const drillData = anioDrill
-    ? (carteraQ.data || [])
-        .filter((c) => c.anio === anioDrill)
-        .map((c) => ({
-          sector: c.sector,
-          PIM: escalar(c.pim_soles, unidad),
-          Devengado: escalar(c.devengado_soles, unidad),
-          ejecucion_pct: c.pim_soles ? (c.devengado_soles / c.pim_soles) * 100 : null,
-        }))
-        .sort((a, b) => (b.PIM ?? 0) - (a.PIM ?? 0))
-    : null;
+  const drillData = useMemo(() => {
+    if (!anioDrill) return null;
+    return (carteraQ.data || [])
+      .filter((c) => c.anio === anioDrill)
+      .map((c) => ({
+        sector: c.sector,
+        PIM: escalar(c.pim_soles, unidad),
+        Devengado: escalar(c.devengado_soles, unidad),
+        ejecucion_pct: c.pim_soles ? (c.devengado_soles / c.pim_soles) * 100 : null,
+      }))
+      .sort((a, b) => (b.PIM ?? 0) - (a.PIM ?? 0));
+  }, [carteraQ.data, anioDrill, unidad]);
+
+  // 2. Early returns (después de TODOS los hooks)
+  if (presQ.error || carteraQ.error) return <ErrorBox error={presQ.error || carteraQ.error} />;
+  if (presQ.loading || carteraQ.loading) return <SkeletonChart altura={500} />;
+
+  const suf = sufijoUnidad(unidad);
 
   return (
     <div className="space-y-6">

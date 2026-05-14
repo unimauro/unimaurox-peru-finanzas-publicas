@@ -33,17 +33,12 @@ const PALETA = [
 ];
 
 export default function Cartera() {
+  // 1. Hooks
   const { anio, unidad } = useFilters();
   const carteraQ = useData(cargarPresupuestoCartera, []);
   const [seleccionados, setSeleccionados] = useState([]);
   const [busqueda, setBusqueda] = useState('');
 
-  if (carteraQ.error) return <ErrorBox error={carteraQ.error} />;
-  if (carteraQ.loading) return <SkeletonChart altura={500} />;
-
-  const suf = sufijoUnidad(unidad);
-
-  // Treemap: presupuesto por sector en el año seleccionado
   const treemapData = useMemo(() => {
     return (carteraQ.data || [])
       .filter((c) => c.anio === anio)
@@ -58,22 +53,16 @@ export default function Cartera() {
       .sort((a, b) => b.size - a.size);
   }, [carteraQ.data, anio]);
 
-  // Sectores únicos para selector
   const sectores = useMemo(() => {
     const set = new Set();
     (carteraQ.data || []).forEach((c) => set.add(c.sector));
     return Array.from(set).sort();
   }, [carteraQ.data]);
 
-  const sectoresFiltrados = sectores.filter((s) =>
-    s.toLowerCase().includes(busqueda.toLowerCase()),
-  );
-
-  // Serie comparativa (multi-line) para sectores seleccionados
   const serieComparativa = useMemo(() => {
     if (seleccionados.length === 0) return [];
-    const anios = Array.from(new Set((carteraQ.data || []).map((c) => c.anio))).sort();
-    return anios.map((a) => {
+    const aniosUnicos = Array.from(new Set((carteraQ.data || []).map((c) => c.anio))).sort();
+    return aniosUnicos.map((a) => {
       const row = { anio: a };
       seleccionados.forEach((sector) => {
         const d = (carteraQ.data || []).find((x) => x.anio === a && x.sector === sector);
@@ -94,6 +83,15 @@ export default function Cartera() {
       }))
       .sort((a, b) => (b.pim ?? 0) - (a.pim ?? 0));
   }, [carteraQ.data, anio, unidad]);
+
+  // 2. Early returns (después de hooks)
+  if (carteraQ.error) return <ErrorBox error={carteraQ.error} />;
+  if (carteraQ.loading) return <SkeletonChart altura={500} />;
+
+  const suf = sufijoUnidad(unidad);
+  const sectoresFiltrados = sectores.filter((s) =>
+    s.toLowerCase().includes(busqueda.toLowerCase()),
+  );
 
   const toggleSector = (sector) => {
     setSeleccionados((prev) => {
@@ -146,7 +144,7 @@ export default function Cartera() {
             className="mt-3 w-full rounded-md border border-slate-300 bg-white px-3 py-1.5 text-sm dark:border-slate-700 dark:bg-slate-800"
           />
           <div className="mt-3 max-h-80 overflow-y-auto pr-1">
-            {sectoresFiltrados.map((sector, i) => {
+            {sectoresFiltrados.map((sector) => {
               const activo = seleccionados.includes(sector);
               return (
                 <label
@@ -256,7 +254,7 @@ export default function Cartera() {
   );
 }
 
-function CustomCell({ x, y, width, height, name, size, root, depth, index }) {
+function CustomCell({ x, y, width, height, name, size, depth, index }) {
   if (depth !== 1) return null;
   const color = PALETA[index % PALETA.length];
   const labelVisible = width > 70 && height > 30;

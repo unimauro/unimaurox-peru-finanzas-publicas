@@ -25,33 +25,12 @@ import { useFilters } from '../context/FilterContext.jsx';
 import { escalar, sufijoUnidad, formatPctLiteral, tickSoles } from '../utils/format.js';
 
 export default function Panorama() {
+  // 1. Hooks (todos primero, sin early returns intermedios)
   const { anio, unidad } = useFilters();
   const pbiQ = useData(cargarPBI, []);
   const deudaQ = useData(cargarDeuda, []);
   const presQ = useData(cargarPresupuesto, []);
 
-  if (pbiQ.error || deudaQ.error || presQ.error) {
-    return <ErrorBox error={pbiQ.error || deudaQ.error || presQ.error} />;
-  }
-
-  const loading = pbiQ.loading || deudaQ.loading || presQ.loading;
-
-  // KPIs del año seleccionado
-  const pbiAnio = pbiQ.data?.find((d) => d.anio === anio);
-  const pbiPrev = pbiQ.data?.find((d) => d.anio === anio - 1);
-  const deudaAnio = deudaQ.data?.find((d) => d.anio === anio);
-  const deudaPrev = deudaQ.data?.find((d) => d.anio === anio - 1);
-  const presAnio = presQ.data?.find((d) => d.anio === anio);
-
-  const varPBI =
-    pbiAnio && pbiPrev ? ((pbiAnio.pbi_nominal_soles - pbiPrev.pbi_nominal_soles) / pbiPrev.pbi_nominal_soles) * 100 : null;
-  const varDeuda =
-    deudaAnio && deudaPrev
-      ? ((deudaAnio.deuda_total_soles - deudaPrev.deuda_total_soles) / deudaPrev.deuda_total_soles) * 100
-      : null;
-  const ejecPct = presAnio?.pim_soles ? (presAnio.devengado_soles / presAnio.pim_soles) * 100 : null;
-
-  // Serie combinada PBI vs Deuda
   const seriePbiDeuda = useMemo(() => {
     if (!pbiQ.data || !deudaQ.data) return [];
     return pbiQ.data
@@ -67,7 +46,6 @@ export default function Panorama() {
       .sort((a, b) => a.anio - b.anio);
   }, [pbiQ.data, deudaQ.data, unidad]);
 
-  // Composición deuda interna vs externa
   const composicionDeuda = useMemo(() => {
     if (!deudaQ.data) return [];
     return deudaQ.data
@@ -79,7 +57,6 @@ export default function Panorama() {
       .sort((a, b) => a.anio - b.anio);
   }, [deudaQ.data, unidad]);
 
-  // Variación YoY deuda
   const varYoYDeuda = useMemo(() => {
     if (!deudaQ.data) return [];
     const arr = [...deudaQ.data].sort((a, b) => a.anio - b.anio);
@@ -93,6 +70,28 @@ export default function Panorama() {
       };
     });
   }, [deudaQ.data]);
+
+  // 2. Early returns (después de TODOS los hooks)
+  if (pbiQ.error || deudaQ.error || presQ.error) {
+    return <ErrorBox error={pbiQ.error || deudaQ.error || presQ.error} />;
+  }
+
+  const loading = pbiQ.loading || deudaQ.loading || presQ.loading;
+
+  // Derivados (no son hooks)
+  const pbiAnio = pbiQ.data?.find((d) => d.anio === anio);
+  const pbiPrev = pbiQ.data?.find((d) => d.anio === anio - 1);
+  const deudaAnio = deudaQ.data?.find((d) => d.anio === anio);
+  const deudaPrev = deudaQ.data?.find((d) => d.anio === anio - 1);
+  const presAnio = presQ.data?.find((d) => d.anio === anio);
+
+  const varPBI =
+    pbiAnio && pbiPrev ? ((pbiAnio.pbi_nominal_soles - pbiPrev.pbi_nominal_soles) / pbiPrev.pbi_nominal_soles) * 100 : null;
+  const varDeuda =
+    deudaAnio && deudaPrev
+      ? ((deudaAnio.deuda_total_soles - deudaPrev.deuda_total_soles) / deudaPrev.deuda_total_soles) * 100
+      : null;
+  const ejecPct = presAnio?.pim_soles ? (presAnio.devengado_soles / presAnio.pim_soles) * 100 : null;
 
   const suf = sufijoUnidad(unidad);
 
