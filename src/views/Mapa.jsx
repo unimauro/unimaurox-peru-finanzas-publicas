@@ -216,8 +216,8 @@ export default function Mapa() {
         <span className="chip">Año seleccionado: {anio}</span>
       </div>
 
-      <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
-        <div className="card relative lg:col-span-2">
+      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-6">
+        <div className="card relative !p-3 sm:!p-5 lg:col-span-2">
           <h3 className="mb-3 text-base font-semibold text-slate-900 dark:text-white">
             Mapa coroplético del Perú · {METRICAS.find((m) => m.v === metrica)?.l}
           </h3>

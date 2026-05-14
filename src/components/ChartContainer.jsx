@@ -12,19 +12,23 @@ export default function ChartContainer({
   extra,
 }) {
   return (
-    <section className="card">
-      <header className="mb-4 flex flex-wrap items-start justify-between gap-3">
-        <div>
-          <h3 className="text-base font-semibold text-slate-900 dark:text-white">{titulo}</h3>
+    <section className="card !p-3 sm:!p-5">
+      <header className="mb-3 flex flex-col gap-2 sm:mb-4 sm:flex-row sm:items-start sm:justify-between sm:gap-3">
+        <div className="min-w-0 flex-1">
+          <h3 className="text-sm font-semibold text-slate-900 dark:text-white sm:text-base">
+            {titulo}
+          </h3>
           {descripcion && (
-            <p className="mt-0.5 text-xs text-slate-500 dark:text-slate-400">{descripcion}</p>
+            <p className="mt-0.5 text-[11px] text-slate-500 dark:text-slate-400 sm:text-xs">
+              {descripcion}
+            </p>
           )}
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex shrink-0 items-center gap-2 self-end sm:self-auto">
           {extra}
           {filas && filas.length > 0 && (
             <button
-              className="btn"
+              className="btn !px-2 !py-1 text-xs sm:!px-3 sm:!py-1.5 sm:text-sm"
               onClick={() => exportarCSV(filas, nombreArchivo)}
               title="Exportar a CSV"
             >
@@ -34,11 +38,13 @@ export default function ChartContainer({
           )}
         </div>
       </header>
-      <div style={{ width: '100%', height: altura }}>{children}</div>
+      <div className="w-full" style={{ height: altura, minHeight: 240 }}>
+        {children}
+      </div>
       {fuente && (
-        <footer className="mt-3 flex items-center gap-1 text-[11px] text-slate-400">
-          <Info size={11} />
-          <span>Fuente: {fuente}</span>
+        <footer className="mt-2 flex items-center gap-1 text-[10px] text-slate-400 sm:mt-3 sm:text-[11px]">
+          <Info size={11} className="shrink-0" />
+          <span className="break-words">Fuente: {fuente}</span>
         </footer>
       )}
     </section>

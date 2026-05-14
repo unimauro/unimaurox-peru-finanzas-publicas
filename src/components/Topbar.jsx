@@ -18,72 +18,108 @@ export default function Topbar({ abrirSidebar }) {
   const [shareOpen, setShareOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-10 flex flex-wrap items-center gap-3 border-b border-slate-200 bg-white/80 px-4 py-3 backdrop-blur dark:border-slate-800 dark:bg-slate-900/80">
-      <button
-        className="rounded p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 md:hidden"
-        onClick={abrirSidebar}
-        aria-label="Abrir menú"
-      >
-        <Menu size={18} />
-      </button>
-
-      <div className="flex flex-1 flex-wrap items-center gap-3">
-        <label className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-300">
-          <span className="hidden sm:inline">Año:</span>
-          <span className="font-mono font-semibold text-peru-azul dark:text-white">{anio}</span>
-          <input
-            type="range"
-            min={anioMin}
-            max={anioMax}
-            step={1}
-            value={anio}
-            onChange={(e) => setAnio(Number(e.target.value))}
-            className="h-2 w-32 cursor-pointer appearance-none rounded-full bg-slate-200 accent-peru-azul dark:bg-slate-700 sm:w-48"
-          />
-        </label>
-
-        <label className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-300">
-          <span className="hidden sm:inline">Unidad:</span>
-          <select
-            value={unidad}
-            onChange={(e) => setUnidad(e.target.value)}
-            className="rounded border border-slate-300 bg-white px-2 py-1 text-sm dark:border-slate-700 dark:bg-slate-800"
-          >
-            {UNIDADES.map((u) => (
-              <option key={u.v} value={u.v}>
-                {u.l}
-              </option>
-            ))}
-          </select>
-        </label>
-      </div>
-
-      <div className="flex items-center gap-2">
+    <header className="sticky top-0 z-10 border-b border-slate-200 bg-white/90 backdrop-blur dark:border-slate-800 dark:bg-slate-900/90">
+      {/* Fila 1: menú móvil + acciones */}
+      <div className="flex items-center gap-2 px-3 py-2 md:px-4 md:py-3">
         <button
-          onClick={() => setShareOpen(true)}
-          className="inline-flex items-center gap-1.5 rounded-lg border border-peru-azul bg-peru-azul px-3 py-1.5 text-sm font-semibold text-white transition hover:bg-peru-azulMedio"
-          aria-label="Compartir dashboard"
-          title="Compartir en redes"
+          className="shrink-0 rounded p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 md:hidden"
+          onClick={abrirSidebar}
+          aria-label="Abrir menú"
         >
-          <Share2 size={14} />
-          <span className="hidden sm:inline">Compartir</span>
+          <Menu size={20} />
         </button>
-        <DonateButtons />
-        <a
-          href="https://github.com/unimauro/unimaurox-peru-finanzas-publicas"
-          target="_blank"
-          rel="noreferrer"
-          className="btn hidden md:inline-flex"
-          aria-label="GitHub"
-        >
-          <ExternalLink size={16} />
-          <span className="hidden sm:inline">GitHub</span>
-        </a>
-        <button onClick={toggle} className="btn" aria-label="Cambiar tema">
-          {theme === 'dark' ? <Sun size={16} /> : <Moon size={16} />}
-        </button>
+
+        {/* Filtros (desktop inline · mobile en fila 2) */}
+        <div className="hidden flex-1 flex-wrap items-center gap-3 md:flex">
+          <Filtros
+            anio={anio}
+            setAnio={setAnio}
+            anioMin={anioMin}
+            anioMax={anioMax}
+            unidad={unidad}
+            setUnidad={setUnidad}
+          />
+        </div>
+
+        {/* Spacer mobile */}
+        <div className="flex-1 md:hidden" />
+
+        {/* Acciones */}
+        <div className="flex items-center gap-1.5 sm:gap-2">
+          <button
+            onClick={() => setShareOpen(true)}
+            className="inline-flex shrink-0 items-center gap-1.5 rounded-lg border border-peru-azul bg-peru-azul px-2.5 py-1.5 text-xs font-semibold text-white transition hover:bg-peru-azulMedio sm:px-3 sm:text-sm"
+            aria-label="Compartir dashboard"
+            title="Compartir en redes"
+          >
+            <Share2 size={14} />
+            <span className="hidden sm:inline">Compartir</span>
+          </button>
+          <DonateButtons />
+          <a
+            href="https://github.com/unimauro/unimaurox-peru-finanzas-publicas"
+            target="_blank"
+            rel="noreferrer"
+            className="btn hidden lg:inline-flex"
+            aria-label="GitHub"
+          >
+            <ExternalLink size={16} />
+            <span>GitHub</span>
+          </a>
+          <button onClick={toggle} className="btn !px-2 !py-1.5" aria-label="Cambiar tema">
+            {theme === 'dark' ? <Sun size={16} /> : <Moon size={16} />}
+          </button>
+        </div>
       </div>
+
+      {/* Fila 2 móvil: filtros */}
+      <div className="flex flex-wrap items-center gap-3 border-t border-slate-200 px-3 py-2 dark:border-slate-800 md:hidden">
+        <Filtros
+          anio={anio}
+          setAnio={setAnio}
+          anioMin={anioMin}
+          anioMax={anioMax}
+          unidad={unidad}
+          setUnidad={setUnidad}
+        />
+      </div>
+
       <ShareModal abierto={shareOpen} onClose={() => setShareOpen(false)} />
     </header>
+  );
+}
+
+function Filtros({ anio, setAnio, anioMin, anioMax, unidad, setUnidad }) {
+  return (
+    <>
+      <label className="flex flex-1 items-center gap-2 text-sm text-slate-600 dark:text-slate-300 sm:flex-initial">
+        <span className="text-xs sm:text-sm">Año:</span>
+        <span className="font-mono text-sm font-semibold text-peru-azul dark:text-white">{anio}</span>
+        <input
+          type="range"
+          min={anioMin}
+          max={anioMax}
+          step={1}
+          value={anio}
+          onChange={(e) => setAnio(Number(e.target.value))}
+          className="h-2 flex-1 cursor-pointer appearance-none rounded-full bg-slate-200 accent-peru-azul dark:bg-slate-700 sm:flex-initial sm:w-48"
+        />
+      </label>
+
+      <label className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-300">
+        <span className="hidden text-xs sm:inline sm:text-sm">Unidad:</span>
+        <select
+          value={unidad}
+          onChange={(e) => setUnidad(e.target.value)}
+          className="rounded border border-slate-300 bg-white px-2 py-1 text-xs dark:border-slate-700 dark:bg-slate-800 sm:text-sm"
+        >
+          {UNIDADES.map((u) => (
+            <option key={u.v} value={u.v}>
+              {u.l}
+            </option>
+          ))}
+        </select>
+      </label>
+    </>
   );
 }

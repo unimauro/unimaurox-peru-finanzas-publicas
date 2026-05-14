@@ -51,13 +51,13 @@ export default function App() {
       <div className="flex flex-1 flex-col md:ml-0">
         <Topbar abrirSidebar={() => setSidebarAbierta(true)} />
 
-        <main className="flex-1 px-4 py-6 md:px-8">
-          <div className="mb-6">
-            <h1 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-white md:text-3xl">
+        <main className="flex-1 px-3 py-4 sm:px-4 sm:py-6 md:px-8">
+          <div className="mb-4 sm:mb-6">
+            <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-2xl md:text-3xl">
               {VIEW_TITLES[vista]}
             </h1>
-            <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
-              Datos oficiales de MEF, BCRP e INEI · Serie 1990-2025
+            <p className="mt-1 text-xs text-slate-500 dark:text-slate-400 sm:text-sm">
+              Datos oficiales de MEF, BCRP e INEI · Serie 1990-2026
             </p>
           </div>
 
