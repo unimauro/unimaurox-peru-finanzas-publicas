@@ -1,0 +1,6302 @@
+[
+  {
+    "anio": 1990,
+    "region": "AMAZONAS",
+    "pia_soles": 46612937.43372217,
+    "pim_soles": 52969247.08377519,
+    "devengado_soles": 52325141.03923648
+  },
+  {
+    "anio": 1990,
+    "region": "ANCASH",
+    "pia_soles": 113819554.61293745,
+    "pim_soles": 129340402.9692471,
+    "devengado_soles": 112122608.52598092
+  },
+  {
+    "anio": 1990,
+    "region": "APURIMAC",
+    "pia_soles": 57054235.418875925,
+    "pim_soles": 64834358.43054082,
+    "devengado_soles": 56328090.60445387
+  },
+  {
+    "anio": 1990,
+    "region": "AREQUIPA",
+    "pia_soles": 162061845.1749735,
+    "pim_soles": 184161187.6988335,
+    "devengado_soles": 182319575.82184514
+  },
+  {
+    "anio": 1990,
+    "region": "AYACUCHO",
+    "pia_soles": 71395902.43902439,
+    "pim_soles": 81131707.31707317,
+    "devengado_soles": 70798773.07317072
+  },
+  {
+    "anio": 1990,
+    "region": "CAJAMARCA",
+    "pia_soles": 110752339.34252387,
+    "pim_soles": 125854931.07104985,
+    "devengado_soles": 123720431.44008484
+  },
+  {
+    "anio": 1990,
+    "region": "CALLAO",
+    "pia_soles": 276878048.78048784,
+    "pim_soles": 314634146.34146345,
+    "devengado_soles": 285436097.5609756
+  },
+  {
+    "anio": 1990,
+    "region": "CUSCO",
+    "pia_soles": 144995630.9650053,
+    "pim_soles": 164767762.4602333,
+    "devengado_soles": 163120084.83563095
+  },
+  {
+    "anio": 1990,
+    "region": "HUANCAVELICA",
+    "pia_soles": 48537925.768822916,
+    "pim_soles": 55156733.82820786,
+    "devengado_soles": 48820328.24602334
+  },
+  {
+    "anio": 1990,
+    "region": "HUANUCO",
+    "pia_soles": 65644453.87062567,
+    "pim_soles": 74595970.30752917,
+    "devengado_soles": 73850010.60445388
+  },
+  {
+    "anio": 1990,
+    "region": "ICA",
+    "pia_soles": 91126193.00106046,
+    "pim_soles": 103552492.0466596,
+    "devengado_soles": 94936924.70837753
+  },
+  {
+    "anio": 1990,
+    "region": "JUNIN",
+    "pia_soles": 107117370.09544012,
+    "pim_soles": 121724284.19936377,
+    "devengado_soles": 115803615.0159067
+  },
+  {
+    "anio": 1990,
+    "region": "LA LIBERTAD",
+    "pia_soles": 123629268.29268295,
+    "pim_soles": 140487804.8780488,
+    "devengado_soles": 123269619.51219514
+  },
+  {
+    "anio": 1990,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 85505764.58112408,
+    "pim_soles": 97165641.56945919,
+    "devengado_soles": 91599993.62036057
+  },
+  {
+    "anio": 1990,
+    "region": "LIMA",
+    "pia_soles": 4154570519.618241,
+    "pim_soles": 4721102863.202546,
+    "devengado_soles": 4645565217.391305
+  },
+  {
+    "anio": 1990,
+    "region": "LORETO",
+    "pia_soles": 98110574.76139979,
+    "pim_soles": 111489289.50159067,
+    "devengado_soles": 110374396.60657476
+  },
+  {
+    "anio": 1990,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 29842358.430540822,
+    "pim_soles": 33911770.94379639,
+    "devengado_soles": 30862424.500530217
+  },
+  {
+    "anio": 1990,
+    "region": "MOQUEGUA",
+    "pia_soles": 42494201.48462354,
+    "pim_soles": 48288865.323435836,
+    "devengado_soles": 47655315.41039236
+  },
+  {
+    "anio": 1990,
+    "region": "PASCO",
+    "pia_soles": 37169408.271474026,
+    "pim_soles": 42237963.944856845,
+    "devengado_soles": 39615831.143160135
+  },
+  {
+    "anio": 1990,
+    "region": "PIURA",
+    "pia_soles": 123447855.77942736,
+    "pim_soles": 140281654.29480383,
+    "devengado_soles": 138878837.7518558
+  },
+  {
+    "anio": 1990,
+    "region": "PUNO",
+    "pia_soles": 107826222.6935313,
+    "pim_soles": 122529798.51537648,
+    "devengado_soles": 117628606.57476142
+  },
+  {
+    "anio": 1990,
+    "region": "SAN MARTIN",
+    "pia_soles": 76126065.747614,
+    "pim_soles": 86506892.89501591,
+    "devengado_soles": 85621062.31177096
+  },
+  {
+    "anio": 1990,
+    "region": "TACNA",
+    "pia_soles": 48967940.615058325,
+    "pim_soles": 55645387.06256628,
+    "devengado_soles": 53526410.72322375
+  },
+  {
+    "anio": 1990,
+    "region": "TUMBES",
+    "pia_soles": 36658765.64156946,
+    "pim_soles": 41657688.2290562,
+    "devengado_soles": 36192199.53340403
+  },
+  {
+    "anio": 1990,
+    "region": "UCAYALI",
+    "pia_soles": 66155096.50053022,
+    "pim_soles": 75176246.0233298,
+    "devengado_soles": 66684337.27253447
+  },
+  {
+    "anio": 1991,
+    "region": "AMAZONAS",
+    "pia_soles": 73245302.22693533,
+    "pim_soles": 83233297.98515378,
+    "devengado_soles": 82400965.00530224
+  },
+  {
+    "anio": 1991,
+    "region": "ANCASH",
+    "pia_soles": 171082078.47295868,
+    "pim_soles": 194411452.8101803,
+    "devengado_soles": 178049784.94167554
+  },
+  {
+    "anio": 1991,
+    "region": "APURIMAC",
+    "pia_soles": 94148055.14316012,
+    "pim_soles": 106986426.29904559,
+    "devengado_soles": 93463342.01484624
+  },
+  {
+    "anio": 1991,
+    "region": "AREQUIPA",
+    "pia_soles": 241732173.91304344,
+    "pim_soles": 274695652.173913,
+    "devengado_soles": 237337043.47826084
+  },
+  {
+    "anio": 1991,
+    "region": "AYACUCHO",
+    "pia_soles": 109865433.7221633,
+    "pim_soles": 124847083.77518557,
+    "devengado_soles": 122969383.63520677
+  },
+  {
+    "anio": 1991,
+    "region": "CAJAMARCA",
+    "pia_soles": 159310422.0572641,
+    "pim_soles": 181034570.51961827,
+    "devengado_soles": 167710426.12937436
+  },
+  {
+    "anio": 1991,
+    "region": "CALLAO",
+    "pia_soles": 417416755.03711563,
+    "pim_soles": 474337221.63308597,
+    "devengado_soles": 445801094.37963945
+  },
+  {
+    "anio": 1991,
+    "region": "CUSCO",
+    "pia_soles": 220920127.2534465,
+    "pim_soles": 251045599.15164372,
+    "devengado_soles": 248233888.44114533
+  },
+  {
+    "anio": 1991,
+    "region": "HUANCAVELICA",
+    "pia_soles": 71466451.74973491,
+    "pim_soles": 81211876.98833512,
+    "devengado_soles": 75234682.84199366
+  },
+  {
+    "anio": 1991,
+    "region": "HUANUCO",
+    "pia_soles": 99575312.83138917,
+    "pim_soles": 113153764.58112407,
+    "devengado_soles": 112022226.93531282
+  },
+  {
+    "anio": 1991,
+    "region": "ICA",
+    "pia_soles": 122453446.44750798,
+    "pim_soles": 139151643.69034997,
+    "devengado_soles": 124501758.64262994
+  },
+  {
+    "anio": 1991,
+    "region": "JUNIN",
+    "pia_soles": 161557921.52704138,
+    "pim_soles": 183588547.18981975,
+    "devengado_soles": 181752661.71792156
+  },
+  {
+    "anio": 1991,
+    "region": "LA LIBERTAD",
+    "pia_soles": 199755334.0402969,
+    "pim_soles": 226994697.77306467,
+    "devengado_soles": 199174227.61399788
+  },
+  {
+    "anio": 1991,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 152527609.75609758,
+    "pim_soles": 173326829.2682927,
+    "devengado_soles": 171593560.97560978
+  },
+  {
+    "anio": 1991,
+    "region": "LIMA",
+    "pia_soles": 5949658536.585366,
+    "pim_soles": 6760975609.756098,
+    "devengado_soles": 6497027121.95122
+  },
+  {
+    "anio": 1991,
+    "region": "LORETO",
+    "pia_soles": 151539919.4061506,
+    "pim_soles": 172204453.8706257,
+    "devengado_soles": 170482409.33191943
+  },
+  {
+    "anio": 1991,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 48301081.6542948,
+    "pim_soles": 54887592.78897136,
+    "devengado_soles": 54338716.861081645
+  },
+  {
+    "anio": 1991,
+    "region": "MOQUEGUA",
+    "pia_soles": 69047618.23966067,
+    "pim_soles": 78463202.54506893,
+    "devengado_soles": 71859739.41887593
+  },
+  {
+    "anio": 1991,
+    "region": "PASCO",
+    "pia_soles": 59442833.51007423,
+    "pim_soles": 67548674.44326617,
+    "devengado_soles": 58945675.26617179
+  },
+  {
+    "anio": 1991,
+    "region": "PIURA",
+    "pia_soles": 180767490.98621422,
+    "pim_soles": 205417603.39342526,
+    "devengado_soles": 196214894.7613998
+  },
+  {
+    "anio": 1991,
+    "region": "PUNO",
+    "pia_soles": 168995834.57051963,
+    "pim_soles": 192040721.10286322,
+    "devengado_soles": 189705505.93425238
+  },
+  {
+    "anio": 1991,
+    "region": "SAN MARTIN",
+    "pia_soles": 108091622.4814422,
+    "pim_soles": 122831389.18345705,
+    "devengado_soles": 121603075.29162247
+  },
+  {
+    "anio": 1991,
+    "region": "TACNA",
+    "pia_soles": 85546078.47295864,
+    "pim_soles": 97211452.81018028,
+    "devengado_soles": 95842715.55461295
+  },
+  {
+    "anio": 1991,
+    "region": "TUMBES",
+    "pia_soles": 59699834.57051961,
+    "pim_soles": 67840721.1028632,
+    "devengado_soles": 66299379.91940614
+  },
+  {
+    "anio": 1991,
+    "region": "UCAYALI",
+    "pia_soles": 98688407.21102862,
+    "pim_soles": 112145917.2852598,
+    "devengado_soles": 108521361.2386002
+  },
+  {
+    "anio": 1992,
+    "region": "AMAZONAS",
+    "pia_soles": 107608695.6521739,
+    "pim_soles": 122282608.69565217,
+    "devengado_soles": 121059782.60869566
+  },
+  {
+    "anio": 1992,
+    "region": "ANCASH",
+    "pia_soles": 248147401.90880173,
+    "pim_soles": 281985683.9872747,
+    "devengado_soles": 279165827.1474019
+  },
+  {
+    "anio": 1992,
+    "region": "APURIMAC",
+    "pia_soles": 108987486.74443266,
+    "pim_soles": 123849416.75503711,
+    "devengado_soles": 122610922.58748674
+  },
+  {
+    "anio": 1992,
+    "region": "AREQUIPA",
+    "pia_soles": 284401908.8016967,
+    "pim_soles": 323183987.27465534,
+    "devengado_soles": 307464318.1336161
+  },
+  {
+    "anio": 1992,
+    "region": "AYACUCHO",
+    "pia_soles": 145353976.67020148,
+    "pim_soles": 165174973.48886532,
+    "devengado_soles": 146358240.50901377
+  },
+  {
+    "anio": 1992,
+    "region": "CAJAMARCA",
+    "pia_soles": 227500530.22269353,
+    "pim_soles": 258523329.79851538,
+    "devengado_soles": 230561446.44750795
+  },
+  {
+    "anio": 1992,
+    "region": "CALLAO",
+    "pia_soles": 528419936.3732768,
+    "pim_soles": 600477200.4241782,
+    "devengado_soles": 554552704.1357371
+  },
+  {
+    "anio": 1992,
+    "region": "CUSCO",
+    "pia_soles": 299274655.3552492,
+    "pim_soles": 340084835.630965,
+    "devengado_soles": 332031626.72322375
+  },
+  {
+    "anio": 1992,
+    "region": "HUANCAVELICA",
+    "pia_soles": 92302014.84623544,
+    "pim_soles": 104888653.23435846,
+    "devengado_soles": 96564689.71367978
+  },
+  {
+    "anio": 1992,
+    "region": "HUANUCO",
+    "pia_soles": 152016967.12619302,
+    "pim_soles": 172746553.55249205,
+    "devengado_soles": 171019088.01696712
+  },
+  {
+    "anio": 1992,
+    "region": "ICA",
+    "pia_soles": 159400848.35630968,
+    "pim_soles": 181137327.67762464,
+    "devengado_soles": 171979024.39024392
+  },
+  {
+    "anio": 1992,
+    "region": "JUNIN",
+    "pia_soles": 230020148.46235424,
+    "pim_soles": 261386532.34358436,
+    "devengado_soles": 243654069.9893956
+  },
+  {
+    "anio": 1992,
+    "region": "LA LIBERTAD",
+    "pia_soles": 271558854.7189819,
+    "pim_soles": 308589607.63520676,
+    "devengado_soles": 291506086.9565217
+  },
+  {
+    "anio": 1992,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 182840296.92470843,
+    "pim_soles": 207773064.68716866,
+    "devengado_soles": 199462142.0996819
+  },
+  {
+    "anio": 1992,
+    "region": "LIMA",
+    "pia_soles": 7724496288.441146,
+    "pim_soles": 8777836691.410393,
+    "devengado_soles": 8690058324.496288
+  },
+  {
+    "anio": 1992,
+    "region": "LORETO",
+    "pia_soles": 203809119.8303288,
+    "pim_soles": 231601272.53446454,
+    "devengado_soles": 229285259.80911988
+  },
+  {
+    "anio": 1992,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 60596818.6638388,
+    "pim_soles": 68860021.20890772,
+    "devengado_soles": 68171420.99681865
+  },
+  {
+    "anio": 1992,
+    "region": "MOQUEGUA",
+    "pia_soles": 93624814.42205726,
+    "pim_soles": 106391834.57051961,
+    "devengado_soles": 105327916.22481441
+  },
+  {
+    "anio": 1992,
+    "region": "PASCO",
+    "pia_soles": 81215694.59172852,
+    "pim_soles": 92290562.03605515,
+    "devengado_soles": 91367656.4156946
+  },
+  {
+    "anio": 1992,
+    "region": "PIURA",
+    "pia_soles": 279257688.22905624,
+    "pim_soles": 317338282.078473,
+    "devengado_soles": 294896118.76988333
+  },
+  {
+    "anio": 1992,
+    "region": "PUNO",
+    "pia_soles": 235388335.1007423,
+    "pim_soles": 267486744.4326617,
+    "devengado_soles": 243691123.64793214
+  },
+  {
+    "anio": 1992,
+    "region": "SAN MARTIN",
+    "pia_soles": 143660233.29798514,
+    "pim_soles": 163250265.11134675,
+    "devengado_soles": 148727521.52704135
+  },
+  {
+    "anio": 1992,
+    "region": "TACNA",
+    "pia_soles": 118925980.91198306,
+    "pim_soles": 135143160.12725347,
+    "devengado_soles": 130905070.62566282
+  },
+  {
+    "anio": 1992,
+    "region": "TUMBES",
+    "pia_soles": 79836903.49946977,
+    "pim_soles": 90723753.97667019,
+    "devengado_soles": 89816516.43690349
+  },
+  {
+    "anio": 1992,
+    "region": "UCAYALI",
+    "pia_soles": 125854931.07104982,
+    "pim_soles": 143016967.126193,
+    "devengado_soles": 127685548.2502651
+  },
+  {
+    "anio": 1993,
+    "region": "AMAZONAS",
+    "pia_soles": 126048101.80275716,
+    "pim_soles": 143236479.32131496,
+    "devengado_soles": 141804114.5281018
+  },
+  {
+    "anio": 1993,
+    "region": "ANCASH",
+    "pia_soles": 327662354.1887593,
+    "pim_soles": 372343584.3054083,
+    "devengado_soles": 354232792.36479324
+  },
+  {
+    "anio": 1993,
+    "region": "APURIMAC",
+    "pia_soles": 150164767.76246023,
+    "pim_soles": 170641781.54825026,
+    "devengado_soles": 163652294.1760339
+  },
+  {
+    "anio": 1993,
+    "region": "AREQUIPA",
+    "pia_soles": 391447889.71367973,
+    "pim_soles": 444827147.40190876,
+    "devengado_soles": 416785244.0296924
+  },
+  {
+    "anio": 1993,
+    "region": "AYACUCHO",
+    "pia_soles": 193739605.51431602,
+    "pim_soles": 220158642.62990457,
+    "devengado_soles": 190217067.23223755
+  },
+  {
+    "anio": 1993,
+    "region": "CAJAMARCA",
+    "pia_soles": 277010188.75927895,
+    "pim_soles": 314784305.40827155,
+    "devengado_soles": 311636462.35418886
+  },
+  {
+    "anio": 1993,
+    "region": "CALLAO",
+    "pia_soles": 754019088.0169672,
+    "pim_soles": 856839872.7465537,
+    "devengado_soles": 848271474.0190881
+  },
+  {
+    "anio": 1993,
+    "region": "CUSCO",
+    "pia_soles": 367662693.5312832,
+    "pim_soles": 417798515.37645817,
+    "devengado_soles": 362582263.5843054
+  },
+  {
+    "anio": 1993,
+    "region": "HUANCAVELICA",
+    "pia_soles": 125170154.82502653,
+    "pim_soles": 142238812.3011665,
+    "devengado_soles": 125898417.5440085
+  },
+  {
+    "anio": 1993,
+    "region": "HUANUCO",
+    "pia_soles": 177918642.62990457,
+    "pim_soles": 202180275.71580064,
+    "devengado_soles": 200109949.69247085
+  },
+  {
+    "anio": 1993,
+    "region": "ICA",
+    "pia_soles": 222174337.2216331,
+    "pim_soles": 252470837.7518558,
+    "devengado_soles": 231707636.05514318
+  },
+  {
+    "anio": 1993,
+    "region": "JUNIN",
+    "pia_soles": 312925387.06256634,
+    "pim_soles": 355597030.7529163,
+    "devengado_soles": 323621745.747614
+  },
+  {
+    "anio": 1993,
+    "region": "LA LIBERTAD",
+    "pia_soles": 349387062.56627786,
+    "pim_soles": 397030752.91622484,
+    "devengado_soles": 393060445.3870626
+  },
+  {
+    "anio": 1993,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 272163563.0965006,
+    "pim_soles": 309276776.24602336,
+    "devengado_soles": 305219064.94167554
+  },
+  {
+    "anio": 1993,
+    "region": "LIMA",
+    "pia_soles": 9667868504.772005,
+    "pim_soles": 10986214209.968187,
+    "devengado_soles": 10652233297.985155
+  },
+  {
+    "anio": 1993,
+    "region": "LORETO",
+    "pia_soles": 226008636.26723224,
+    "pim_soles": 256827995.75821847,
+    "devengado_soles": 242116888.1611877
+  },
+  {
+    "anio": 1993,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 88529306.46871684,
+    "pim_soles": 100601484.62354188,
+    "devengado_soles": 96191115.5376458
+  },
+  {
+    "anio": 1993,
+    "region": "MOQUEGUA",
+    "pia_soles": 124265331.91940615,
+    "pim_soles": 141210604.45387062,
+    "devengado_soles": 133664309.75185578
+  },
+  {
+    "anio": 1993,
+    "region": "PASCO",
+    "pia_soles": 111373845.1749735,
+    "pim_soles": 126561187.69883353,
+    "devengado_soles": 115059306.96076354
+  },
+  {
+    "anio": 1993,
+    "region": "PIURA",
+    "pia_soles": 365960551.4316013,
+    "pim_soles": 415864262.990456,
+    "devengado_soles": 362899790.4559915
+  },
+  {
+    "anio": 1993,
+    "region": "PUNO",
+    "pia_soles": 289543329.7985154,
+    "pim_soles": 329026511.1346766,
+    "devengado_soles": 325736246.0233298
+  },
+  {
+    "anio": 1993,
+    "region": "SAN MARTIN",
+    "pia_soles": 208718455.9915164,
+    "pim_soles": 237180063.6267232,
+    "devengado_soles": 211526667.94485682
+  },
+  {
+    "anio": 1993,
+    "region": "TACNA",
+    "pia_soles": 149931843.05408275,
+    "pim_soles": 170377094.37963948,
+    "devengado_soles": 168673323.43584308
+  },
+  {
+    "anio": 1993,
+    "region": "TUMBES",
+    "pia_soles": 96574167.55037116,
+    "pim_soles": 109743372.21633086,
+    "devengado_soles": 108645938.49416755
+  },
+  {
+    "anio": 1993,
+    "region": "UCAYALI",
+    "pia_soles": 158836733.82820782,
+    "pim_soles": 180496288.44114524,
+    "devengado_soles": 178691325.5567338
+  },
+  {
+    "anio": 1994,
+    "region": "AMAZONAS",
+    "pia_soles": 167714188.7592789,
+    "pim_soles": 190584305.40827146,
+    "devengado_soles": 188678462.35418874
+  },
+  {
+    "anio": 1994,
+    "region": "ANCASH",
+    "pia_soles": 393939512.19512206,
+    "pim_soles": 447658536.58536595,
+    "devengado_soles": 440066247.8048782
+  },
+  {
+    "anio": 1994,
+    "region": "APURIMAC",
+    "pia_soles": 190799490.9862142,
+    "pim_soles": 216817603.39342523,
+    "devengado_soles": 199194668.58960763
+  },
+  {
+    "anio": 1994,
+    "region": "AREQUIPA",
+    "pia_soles": 448088907.74125123,
+    "pim_soles": 509191940.61505824,
+    "devengado_soles": 448740673.4252385
+  },
+  {
+    "anio": 1994,
+    "region": "AYACUCHO",
+    "pia_soles": 254874502.65111342,
+    "pim_soles": 289630116.64899254,
+    "devengado_soles": 266367025.67974547
+  },
+  {
+    "anio": 1994,
+    "region": "CAJAMARCA",
+    "pia_soles": 321577196.18239665,
+    "pim_soles": 365428632.0254507,
+    "devengado_soles": 329061174.56627786
+  },
+  {
+    "anio": 1994,
+    "region": "CALLAO",
+    "pia_soles": 890965005.3022271,
+    "pim_soles": 1012460233.2979854,
+    "devengado_soles": 875737603.3934255
+  },
+  {
+    "anio": 1994,
+    "region": "CUSCO",
+    "pia_soles": 442556945.9172853,
+    "pim_soles": 502905620.3605515,
+    "devengado_soles": 497876564.15694594
+  },
+  {
+    "anio": 1994,
+    "region": "HUANCAVELICA",
+    "pia_soles": 141341624.60233298,
+    "pim_soles": 160615482.50265113,
+    "devengado_soles": 159009327.6776246
+  },
+  {
+    "anio": 1994,
+    "region": "HUANUCO",
+    "pia_soles": 224257221.6330859,
+    "pim_soles": 254837751.85577944,
+    "devengado_soles": 225806635.16436905
+  },
+  {
+    "anio": 1994,
+    "region": "ICA",
+    "pia_soles": 243353128.31389186,
+    "pim_soles": 276537645.81124073,
+    "devengado_soles": 273772269.3531283
+  },
+  {
+    "anio": 1994,
+    "region": "JUNIN",
+    "pia_soles": 402503414.63414645,
+    "pim_soles": 457390243.9024391,
+    "devengado_soles": 400015211.7073172
+  },
+  {
+    "anio": 1994,
+    "region": "LA LIBERTAD",
+    "pia_soles": 457450689.2895016,
+    "pim_soles": 519830328.73807,
+    "devengado_soles": 505524598.0911984
+  },
+  {
+    "anio": 1994,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 317832483.56309646,
+    "pim_soles": 361173276.776246,
+    "devengado_soles": 334244197.2598091
+  },
+  {
+    "anio": 1994,
+    "region": "LIMA",
+    "pia_soles": 12262515376.458113,
+    "pim_soles": 13934676564.156946,
+    "devengado_soles": 12601406710.49841
+  },
+  {
+    "anio": 1994,
+    "region": "LORETO",
+    "pia_soles": 298172742.311771,
+    "pim_soles": 338832661.71792156,
+    "devengado_soles": 335444335.10074234
+  },
+  {
+    "anio": 1994,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 103309387.06256625,
+    "pim_soles": 117397030.75291619,
+    "devengado_soles": 104248563.30858958
+  },
+  {
+    "anio": 1994,
+    "region": "MOQUEGUA",
+    "pia_soles": 131245794.27359493,
+    "pim_soles": 149142948.03817606,
+    "devengado_soles": 131150342.7868505
+  },
+  {
+    "anio": 1994,
+    "region": "PASCO",
+    "pia_soles": 122426570.51961826,
+    "pim_soles": 139121102.86320257,
+    "devengado_soles": 125008658.18875931
+  },
+  {
+    "anio": 1994,
+    "region": "PIURA",
+    "pia_soles": 386067104.98409337,
+    "pim_soles": 438712619.3001061,
+    "devengado_soles": 421585278.64263
+  },
+  {
+    "anio": 1994,
+    "region": "PUNO",
+    "pia_soles": 329534710.49840933,
+    "pim_soles": 374471261.9300106,
+    "devengado_soles": 370726549.3107105
+  },
+  {
+    "anio": 1994,
+    "region": "SAN MARTIN",
+    "pia_soles": 252534057.26405087,
+    "pim_soles": 286970519.61823964,
+    "devengado_soles": 284100814.4220573
+  },
+  {
+    "anio": 1994,
+    "region": "TACNA",
+    "pia_soles": 177873849.41675502,
+    "pim_soles": 202129374.33722162,
+    "devengado_soles": 196760818.154825
+  },
+  {
+    "anio": 1994,
+    "region": "TUMBES",
+    "pia_soles": 107309420.99681866,
+    "pim_soles": 121942523.8600212,
+    "devengado_soles": 115308850.56203605
+  },
+  {
+    "anio": 1994,
+    "region": "UCAYALI",
+    "pia_soles": 185746256.62778363,
+    "pim_soles": 211075291.62248138,
+    "devengado_soles": 185813800.7211028
+  },
+  {
+    "anio": 1995,
+    "region": "AMAZONAS",
+    "pia_soles": 164732640.5090138,
+    "pim_soles": 187196182.3966066,
+    "devengado_soles": 185324220.57264054
+  },
+  {
+    "anio": 1995,
+    "region": "ANCASH",
+    "pia_soles": 387256924.7083776,
+    "pim_soles": 440064687.16861093,
+    "devengado_soles": 394157139.00318146
+  },
+  {
+    "anio": 1995,
+    "region": "APURIMAC",
+    "pia_soles": 198690375.39766705,
+    "pim_soles": 225784517.4973489,
+    "devengado_soles": 223526672.32237542
+  },
+  {
+    "anio": 1995,
+    "region": "AREQUIPA",
+    "pia_soles": 519595673.38282067,
+    "pim_soles": 590449628.8441144,
+    "devengado_soles": 584545132.5556732
+  },
+  {
+    "anio": 1995,
+    "region": "AYACUCHO",
+    "pia_soles": 255576636.26723224,
+    "pim_soles": 290427995.75821847,
+    "devengado_soles": 269331306.14634144
+  },
+  {
+    "anio": 1995,
+    "region": "CAJAMARCA",
+    "pia_soles": 374052445.3870626,
+    "pim_soles": 425059597.03075296,
+    "devengado_soles": 420809001.0604454
+  },
+  {
+    "anio": 1995,
+    "region": "CALLAO",
+    "pia_soles": 888725344.644751,
+    "pim_soles": 1009915164.3690351,
+    "devengado_soles": 909408407.2110288
+  },
+  {
+    "anio": 1995,
+    "region": "CUSCO",
+    "pia_soles": 429410137.8579003,
+    "pim_soles": 487966065.747614,
+    "devengado_soles": 483086405.0901379
+  },
+  {
+    "anio": 1995,
+    "region": "HUANCAVELICA",
+    "pia_soles": 159676606.57476142,
+    "pim_soles": 181450689.2895016,
+    "devengado_soles": 179636182.3966066
+  },
+  {
+    "anio": 1995,
+    "region": "HUANUCO",
+    "pia_soles": 215175397.66702017,
+    "pim_soles": 244517497.34888655,
+    "devengado_soles": 240135743.79639453
+  },
+  {
+    "anio": 1995,
+    "region": "ICA",
+    "pia_soles": 291309862.14209974,
+    "pim_soles": 331033934.25238603,
+    "devengado_soles": 327723594.90986216
+  },
+  {
+    "anio": 1995,
+    "region": "JUNIN",
+    "pia_soles": 407833806.99893963,
+    "pim_soles": 463447507.9533405,
+    "devengado_soles": 448468884.4962885
+  },
+  {
+    "anio": 1995,
+    "region": "LA LIBERTAD",
+    "pia_soles": 440698027.5715801,
+    "pim_soles": 500793213.14952284,
+    "devengado_soles": 446627419.21527046
+  },
+  {
+    "anio": 1995,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 333839338.2820785,
+    "pim_soles": 379362884.41145283,
+    "devengado_soles": 330683039.0837752
+  },
+  {
+    "anio": 1995,
+    "region": "LIMA",
+    "pia_soles": 12894846235.418877,
+    "pim_soles": 14653234358.430542,
+    "devengado_soles": 13701360254.506893
+  },
+  {
+    "anio": 1995,
+    "region": "LORETO",
+    "pia_soles": 336802409.3319195,
+    "pim_soles": 382730010.604454,
+    "devengado_soles": 348314928.0509015
+  },
+  {
+    "anio": 1995,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 105294846.23541886,
+    "pim_soles": 119653234.35843052,
+    "devengado_soles": 107860211.58006361
+  },
+  {
+    "anio": 1995,
+    "region": "MOQUEGUA",
+    "pia_soles": 141086863.20254508,
+    "pim_soles": 160325980.91198304,
+    "devengado_soles": 141138167.5164369
+  },
+  {
+    "anio": 1995,
+    "region": "PASCO",
+    "pia_soles": 146460369.03499472,
+    "pim_soles": 166432237.53976673,
+    "devengado_soles": 164767915.16436905
+  },
+  {
+    "anio": 1995,
+    "region": "PIURA",
+    "pia_soles": 453514485.6839873,
+    "pim_soles": 515357370.09544015,
+    "devengado_soles": 452689913.8918346
+  },
+  {
+    "anio": 1995,
+    "region": "PUNO",
+    "pia_soles": 350300844.1145281,
+    "pim_soles": 398069141.0392365,
+    "devengado_soles": 359599739.2492047
+  },
+  {
+    "anio": 1995,
+    "region": "SAN MARTIN",
+    "pia_soles": 263337060.44538707,
+    "pim_soles": 299246659.59703076,
+    "devengado_soles": 268603801.65429485
+  },
+  {
+    "anio": 1995,
+    "region": "TACNA",
+    "pia_soles": 196597412.51325557,
+    "pim_soles": 223406150.58324495,
+    "devengado_soles": 194524203.43584305
+  },
+  {
+    "anio": 1995,
+    "region": "TUMBES",
+    "pia_soles": 131927211.02863204,
+    "pim_soles": 149917285.25980914,
+    "devengado_soles": 139027293.65853658
+  },
+  {
+    "anio": 1995,
+    "region": "UCAYALI",
+    "pia_soles": 213976059.38494167,
+    "pim_soles": 243154612.93743372,
+    "devengado_soles": 240723066.8080594
+  },
+  {
+    "anio": 1996,
+    "region": "AMAZONAS",
+    "pia_soles": 199742735.94909862,
+    "pim_soles": 226980381.76033935,
+    "devengado_soles": 224710577.94273594
+  },
+  {
+    "anio": 1996,
+    "region": "ANCASH",
+    "pia_soles": 468711983.0328739,
+    "pim_soles": 532627253.4464476,
+    "devengado_soles": 519503317.92152715
+  },
+  {
+    "anio": 1996,
+    "region": "APURIMAC",
+    "pia_soles": 208385026.51113465,
+    "pim_soles": 236801166.48992574,
+    "devengado_soles": 225510486.87168607
+  },
+  {
+    "anio": 1996,
+    "region": "AREQUIPA",
+    "pia_soles": 561811876.988335,
+    "pim_soles": 638422587.4867443,
+    "devengado_soles": 632038361.6118768
+  },
+  {
+    "anio": 1996,
+    "region": "AYACUCHO",
+    "pia_soles": 264963054.08271477,
+    "pim_soles": 301094379.6394486,
+    "devengado_soles": 288761553.8494168
+  },
+  {
+    "anio": 1996,
+    "region": "CAJAMARCA",
+    "pia_soles": 423636012.7253447,
+    "pim_soles": 481404559.9151645,
+    "devengado_soles": 468156306.4262992
+  },
+  {
+    "anio": 1996,
+    "region": "CALLAO",
+    "pia_soles": 1037242841.9936376,
+    "pim_soles": 1178685047.7200427,
+    "devengado_soles": 1151905323.4358432
+  },
+  {
+    "anio": 1996,
+    "region": "CUSCO",
+    "pia_soles": 471168610.816543,
+    "pim_soles": 535418875.92788976,
+    "devengado_soles": 530064687.1686109
+  },
+  {
+    "anio": 1996,
+    "region": "HUANCAVELICA",
+    "pia_soles": 183251834.5705197,
+    "pim_soles": 208240721.10286328,
+    "devengado_soles": 187516604.53870633
+  },
+  {
+    "anio": 1996,
+    "region": "HUANUCO",
+    "pia_soles": 231300954.4008484,
+    "pim_soles": 262841993.6373277,
+    "devengado_soles": 260213573.7009544
+  },
+  {
+    "anio": 1996,
+    "region": "ICA",
+    "pia_soles": 296685047.72004247,
+    "pim_soles": 337142099.6818664,
+    "devengado_soles": 302295092.2587487
+  },
+  {
+    "anio": 1996,
+    "region": "JUNIN",
+    "pia_soles": 454161187.69883364,
+    "pim_soles": 516092258.7486746,
+    "devengado_soles": 468694345.7051963
+  },
+  {
+    "anio": 1996,
+    "region": "LA LIBERTAD",
+    "pia_soles": 495356945.9172853,
+    "pim_soles": 562905620.3605515,
+    "devengado_soles": 514991093.9554613
+  },
+  {
+    "anio": 1996,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 387315715.80063635,
+    "pim_soles": 440131495.2279959,
+    "devengado_soles": 381541190.58324504
+  },
+  {
+    "anio": 1996,
+    "region": "LIMA",
+    "pia_soles": 13639533404.029694,
+    "pim_soles": 15499469777.306469,
+    "devengado_soles": 14299190837.751856
+  },
+  {
+    "anio": 1996,
+    "region": "LORETO",
+    "pia_soles": 354863032.8738071,
+    "pim_soles": 403253446.44750804,
+    "devengado_soles": 349185224.3478262
+  },
+  {
+    "anio": 1996,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 112362375.39766699,
+    "pim_soles": 127684517.49734886,
+    "devengado_soles": 126407672.32237537
+  },
+  {
+    "anio": 1996,
+    "region": "MOQUEGUA",
+    "pia_soles": 173601696.7126193,
+    "pim_soles": 197274655.3552492,
+    "devengado_soles": 189951820.14846236
+  },
+  {
+    "anio": 1996,
+    "region": "PASCO",
+    "pia_soles": 165085387.0625663,
+    "pim_soles": 187597030.75291625,
+    "devengado_soles": 185721060.4453871
+  },
+  {
+    "anio": 1996,
+    "region": "PIURA",
+    "pia_soles": 499312746.5535525,
+    "pim_soles": 567400848.3563097,
+    "devengado_soles": 490234332.97985154
+  },
+  {
+    "anio": 1996,
+    "region": "PUNO",
+    "pia_soles": 364840721.10286325,
+    "pim_soles": 414591728.52598095,
+    "devengado_soles": 372535543.58430547
+  },
+  {
+    "anio": 1996,
+    "region": "SAN MARTIN",
+    "pia_soles": 289630116.64899254,
+    "pim_soles": 329125132.55567336,
+    "devengado_soles": 289103516.4369035
+  },
+  {
+    "anio": 1996,
+    "region": "TACNA",
+    "pia_soles": 217493446.44750795,
+    "pim_soles": 247151643.69034994,
+    "devengado_soles": 244680127.25344643
+  },
+  {
+    "anio": 1996,
+    "region": "TUMBES",
+    "pia_soles": 141627741.25132555,
+    "pim_soles": 160940615.0583245,
+    "devengado_soles": 148477373.82820785
+  },
+  {
+    "anio": 1996,
+    "region": "UCAYALI",
+    "pia_soles": 227219172.85259804,
+    "pim_soles": 258203605.51431596,
+    "devengado_soles": 243165827.52916217
+  },
+  {
+    "anio": 1997,
+    "region": "AMAZONAS",
+    "pia_soles": 198142778.36691412,
+    "pim_soles": 225162248.1442206,
+    "devengado_soles": 221559652.17391303
+  },
+  {
+    "anio": 1997,
+    "region": "ANCASH",
+    "pia_soles": 467036436.90349954,
+    "pim_soles": 530723223.75397676,
+    "devengado_soles": 490133511.6012726
+  },
+  {
+    "anio": 1997,
+    "region": "APURIMAC",
+    "pia_soles": 221363580.06362674,
+    "pim_soles": 251549522.79957584,
+    "devengado_soles": 249034027.57158008
+  },
+  {
+    "anio": 1997,
+    "region": "AREQUIPA",
+    "pia_soles": 566611749.7348886,
+    "pim_soles": 643876988.3351007,
+    "devengado_soles": 637438218.4517497
+  },
+  {
+    "anio": 1997,
+    "region": "AYACUCHO",
+    "pia_soles": 269914943.79639447,
+    "pim_soles": 306721527.04135734,
+    "devengado_soles": 303654311.77094376
+  },
+  {
+    "anio": 1997,
+    "region": "CAJAMARCA",
+    "pia_soles": 407533132.5556734,
+    "pim_soles": 463105832.4496289,
+    "devengado_soles": 458474774.1251326
+  },
+  {
+    "anio": 1997,
+    "region": "CALLAO",
+    "pia_soles": 1105272534.4644754,
+    "pim_soles": 1255991516.4369037,
+    "devengado_soles": 1243431601.2725346
+  },
+  {
+    "anio": 1997,
+    "region": "CUSCO",
+    "pia_soles": 576757412.5132556,
+    "pim_soles": 655406150.583245,
+    "devengado_soles": 648852089.0774126
+  },
+  {
+    "anio": 1997,
+    "region": "HUANCAVELICA",
+    "pia_soles": 206568381.76033938,
+    "pim_soles": 234736797.4549311,
+    "devengado_soles": 204164676.95440087
+  },
+  {
+    "anio": 1997,
+    "region": "HUANUCO",
+    "pia_soles": 253708759.27889717,
+    "pim_soles": 288305408.27147406,
+    "devengado_soles": 274835779.59703076
+  },
+  {
+    "anio": 1997,
+    "region": "ICA",
+    "pia_soles": 342332131.49522805,
+    "pim_soles": 389013785.79003185,
+    "devengado_soles": 378681579.6394486
+  },
+  {
+    "anio": 1997,
+    "region": "JUNIN",
+    "pia_soles": 486319915.16436917,
+    "pim_soles": 552636267.2322377,
+    "devengado_soles": 518328607.76246035
+  },
+  {
+    "anio": 1997,
+    "region": "LA LIBERTAD",
+    "pia_soles": 586432746.5535525,
+    "pim_soles": 666400848.3563097,
+    "devengado_soles": 601999870.371156
+  },
+  {
+    "anio": 1997,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 400720084.835631,
+    "pim_soles": 455363732.7677625,
+    "devengado_soles": 443269272.0254507
+  },
+  {
+    "anio": 1997,
+    "region": "LIMA",
+    "pia_soles": 15285683987.274658,
+    "pim_soles": 17370095440.08484,
+    "devengado_soles": 16425162248.144224
+  },
+  {
+    "anio": 1997,
+    "region": "LORETO",
+    "pia_soles": 412384237.5397668,
+    "pim_soles": 468618451.749735,
+    "devengado_soles": 438626870.8377519
+  },
+  {
+    "anio": 1997,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 122634858.9607635,
+    "pim_soles": 139357794.2735949,
+    "devengado_soles": 129502411.06256624
+  },
+  {
+    "anio": 1997,
+    "region": "MOQUEGUA",
+    "pia_soles": 182030659.59703076,
+    "pim_soles": 206853022.26935312,
+    "devengado_soles": 185869851.69034994
+  },
+  {
+    "anio": 1997,
+    "region": "PASCO",
+    "pia_soles": 146258799.57582185,
+    "pim_soles": 166203181.3361612,
+    "devengado_soles": 155247067.62248144
+  },
+  {
+    "anio": 1997,
+    "region": "PIURA",
+    "pia_soles": 482046642.62990457,
+    "pim_soles": 547780275.7158006,
+    "devengado_soles": 531127755.3340403
+  },
+  {
+    "anio": 1997,
+    "region": "PUNO",
+    "pia_soles": 444205336.1611877,
+    "pim_soles": 504778791.09225875,
+    "devengado_soles": 457450731.6394486
+  },
+  {
+    "anio": 1997,
+    "region": "SAN MARTIN",
+    "pia_soles": 276418918.3457052,
+    "pim_soles": 314112407.21102864,
+    "devengado_soles": 281947296.7126193
+  },
+  {
+    "anio": 1997,
+    "region": "TACNA",
+    "pia_soles": 235863143.16012725,
+    "pim_soles": 268026299.04559916,
+    "devengado_soles": 265346036.05514318
+  },
+  {
+    "anio": 1997,
+    "region": "TUMBES",
+    "pia_soles": 145304704.135737,
+    "pim_soles": 165118981.9724284,
+    "devengado_soles": 149795940.44538707
+  },
+  {
+    "anio": 1997,
+    "region": "UCAYALI",
+    "pia_soles": 220839499.4697773,
+    "pim_soles": 250953976.67020145,
+    "devengado_soles": 219715225.65429476
+  },
+  {
+    "anio": 1998,
+    "region": "AMAZONAS",
+    "pia_soles": 226345705.19618246,
+    "pim_soles": 257211028.6320255,
+    "devengado_soles": 254638918.34570524
+  },
+  {
+    "anio": 1998,
+    "region": "ANCASH",
+    "pia_soles": 512462354.1887594,
+    "pim_soles": 582343584.3054084,
+    "devengado_soles": 534451647.9321316
+  },
+  {
+    "anio": 1998,
+    "region": "APURIMAC",
+    "pia_soles": 256525132.55567336,
+    "pim_soles": 291505832.44962883,
+    "devengado_soles": 262215326.40509012
+  },
+  {
+    "anio": 1998,
+    "region": "AREQUIPA",
+    "pia_soles": 590220572.640509,
+    "pim_soles": 670705196.1823967,
+    "devengado_soles": 625848432.6617179
+  },
+  {
+    "anio": 1998,
+    "region": "AYACUCHO",
+    "pia_soles": 330125980.9119831,
+    "pim_soles": 375143160.1272535,
+    "devengado_soles": 327364927.25344646
+  },
+  {
+    "anio": 1998,
+    "region": "CAJAMARCA",
+    "pia_soles": 457310710.49840933,
+    "pim_soles": 519671261.9300106,
+    "devengado_soles": 501877717.921527
+  },
+  {
+    "anio": 1998,
+    "region": "CALLAO",
+    "pia_soles": 1124496288.4411454,
+    "pim_soles": 1277836691.4103925,
+    "devengado_soles": 1165387062.566278
+  },
+  {
+    "anio": 1998,
+    "region": "CUSCO",
+    "pia_soles": 534718981.9724285,
+    "pim_soles": 607635206.7868506,
+    "devengado_soles": 576913170.7317073
+  },
+  {
+    "anio": 1998,
+    "region": "HUANCAVELICA",
+    "pia_soles": 207336585.3658537,
+    "pim_soles": 235609756.09756103,
+    "devengado_soles": 232292370.7317074
+  },
+  {
+    "anio": 1998,
+    "region": "HUANUCO",
+    "pia_soles": 300674443.2661718,
+    "pim_soles": 341675503.7115589,
+    "devengado_soles": 338258748.6744433
+  },
+  {
+    "anio": 1998,
+    "region": "ICA",
+    "pia_soles": 384591728.52598095,
+    "pim_soles": 437036055.14316016,
+    "devengado_soles": 412422184.51749736
+  },
+  {
+    "anio": 1998,
+    "region": "JUNIN",
+    "pia_soles": 459060445.38706267,
+    "pim_soles": 521659597.030753,
+    "devengado_soles": 464736101.80275726
+  },
+  {
+    "anio": 1998,
+    "region": "LA LIBERTAD",
+    "pia_soles": 559355249.2046659,
+    "pim_soles": 635630965.0053022,
+    "devengado_soles": 555897416.7550371
+  },
+  {
+    "anio": 1998,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 402523011.6648994,
+    "pim_soles": 457412513.2555675,
+    "devengado_soles": 414964632.0254508
+  },
+  {
+    "anio": 1998,
+    "region": "LIMA",
+    "pia_soles": 15726617179.215273,
+    "pim_soles": 17871155885.4719,
+    "devengado_soles": 15526460233.297987
+  },
+  {
+    "anio": 1998,
+    "region": "LORETO",
+    "pia_soles": 416632873.806999,
+    "pim_soles": 473446447.5079534,
+    "devengado_soles": 439964314.74019086
+  },
+  {
+    "anio": 1998,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 121193637.3276776,
+    "pim_soles": 137720042.41781545,
+    "devengado_soles": 122295397.66702011
+  },
+  {
+    "anio": 1998,
+    "region": "MOQUEGUA",
+    "pia_soles": 192526829.2682927,
+    "pim_soles": 218780487.80487806,
+    "devengado_soles": 203518360.97560978
+  },
+  {
+    "anio": 1998,
+    "region": "PASCO",
+    "pia_soles": 166462778.36691412,
+    "pim_soles": 189162248.1442206,
+    "devengado_soles": 187270625.66277838
+  },
+  {
+    "anio": 1998,
+    "region": "PIURA",
+    "pia_soles": 539366277.8366915,
+    "pim_soles": 612916224.8144221,
+    "devengado_soles": 606787062.5662779
+  },
+  {
+    "anio": 1998,
+    "region": "PUNO",
+    "pia_soles": 408514103.923648,
+    "pim_soles": 464220572.64050907,
+    "devengado_soles": 412227868.50477207
+  },
+  {
+    "anio": 1998,
+    "region": "SAN MARTIN",
+    "pia_soles": 287320466.5959703,
+    "pim_soles": 326500530.2226935,
+    "devengado_soles": 303723853.23435843
+  },
+  {
+    "anio": 1998,
+    "region": "TACNA",
+    "pia_soles": 231356945.91728523,
+    "pim_soles": 262905620.36055142,
+    "devengado_soles": 260276564.1569459
+  },
+  {
+    "anio": 1998,
+    "region": "TUMBES",
+    "pia_soles": 161521527.04135734,
+    "pim_soles": 183547189.81972426,
+    "devengado_soles": 181711717.92152703
+  },
+  {
+    "anio": 1998,
+    "region": "UCAYALI",
+    "pia_soles": 241379427.359491,
+    "pim_soles": 274294803.8176034,
+    "devengado_soles": 271551855.77942735
+  },
+  {
+    "anio": 1999,
+    "region": "AMAZONAS",
+    "pia_soles": 214108759.27889714,
+    "pim_soles": 243305408.27147403,
+    "devengado_soles": 228434581.71792153
+  },
+  {
+    "anio": 1999,
+    "region": "ANCASH",
+    "pia_soles": 560347698.8335102,
+    "pim_soles": 636758748.6744434,
+    "devengado_soles": 630391161.187699
+  },
+  {
+    "anio": 1999,
+    "region": "APURIMAC",
+    "pia_soles": 238116241.78154826,
+    "pim_soles": 270586638.38812304,
+    "devengado_soles": 256126488.43266174
+  },
+  {
+    "anio": 1999,
+    "region": "AREQUIPA",
+    "pia_soles": 653009459.1728525,
+    "pim_soles": 742056203.6055142,
+    "devengado_soles": 717360573.1495227
+  },
+  {
+    "anio": 1999,
+    "region": "AYACUCHO",
+    "pia_soles": 332306290.56203604,
+    "pim_soles": 377620784.7295864,
+    "devengado_soles": 373844576.88229054
+  },
+  {
+    "anio": 1999,
+    "region": "CAJAMARCA",
+    "pia_soles": 491114748.67444336,
+    "pim_soles": 558084941.6755038,
+    "devengado_soles": 484328435.78366923
+  },
+  {
+    "anio": 1999,
+    "region": "CALLAO",
+    "pia_soles": 1224114528.101803,
+    "pim_soles": 1391039236.4793217,
+    "devengado_soles": 1332726871.6861084
+  },
+  {
+    "anio": 1999,
+    "region": "CUSCO",
+    "pia_soles": 623185577.942736,
+    "pim_soles": 708165429.4803818,
+    "devengado_soles": 637008967.126193
+  },
+  {
+    "anio": 1999,
+    "region": "HUANCAVELICA",
+    "pia_soles": 209598082.71474025,
+    "pim_soles": 238179639.44856846,
+    "devengado_soles": 232082240.67868513
+  },
+  {
+    "anio": 1999,
+    "region": "HUANUCO",
+    "pia_soles": 275685429.4803818,
+    "pim_soles": 313278897.1367975,
+    "devengado_soles": 310146108.16542953
+  },
+  {
+    "anio": 1999,
+    "region": "ICA",
+    "pia_soles": 401361187.6988336,
+    "pim_soles": 456092258.7486745,
+    "devengado_soles": 420772474.23117715
+  },
+  {
+    "anio": 1999,
+    "region": "JUNIN",
+    "pia_soles": 560867020.1484625,
+    "pim_soles": 637348886.5323437,
+    "devengado_soles": 581874039.4485686
+  },
+  {
+    "anio": 1999,
+    "region": "LA LIBERTAD",
+    "pia_soles": 611315376.4581125,
+    "pim_soles": 694676564.156946,
+    "devengado_soles": 636879474.019088
+  },
+  {
+    "anio": 1999,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 375157717.9215271,
+    "pim_soles": 426315588.5471899,
+    "devengado_soles": 422052432.661718
+  },
+  {
+    "anio": 1999,
+    "region": "LIMA",
+    "pia_soles": 17362642629.904564,
+    "pim_soles": 19730275715.80064,
+    "devengado_soles": 19532972958.642635
+  },
+  {
+    "anio": 1999,
+    "region": "LORETO",
+    "pia_soles": 439553560.97560984,
+    "pim_soles": 499492682.92682934,
+    "devengado_soles": 459852943.6097562
+  },
+  {
+    "anio": 1999,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 123123664.89925769,
+    "pim_soles": 139913255.5673383,
+    "devengado_soles": 134988308.97136799
+  },
+  {
+    "anio": 1999,
+    "region": "MOQUEGUA",
+    "pia_soles": 202728203.6055143,
+    "pim_soles": 230372958.64262986,
+    "devengado_soles": 226465833.26405087
+  },
+  {
+    "anio": 1999,
+    "region": "PASCO",
+    "pia_soles": 178053022.26935312,
+    "pim_soles": 202332979.85153764,
+    "devengado_soles": 200309650.05302227
+  },
+  {
+    "anio": 1999,
+    "region": "PIURA",
+    "pia_soles": 593153968.1866385,
+    "pim_soles": 674038600.2120892,
+    "devengado_soles": 667298214.2099683
+  },
+  {
+    "anio": 1999,
+    "region": "PUNO",
+    "pia_soles": 493800381.7603394,
+    "pim_soles": 561136797.4549311,
+    "devengado_soles": 555525429.4803818
+  },
+  {
+    "anio": 1999,
+    "region": "SAN MARTIN",
+    "pia_soles": 342752067.86850476,
+    "pim_soles": 389490986.21421,
+    "devengado_soles": 385596076.3520679
+  },
+  {
+    "anio": 1999,
+    "region": "TACNA",
+    "pia_soles": 252123079.53340405,
+    "pim_soles": 286503499.46977735,
+    "devengado_soles": 283638464.4750796
+  },
+  {
+    "anio": 1999,
+    "region": "TUMBES",
+    "pia_soles": 171539249.20466593,
+    "pim_soles": 194930965.0053022,
+    "devengado_soles": 168794621.21739128
+  },
+  {
+    "anio": 1999,
+    "region": "UCAYALI",
+    "pia_soles": 288980055.1431601,
+    "pim_soles": 328386426.29904556,
+    "devengado_soles": 325102562.0360551
+  },
+  {
+    "anio": 2000,
+    "region": "AMAZONAS",
+    "pia_soles": 253272025.45068932,
+    "pim_soles": 287809119.83032876,
+    "devengado_soles": 284931028.6320255
+  },
+  {
+    "anio": 2000,
+    "region": "ANCASH",
+    "pia_soles": 594260360.5514317,
+    "pim_soles": 675295864.2629905,
+    "devengado_soles": 668542905.6203606
+  },
+  {
+    "anio": 2000,
+    "region": "APURIMAC",
+    "pia_soles": 280112118.76988333,
+    "pim_soles": 318309225.87486744,
+    "devengado_soles": 286631091.71580064
+  },
+  {
+    "anio": 2000,
+    "region": "AREQUIPA",
+    "pia_soles": 637765768.8229055,
+    "pim_soles": 724733828.2078472,
+    "devengado_soles": 717486489.9257687
+  },
+  {
+    "anio": 2000,
+    "region": "AYACUCHO",
+    "pia_soles": 342148479.32131493,
+    "pim_soles": 388805090.13785785,
+    "devengado_soles": 384917039.2364793
+  },
+  {
+    "anio": 2000,
+    "region": "CAJAMARCA",
+    "pia_soles": 471316428.4199364,
+    "pim_soles": 535586850.47720045,
+    "devengado_soles": 476115286.6002121
+  },
+  {
+    "anio": 2000,
+    "region": "CALLAO",
+    "pia_soles": 1407066808.059385,
+    "pim_soles": 1598939554.6129377,
+    "devengado_soles": 1511957242.8419938
+  },
+  {
+    "anio": 2000,
+    "region": "CUSCO",
+    "pia_soles": 684798642.6299046,
+    "pim_soles": 778180275.7158006,
+    "devengado_soles": 709700411.4528102
+  },
+  {
+    "anio": 2000,
+    "region": "HUANCAVELICA",
+    "pia_soles": 230461081.65429485,
+    "pim_soles": 261887592.78897142,
+    "devengado_soles": 259268716.86108172
+  },
+  {
+    "anio": 2000,
+    "region": "HUANUCO",
+    "pia_soles": 325781039.2364794,
+    "pim_soles": 370205726.4050902,
+    "devengado_soles": 344380174.93107116
+  },
+  {
+    "anio": 2000,
+    "region": "ICA",
+    "pia_soles": 413889289.5015907,
+    "pim_soles": 470328738.06998944,
+    "devengado_soles": 465625450.68928957
+  },
+  {
+    "anio": 2000,
+    "region": "JUNIN",
+    "pia_soles": 520732301.1664901,
+    "pim_soles": 591741251.3255569,
+    "devengado_soles": 546484880.4241782
+  },
+  {
+    "anio": 2000,
+    "region": "LA LIBERTAD",
+    "pia_soles": 672256542.9480382,
+    "pim_soles": 763927889.7136798,
+    "devengado_soles": 676901224.5174974
+  },
+  {
+    "anio": 2000,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 446436038.17603403,
+    "pim_soles": 507313679.74549323,
+    "devengado_soles": 502240542.9480383
+  },
+  {
+    "anio": 2000,
+    "region": "LIMA",
+    "pia_soles": 16461505832.449633,
+    "pim_soles": 18706256627.783672,
+    "devengado_soles": 16467491834.570522
+  },
+  {
+    "anio": 2000,
+    "region": "LORETO",
+    "pia_soles": 399026901.3785791,
+    "pim_soles": 453439660.65747625,
+    "devengado_soles": 448905264.0509015
+  },
+  {
+    "anio": 2000,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 149423440.0848356,
+    "pim_soles": 169799363.7327677,
+    "devengado_soles": 164637463.07529157
+  },
+  {
+    "anio": 2000,
+    "region": "MOQUEGUA",
+    "pia_soles": 198102464.4750795,
+    "pim_soles": 225116436.90349945,
+    "devengado_soles": 222865272.53446445
+  },
+  {
+    "anio": 2000,
+    "region": "PASCO",
+    "pia_soles": 204875198.30328736,
+    "pim_soles": 232812725.34464473,
+    "devengado_soles": 230484598.09119827
+  },
+  {
+    "anio": 2000,
+    "region": "PIURA",
+    "pia_soles": 574898494.1675504,
+    "pim_soles": 653293743.3722165,
+    "devengado_soles": 564445794.273595
+  },
+  {
+    "anio": 2000,
+    "region": "PUNO",
+    "pia_soles": 494660411.4528102,
+    "pim_soles": 562114103.923648,
+    "devengado_soles": 485666585.79003185
+  },
+  {
+    "anio": 2000,
+    "region": "SAN MARTIN",
+    "pia_soles": 334560509.0137858,
+    "pim_soles": 380182396.6065747,
+    "devengado_soles": 376380572.64050895
+  },
+  {
+    "anio": 2000,
+    "region": "TACNA",
+    "pia_soles": 236293158.00636268,
+    "pim_soles": 268514952.2799576,
+    "devengado_soles": 236121308.4369035
+  },
+  {
+    "anio": 2000,
+    "region": "TUMBES",
+    "pia_soles": 166590439.02439022,
+    "pim_soles": 189307317.0731707,
+    "devengado_soles": 167377957.4634146
+  },
+  {
+    "anio": 2000,
+    "region": "UCAYALI",
+    "pia_soles": 276835495.2279957,
+    "pim_soles": 314585790.03181326,
+    "devengado_soles": 311439932.1314951
+  },
+  {
+    "anio": 2001,
+    "region": "AMAZONAS",
+    "pia_soles": 223590922.58748674,
+    "pim_soles": 254080593.84941676,
+    "devengado_soles": 237575518.47295865
+  },
+  {
+    "anio": 2001,
+    "region": "ANCASH",
+    "pia_soles": 585931622.4814423,
+    "pim_soles": 665831389.1834573,
+    "devengado_soles": 659173075.2916226
+  },
+  {
+    "anio": 2001,
+    "region": "APURIMAC",
+    "pia_soles": 253403045.59915164,
+    "pim_soles": 287958006.3626723,
+    "devengado_soles": 275057487.6776246
+  },
+  {
+    "anio": 2001,
+    "region": "AREQUIPA",
+    "pia_soles": 743841696.7126193,
+    "pim_soles": 845274655.3552492,
+    "devengado_soles": 836821908.8016967
+  },
+  {
+    "anio": 2001,
+    "region": "AYACUCHO",
+    "pia_soles": 365799295.864263,
+    "pim_soles": 415681018.0275716,
+    "devengado_soles": 411524207.8472959
+  },
+  {
+    "anio": 2001,
+    "region": "CAJAMARCA",
+    "pia_soles": 519227809.1198304,
+    "pim_soles": 590031601.2725346,
+    "devengado_soles": 582856817.0010605
+  },
+  {
+    "anio": 2001,
+    "region": "CALLAO",
+    "pia_soles": 1225934252.3860023,
+    "pim_soles": 1393107104.9840934,
+    "devengado_soles": 1361455711.5588548
+  },
+  {
+    "anio": 2001,
+    "region": "CUSCO",
+    "pia_soles": 694966702.0148463,
+    "pim_soles": 789734888.6532345,
+    "devengado_soles": 781837539.7667022
+  },
+  {
+    "anio": 2001,
+    "region": "HUANCAVELICA",
+    "pia_soles": 239146485.68398732,
+    "pim_soles": 271757370.09544015,
+    "devengado_soles": 268191913.39978796
+  },
+  {
+    "anio": 2001,
+    "region": "HUANUCO",
+    "pia_soles": 304940996.8186639,
+    "pim_soles": 346523860.02120894,
+    "devengado_soles": 338318175.01590675
+  },
+  {
+    "anio": 2001,
+    "region": "ICA",
+    "pia_soles": 442878897.13679755,
+    "pim_soles": 503271474.0190881,
+    "devengado_soles": 458983584.30540836
+  },
+  {
+    "anio": 2001,
+    "region": "JUNIN",
+    "pia_soles": 603549353.128314,
+    "pim_soles": 685851537.6458113,
+    "devengado_soles": 678993022.2693532
+  },
+  {
+    "anio": 2001,
+    "region": "LA LIBERTAD",
+    "pia_soles": 703410222.6935313,
+    "pim_soles": 799329798.5153764,
+    "devengado_soles": 791336500.5302227
+  },
+  {
+    "anio": 2001,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 486931342.52386004,
+    "pim_soles": 553331071.0498409,
+    "devengado_soles": 547797760.3393425
+  },
+  {
+    "anio": 2001,
+    "region": "LIMA",
+    "pia_soles": 18583864262.990456,
+    "pim_soles": 21118027571.580063,
+    "devengado_soles": 20906847295.86426
+  },
+  {
+    "anio": 2001,
+    "region": "LORETO",
+    "pia_soles": 438738324.49628854,
+    "pim_soles": 498566277.8366915,
+    "devengado_soles": 480059497.60339355
+  },
+  {
+    "anio": 2001,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 147014685.04772002,
+    "pim_soles": 167062142.09968182,
+    "devengado_soles": 163266490.23117703
+  },
+  {
+    "anio": 2001,
+    "region": "MOQUEGUA",
+    "pia_soles": 211299104.98409334,
+    "pim_soles": 240112619.30010605,
+    "devengado_soles": 237711493.107105
+  },
+  {
+    "anio": 2001,
+    "region": "PASCO",
+    "pia_soles": 192901972.42841992,
+    "pim_soles": 219206786.8504772,
+    "devengado_soles": 217014718.98197243
+  },
+  {
+    "anio": 2001,
+    "region": "PIURA",
+    "pia_soles": 589877344.644751,
+    "pim_soles": 670315164.3690351,
+    "devengado_soles": 654442101.2767764
+  },
+  {
+    "anio": 2001,
+    "region": "PUNO",
+    "pia_soles": 472837158.00636274,
+    "pim_soles": 537314952.2799577,
+    "devengado_soles": 488483769.41675514
+  },
+  {
+    "anio": 2001,
+    "region": "SAN MARTIN",
+    "pia_soles": 329362256.6277837,
+    "pim_soles": 374275291.62248147,
+    "devengado_soles": 347087934.4390244
+  },
+  {
+    "anio": 2001,
+    "region": "TACNA",
+    "pia_soles": 268114256.6277837,
+    "pim_soles": 304675291.62248147,
+    "devengado_soles": 284006119.8388123
+  },
+  {
+    "anio": 2001,
+    "region": "TUMBES",
+    "pia_soles": 170396742.31177098,
+    "pim_soles": 193632661.71792156,
+    "devengado_soles": 171759916.25026515
+  },
+  {
+    "anio": 2001,
+    "region": "UCAYALI",
+    "pia_soles": 302505365.85365856,
+    "pim_soles": 343756097.5609756,
+    "devengado_soles": 340318536.58536583
+  },
+  {
+    "anio": 2002,
+    "region": "AMAZONAS",
+    "pia_soles": 247930434.78260872,
+    "pim_soles": 281739130.4347826,
+    "devengado_soles": 273444730.4347826
+  },
+  {
+    "anio": 2002,
+    "region": "ANCASH",
+    "pia_soles": 582619724.2841995,
+    "pim_soles": 662067868.5047721,
+    "devengado_soles": 615882013.9978793
+  },
+  {
+    "anio": 2002,
+    "region": "APURIMAC",
+    "pia_soles": 274420021.2089078,
+    "pim_soles": 311840933.19194067,
+    "devengado_soles": 289787542.39660656
+  },
+  {
+    "anio": 2002,
+    "region": "AREQUIPA",
+    "pia_soles": 702217603.3934253,
+    "pim_soles": 797974549.3107105,
+    "devengado_soles": 699408732.9798516
+  },
+  {
+    "anio": 2002,
+    "region": "AYACUCHO",
+    "pia_soles": 400585705.1961824,
+    "pim_soles": 455211028.6320255,
+    "devengado_soles": 440061605.5991517
+  },
+  {
+    "anio": 2002,
+    "region": "CAJAMARCA",
+    "pia_soles": 585357709.4379641,
+    "pim_soles": 665179215.2704138,
+    "devengado_soles": 658527423.1177096
+  },
+  {
+    "anio": 2002,
+    "region": "CALLAO",
+    "pia_soles": 1513170731.707317,
+    "pim_soles": 1719512195.1219513,
+    "devengado_soles": 1677143414.6341465
+  },
+  {
+    "anio": 2002,
+    "region": "CUSCO",
+    "pia_soles": 698102226.935313,
+    "pim_soles": 793297985.1537647,
+    "devengado_soles": 725772460.6574763
+  },
+  {
+    "anio": 2002,
+    "region": "HUANCAVELICA",
+    "pia_soles": 217291876.98833513,
+    "pim_soles": 246922587.48674446,
+    "devengado_soles": 224008171.36797458
+  },
+  {
+    "anio": 2002,
+    "region": "HUANUCO",
+    "pia_soles": 356777942.7359491,
+    "pim_soles": 405429480.38176036,
+    "devengado_soles": 401375185.5779427
+  },
+  {
+    "anio": 2002,
+    "region": "ICA",
+    "pia_soles": 435893955.4612938,
+    "pim_soles": 495334040.29692477,
+    "devengado_soles": 470289951.2195122
+  },
+  {
+    "anio": 2002,
+    "region": "JUNIN",
+    "pia_soles": 617306468.7168612,
+    "pim_soles": 701484623.5418878,
+    "devengado_soles": 670058112.4072112
+  },
+  {
+    "anio": 2002,
+    "region": "LA LIBERTAD",
+    "pia_soles": 652413149.5227996,
+    "pim_soles": 741378579.0031813,
+    "devengado_soles": 733964793.2131495
+  },
+  {
+    "anio": 2002,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 515009968.1866385,
+    "pim_soles": 585238600.2120892,
+    "devengado_soles": 566885517.7094381
+  },
+  {
+    "anio": 2002,
+    "region": "LIMA",
+    "pia_soles": 19499045599.15164,
+    "pim_soles": 22158006362.67232,
+    "devengado_soles": 20357003605.514313
+  },
+  {
+    "anio": 2002,
+    "region": "LORETO",
+    "pia_soles": 458570519.6182397,
+    "pim_soles": 521102863.2025451,
+    "devengado_soles": 495756419.9363733
+  },
+  {
+    "anio": 2002,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 163573616.11876988,
+    "pim_soles": 185879109.22587487,
+    "devengado_soles": 184020318.13361612
+  },
+  {
+    "anio": 2002,
+    "region": "MOQUEGUA",
+    "pia_soles": 230595461.2937434,
+    "pim_soles": 262040296.9247084,
+    "devengado_soles": 257596093.48886535
+  },
+  {
+    "anio": 2002,
+    "region": "PASCO",
+    "pia_soles": 197134931.07104984,
+    "pim_soles": 224016967.126193,
+    "devengado_soles": 194195828.46235418
+  },
+  {
+    "anio": 2002,
+    "region": "PIURA",
+    "pia_soles": 581494294.8038176,
+    "pim_soles": 660788971.3679746,
+    "devengado_soles": 651485062.6511136
+  },
+  {
+    "anio": 2002,
+    "region": "PUNO",
+    "pia_soles": 550956521.7391304,
+    "pim_soles": 626086956.5217391,
+    "devengado_soles": 619826086.9565217
+  },
+  {
+    "anio": 2002,
+    "region": "SAN MARTIN",
+    "pia_soles": 333328695.65217394,
+    "pim_soles": 378782608.6956522,
+    "devengado_soles": 366540354.7826087
+  },
+  {
+    "anio": 2002,
+    "region": "TACNA",
+    "pia_soles": 253440000.00000006,
+    "pim_soles": 288000000.00000006,
+    "devengado_soles": 259614720.00000006
+  },
+  {
+    "anio": 2002,
+    "region": "TUMBES",
+    "pia_soles": 187728356.30965006,
+    "pim_soles": 213327677.62460235,
+    "devengado_soles": 193326074.57051966
+  },
+  {
+    "anio": 2002,
+    "region": "UCAYALI",
+    "pia_soles": 312936585.36585367,
+    "pim_soles": 355609756.097561,
+    "devengado_soles": 352053658.5365854
+  },
+  {
+    "anio": 2003,
+    "region": "AMAZONAS",
+    "pia_soles": 954991304.3478262,
+    "pim_soles": 1085217391.304348,
+    "devengado_soles": 957422191.304348
+  },
+  {
+    "anio": 2003,
+    "region": "ANCASH",
+    "pia_soles": 1912670201.484624,
+    "pim_soles": 2173488865.3234363,
+    "devengado_soles": 2151753976.670202
+  },
+  {
+    "anio": 2003,
+    "region": "APURIMAC",
+    "pia_soles": 1072170349.9469779,
+    "pim_soles": 1218375397.6670203,
+    "devengado_soles": 1073729870.4559916
+  },
+  {
+    "anio": 2003,
+    "region": "AREQUIPA",
+    "pia_soles": 2795096500.530223,
+    "pim_soles": 3176246023.3297987,
+    "devengado_soles": 2756473348.8865323
+  },
+  {
+    "anio": 2003,
+    "region": "AYACUCHO",
+    "pia_soles": 1411165387.0625663,
+    "pim_soles": 1603597030.7529163,
+    "devengado_soles": 1405520725.514316
+  },
+  {
+    "anio": 2003,
+    "region": "CAJAMARCA",
+    "pia_soles": 2049737433.7221637,
+    "pim_soles": 2329247083.775186,
+    "devengado_soles": 2247257586.4262996
+  },
+  {
+    "anio": 2003,
+    "region": "CALLAO",
+    "pia_soles": 1552831389.1834574,
+    "pim_soles": 1764581124.0721107,
+    "devengado_soles": 1746935312.8313894
+  },
+  {
+    "anio": 2003,
+    "region": "CUSCO",
+    "pia_soles": 2283856627.7836695,
+    "pim_soles": 2595291622.4814425,
+    "devengado_soles": 2569338706.256628
+  },
+  {
+    "anio": 2003,
+    "region": "HUANCAVELICA",
+    "pia_soles": 826106299.0455991,
+    "pim_soles": 938757158.0063627,
+    "devengado_soles": 929369586.4262991
+  },
+  {
+    "anio": 2003,
+    "region": "HUANUCO",
+    "pia_soles": 1167012513.2555673,
+    "pim_soles": 1326150583.244963,
+    "devengado_soles": 1196718286.3202546
+  },
+  {
+    "anio": 2003,
+    "region": "ICA",
+    "pia_soles": 1639431601.2725348,
+    "pim_soles": 1862990455.9915168,
+    "devengado_soles": 1623931520.6786854
+  },
+  {
+    "anio": 2003,
+    "region": "JUNIN",
+    "pia_soles": 2142608695.6521742,
+    "pim_soles": 2434782608.6956525,
+    "devengado_soles": 2148062608.6956525
+  },
+  {
+    "anio": 2003,
+    "region": "LA LIBERTAD",
+    "pia_soles": 2592033934.252386,
+    "pim_soles": 2945493107.1049843,
+    "devengado_soles": 2916038176.0339346
+  },
+  {
+    "anio": 2003,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 1665590837.7518559,
+    "pim_soles": 1892716861.0816543,
+    "devengado_soles": 1709804703.6267233
+  },
+  {
+    "anio": 2003,
+    "region": "LIMA",
+    "pia_soles": 18896763520.678688,
+    "pim_soles": 21473594909.862144,
+    "devengado_soles": 19047937628.844116
+  },
+  {
+    "anio": 2003,
+    "region": "LORETO",
+    "pia_soles": 1782650434.782609,
+    "pim_soles": 2025739130.434783,
+    "devengado_soles": 1769685704.3478265
+  },
+  {
+    "anio": 2003,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 574607338.2820784,
+    "pim_soles": 652962884.4114527,
+    "devengado_soles": 578577352.6193
+  },
+  {
+    "anio": 2003,
+    "region": "MOQUEGUA",
+    "pia_soles": 805143075.2916225,
+    "pim_soles": 914935312.8313892,
+    "devengado_soles": 841447708.5047721
+  },
+  {
+    "anio": 2003,
+    "region": "PASCO",
+    "pia_soles": 716691410.3923649,
+    "pim_soles": 814422057.264051,
+    "devengado_soles": 749007677.6246024
+  },
+  {
+    "anio": 2003,
+    "region": "PIURA",
+    "pia_soles": 2355764665.959703,
+    "pim_soles": 2677005302.2269354,
+    "devengado_soles": 2650235249.204666
+  },
+  {
+    "anio": 2003,
+    "region": "PUNO",
+    "pia_soles": 1924555334.0402973,
+    "pim_soles": 2186994697.773065,
+    "devengado_soles": 2165124750.7953343
+  },
+  {
+    "anio": 2003,
+    "region": "SAN MARTIN",
+    "pia_soles": 1191738366.914104,
+    "pim_soles": 1354248144.2205727,
+    "devengado_soles": 1268876341.2089076
+  },
+  {
+    "anio": 2003,
+    "region": "TACNA",
+    "pia_soles": 978522672.3223755,
+    "pim_soles": 1111957582.1845176,
+    "devengado_soles": 1003430522.1633086
+  },
+  {
+    "anio": 2003,
+    "region": "TUMBES",
+    "pia_soles": 618863032.8738071,
+    "pim_soles": 703253446.4475081,
+    "devengado_soles": 627864676.9883353
+  },
+  {
+    "anio": 2003,
+    "region": "UCAYALI",
+    "pia_soles": 1098687932.1314952,
+    "pim_soles": 1248509013.78579,
+    "devengado_soles": 1087101768.4835632
+  },
+  {
+    "anio": 2004,
+    "region": "AMAZONAS",
+    "pia_soles": 907118557.7942737,
+    "pim_soles": 1030816542.9480383,
+    "devengado_soles": 1020508377.5185579
+  },
+  {
+    "anio": 2004,
+    "region": "ANCASH",
+    "pia_soles": 2396455567.3382826,
+    "pim_soles": 2723244962.884412,
+    "devengado_soles": 2643072631.177095
+  },
+  {
+    "anio": 2004,
+    "region": "APURIMAC",
+    "pia_soles": 1034540318.1336162,
+    "pim_soles": 1175613997.8791094,
+    "devengado_soles": 1085703039.321315
+  },
+  {
+    "anio": 2004,
+    "region": "AREQUIPA",
+    "pia_soles": 2581432873.8069987,
+    "pim_soles": 2933446447.507953,
+    "devengado_soles": 2706280354.6129375
+  },
+  {
+    "anio": 2004,
+    "region": "AYACUCHO",
+    "pia_soles": 1503551389.183457,
+    "pim_soles": 1708581124.0721102,
+    "devengado_soles": 1691495312.831389
+  },
+  {
+    "anio": 2004,
+    "region": "CAJAMARCA",
+    "pia_soles": 2261609331.919407,
+    "pim_soles": 2570010604.4538713,
+    "devengado_soles": 2472144600.6362677
+  },
+  {
+    "anio": 2004,
+    "region": "CALLAO",
+    "pia_soles": 1592772004.2417817,
+    "pim_soles": 1809968186.6383884,
+    "devengado_soles": 1622889874.8674445
+  },
+  {
+    "anio": 2004,
+    "region": "CUSCO",
+    "pia_soles": 2490054718.9819727,
+    "pim_soles": 2829607635.206787,
+    "devengado_soles": 2615915666.5959706
+  },
+  {
+    "anio": 2004,
+    "region": "HUANCAVELICA",
+    "pia_soles": 876849544.0084836,
+    "pim_soles": 996419936.3732768,
+    "devengado_soles": 986455737.009544
+  },
+  {
+    "anio": 2004,
+    "region": "HUANUCO",
+    "pia_soles": 1250103923.6479323,
+    "pim_soles": 1420572640.509014,
+    "devengado_soles": 1358294735.9490988
+  },
+  {
+    "anio": 2004,
+    "region": "ICA",
+    "pia_soles": 1513450689.289502,
+    "pim_soles": 1719830328.7380702,
+    "devengado_soles": 1588297705.1961825
+  },
+  {
+    "anio": 2004,
+    "region": "JUNIN",
+    "pia_soles": 2360919618.2396607,
+    "pim_soles": 2682863202.545069,
+    "devengado_soles": 2400411364.5811243
+  },
+  {
+    "anio": 2004,
+    "region": "LA LIBERTAD",
+    "pia_soles": 2708346977.730647,
+    "pim_soles": 3077667020.148463,
+    "devengado_soles": 3010696985.7900324
+  },
+  {
+    "anio": 2004,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 1712832746.5535524,
+    "pim_soles": 1946400848.3563097,
+    "devengado_soles": 1926936839.8727465
+  },
+  {
+    "anio": 2004,
+    "region": "LIMA",
+    "pia_soles": 24120025450.68929,
+    "pim_soles": 27409119830.32874,
+    "devengado_soles": 25707561671.26193
+  },
+  {
+    "anio": 2004,
+    "region": "LORETO",
+    "pia_soles": 1920718048.780488,
+    "pim_soles": 2182634146.3414636,
+    "devengado_soles": 2160807804.878049
+  },
+  {
+    "anio": 2004,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 553980063.6267232,
+    "pim_soles": 629522799.5758218,
+    "devengado_soles": 564455323.0116649
+  },
+  {
+    "anio": 2004,
+    "region": "MOQUEGUA",
+    "pia_soles": 791944008.4835631,
+    "pim_soles": 899936373.2767762,
+    "devengado_soles": 807782888.6532344
+  },
+  {
+    "anio": 2004,
+    "region": "PASCO",
+    "pia_soles": 696758430.5408272,
+    "pim_soles": 791770943.7963945,
+    "devengado_soles": 740337503.2873807
+  },
+  {
+    "anio": 2004,
+    "region": "PIURA",
+    "pia_soles": 2580163732.7677627,
+    "pim_soles": 2932004241.7815485,
+    "devengado_soles": 2902684199.363733
+  },
+  {
+    "anio": 2004,
+    "region": "PUNO",
+    "pia_soles": 2109820063.626724,
+    "pim_soles": 2397522799.575823,
+    "devengado_soles": 2373547571.580065
+  },
+  {
+    "anio": 2004,
+    "region": "SAN MARTIN",
+    "pia_soles": 1282974676.564157,
+    "pim_soles": 1457925768.8229058,
+    "devengado_soles": 1289039647.7624605
+  },
+  {
+    "anio": 2004,
+    "region": "TACNA",
+    "pia_soles": 1099583796.394486,
+    "pim_soles": 1249527041.3573704,
+    "devengado_soles": 1237031770.9437966
+  },
+  {
+    "anio": 2004,
+    "region": "TUMBES",
+    "pia_soles": 695933488.8653235,
+    "pim_soles": 790833510.0742313,
+    "devengado_soles": 782925174.9734889
+  },
+  {
+    "anio": 2004,
+    "region": "UCAYALI",
+    "pia_soles": 1058844369.0349946,
+    "pim_soles": 1203232237.5397666,
+    "devengado_soles": 1078866153.4676564
+  },
+  {
+    "anio": 2005,
+    "region": "AMAZONAS",
+    "pia_soles": 959470625.6627786,
+    "pim_soles": 1090307529.1622484,
+    "devengado_soles": 1013200980.6998941
+  },
+  {
+    "anio": 2005,
+    "region": "ANCASH",
+    "pia_soles": 2241116436.9035,
+    "pim_soles": 2546723223.7539773,
+    "devengado_soles": 2521255991.5164375
+  },
+  {
+    "anio": 2005,
+    "region": "APURIMAC",
+    "pia_soles": 1056559915.1643691,
+    "pim_soles": 1200636267.2322376,
+    "devengado_soles": 1073080670.2014847
+  },
+  {
+    "anio": 2005,
+    "region": "AREQUIPA",
+    "pia_soles": 2733281866.3838816,
+    "pim_soles": 3106002120.8907743,
+    "devengado_soles": 3074942099.6818666
+  },
+  {
+    "anio": 2005,
+    "region": "AYACUCHO",
+    "pia_soles": 1617124581.1240723,
+    "pim_soles": 1837641569.459173,
+    "devengado_soles": 1748258683.5206788
+  },
+  {
+    "anio": 2005,
+    "region": "CAJAMARCA",
+    "pia_soles": 2381341590.6680813,
+    "pim_soles": 2706069989.395547,
+    "devengado_soles": 2478327139.0880175
+  },
+  {
+    "anio": 2005,
+    "region": "CALLAO",
+    "pia_soles": 1822523860.0212092,
+    "pim_soles": 2071049840.9331923,
+    "devengado_soles": 2050339342.5238602
+  },
+  {
+    "anio": 2005,
+    "region": "CUSCO",
+    "pia_soles": 2846160763.5206785,
+    "pim_soles": 3234273594.909862,
+    "devengado_soles": 3201930858.9607635
+  },
+  {
+    "anio": 2005,
+    "region": "HUANCAVELICA",
+    "pia_soles": 951004708.3775188,
+    "pim_soles": 1080687168.6108167,
+    "devengado_soles": 944088310.4984095
+  },
+  {
+    "anio": 2005,
+    "region": "HUANUCO",
+    "pia_soles": 1458019088.0169673,
+    "pim_soles": 1656839872.7465537,
+    "devengado_soles": 1577841747.613998
+  },
+  {
+    "anio": 2005,
+    "region": "ICA",
+    "pia_soles": 1679745493.1071053,
+    "pim_soles": 1908801696.7126195,
+    "devengado_soles": 1878260869.5652175
+  },
+  {
+    "anio": 2005,
+    "region": "JUNIN",
+    "pia_soles": 2215248356.3096504,
+    "pim_soles": 2517327677.624603,
+    "devengado_soles": 2247470150.5832453
+  },
+  {
+    "anio": 2005,
+    "region": "LA LIBERTAD",
+    "pia_soles": 2660716861.0816545,
+    "pim_soles": 3023541887.592789,
+    "devengado_soles": 2713931198.303288
+  },
+  {
+    "anio": 2005,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2022413573.7009547,
+    "pim_soles": 2298197242.841994,
+    "devengado_soles": 2012117650.0530224
+  },
+  {
+    "anio": 2005,
+    "region": "LIMA",
+    "pia_soles": 24174897136.797455,
+    "pim_soles": 27471474019.088017,
+    "devengado_soles": 24895748615.058327
+  },
+  {
+    "anio": 2005,
+    "region": "LORETO",
+    "pia_soles": 1766554740.1908805,
+    "pim_soles": 2007448568.398728,
+    "devengado_soles": 1987374082.7147405
+  },
+  {
+    "anio": 2005,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 593218918.3457052,
+    "pim_soles": 674112407.2110286,
+    "devengado_soles": 620614846.5747614
+  },
+  {
+    "anio": 2005,
+    "region": "MOQUEGUA",
+    "pia_soles": 821059597.0307529,
+    "pim_soles": 933022269.3531283,
+    "devengado_soles": 923692046.659597
+  },
+  {
+    "anio": 2005,
+    "region": "PASCO",
+    "pia_soles": 747419554.6129375,
+    "pim_soles": 849340402.9692471,
+    "devengado_soles": 839012423.6691409
+  },
+  {
+    "anio": 2005,
+    "region": "PIURA",
+    "pia_soles": 2525127804.878049,
+    "pim_soles": 2869463414.634146,
+    "devengado_soles": 2526046033.1707315
+  },
+  {
+    "anio": 2005,
+    "region": "PUNO",
+    "pia_soles": 2266178239.660658,
+    "pim_soles": 2575202545.068929,
+    "devengado_soles": 2388139832.1951222
+  },
+  {
+    "anio": 2005,
+    "region": "SAN MARTIN",
+    "pia_soles": 1532868547.1898196,
+    "pim_soles": 1741896076.3520677,
+    "devengado_soles": 1595298102.5662777
+  },
+  {
+    "anio": 2005,
+    "region": "TACNA",
+    "pia_soles": 1095462820.78473,
+    "pim_soles": 1244844114.5281022,
+    "devengado_soles": 1232395673.382821
+  },
+  {
+    "anio": 2005,
+    "region": "TUMBES",
+    "pia_soles": 801910498.4093319,
+    "pim_soles": 911261930.0106045,
+    "devengado_soles": 902149310.7104985
+  },
+  {
+    "anio": 2005,
+    "region": "UCAYALI",
+    "pia_soles": 1244489840.9331918,
+    "pim_soles": 1414193001.060445,
+    "devengado_soles": 1247657633.255567
+  },
+  {
+    "anio": 2006,
+    "region": "AMAZONAS",
+    "pia_soles": 1032875503.7115589,
+    "pim_soles": 1173722163.3085897,
+    "devengado_soles": 1161984941.6755037
+  },
+  {
+    "anio": 2006,
+    "region": "ANCASH",
+    "pia_soles": 2588375821.8451757,
+    "pim_soles": 2941336161.1877,
+    "devengado_soles": 2648614386.4263
+  },
+  {
+    "anio": 2006,
+    "region": "APURIMAC",
+    "pia_soles": 1263398176.0339344,
+    "pim_soles": 1435679745.493107,
+    "devengado_soles": 1403061101.6755035
+  },
+  {
+    "anio": 2006,
+    "region": "AREQUIPA",
+    "pia_soles": 3370493319.1940613,
+    "pim_soles": 3830106044.538706,
+    "devengado_soles": 3791804984.093319
+  },
+  {
+    "anio": 2006,
+    "region": "AYACUCHO",
+    "pia_soles": 1508478642.6299047,
+    "pim_soles": 1714180275.7158008,
+    "devengado_soles": 1697038472.9586427
+  },
+  {
+    "anio": 2006,
+    "region": "CAJAMARCA",
+    "pia_soles": 2478901208.907742,
+    "pim_soles": 2816933191.9406157,
+    "devengado_soles": 2639353723.520679
+  },
+  {
+    "anio": 2006,
+    "region": "CALLAO",
+    "pia_soles": 1899792152.704136,
+    "pim_soles": 2158854718.9819727,
+    "devengado_soles": 1908772988.3351011
+  },
+  {
+    "anio": 2006,
+    "region": "CUSCO",
+    "pia_soles": 2984347826.0869565,
+    "pim_soles": 3391304347.826087,
+    "devengado_soles": 3357391304.347826
+  },
+  {
+    "anio": 2006,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1068978833.5100743,
+    "pim_soles": 1214748674.4432662,
+    "devengado_soles": 1085693775.2704136
+  },
+  {
+    "anio": 2006,
+    "region": "HUANUCO",
+    "pia_soles": 1397548250.2651114,
+    "pim_soles": 1588123011.6648993,
+    "devengado_soles": 1448368186.6383882
+  },
+  {
+    "anio": 2006,
+    "region": "ICA",
+    "pia_soles": 1916169671.2619305,
+    "pim_soles": 2177465535.524921,
+    "devengado_soles": 2117541683.9872754
+  },
+  {
+    "anio": 2006,
+    "region": "JUNIN",
+    "pia_soles": 2489018875.9278903,
+    "pim_soles": 2828430540.827148,
+    "devengado_soles": 2800146235.4188766
+  },
+  {
+    "anio": 2006,
+    "region": "LA LIBERTAD",
+    "pia_soles": 3086252386.0021214,
+    "pim_soles": 3507104984.09332,
+    "devengado_soles": 3403855813.361613
+  },
+  {
+    "anio": 2006,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2027900742.3117712,
+    "pim_soles": 2304432661.7179217,
+    "devengado_soles": 2039699437.539767
+  },
+  {
+    "anio": 2006,
+    "region": "LIMA",
+    "pia_soles": 25068521739.130436,
+    "pim_soles": 28486956521.739132,
+    "devengado_soles": 26499706434.78261
+  },
+  {
+    "anio": 2006,
+    "region": "LORETO",
+    "pia_soles": 1889310540.8271477,
+    "pim_soles": 2146943796.394486,
+    "devengado_soles": 1927096751.6436908
+  },
+  {
+    "anio": 2006,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 669512958.64263,
+    "pim_soles": 760810180.2757158,
+    "devengado_soles": 722343617.5609756
+  },
+  {
+    "anio": 2006,
+    "region": "MOQUEGUA",
+    "pia_soles": 920707698.83351,
+    "pim_soles": 1046258748.6744432,
+    "devengado_soles": 992355497.9427359
+  },
+  {
+    "anio": 2006,
+    "region": "PASCO",
+    "pia_soles": 809704517.4973489,
+    "pim_soles": 920118769.8833511,
+    "devengado_soles": 825015293.828208
+  },
+  {
+    "anio": 2006,
+    "region": "PIURA",
+    "pia_soles": 2970663499.4697776,
+    "pim_soles": 3375753976.670202,
+    "devengado_soles": 3033317493.276777
+  },
+  {
+    "anio": 2006,
+    "region": "PUNO",
+    "pia_soles": 2545867062.566278,
+    "pim_soles": 2893030752.916225,
+    "devengado_soles": 2521797046.702015
+  },
+  {
+    "anio": 2006,
+    "region": "SAN MARTIN",
+    "pia_soles": 1582141081.654295,
+    "pim_soles": 1797887592.7889714,
+    "devengado_soles": 1779908716.8610816
+  },
+  {
+    "anio": 2006,
+    "region": "TACNA",
+    "pia_soles": 1180928271.4740193,
+    "pim_soles": 1341963944.8568401,
+    "devengado_soles": 1328544305.4082718
+  },
+  {
+    "anio": 2006,
+    "region": "TUMBES",
+    "pia_soles": 843915334.0402969,
+    "pim_soles": 958994697.7730647,
+    "devengado_soles": 921555544.7720044
+  },
+  {
+    "anio": 2006,
+    "region": "UCAYALI",
+    "pia_soles": 1193593552.4920466,
+    "pim_soles": 1356356309.650053,
+    "devengado_soles": 1252622179.0880167
+  },
+  {
+    "anio": 2007,
+    "region": "AMAZONAS",
+    "pia_soles": 1265184305.4082718,
+    "pim_soles": 1437709437.9639452,
+    "devengado_soles": 1290487991.5164373
+  },
+  {
+    "anio": 2007,
+    "region": "ANCASH",
+    "pia_soles": 2787481654.2948046,
+    "pim_soles": 3167592788.971369,
+    "devengado_soles": 2837149509.225876
+  },
+  {
+    "anio": 2007,
+    "region": "APURIMAC",
+    "pia_soles": 1211331664.8992577,
+    "pim_soles": 1376513255.5673382,
+    "devengado_soles": 1272558974.506893
+  },
+  {
+    "anio": 2007,
+    "region": "AREQUIPA",
+    "pia_soles": 3806135312.8313885,
+    "pim_soles": 4325153764.581123,
+    "devengado_soles": 3736932852.5980906
+  },
+  {
+    "anio": 2007,
+    "region": "AYACUCHO",
+    "pia_soles": 1646934464.4750798,
+    "pim_soles": 1871516436.9034998,
+    "devengado_soles": 1699636367.3382826
+  },
+  {
+    "anio": 2007,
+    "region": "CAJAMARCA",
+    "pia_soles": 2710974846.2354198,
+    "pim_soles": 3080653234.3584313,
+    "devengado_soles": 2933767688.1442213
+  },
+  {
+    "anio": 2007,
+    "region": "CALLAO",
+    "pia_soles": 2139995758.2184522,
+    "pim_soles": 2431813361.6118774,
+    "devengado_soles": 2222482867.4443274
+  },
+  {
+    "anio": 2007,
+    "region": "CUSCO",
+    "pia_soles": 3223319618.2396607,
+    "pim_soles": 3662863202.545069,
+    "devengado_soles": 3537446766.489926
+  },
+  {
+    "anio": 2007,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1201689925.768823,
+    "pim_soles": 1365556733.828208,
+    "devengado_soles": 1275539233.9342523
+  },
+  {
+    "anio": 2007,
+    "region": "HUANUCO",
+    "pia_soles": 1443909225.8748677,
+    "pim_soles": 1640805938.4941678,
+    "devengado_soles": 1624397879.1092262
+  },
+  {
+    "anio": 2007,
+    "region": "ICA",
+    "pia_soles": 2045930010.6044543,
+    "pim_soles": 2324920466.5959706,
+    "devengado_soles": 2173893633.0858965
+  },
+  {
+    "anio": 2007,
+    "region": "JUNIN",
+    "pia_soles": 2998737645.811241,
+    "pim_soles": 3407656415.694592,
+    "devengado_soles": 3373579851.537646
+  },
+  {
+    "anio": 2007,
+    "region": "LA LIBERTAD",
+    "pia_soles": 3279759066.8080597,
+    "pim_soles": 3726998939.554613,
+    "devengado_soles": 3406178870.8377523
+  },
+  {
+    "anio": 2007,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2254128865.3234363,
+    "pim_soles": 2561510074.231178,
+    "devengado_soles": 2409868677.836692
+  },
+  {
+    "anio": 2007,
+    "region": "LIMA",
+    "pia_soles": 26201230116.648994,
+    "pim_soles": 29774125132.555676,
+    "devengado_soles": 29476383881.230118
+  },
+  {
+    "anio": 2007,
+    "region": "LORETO",
+    "pia_soles": 2302415949.0986214,
+    "pim_soles": 2616381760.3393426,
+    "devengado_soles": 2288182832.3223753
+  },
+  {
+    "anio": 2007,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 768281993.6373276,
+    "pim_soles": 873047720.0424176,
+    "devengado_soles": 764370739.8515375
+  },
+  {
+    "anio": 2007,
+    "region": "MOQUEGUA",
+    "pia_soles": 1059807423.1177096,
+    "pim_soles": 1204326617.1792154,
+    "devengado_soles": 1174652009.3319197
+  },
+  {
+    "anio": 2007,
+    "region": "PASCO",
+    "pia_soles": 848473043.4782609,
+    "pim_soles": 964173913.0434783,
+    "devengado_soles": 954532173.9130435
+  },
+  {
+    "anio": 2007,
+    "region": "PIURA",
+    "pia_soles": 2928109946.9777308,
+    "pim_soles": 3327397667.0201488,
+    "devengado_soles": 3034586672.322376
+  },
+  {
+    "anio": 2007,
+    "region": "PUNO",
+    "pia_soles": 2714110371.155886,
+    "pim_soles": 3084216330.8589616,
+    "devengado_soles": 3025986326.5323443
+  },
+  {
+    "anio": 2007,
+    "region": "SAN MARTIN",
+    "pia_soles": 1771101251.3255572,
+    "pim_soles": 2012615058.3244967,
+    "devengado_soles": 1858690258.663839
+  },
+  {
+    "anio": 2007,
+    "region": "TACNA",
+    "pia_soles": 1232888398.7274656,
+    "pim_soles": 1401009544.0084836,
+    "devengado_soles": 1327484563.1389184
+  },
+  {
+    "anio": 2007,
+    "region": "TUMBES",
+    "pia_soles": 842437158.0063628,
+    "pim_soles": 957314952.2799577,
+    "devengado_soles": 947741802.757158
+  },
+  {
+    "anio": 2007,
+    "region": "UCAYALI",
+    "pia_soles": 1454726786.8504772,
+    "pim_soles": 1653098621.420997,
+    "devengado_soles": 1577452828.504772
+  },
+  {
+    "anio": 2008,
+    "region": "AMAZONAS",
+    "pia_soles": 1412721951.2195122,
+    "pim_soles": 1605365853.6585367,
+    "devengado_soles": 1589312195.1219513
+  },
+  {
+    "anio": 2008,
+    "region": "ANCASH",
+    "pia_soles": 3167141463.4146347,
+    "pim_soles": 3599024390.243903,
+    "devengado_soles": 3347956448.7804885
+  },
+  {
+    "anio": 2008,
+    "region": "APURIMAC",
+    "pia_soles": 1587949268.2926834,
+    "pim_soles": 1804487804.8780491,
+    "devengado_soles": 1664748269.2682931
+  },
+  {
+    "anio": 2008,
+    "region": "AREQUIPA",
+    "pia_soles": 4033404878.0487804,
+    "pim_soles": 4583414634.146341,
+    "devengado_soles": 4537580487.804878
+  },
+  {
+    "anio": 2008,
+    "region": "AYACUCHO",
+    "pia_soles": 1798119024.3902442,
+    "pim_soles": 2043317073.170732,
+    "devengado_soles": 1926275871.2195125
+  },
+  {
+    "anio": 2008,
+    "region": "CAJAMARCA",
+    "pia_soles": 2555520000.000001,
+    "pim_soles": 2904000000.000001,
+    "devengado_soles": 2665175040.000001
+  },
+  {
+    "anio": 2008,
+    "region": "CALLAO",
+    "pia_soles": 2215024390.2439027,
+    "pim_soles": 2517073170.7317076,
+    "devengado_soles": 2372895219.5121956
+  },
+  {
+    "anio": 2008,
+    "region": "CUSCO",
+    "pia_soles": 3726048780.487805,
+    "pim_soles": 4234146341.4634147,
+    "devengado_soles": 4191804878.0487804
+  },
+  {
+    "anio": 2008,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1294501463.4146345,
+    "pim_soles": 1471024390.2439027,
+    "devengado_soles": 1348635160.97561
+  },
+  {
+    "anio": 2008,
+    "region": "HUANUCO",
+    "pia_soles": 1823531707.317073,
+    "pim_soles": 2072195121.9512196,
+    "devengado_soles": 1812258965.8536587
+  },
+  {
+    "anio": 2008,
+    "region": "ICA",
+    "pia_soles": 2350243902.4390244,
+    "pim_soles": 2670731707.3170733,
+    "devengado_soles": 2386993170.7317076
+  },
+  {
+    "anio": 2008,
+    "region": "JUNIN",
+    "pia_soles": 2818575609.7560983,
+    "pim_soles": 3202926829.2682934,
+    "devengado_soles": 3170897560.9756103
+  },
+  {
+    "anio": 2008,
+    "region": "LA LIBERTAD",
+    "pia_soles": 3489092682.9268293,
+    "pim_soles": 3964878048.780488,
+    "devengado_soles": 3925229268.292683
+  },
+  {
+    "anio": 2008,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2418325853.658537,
+    "pim_soles": 2748097560.9756103,
+    "devengado_soles": 2487797760.0000005
+  },
+  {
+    "anio": 2008,
+    "region": "LIMA",
+    "pia_soles": 31010341463.414635,
+    "pim_soles": 35239024390.243904,
+    "devengado_soles": 34886634146.34146
+  },
+  {
+    "anio": 2008,
+    "region": "LORETO",
+    "pia_soles": 2197166829.2682934,
+    "pim_soles": 2496780487.8048787,
+    "devengado_soles": 2471812682.92683
+  },
+  {
+    "anio": 2008,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 768046829.2682927,
+    "pim_soles": 872780487.804878,
+    "devengado_soles": 826139098.5365853
+  },
+  {
+    "anio": 2008,
+    "region": "MOQUEGUA",
+    "pia_soles": 1011184390.2439024,
+    "pim_soles": 1149073170.7317073,
+    "devengado_soles": 1095388472.1951218
+  },
+  {
+    "anio": 2008,
+    "region": "PASCO",
+    "pia_soles": 929280000.0,
+    "pim_soles": 1056000000.0,
+    "devengado_soles": 981319679.9999999
+  },
+  {
+    "anio": 2008,
+    "region": "PIURA",
+    "pia_soles": 3291800975.6097565,
+    "pim_soles": 3740682926.829269,
+    "devengado_soles": 3389956495.609757
+  },
+  {
+    "anio": 2008,
+    "region": "PUNO",
+    "pia_soles": 2733580487.8048787,
+    "pim_soles": 3106341463.4146347,
+    "devengado_soles": 2806144624.3902445
+  },
+  {
+    "anio": 2008,
+    "region": "SAN MARTIN",
+    "pia_soles": 1939777560.9756103,
+    "pim_soles": 2204292682.92683,
+    "devengado_soles": 1959528023.4146345
+  },
+  {
+    "anio": 2008,
+    "region": "TACNA",
+    "pia_soles": 1324206829.268293,
+    "pim_soles": 1504780487.8048782,
+    "devengado_soles": 1323243769.7560978
+  },
+  {
+    "anio": 2008,
+    "region": "TUMBES",
+    "pia_soles": 915114146.3414634,
+    "pim_soles": 1039902439.0243903,
+    "devengado_soles": 901470626.3414634
+  },
+  {
+    "anio": 2008,
+    "region": "UCAYALI",
+    "pia_soles": 1539184390.2439022,
+    "pim_soles": 1749073170.731707,
+    "devengado_soles": 1571647188.292683
+  },
+  {
+    "anio": 2009,
+    "region": "AMAZONAS",
+    "pia_soles": 1462428419.9363735,
+    "pim_soles": 1661850477.2004244,
+    "devengado_soles": 1624093234.3584306
+  },
+  {
+    "anio": 2009,
+    "region": "ANCASH",
+    "pia_soles": 3487781548.2502666,
+    "pim_soles": 3963388123.0116663,
+    "devengado_soles": 3667877904.559916
+  },
+  {
+    "anio": 2009,
+    "region": "APURIMAC",
+    "pia_soles": 1594120466.5959706,
+    "pim_soles": 1811500530.222694,
+    "devengado_soles": 1793385524.920467
+  },
+  {
+    "anio": 2009,
+    "region": "AREQUIPA",
+    "pia_soles": 4021310710.4984097,
+    "pim_soles": 4569671261.930011,
+    "devengado_soles": 4009612352.0678687
+  },
+  {
+    "anio": 2009,
+    "region": "AYACUCHO",
+    "pia_soles": 1981063838.8123014,
+    "pim_soles": 2251208907.7412515,
+    "devengado_soles": 2228696818.663839
+  },
+  {
+    "anio": 2009,
+    "region": "CAJAMARCA",
+    "pia_soles": 3117103711.558855,
+    "pim_soles": 3542163308.589608,
+    "devengado_soles": 3125038157.370096
+  },
+  {
+    "anio": 2009,
+    "region": "CALLAO",
+    "pia_soles": 2261007423.11771,
+    "pim_soles": 2569326617.179216,
+    "devengado_soles": 2308694125.1325564
+  },
+  {
+    "anio": 2009,
+    "region": "CUSCO",
+    "pia_soles": 3856695652.173913,
+    "pim_soles": 4382608695.652174,
+    "devengado_soles": 4139987478.2608695
+  },
+  {
+    "anio": 2009,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1251074443.266172,
+    "pim_soles": 1421675503.711559,
+    "devengado_soles": 1407458748.6744435
+  },
+  {
+    "anio": 2009,
+    "region": "HUANUCO",
+    "pia_soles": 1969501590.6680808,
+    "pim_soles": 2238069989.3955464,
+    "devengado_soles": 2154992831.389184
+  },
+  {
+    "anio": 2009,
+    "region": "ICA",
+    "pia_soles": 2327147401.908802,
+    "pim_soles": 2644485683.987275,
+    "devengado_soles": 2618040827.1474023
+  },
+  {
+    "anio": 2009,
+    "region": "JUNIN",
+    "pia_soles": 3570089077.4125137,
+    "pim_soles": 4056919406.1505837,
+    "devengado_soles": 4016350212.089078
+  },
+  {
+    "anio": 2009,
+    "region": "LA LIBERTAD",
+    "pia_soles": 4279991516.4369044,
+    "pim_soles": 4863626723.223755,
+    "devengado_soles": 4510332878.048781
+  },
+  {
+    "anio": 2009,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2839609756.097562,
+    "pim_soles": 3226829268.292684,
+    "devengado_soles": 3063680780.487806
+  },
+  {
+    "anio": 2009,
+    "region": "LIMA",
+    "pia_soles": 36558260869.56522,
+    "pim_soles": 41543478260.86957,
+    "devengado_soles": 36571554782.608696
+  },
+  {
+    "anio": 2009,
+    "region": "LORETO",
+    "pia_soles": 2521353976.670202,
+    "pim_soles": 2865174973.488866,
+    "devengado_soles": 2662549799.363733
+  },
+  {
+    "anio": 2009,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 831599999.9999999,
+    "pim_soles": 944999999.9999999,
+    "devengado_soles": 856396799.9999999
+  },
+  {
+    "anio": 2009,
+    "region": "MOQUEGUA",
+    "pia_soles": 1264890349.9469779,
+    "pim_soles": 1437375397.6670203,
+    "devengado_soles": 1328824807.6352072
+  },
+  {
+    "anio": 2009,
+    "region": "PASCO",
+    "pia_soles": 1285173276.776246,
+    "pim_soles": 1460424178.154825,
+    "devengado_soles": 1343122908.1654296
+  },
+  {
+    "anio": 2009,
+    "region": "PIURA",
+    "pia_soles": 3593115588.54719,
+    "pim_soles": 4083085896.0763526,
+    "devengado_soles": 3943281034.994698
+  },
+  {
+    "anio": 2009,
+    "region": "PUNO",
+    "pia_soles": 3160609119.830329,
+    "pim_soles": 3591601272.534465,
+    "devengado_soles": 3303123858.3244967
+  },
+  {
+    "anio": 2009,
+    "region": "SAN MARTIN",
+    "pia_soles": 2101781548.2502651,
+    "pim_soles": 2388388123.011665,
+    "devengado_soles": 2361638176.033934
+  },
+  {
+    "anio": 2009,
+    "region": "TACNA",
+    "pia_soles": 1715132131.4952283,
+    "pim_soles": 1949013785.7900321,
+    "devengado_soles": 1929523647.9321318
+  },
+  {
+    "anio": 2009,
+    "region": "TUMBES",
+    "pia_soles": 1181309013.7857902,
+    "pim_soles": 1342396606.5747616,
+    "devengado_soles": 1287412041.5694594
+  },
+  {
+    "anio": 2009,
+    "region": "UCAYALI",
+    "pia_soles": 1700238388.1230114,
+    "pim_soles": 1932089077.4125128,
+    "devengado_soles": 1912768186.6383877
+  },
+  {
+    "anio": 2010,
+    "region": "AMAZONAS",
+    "pia_soles": 1590257051.9618242,
+    "pim_soles": 1807110286.3202548,
+    "devengado_soles": 1700129357.3700957
+  },
+  {
+    "anio": 2010,
+    "region": "ANCASH",
+    "pia_soles": 3974277836.691411,
+    "pim_soles": 4516224814.422058,
+    "devengado_soles": 4471062566.277838
+  },
+  {
+    "anio": 2010,
+    "region": "APURIMAC",
+    "pia_soles": 1754032237.539767,
+    "pim_soles": 1993218451.749735,
+    "devengado_soles": 1972807894.803818
+  },
+  {
+    "anio": 2010,
+    "region": "AREQUIPA",
+    "pia_soles": 5222790668.080593,
+    "pim_soles": 5934989395.546128,
+    "devengado_soles": 5875639501.590667
+  },
+  {
+    "anio": 2010,
+    "region": "AYACUCHO",
+    "pia_soles": 2361201442.2057266,
+    "pim_soles": 2683183457.051962,
+    "devengado_soles": 2656351622.4814425
+  },
+  {
+    "anio": 2010,
+    "region": "CAJAMARCA",
+    "pia_soles": 3844458706.2566285,
+    "pim_soles": 4368703075.291623,
+    "devengado_soles": 3967481384.8568406
+  },
+  {
+    "anio": 2010,
+    "region": "CALLAO",
+    "pia_soles": 2885172852.598091,
+    "pim_soles": 3278605514.316013,
+    "devengado_soles": 3175788445.387063
+  },
+  {
+    "anio": 2010,
+    "region": "CUSCO",
+    "pia_soles": 4476521739.130434,
+    "pim_soles": 5086956521.73913,
+    "devengado_soles": 4927429565.217391
+  },
+  {
+    "anio": 2010,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1664610986.2142103,
+    "pim_soles": 1891603393.4252388,
+    "devengado_soles": 1657952542.2693534
+  },
+  {
+    "anio": 2010,
+    "region": "HUANUCO",
+    "pia_soles": 2378015694.5917287,
+    "pim_soles": 2702290562.036055,
+    "devengado_soles": 2675267656.4156947
+  },
+  {
+    "anio": 2010,
+    "region": "ICA",
+    "pia_soles": 2964330858.960764,
+    "pim_soles": 3368557794.2735953,
+    "devengado_soles": 3191775881.230117
+  },
+  {
+    "anio": 2010,
+    "region": "JUNIN",
+    "pia_soles": 3771742523.8600216,
+    "pim_soles": 4286071049.840934,
+    "devengado_soles": 4243210339.3425245
+  },
+  {
+    "anio": 2010,
+    "region": "LA LIBERTAD",
+    "pia_soles": 4607541887.592789,
+    "pim_soles": 5235843054.082714,
+    "devengado_soles": 5131963927.889712
+  },
+  {
+    "anio": 2010,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 3008222608.695653,
+    "pim_soles": 3418434782.6086965,
+    "devengado_soles": 3055260271.3043485
+  },
+  {
+    "anio": 2010,
+    "region": "LIMA",
+    "pia_soles": 41997416755.03712,
+    "pim_soles": 47724337221.63309,
+    "devengado_soles": 42195949997.87911
+  },
+  {
+    "anio": 2010,
+    "region": "LORETO",
+    "pia_soles": 3124393806.99894,
+    "pim_soles": 3550447507.953341,
+    "devengado_soles": 3190290112.7465544
+  },
+  {
+    "anio": 2010,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1004269437.9639447,
+    "pim_soles": 1141215270.4135735,
+    "devengado_soles": 1129803117.7094378
+  },
+  {
+    "anio": 2010,
+    "region": "MOQUEGUA",
+    "pia_soles": 1511644962.8844116,
+    "pim_soles": 1717778366.914104,
+    "devengado_soles": 1642470963.3085897
+  },
+  {
+    "anio": 2010,
+    "region": "PASCO",
+    "pia_soles": 1259103626.723224,
+    "pim_soles": 1430799575.8218453,
+    "devengado_soles": 1409280350.2014847
+  },
+  {
+    "anio": 2010,
+    "region": "PIURA",
+    "pia_soles": 4302483308.589607,
+    "pim_soles": 4889185577.942736,
+    "devengado_soles": 4840293722.163308
+  },
+  {
+    "anio": 2010,
+    "region": "PUNO",
+    "pia_soles": 3542784814.4220576,
+    "pim_soles": 4025891834.57052,
+    "devengado_soles": 3613640510.710499
+  },
+  {
+    "anio": 2010,
+    "region": "SAN MARTIN",
+    "pia_soles": 2550962290.562036,
+    "pim_soles": 2898820784.7295866,
+    "devengado_soles": 2504581158.006363
+  },
+  {
+    "anio": 2010,
+    "region": "TACNA",
+    "pia_soles": 1628143711.558855,
+    "pim_soles": 1850163308.589608,
+    "devengado_soles": 1689125094.2099686
+  },
+  {
+    "anio": 2010,
+    "region": "TUMBES",
+    "pia_soles": 1106137603.3934252,
+    "pim_soles": 1256974549.3107104,
+    "devengado_soles": 1095679575.14316
+  },
+  {
+    "anio": 2010,
+    "region": "UCAYALI",
+    "pia_soles": 1925996182.3966062,
+    "pim_soles": 2188632025.450689,
+    "devengado_soles": 2164119346.765641
+  },
+  {
+    "anio": 2011,
+    "region": "AMAZONAS",
+    "pia_soles": 1761773064.687169,
+    "pim_soles": 2002014846.2354193,
+    "devengado_soles": 1981994697.773065
+  },
+  {
+    "anio": 2011,
+    "region": "ANCASH",
+    "pia_soles": 4191804878.048782,
+    "pim_soles": 4763414634.146343,
+    "devengado_soles": 4550013658.536587
+  },
+  {
+    "anio": 2011,
+    "region": "APURIMAC",
+    "pia_soles": 2063559872.7465534,
+    "pim_soles": 2344954400.8483562,
+    "devengado_soles": 2188123850.519618
+  },
+  {
+    "anio": 2011,
+    "region": "AREQUIPA",
+    "pia_soles": 5149931707.317073,
+    "pim_soles": 5852195121.951219,
+    "devengado_soles": 5342820058.536585
+  },
+  {
+    "anio": 2011,
+    "region": "AYACUCHO",
+    "pia_soles": 2685763732.7677627,
+    "pim_soles": 3052004241.7815485,
+    "devengado_soles": 2777568020.360552
+  },
+  {
+    "anio": 2011,
+    "region": "CAJAMARCA",
+    "pia_soles": 3818621420.996819,
+    "pim_soles": 4339342523.860022,
+    "devengado_soles": 4074121908.801697
+  },
+  {
+    "anio": 2011,
+    "region": "CALLAO",
+    "pia_soles": 2733785790.031814,
+    "pim_soles": 3106574761.399789,
+    "devengado_soles": 3068798812.301167
+  },
+  {
+    "anio": 2011,
+    "region": "CUSCO",
+    "pia_soles": 4642517921.527041,
+    "pim_soles": 5275588547.18982,
+    "devengado_soles": 5140533480.381762
+  },
+  {
+    "anio": 2011,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1631361357.3700957,
+    "pim_soles": 1853819724.2841997,
+    "devengado_soles": 1669327585.3234363
+  },
+  {
+    "anio": 2011,
+    "region": "HUANUCO",
+    "pia_soles": 2362916648.992577,
+    "pim_soles": 2685132555.6733828,
+    "devengado_soles": 2658281230.1166487
+  },
+  {
+    "anio": 2011,
+    "region": "ICA",
+    "pia_soles": 2837930010.6044545,
+    "pim_soles": 3224920466.595971,
+    "devengado_soles": 3139266579.003182
+  },
+  {
+    "anio": 2011,
+    "region": "JUNIN",
+    "pia_soles": 4418607847.295865,
+    "pim_soles": 5021145281.018028,
+    "devengado_soles": 4434675512.195123
+  },
+  {
+    "anio": 2011,
+    "region": "LA LIBERTAD",
+    "pia_soles": 4864692258.748674,
+    "pim_soles": 5528059384.941675,
+    "devengado_soles": 5375927190.668081
+  },
+  {
+    "anio": 2011,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 2980839024.390244,
+    "pim_soles": 3387317073.170732,
+    "devengado_soles": 3290846282.9268293
+  },
+  {
+    "anio": 2011,
+    "region": "LIMA",
+    "pia_soles": 40743533404.02969,
+    "pim_soles": 46299469777.30647,
+    "devengado_soles": 45836475079.53341
+  },
+  {
+    "anio": 2011,
+    "region": "LORETO",
+    "pia_soles": 2974358939.5546136,
+    "pim_soles": 3379953340.40297,
+    "devengado_soles": 3346153806.99894
+  },
+  {
+    "anio": 2011,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1131006235.418876,
+    "pim_soles": 1285234358.4305408,
+    "devengado_soles": 1272382014.8462353
+  },
+  {
+    "anio": 2011,
+    "region": "MOQUEGUA",
+    "pia_soles": 1424577221.6330862,
+    "pim_soles": 1618837751.8557796,
+    "devengado_soles": 1602649374.3372219
+  },
+  {
+    "anio": 2011,
+    "region": "PASCO",
+    "pia_soles": 1342766150.583245,
+    "pim_soles": 1525870625.6627784,
+    "devengado_soles": 1413566547.613998
+  },
+  {
+    "anio": 2011,
+    "region": "PIURA",
+    "pia_soles": 4133368398.7274656,
+    "pim_soles": 4697009544.008484,
+    "devengado_soles": 4459528741.463415
+  },
+  {
+    "anio": 2011,
+    "region": "PUNO",
+    "pia_soles": 4032464220.5726414,
+    "pim_soles": 4582345705.196183,
+    "devengado_soles": 4536522248.144221
+  },
+  {
+    "anio": 2011,
+    "region": "SAN MARTIN",
+    "pia_soles": 2581388080.5938497,
+    "pim_soles": 2933395546.1293745,
+    "devengado_soles": 2904061590.668081
+  },
+  {
+    "anio": 2011,
+    "region": "TACNA",
+    "pia_soles": 1670010434.782609,
+    "pim_soles": 1897739130.434783,
+    "devengado_soles": 1878761739.1304352
+  },
+  {
+    "anio": 2011,
+    "region": "TUMBES",
+    "pia_soles": 1239779088.0169673,
+    "pim_soles": 1408839872.7465537,
+    "devengado_soles": 1337608928.7804878
+  },
+  {
+    "anio": 2011,
+    "region": "UCAYALI",
+    "pia_soles": 2143288059.3849413,
+    "pim_soles": 2435554612.9374332,
+    "devengado_soles": 2411199066.8080587
+  },
+  {
+    "anio": 2012,
+    "region": "AMAZONAS",
+    "pia_soles": 1956819512.1951222,
+    "pim_soles": 2223658536.5853662,
+    "devengado_soles": 2030111297.560976
+  },
+  {
+    "anio": 2012,
+    "region": "ANCASH",
+    "pia_soles": 4782263414.634147,
+    "pim_soles": 5434390243.902439,
+    "devengado_soles": 5029202107.317073
+  },
+  {
+    "anio": 2012,
+    "region": "APURIMAC",
+    "pia_soles": 2276839024.390244,
+    "pim_soles": 2587317073.170732,
+    "devengado_soles": 2431664078.0487804
+  },
+  {
+    "anio": 2012,
+    "region": "AREQUIPA",
+    "pia_soles": 5372078048.780488,
+    "pim_soles": 6104634146.341463,
+    "devengado_soles": 5784262946.341462
+  },
+  {
+    "anio": 2012,
+    "region": "AYACUCHO",
+    "pia_soles": 2640515121.95122,
+    "pim_soles": 3000585365.853659,
+    "devengado_soles": 2970579512.1951227
+  },
+  {
+    "anio": 2012,
+    "region": "CAJAMARCA",
+    "pia_soles": 4589736585.365855,
+    "pim_soles": 5215609756.097563,
+    "devengado_soles": 4806705951.219514
+  },
+  {
+    "anio": 2012,
+    "region": "CALLAO",
+    "pia_soles": 3251707317.0731716,
+    "pim_soles": 3695121951.219513,
+    "devengado_soles": 3658170731.707318
+  },
+  {
+    "anio": 2012,
+    "region": "CUSCO",
+    "pia_soles": 4656702439.024391,
+    "pim_soles": 5291707317.073172,
+    "devengado_soles": 4577115160.975611
+  },
+  {
+    "anio": 2012,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1766868292.682927,
+    "pim_soles": 2007804878.0487807,
+    "devengado_soles": 1923637697.5609756
+  },
+  {
+    "anio": 2012,
+    "region": "HUANUCO",
+    "pia_soles": 2828019512.1951222,
+    "pim_soles": 3213658536.5853662,
+    "devengado_soles": 3007984390.2439027
+  },
+  {
+    "anio": 2012,
+    "region": "ICA",
+    "pia_soles": 3393365853.6585374,
+    "pim_soles": 3856097560.9756107,
+    "devengado_soles": 3613009170.731708
+  },
+  {
+    "anio": 2012,
+    "region": "JUNIN",
+    "pia_soles": 4475765853.658537,
+    "pim_soles": 5086097560.97561,
+    "devengado_soles": 4789883239.02439
+  },
+  {
+    "anio": 2012,
+    "region": "LA LIBERTAD",
+    "pia_soles": 5522107317.073172,
+    "pim_soles": 6275121951.219513,
+    "devengado_soles": 5867490029.268293
+  },
+  {
+    "anio": 2012,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 3331808780.4878054,
+    "pim_soles": 3786146341.463415,
+    "devengado_soles": 3736472101.463415
+  },
+  {
+    "anio": 2012,
+    "region": "LIMA",
+    "pia_soles": 43315317073.170746,
+    "pim_soles": 49221951219.51221,
+    "devengado_soles": 42858537365.85367
+  },
+  {
+    "anio": 2012,
+    "region": "LORETO",
+    "pia_soles": 3760905365.8536587,
+    "pim_soles": 4273756097.5609756,
+    "devengado_soles": 4008441319.02439
+  },
+  {
+    "anio": 2012,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1228565853.6585364,
+    "pim_soles": 1396097560.9756095,
+    "devengado_soles": 1328191375.6097558
+  },
+  {
+    "anio": 2012,
+    "region": "MOQUEGUA",
+    "pia_soles": 1623921951.2195122,
+    "pim_soles": 1845365853.6585367,
+    "devengado_soles": 1741434848.7804878
+  },
+  {
+    "anio": 2012,
+    "region": "PASCO",
+    "pia_soles": 1560819512.195122,
+    "pim_soles": 1773658536.585366,
+    "devengado_soles": 1682279648.780488
+  },
+  {
+    "anio": 2012,
+    "region": "PIURA",
+    "pia_soles": 5241108292.682927,
+    "pim_soles": 5955804878.04878,
+    "devengado_soles": 5896246829.268292
+  },
+  {
+    "anio": 2012,
+    "region": "PUNO",
+    "pia_soles": 3791297560.9756107,
+    "pim_soles": 4308292682.92683,
+    "devengado_soles": 4265209756.097562
+  },
+  {
+    "anio": 2012,
+    "region": "SAN MARTIN",
+    "pia_soles": 2759508292.682927,
+    "pim_soles": 3135804878.048781,
+    "devengado_soles": 3073590509.268293
+  },
+  {
+    "anio": 2012,
+    "region": "TACNA",
+    "pia_soles": 2165572682.9268293,
+    "pim_soles": 2460878048.780488,
+    "devengado_soles": 2265582766.8292685
+  },
+  {
+    "anio": 2012,
+    "region": "TUMBES",
+    "pia_soles": 1384003902.4390244,
+    "pim_soles": 1572731707.3170733,
+    "devengado_soles": 1557004390.2439027
+  },
+  {
+    "anio": 2012,
+    "region": "UCAYALI",
+    "pia_soles": 2109424390.2439022,
+    "pim_soles": 2397073170.731707,
+    "devengado_soles": 2373102439.02439
+  },
+  {
+    "anio": 2013,
+    "region": "AMAZONAS",
+    "pia_soles": 2005882078.472959,
+    "pim_soles": 2279411452.8101807,
+    "devengado_soles": 2118211474.8674445
+  },
+  {
+    "anio": 2013,
+    "region": "ANCASH",
+    "pia_soles": 4566957370.095441,
+    "pim_soles": 5189724284.199365,
+    "devengado_soles": 4658296517.49735
+  },
+  {
+    "anio": 2013,
+    "region": "APURIMAC",
+    "pia_soles": 2464973319.1940618,
+    "pim_soles": 2801106044.5387063,
+    "devengado_soles": 2672927431.940615
+  },
+  {
+    "anio": 2013,
+    "region": "AREQUIPA",
+    "pia_soles": 6068374549.31071,
+    "pim_soles": 6895880169.671262,
+    "devengado_soles": 6421443613.997878
+  },
+  {
+    "anio": 2013,
+    "region": "AYACUCHO",
+    "pia_soles": 3090763435.8430543,
+    "pim_soles": 3512231177.09438,
+    "devengado_soles": 3435805026.6808066
+  },
+  {
+    "anio": 2013,
+    "region": "CAJAMARCA",
+    "pia_soles": 4264137518.5577955,
+    "pim_soles": 4845610816.54295,
+    "devengado_soles": 4797154708.377521
+  },
+  {
+    "anio": 2013,
+    "region": "CALLAO",
+    "pia_soles": 3868033934.252387,
+    "pim_soles": 4395493107.104985,
+    "devengado_soles": 4105742201.4846244
+  },
+  {
+    "anio": 2013,
+    "region": "CUSCO",
+    "pia_soles": 5095377306.468718,
+    "pim_soles": 5790201484.623543,
+    "devengado_soles": 5074995797.242843
+  },
+  {
+    "anio": 2013,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1848483393.425239,
+    "pim_soles": 2100549310.710499,
+    "devengado_soles": 2079543817.603394
+  },
+  {
+    "anio": 2013,
+    "region": "HUANUCO",
+    "pia_soles": 2539233934.252386,
+    "pim_soles": 2885493107.1049843,
+    "devengado_soles": 2856638176.0339346
+  },
+  {
+    "anio": 2013,
+    "region": "ICA",
+    "pia_soles": 3279726405.0901384,
+    "pim_soles": 3726961823.9660664,
+    "devengado_soles": 3280919032.8738074
+  },
+  {
+    "anio": 2013,
+    "region": "JUNIN",
+    "pia_soles": 5365928313.891836,
+    "pim_soles": 6097645811.240723,
+    "devengado_soles": 6036669353.128315
+  },
+  {
+    "anio": 2013,
+    "region": "LA LIBERTAD",
+    "pia_soles": 5489930858.960764,
+    "pim_soles": 6238557794.273595,
+    "devengado_soles": 6012971544.432661
+  },
+  {
+    "anio": 2013,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 4154648907.741252,
+    "pim_soles": 4721191940.615059,
+    "devengado_soles": 4650185213.828208
+  },
+  {
+    "anio": 2013,
+    "region": "LIMA",
+    "pia_soles": 44979104984.09332,
+    "pim_soles": 51112619300.10605,
+    "devengado_soles": 44161303075.291626
+  },
+  {
+    "anio": 2013,
+    "region": "LORETO",
+    "pia_soles": 4111248016.9671273,
+    "pim_soles": 4671872746.553554,
+    "devengado_soles": 4625154019.088018
+  },
+  {
+    "anio": 2013,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1150264517.4973488,
+    "pim_soles": 1307118769.8833508,
+    "devengado_soles": 1130605451.198303
+  },
+  {
+    "anio": 2013,
+    "region": "MOQUEGUA",
+    "pia_soles": 1934439703.075292,
+    "pim_soles": 2198226935.312832,
+    "devengado_soles": 1949915220.6998944
+  },
+  {
+    "anio": 2013,
+    "region": "PASCO",
+    "pia_soles": 1574268674.4432664,
+    "pim_soles": 1788941675.5037117,
+    "devengado_soles": 1743144768.6108167
+  },
+  {
+    "anio": 2013,
+    "region": "PIURA",
+    "pia_soles": 4835253785.790032,
+    "pim_soles": 5494606574.7614,
+    "devengado_soles": 5439660509.013786
+  },
+  {
+    "anio": 2013,
+    "region": "PUNO",
+    "pia_soles": 4829335482.502652,
+    "pim_soles": 5487881230.11665,
+    "devengado_soles": 5421148594.35843
+  },
+  {
+    "anio": 2013,
+    "region": "SAN MARTIN",
+    "pia_soles": 3072163054.082715,
+    "pim_soles": 3491094379.639449,
+    "devengado_soles": 3116849062.1421003
+  },
+  {
+    "anio": 2013,
+    "region": "TACNA",
+    "pia_soles": 2443977433.7221637,
+    "pim_soles": 2777247083.775186,
+    "devengado_soles": 2567509384.0084844
+  },
+  {
+    "anio": 2013,
+    "region": "TUMBES",
+    "pia_soles": 1598082799.575822,
+    "pim_soles": 1816003181.3361616,
+    "devengado_soles": 1797843149.5228
+  },
+  {
+    "anio": 2013,
+    "region": "UCAYALI",
+    "pia_soles": 2576998345.705196,
+    "pim_soles": 2928407211.0286317,
+    "devengado_soles": 2899123138.9183455
+  },
+  {
+    "anio": 2014,
+    "region": "AMAZONAS",
+    "pia_soles": 2323507953.340403,
+    "pim_soles": 2640349946.9777308,
+    "devengado_soles": 2613946447.5079536
+  },
+  {
+    "anio": 2014,
+    "region": "ANCASH",
+    "pia_soles": 5227507953.340404,
+    "pim_soles": 5940349946.977732,
+    "devengado_soles": 5337760848.356311
+  },
+  {
+    "anio": 2014,
+    "region": "APURIMAC",
+    "pia_soles": 2630691410.3923655,
+    "pim_soles": 2989422057.2640514,
+    "devengado_soles": 2941591304.347826
+  },
+  {
+    "anio": 2014,
+    "region": "AREQUIPA",
+    "pia_soles": 7538697773.064687,
+    "pim_soles": 8566702014.846235,
+    "devengado_soles": 8289826205.726405
+  },
+  {
+    "anio": 2014,
+    "region": "AYACUCHO",
+    "pia_soles": 3705910498.4093323,
+    "pim_soles": 4211261930.010605,
+    "devengado_soles": 4169149310.710499
+  },
+  {
+    "anio": 2014,
+    "region": "CAJAMARCA",
+    "pia_soles": 4974524284.199365,
+    "pim_soles": 5652868504.772005,
+    "devengado_soles": 5594983131.28314
+  },
+  {
+    "anio": 2014,
+    "region": "CALLAO",
+    "pia_soles": 3780127253.4464474,
+    "pim_soles": 4295599151.64369,
+    "devengado_soles": 4074289883.351007
+  },
+  {
+    "anio": 2014,
+    "region": "CUSCO",
+    "pia_soles": 6756496288.441146,
+    "pim_soles": 7677836691.410393,
+    "devengado_soles": 7601058324.496288
+  },
+  {
+    "anio": 2014,
+    "region": "HUANCAVELICA",
+    "pia_soles": 1965974125.132556,
+    "pim_soles": 2234061505.83245,
+    "devengado_soles": 2144699045.5991518
+  },
+  {
+    "anio": 2014,
+    "region": "HUANUCO",
+    "pia_soles": 2904000000.0000005,
+    "pim_soles": 3300000000.0000005,
+    "devengado_soles": 3202848000.000001
+  },
+  {
+    "anio": 2014,
+    "region": "ICA",
+    "pia_soles": 3514517497.348887,
+    "pim_soles": 3993769883.351008,
+    "devengado_soles": 3953832184.517498
+  },
+  {
+    "anio": 2014,
+    "region": "JUNIN",
+    "pia_soles": 5108945917.285261,
+    "pim_soles": 5805620360.551434,
+    "devengado_soles": 5400620284.199366
+  },
+  {
+    "anio": 2014,
+    "region": "LA LIBERTAD",
+    "pia_soles": 6269930010.604455,
+    "pim_soles": 7124920466.595971,
+    "devengado_soles": 6785204258.748674
+  },
+  {
+    "anio": 2014,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 4125958854.718982,
+    "pim_soles": 4688589607.635207,
+    "devengado_soles": 4641703711.558855
+  },
+  {
+    "anio": 2014,
+    "region": "LIMA",
+    "pia_soles": 51412810180.27572,
+    "pim_soles": 58423647932.1315,
+    "devengado_soles": 57839411452.81019
+  },
+  {
+    "anio": 2014,
+    "region": "LORETO",
+    "pia_soles": 4664877200.424179,
+    "pim_soles": 5300996818.663839,
+    "devengado_soles": 5134757558.430542
+  },
+  {
+    "anio": 2014,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1378861081.6542947,
+    "pim_soles": 1566887592.7889712,
+    "devengado_soles": 1540313179.2152703
+  },
+  {
+    "anio": 2014,
+    "region": "MOQUEGUA",
+    "pia_soles": 1935640721.1028633,
+    "pim_soles": 2199591728.525981,
+    "devengado_soles": 2111608059.3849416
+  },
+  {
+    "anio": 2014,
+    "region": "PASCO",
+    "pia_soles": 1760877200.4241784,
+    "pim_soles": 2000996818.663839,
+    "devengado_soles": 1767280390.2439027
+  },
+  {
+    "anio": 2014,
+    "region": "PIURA",
+    "pia_soles": 5979837963.944857,
+    "pim_soles": 6795270413.573701,
+    "devengado_soles": 6727317709.4379635
+  },
+  {
+    "anio": 2014,
+    "region": "PUNO",
+    "pia_soles": 4774508589.607636,
+    "pim_soles": 5425577942.73595,
+    "devengado_soles": 5371322163.308591
+  },
+  {
+    "anio": 2014,
+    "region": "SAN MARTIN",
+    "pia_soles": 3672035630.965006,
+    "pim_soles": 4172767762.4602337,
+    "devengado_soles": 4131040084.8356314
+  },
+  {
+    "anio": 2014,
+    "region": "TACNA",
+    "pia_soles": 2586808059.384942,
+    "pim_soles": 2939554612.937434,
+    "devengado_soles": 2579282799.5758224
+  },
+  {
+    "anio": 2014,
+    "region": "TUMBES",
+    "pia_soles": 1847874019.088017,
+    "pim_soles": 2099856839.8727465,
+    "devengado_soles": 1878783911.7709439
+  },
+  {
+    "anio": 2014,
+    "region": "UCAYALI",
+    "pia_soles": 2682889501.5906677,
+    "pim_soles": 3048738069.989395,
+    "devengado_soles": 2833131313.6797447
+  },
+  {
+    "anio": 2015,
+    "region": "AMAZONAS",
+    "pia_soles": 2635800636.267233,
+    "pim_soles": 2995227995.7582192,
+    "devengado_soles": 2855290943.796395
+  },
+  {
+    "anio": 2015,
+    "region": "ANCASH",
+    "pia_soles": 5361420996.8186655,
+    "pim_soles": 6092523860.021211,
+    "devengado_soles": 6031598621.420999
+  },
+  {
+    "anio": 2015,
+    "region": "APURIMAC",
+    "pia_soles": 2815113467.656416,
+    "pim_soles": 3198992576.882291,
+    "devengado_soles": 3101743202.545069
+  },
+  {
+    "anio": 2015,
+    "region": "AREQUIPA",
+    "pia_soles": 6650742311.770944,
+    "pim_soles": 7557661717.921527,
+    "devengado_soles": 7473015906.680806
+  },
+  {
+    "anio": 2015,
+    "region": "AYACUCHO",
+    "pia_soles": 3822727465.5355253,
+    "pim_soles": 4344008483.563097,
+    "devengado_soles": 4300568398.727466
+  },
+  {
+    "anio": 2015,
+    "region": "CAJAMARCA",
+    "pia_soles": 5222118769.883352,
+    "pim_soles": 5934225874.867446,
+    "devengado_soles": 5799400262.990458
+  },
+  {
+    "anio": 2015,
+    "region": "CALLAO",
+    "pia_soles": 3780593849.416756,
+    "pim_soles": 4296129374.337223,
+    "devengado_soles": 4253168080.5938506
+  },
+  {
+    "anio": 2015,
+    "region": "CUSCO",
+    "pia_soles": 6133870625.662779,
+    "pim_soles": 6970307529.162249,
+    "devengado_soles": 6149484114.528102
+  },
+  {
+    "anio": 2015,
+    "region": "HUANCAVELICA",
+    "pia_soles": 2389204665.959703,
+    "pim_soles": 2715005302.2269354,
+    "devengado_soles": 2588160254.5068927
+  },
+  {
+    "anio": 2015,
+    "region": "HUANUCO",
+    "pia_soles": 3504602332.9798517,
+    "pim_soles": 3982502651.1134677,
+    "devengado_soles": 3942677624.602333
+  },
+  {
+    "anio": 2015,
+    "region": "ICA",
+    "pia_soles": 3809172852.5980916,
+    "pim_soles": 4328605514.316013,
+    "devengado_soles": 4285319459.172853
+  },
+  {
+    "anio": 2015,
+    "region": "JUNIN",
+    "pia_soles": 6133054082.714741,
+    "pim_soles": 6969379639.448569,
+    "devengado_soles": 6302549395.54613
+  },
+  {
+    "anio": 2015,
+    "region": "LA LIBERTAD",
+    "pia_soles": 5970562036.055144,
+    "pim_soles": 6784729586.4263,
+    "devengado_soles": 6716882290.5620365
+  },
+  {
+    "anio": 2015,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 4750973488.865324,
+    "pim_soles": 5398833510.074232,
+    "devengado_soles": 5344845174.97349
+  },
+  {
+    "anio": 2015,
+    "region": "LIMA",
+    "pia_soles": 61844962884.41145,
+    "pim_soles": 70278366914.10393,
+    "devengado_soles": 60922910710.49841
+  },
+  {
+    "anio": 2015,
+    "region": "LORETO",
+    "pia_soles": 4279991516.4369044,
+    "pim_soles": 4863626723.223755,
+    "devengado_soles": 4239526142.099683
+  },
+  {
+    "anio": 2015,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1506521739.1304345,
+    "pim_soles": 1711956521.73913,
+    "devengado_soles": 1604034782.608695
+  },
+  {
+    "anio": 2015,
+    "region": "MOQUEGUA",
+    "pia_soles": 2273745493.107105,
+    "pim_soles": 2583801696.7126193,
+    "devengado_soles": 2234885115.588547
+  },
+  {
+    "anio": 2015,
+    "region": "PASCO",
+    "pia_soles": 2077285259.8091204,
+    "pim_soles": 2360551431.601273,
+    "devengado_soles": 2336945917.28526
+  },
+  {
+    "anio": 2015,
+    "region": "PIURA",
+    "pia_soles": 6789064687.1686125,
+    "pim_soles": 7714846235.418878,
+    "devengado_soles": 6761908428.419938
+  },
+  {
+    "anio": 2015,
+    "region": "PUNO",
+    "pia_soles": 5246778366.914104,
+    "pim_soles": 5962248144.220573,
+    "devengado_soles": 5305923868.504773
+  },
+  {
+    "anio": 2015,
+    "region": "SAN MARTIN",
+    "pia_soles": 3625124072.1102867,
+    "pim_soles": 4119459172.8525987,
+    "devengado_soles": 3950726125.1325564
+  },
+  {
+    "anio": 2015,
+    "region": "TACNA",
+    "pia_soles": 2432644750.795335,
+    "pim_soles": 2764369034.9946985,
+    "devengado_soles": 2582141828.2078476
+  },
+  {
+    "anio": 2015,
+    "region": "TUMBES",
+    "pia_soles": 1685018027.5715802,
+    "pim_soles": 1914793213.149523,
+    "devengado_soles": 1659895940.6150584
+  },
+  {
+    "anio": 2015,
+    "region": "UCAYALI",
+    "pia_soles": 2816093319.1940613,
+    "pim_soles": 3200106044.538706,
+    "devengado_soles": 3065957599.1516433
+  },
+  {
+    "anio": 2016,
+    "region": "AMAZONAS",
+    "pia_soles": 2845334888.6532345,
+    "pim_soles": 3233335100.742312,
+    "devengado_soles": 2970529623.753977
+  },
+  {
+    "anio": 2016,
+    "region": "ANCASH",
+    "pia_soles": 6565821845.174974,
+    "pim_soles": 7461161187.698834,
+    "devengado_soles": 7384758897.136799
+  },
+  {
+    "anio": 2016,
+    "region": "APURIMAC",
+    "pia_soles": 2987383499.469778,
+    "pim_soles": 3394753976.6702023,
+    "devengado_soles": 2946103291.113468
+  },
+  {
+    "anio": 2016,
+    "region": "AREQUIPA",
+    "pia_soles": 7538697773.064686,
+    "pim_soles": 8566702014.846234,
+    "devengado_soles": 8481034994.697772
+  },
+  {
+    "anio": 2016,
+    "region": "AYACUCHO",
+    "pia_soles": 4100213955.4612937,
+    "pim_soles": 4659334040.296925,
+    "devengado_soles": 4352190740.360551
+  },
+  {
+    "anio": 2016,
+    "region": "CAJAMARCA",
+    "pia_soles": 5609000551.4316025,
+    "pim_soles": 6373864262.990458,
+    "devengado_soles": 6310125620.360553
+  },
+  {
+    "anio": 2016,
+    "region": "CALLAO",
+    "pia_soles": 4249242841.993638,
+    "pim_soles": 4828685047.720043,
+    "devengado_soles": 4654079796.394486
+  },
+  {
+    "anio": 2016,
+    "region": "CUSCO",
+    "pia_soles": 7503796394.485683,
+    "pim_soles": 8527041357.370095,
+    "devengado_soles": 8071356267.232237
+  },
+  {
+    "anio": 2016,
+    "region": "HUANCAVELICA",
+    "pia_soles": 2553035843.054083,
+    "pim_soles": 2901177094.3796396,
+    "devengado_soles": 2872165323.435843
+  },
+  {
+    "anio": 2016,
+    "region": "HUANUCO",
+    "pia_soles": 3322611240.721103,
+    "pim_soles": 3775694591.728526,
+    "devengado_soles": 3737937645.8112407
+  },
+  {
+    "anio": 2016,
+    "region": "ICA",
+    "pia_soles": 4271056203.605515,
+    "pim_soles": 4853472958.642631,
+    "devengado_soles": 4524213353.128314
+  },
+  {
+    "anio": 2016,
+    "region": "JUNIN",
+    "pia_soles": 6376481866.3838825,
+    "pim_soles": 7246002120.890776,
+    "devengado_soles": 6427493721.314954
+  },
+  {
+    "anio": 2016,
+    "region": "LA LIBERTAD",
+    "pia_soles": 6735966065.747615,
+    "pim_soles": 7654506892.895017,
+    "devengado_soles": 6672280568.398728
+  },
+  {
+    "anio": 2016,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 5076754528.101804,
+    "pim_soles": 5769039236.479322,
+    "devengado_soles": 5255825506.002122
+  },
+  {
+    "anio": 2016,
+    "region": "LIMA",
+    "pia_soles": 60466638388.12301,
+    "pim_soles": 68712089077.41251,
+    "devengado_soles": 63522952110.28632
+  },
+  {
+    "anio": 2016,
+    "region": "LORETO",
+    "pia_soles": 4680972895.015907,
+    "pim_soles": 5319287380.699895,
+    "devengado_soles": 5014598599.533405
+  },
+  {
+    "anio": 2016,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1704059809.1198301,
+    "pim_soles": 1936431601.2725341,
+    "devengado_soles": 1806923055.779427
+  },
+  {
+    "anio": 2016,
+    "region": "MOQUEGUA",
+    "pia_soles": 2386556267.232238,
+    "pim_soles": 2711995758.218452,
+    "devengado_soles": 2533220997.8366914
+  },
+  {
+    "anio": 2016,
+    "region": "PASCO",
+    "pia_soles": 2219727677.624603,
+    "pim_soles": 2522417815.482503,
+    "devengado_soles": 2436050229.480382
+  },
+  {
+    "anio": 2016,
+    "region": "PIURA",
+    "pia_soles": 6624630668.080595,
+    "pim_soles": 7527989395.54613,
+    "devengado_soles": 7452709501.590669
+  },
+  {
+    "anio": 2016,
+    "region": "PUNO",
+    "pia_soles": 5545131028.632026,
+    "pim_soles": 6301285259.80912,
+    "devengado_soles": 5831461430.837751
+  },
+  {
+    "anio": 2016,
+    "region": "SAN MARTIN",
+    "pia_soles": 4023430922.5874867,
+    "pim_soles": 4572080593.849417,
+    "devengado_soles": 4526359787.910922
+  },
+  {
+    "anio": 2016,
+    "region": "TACNA",
+    "pia_soles": 2803278727.4655356,
+    "pim_soles": 3185544008.4835634,
+    "devengado_soles": 3143749671.092259
+  },
+  {
+    "anio": 2016,
+    "region": "TUMBES",
+    "pia_soles": 1764090180.2757158,
+    "pim_soles": 2004647932.1314952,
+    "devengado_soles": 1984601452.8101802
+  },
+  {
+    "anio": 2016,
+    "region": "UCAYALI",
+    "pia_soles": 3147406320.2545066,
+    "pim_soles": 3576598091.1983027,
+    "devengado_soles": 3540832110.2863197
+  },
+  {
+    "anio": 2017,
+    "region": "AMAZONAS",
+    "pia_soles": 2965590668.0805945,
+    "pim_soles": 3369989395.54613,
+    "devengado_soles": 2921376407.211029
+  },
+  {
+    "anio": 2017,
+    "region": "ANCASH",
+    "pia_soles": 6305344644.750796,
+    "pim_soles": 7165164369.034996,
+    "devengado_soles": 6458965768.8229065
+  },
+  {
+    "anio": 2017,
+    "region": "APURIMAC",
+    "pia_soles": 2911822014.8462358,
+    "pim_soles": 3308888653.234359,
+    "devengado_soles": 3176533107.1049843
+  },
+  {
+    "anio": 2017,
+    "region": "AREQUIPA",
+    "pia_soles": 8431146553.552491,
+    "pim_soles": 9580848356.309649,
+    "devengado_soles": 8783721773.064686
+  },
+  {
+    "anio": 2017,
+    "region": "AYACUCHO",
+    "pia_soles": 3963359490.986214,
+    "pim_soles": 4503817603.393425,
+    "devengado_soles": 4458779427.35949
+  },
+  {
+    "anio": 2017,
+    "region": "CAJAMARCA",
+    "pia_soles": 6566981802.757159,
+    "pim_soles": 7462479321.314954,
+    "devengado_soles": 6891748902.8207855
+  },
+  {
+    "anio": 2017,
+    "region": "CALLAO",
+    "pia_soles": 4379096500.530224,
+    "pim_soles": 4976246023.3298,
+    "devengado_soles": 4352025722.16331
+  },
+  {
+    "anio": 2017,
+    "region": "CUSCO",
+    "pia_soles": 7479570731.707318,
+    "pim_soles": 8499512195.121952,
+    "devengado_soles": 8414517073.1707325
+  },
+  {
+    "anio": 2017,
+    "region": "HUANCAVELICA",
+    "pia_soles": 2682519957.582185,
+    "pim_soles": 3048318133.616119,
+    "devengado_soles": 2639599638.26087
+  },
+  {
+    "anio": 2017,
+    "region": "HUANUCO",
+    "pia_soles": 3994770731.707317,
+    "pim_soles": 4539512195.121951,
+    "devengado_soles": 4288204799.9999995
+  },
+  {
+    "anio": 2017,
+    "region": "ICA",
+    "pia_soles": 4628538706.256628,
+    "pim_soles": 5259703075.291623,
+    "devengado_soles": 5024068377.5185585
+  },
+  {
+    "anio": 2017,
+    "region": "JUNIN",
+    "pia_soles": 6919711558.854721,
+    "pim_soles": 7863308589.607637,
+    "devengado_soles": 7784675503.711561
+  },
+  {
+    "anio": 2017,
+    "region": "LA LIBERTAD",
+    "pia_soles": 7361316648.992577,
+    "pim_soles": 8365132555.673383,
+    "devengado_soles": 8183107271.26193
+  },
+  {
+    "anio": 2017,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 5121879957.582185,
+    "pim_soles": 5820318133.616119,
+    "devengado_soles": 5095804932.343585
+  },
+  {
+    "anio": 2017,
+    "region": "LIMA",
+    "pia_soles": 70361179215.27043,
+    "pim_soles": 79955885471.89821,
+    "devengado_soles": 79156326617.17923
+  },
+  {
+    "anio": 2017,
+    "region": "LORETO",
+    "pia_soles": 5333998218.451752,
+    "pim_soles": 6061361611.87699,
+    "devengado_soles": 6000747995.758221
+  },
+  {
+    "anio": 2017,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1611396648.9925768,
+    "pim_soles": 1831132555.6733828,
+    "devengado_soles": 1710424297.6033933
+  },
+  {
+    "anio": 2017,
+    "region": "MOQUEGUA",
+    "pia_soles": 2507725641.5694594,
+    "pim_soles": 2849688229.056204,
+    "devengado_soles": 2604387066.299046
+  },
+  {
+    "anio": 2017,
+    "region": "PASCO",
+    "pia_soles": 2268261124.0721107,
+    "pim_soles": 2577569459.172853,
+    "devengado_soles": 2551793764.5811243
+  },
+  {
+    "anio": 2017,
+    "region": "PIURA",
+    "pia_soles": 6361330562.036056,
+    "pim_soles": 7228784729.586427,
+    "devengado_soles": 7156496882.290563
+  },
+  {
+    "anio": 2017,
+    "region": "PUNO",
+    "pia_soles": 6421196691.410394,
+    "pim_soles": 7296814422.057265,
+    "devengado_soles": 6801798531.664901
+  },
+  {
+    "anio": 2017,
+    "region": "SAN MARTIN",
+    "pia_soles": 4451157582.184517,
+    "pim_soles": 5058133616.11877,
+    "devengado_soles": 4661575940.615058
+  },
+  {
+    "anio": 2017,
+    "region": "TACNA",
+    "pia_soles": 3006610053.02227,
+    "pim_soles": 3416602332.9798527,
+    "devengado_soles": 3382436309.650054
+  },
+  {
+    "anio": 2017,
+    "region": "TUMBES",
+    "pia_soles": 1985744729.586426,
+    "pim_soles": 2256528101.802757,
+    "devengado_soles": 2112110303.2873802
+  },
+  {
+    "anio": 2017,
+    "region": "UCAYALI",
+    "pia_soles": 3136320000.0,
+    "pim_soles": 3564000000.0,
+    "devengado_soles": 3503554560.0
+  },
+  {
+    "anio": 2018,
+    "region": "AMAZONAS",
+    "pia_soles": 2907219512.1951222,
+    "pim_soles": 3303658536.5853662,
+    "devengado_soles": 3022451121.95122
+  },
+  {
+    "anio": 2018,
+    "region": "ANCASH",
+    "pia_soles": 6454282078.4729595,
+    "pim_soles": 7334411452.810182,
+    "devengado_soles": 6829803944.85684
+  },
+  {
+    "anio": 2018,
+    "region": "APURIMAC",
+    "pia_soles": 3591351855.779428,
+    "pim_soles": 4081081654.2948046,
+    "devengado_soles": 3917838388.123012
+  },
+  {
+    "anio": 2018,
+    "region": "AREQUIPA",
+    "pia_soles": 9144954400.848356,
+    "pim_soles": 10391993637.327677,
+    "devengado_soles": 10288073700.9544
+  },
+  {
+    "anio": 2018,
+    "region": "AYACUCHO",
+    "pia_soles": 4354460233.297986,
+    "pim_soles": 4948250265.111347,
+    "devengado_soles": 4598310006.362672
+  },
+  {
+    "anio": 2018,
+    "region": "CAJAMARCA",
+    "pia_soles": 6137202120.890776,
+    "pim_soles": 6974093319.194063,
+    "devengado_soles": 6507665958.006364
+  },
+  {
+    "anio": 2018,
+    "region": "CALLAO",
+    "pia_soles": 5070731707.317075,
+    "pim_soles": 5762195121.951221,
+    "devengado_soles": 5704573170.7317095
+  },
+  {
+    "anio": 2018,
+    "region": "CUSCO",
+    "pia_soles": 7509582184.517499,
+    "pim_soles": 8533616118.769885,
+    "devengado_soles": 8003849230.116651
+  },
+  {
+    "anio": 2018,
+    "region": "HUANCAVELICA",
+    "pia_soles": 2949353128.3138924,
+    "pim_soles": 3351537645.811241,
+    "devengado_soles": 2989035334.040297
+  },
+  {
+    "anio": 2018,
+    "region": "HUANUCO",
+    "pia_soles": 3970358430.5408278,
+    "pim_soles": 4511770943.796395,
+    "devengado_soles": 4223017603.393426
+  },
+  {
+    "anio": 2018,
+    "region": "ICA",
+    "pia_soles": 4845365853.658538,
+    "pim_soles": 5506097560.975611,
+    "devengado_soles": 4852413658.536586
+  },
+  {
+    "anio": 2018,
+    "region": "JUNIN",
+    "pia_soles": 7270498409.331922,
+    "pim_soles": 8261930010.604456,
+    "devengado_soles": 8090081866.3838825
+  },
+  {
+    "anio": 2018,
+    "region": "LA LIBERTAD",
+    "pia_soles": 7760424178.154825,
+    "pim_soles": 8818663838.812302,
+    "devengado_soles": 8584440127.253447
+  },
+  {
+    "anio": 2018,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 5487168610.816544,
+    "pim_soles": 6235418875.927891,
+    "devengado_soles": 5944100106.044539
+  },
+  {
+    "anio": 2018,
+    "region": "LIMA",
+    "pia_soles": 63925514316.01273,
+    "pim_soles": 72642629904.55992,
+    "devengado_soles": 66110604623.54189
+  },
+  {
+    "anio": 2018,
+    "region": "LORETO",
+    "pia_soles": 5064656627.78367,
+    "pim_soles": 5755291622.481443,
+    "devengado_soles": 5375902798.727467
+  },
+  {
+    "anio": 2018,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1612051749.7348886,
+    "pim_soles": 1831876988.3351007,
+    "devengado_soles": 1813558218.4517496
+  },
+  {
+    "anio": 2018,
+    "region": "MOQUEGUA",
+    "pia_soles": 2491566489.9257693,
+    "pim_soles": 2831325556.7338285,
+    "devengado_soles": 2803012301.16649
+  },
+  {
+    "anio": 2018,
+    "region": "PASCO",
+    "pia_soles": 2292852598.0911984,
+    "pim_soles": 2605514316.0127254,
+    "devengado_soles": 2579459172.852598
+  },
+  {
+    "anio": 2018,
+    "region": "PIURA",
+    "pia_soles": 6955378154.825027,
+    "pim_soles": 7903838812.3011675,
+    "devengado_soles": 7587685259.80912
+  },
+  {
+    "anio": 2018,
+    "region": "PUNO",
+    "pia_soles": 6421555037.115589,
+    "pim_soles": 7297221633.0858965,
+    "devengado_soles": 7138434090.349948
+  },
+  {
+    "anio": 2018,
+    "region": "SAN MARTIN",
+    "pia_soles": 4423441781.54825,
+    "pim_soles": 5026638388.123012,
+    "devengado_soles": 4748363686.956521
+  },
+  {
+    "anio": 2018,
+    "region": "TACNA",
+    "pia_soles": 3022646023.3297987,
+    "pim_soles": 3434825026.5111346,
+    "devengado_soles": 3280944865.323436
+  },
+  {
+    "anio": 2018,
+    "region": "TUMBES",
+    "pia_soles": 2147050689.2895017,
+    "pim_soles": 2439830328.73807,
+    "devengado_soles": 2415432025.4506893
+  },
+  {
+    "anio": 2018,
+    "region": "UCAYALI",
+    "pia_soles": 3689728950.159066,
+    "pim_soles": 4192873806.998939,
+    "devengado_soles": 3988932425.0265107
+  },
+  {
+    "anio": 2019,
+    "region": "AMAZONAS",
+    "pia_soles": 3120715164.3690352,
+    "pim_soles": 3546267232.2375402,
+    "devengado_soles": 3510804559.915165
+  },
+  {
+    "anio": 2019,
+    "region": "ANCASH",
+    "pia_soles": 7775219936.373278,
+    "pim_soles": 8835477200.42418,
+    "devengado_soles": 8032509032.44963
+  },
+  {
+    "anio": 2019,
+    "region": "APURIMAC",
+    "pia_soles": 3727895567.3382826,
+    "pim_soles": 4236244962.884412,
+    "devengado_soles": 4131863886.99894
+  },
+  {
+    "anio": 2019,
+    "region": "AREQUIPA",
+    "pia_soles": 8396501802.757158,
+    "pim_soles": 9541479321.314953,
+    "devengado_soles": 9446064528.101803
+  },
+  {
+    "anio": 2019,
+    "region": "AYACUCHO",
+    "pia_soles": 4666971283.138919,
+    "pim_soles": 5303376458.112408,
+    "devengado_soles": 4811223122.799577
+  },
+  {
+    "anio": 2019,
+    "region": "CAJAMARCA",
+    "pia_soles": 7101619597.030753,
+    "pim_soles": 8070022269.353128,
+    "devengado_soles": 7592276951.007423
+  },
+  {
+    "anio": 2019,
+    "region": "CALLAO",
+    "pia_soles": 5380014846.235419,
+    "pim_soles": 6113653234.358431,
+    "devengado_soles": 5781070498.409332
+  },
+  {
+    "anio": 2019,
+    "region": "CUSCO",
+    "pia_soles": 7880469989.395546,
+    "pim_soles": 8955079533.40403,
+    "devengado_soles": 8261598174.337222
+  },
+  {
+    "anio": 2019,
+    "region": "HUANCAVELICA",
+    "pia_soles": 2783914994.697773,
+    "pim_soles": 3163539766.702015,
+    "devengado_soles": 2857815283.6479325
+  },
+  {
+    "anio": 2019,
+    "region": "HUANUCO",
+    "pia_soles": 4103730222.693532,
+    "pim_soles": 4663329798.515377,
+    "devengado_soles": 4616696500.530223
+  },
+  {
+    "anio": 2019,
+    "region": "ICA",
+    "pia_soles": 5190973488.865324,
+    "pim_soles": 5898833510.074232,
+    "devengado_soles": 5815777934.252388
+  },
+  {
+    "anio": 2019,
+    "region": "JUNIN",
+    "pia_soles": 6602141675.503713,
+    "pim_soles": 7502433722.16331,
+    "devengado_soles": 6806207872.746555
+  },
+  {
+    "anio": 2019,
+    "region": "LA LIBERTAD",
+    "pia_soles": 8746994697.773066,
+    "pim_soles": 9939766702.014847,
+    "devengado_soles": 9418127745.493107
+  },
+  {
+    "anio": 2019,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 5258824008.483564,
+    "pim_soles": 5975936373.276777,
+    "devengado_soles": 5633634737.815483
+  },
+  {
+    "anio": 2019,
+    "region": "LIMA",
+    "pia_soles": 69025641569.45918,
+    "pim_soles": 78438229056.20361,
+    "devengado_soles": 70933259300.10605
+  },
+  {
+    "anio": 2019,
+    "region": "LORETO",
+    "pia_soles": 5356103669.14104,
+    "pim_soles": 6086481442.205728,
+    "devengado_soles": 5451539698.154826
+  },
+  {
+    "anio": 2019,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1984627698.8335097,
+    "pim_soles": 2255258748.674443,
+    "devengado_soles": 2232706161.1876984
+  },
+  {
+    "anio": 2019,
+    "region": "MOQUEGUA",
+    "pia_soles": 2630229480.3817606,
+    "pim_soles": 2988897136.7974553,
+    "devengado_soles": 2959008165.4294806
+  },
+  {
+    "anio": 2019,
+    "region": "PASCO",
+    "pia_soles": 2643717836.6914105,
+    "pim_soles": 3004224814.4220576,
+    "devengado_soles": 2974182566.277837
+  },
+  {
+    "anio": 2019,
+    "region": "PIURA",
+    "pia_soles": 7967939936.373278,
+    "pim_soles": 9054477200.42418,
+    "devengado_soles": 8926990161.442207
+  },
+  {
+    "anio": 2019,
+    "region": "PUNO",
+    "pia_soles": 6422092555.673383,
+    "pim_soles": 7297832449.628844,
+    "devengado_soles": 6795741577.094379
+  },
+  {
+    "anio": 2019,
+    "region": "SAN MARTIN",
+    "pia_soles": 4316274019.088017,
+    "pim_soles": 4904856839.872747,
+    "devengado_soles": 4855808271.47402
+  },
+  {
+    "anio": 2019,
+    "region": "TACNA",
+    "pia_soles": 3371271601.272535,
+    "pim_soles": 3830990455.991517,
+    "devengado_soles": 3582129315.970308
+  },
+  {
+    "anio": 2019,
+    "region": "TUMBES",
+    "pia_soles": 2133408356.3096504,
+    "pim_soles": 2424327677.624603,
+    "devengado_soles": 2400084400.8483567
+  },
+  {
+    "anio": 2019,
+    "region": "UCAYALI",
+    "pia_soles": 3719107698.83351,
+    "pim_soles": 4226258748.6744432,
+    "devengado_soles": 3773203810.816543
+  },
+  {
+    "anio": 2020,
+    "region": "AMAZONAS",
+    "pia_soles": 3245198303.287381,
+    "pim_soles": 3687725344.644751,
+    "devengado_soles": 3650848091.1983037
+  },
+  {
+    "anio": 2020,
+    "region": "ANCASH",
+    "pia_soles": 6963314952.279959,
+    "pim_soles": 7912857900.318135,
+    "devengado_soles": 7833729321.314954
+  },
+  {
+    "anio": 2020,
+    "region": "APURIMAC",
+    "pia_soles": 3955119406.1505833,
+    "pim_soles": 4494453870.625663,
+    "devengado_soles": 3900466847.083775
+  },
+  {
+    "anio": 2020,
+    "region": "AREQUIPA",
+    "pia_soles": 9813871049.840935,
+    "pim_soles": 11152126193.001062,
+    "devengado_soles": 10609686774.97349
+  },
+  {
+    "anio": 2020,
+    "region": "AYACUCHO",
+    "pia_soles": 4697438133.616119,
+    "pim_soles": 5337997879.109226,
+    "devengado_soles": 5284617900.318134
+  },
+  {
+    "anio": 2020,
+    "region": "CAJAMARCA",
+    "pia_soles": 7024631261.930012,
+    "pim_soles": 7982535524.920468,
+    "devengado_soles": 7902710169.671264
+  },
+  {
+    "anio": 2020,
+    "region": "CALLAO",
+    "pia_soles": 5267331919.406152,
+    "pim_soles": 5985604453.870626,
+    "devengado_soles": 5470363622.481443
+  },
+  {
+    "anio": 2020,
+    "region": "CUSCO",
+    "pia_soles": 7879798091.198304,
+    "pim_soles": 8954316012.725346,
+    "devengado_soles": 8639124089.077414
+  },
+  {
+    "anio": 2020,
+    "region": "HUANCAVELICA",
+    "pia_soles": 3147570562.0360556,
+    "pim_soles": 3576784729.5864267,
+    "devengado_soles": 3320400800.169672
+  },
+  {
+    "anio": 2020,
+    "region": "HUANUCO",
+    "pia_soles": 4283444326.6171794,
+    "pim_soles": 4867550371.155886,
+    "devengado_soles": 4818874867.444326
+  },
+  {
+    "anio": 2020,
+    "region": "ICA",
+    "pia_soles": 5859838812.3011675,
+    "pim_soles": 6658907741.251327,
+    "devengado_soles": 5919502625.662779
+  },
+  {
+    "anio": 2020,
+    "region": "JUNIN",
+    "pia_soles": 7960248568.398729,
+    "pim_soles": 9045737009.54401,
+    "devengado_soles": 8953108662.56628
+  },
+  {
+    "anio": 2020,
+    "region": "LA LIBERTAD",
+    "pia_soles": 8419033722.16331,
+    "pim_soles": 9567083775.18558,
+    "devengado_soles": 8596598797.030754
+  },
+  {
+    "anio": 2020,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 6039439066.808061,
+    "pim_soles": 6862998939.554614,
+    "devengado_soles": 6794368950.159068
+  },
+  {
+    "anio": 2020,
+    "region": "LIMA",
+    "pia_soles": 74655868504.772,
+    "pim_soles": 84836214209.96819,
+    "devengado_soles": 81035551813.3616
+  },
+  {
+    "anio": 2020,
+    "region": "LORETO",
+    "pia_soles": 6033350922.587487,
+    "pim_soles": 6856080593.849418,
+    "devengado_soles": 6279072851.071051
+  },
+  {
+    "anio": 2020,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 1761213149.5227995,
+    "pim_soles": 2001378579.0031812,
+    "devengado_soles": 1981364793.2131493
+  },
+  {
+    "anio": 2020,
+    "region": "MOQUEGUA",
+    "pia_soles": 2852078133.616119,
+    "pim_soles": 3240997879.109226,
+    "devengado_soles": 2825113031.2619305
+  },
+  {
+    "anio": 2020,
+    "region": "PASCO",
+    "pia_soles": 2864906723.2237544,
+    "pim_soles": 3255575821.8451753,
+    "devengado_soles": 3165982375.2279963
+  },
+  {
+    "anio": 2020,
+    "region": "PIURA",
+    "pia_soles": 8155069183.457052,
+    "pim_soles": 9267124072.110287,
+    "devengado_soles": 9127746526.065748
+  },
+  {
+    "anio": 2020,
+    "region": "PUNO",
+    "pia_soles": 7591046108.16543,
+    "pim_soles": 8626188759.278898,
+    "devengado_soles": 7742867030.328739
+  },
+  {
+    "anio": 2020,
+    "region": "SAN MARTIN",
+    "pia_soles": 4640035630.965006,
+    "pim_soles": 5272767762.460234,
+    "devengado_soles": 5220040084.835631
+  },
+  {
+    "anio": 2020,
+    "region": "TACNA",
+    "pia_soles": 3618097136.7974553,
+    "pim_soles": 4111474019.0880175,
+    "devengado_soles": 4070359278.897137
+  },
+  {
+    "anio": 2020,
+    "region": "TUMBES",
+    "pia_soles": 2386987401.9088016,
+    "pim_soles": 2712485683.9872746,
+    "devengado_soles": 2685360827.147402
+  },
+  {
+    "anio": 2020,
+    "region": "UCAYALI",
+    "pia_soles": 3628099088.016967,
+    "pim_soles": 4122839872.7465534,
+    "devengado_soles": 4033126877.1155887
+  },
+  {
+    "anio": 2021,
+    "region": "AMAZONAS",
+    "pia_soles": 3569683138.9183464,
+    "pim_soles": 4056458112.407212,
+    "devengado_soles": 3800738993.001061
+  },
+  {
+    "anio": 2021,
+    "region": "ANCASH",
+    "pia_soles": 8747363308.58961,
+    "pim_soles": 9940185577.942738,
+    "devengado_soles": 9552120732.979853
+  },
+  {
+    "anio": 2021,
+    "region": "APURIMAC",
+    "pia_soles": 3635502099.681867,
+    "pim_soles": 4131252386.002122,
+    "devengado_soles": 3886682244.7507963
+  },
+  {
+    "anio": 2021,
+    "region": "AREQUIPA",
+    "pia_soles": 10308514103.923647,
+    "pim_soles": 11714220572.640509,
+    "devengado_soles": 11234406097.985153
+  },
+  {
+    "anio": 2021,
+    "region": "AYACUCHO",
+    "pia_soles": 5472577221.633087,
+    "pim_soles": 6218837751.855781,
+    "devengado_soles": 6156649374.337223
+  },
+  {
+    "anio": 2021,
+    "region": "CAJAMARCA",
+    "pia_soles": 8247513976.670203,
+    "pim_soles": 9372174973.488867,
+    "devengado_soles": 8376475104.305409
+  },
+  {
+    "anio": 2021,
+    "region": "CALLAO",
+    "pia_soles": 5750375397.667021,
+    "pim_soles": 6534517497.348887,
+    "devengado_soles": 6128854651.113468
+  },
+  {
+    "anio": 2021,
+    "region": "CUSCO",
+    "pia_soles": 9097538918.345705,
+    "pim_soles": 10338112407.21103,
+    "devengado_soles": 10234731283.138918
+  },
+  {
+    "anio": 2021,
+    "region": "HUANCAVELICA",
+    "pia_soles": 3410405938.4941683,
+    "pim_soles": 3875461293.743373,
+    "devengado_soles": 3586506899.6818666
+  },
+  {
+    "anio": 2021,
+    "region": "HUANUCO",
+    "pia_soles": 5040654931.071051,
+    "pim_soles": 5728016967.126194,
+    "devengado_soles": 5262443748.038177
+  },
+  {
+    "anio": 2021,
+    "region": "ICA",
+    "pia_soles": 6394511134.676566,
+    "pim_soles": 7266489925.768825,
+    "devengado_soles": 6599135490.986217
+  },
+  {
+    "anio": 2021,
+    "region": "JUNIN",
+    "pia_soles": 8657184305.408274,
+    "pim_soles": 9837709437.963947,
+    "devengado_soles": 9661417684.835634
+  },
+  {
+    "anio": 2021,
+    "region": "LA LIBERTAD",
+    "pia_soles": 9687801484.623543,
+    "pim_soles": 11008865323.435844,
+    "devengado_soles": 9786440917.921528
+  },
+  {
+    "anio": 2021,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 6315809459.172853,
+    "pim_soles": 7177056203.6055155,
+    "devengado_soles": 7013993486.659597
+  },
+  {
+    "anio": 2021,
+    "region": "LIMA",
+    "pia_soles": 81407045599.15166,
+    "pim_soles": 92508006362.67233,
+    "devengado_soles": 91582926299.04561
+  },
+  {
+    "anio": 2021,
+    "region": "LORETO",
+    "pia_soles": 7017566065.747616,
+    "pim_soles": 7974506892.895018,
+    "devengado_soles": 6989495801.484626
+  },
+  {
+    "anio": 2021,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 2025865450.6892896,
+    "pim_soles": 2302119830.328738,
+    "devengado_soles": 2236555457.5609756
+  },
+  {
+    "anio": 2021,
+    "region": "MOQUEGUA",
+    "pia_soles": 2987150201.4846234,
+    "pim_soles": 3394488865.323436,
+    "devengado_soles": 3200052543.117709
+  },
+  {
+    "anio": 2021,
+    "region": "PASCO",
+    "pia_soles": 2636506129.3743377,
+    "pim_soles": 2996029692.470838,
+    "devengado_soles": 2743883833.552492
+  },
+  {
+    "anio": 2021,
+    "region": "PIURA",
+    "pia_soles": 8776173743.372215,
+    "pim_soles": 9972924708.377518,
+    "devengado_soles": 9873195461.293743
+  },
+  {
+    "anio": 2021,
+    "region": "PUNO",
+    "pia_soles": 7727754994.697775,
+    "pim_soles": 8781539766.702017,
+    "devengado_soles": 7958182598.176036
+  },
+  {
+    "anio": 2021,
+    "region": "SAN MARTIN",
+    "pia_soles": 4797522969.247085,
+    "pim_soles": 5451730646.871687,
+    "devengado_soles": 5397213340.40297
+  },
+  {
+    "anio": 2021,
+    "region": "TACNA",
+    "pia_soles": 3668997158.006363,
+    "pim_soles": 4169314952.279958,
+    "devengado_soles": 3870458456.5005307
+  },
+  {
+    "anio": 2021,
+    "region": "TUMBES",
+    "pia_soles": 2718252810.1802754,
+    "pim_soles": 3088923647.9321313,
+    "devengado_soles": 3058034411.45281
+  },
+  {
+    "anio": 2021,
+    "region": "UCAYALI",
+    "pia_soles": 4460698536.585366,
+    "pim_soles": 5068975609.756098,
+    "devengado_soles": 5002470649.756098
+  },
+  {
+    "anio": 2022,
+    "region": "AMAZONAS",
+    "pia_soles": 3845217391.3043485,
+    "pim_soles": 4369565217.391305,
+    "devengado_soles": 3813057391.3043485
+  },
+  {
+    "anio": 2022,
+    "region": "ANCASH",
+    "pia_soles": 8508246871.68611,
+    "pim_soles": 9668462354.18876,
+    "devengado_soles": 8780510771.580065
+  },
+  {
+    "anio": 2022,
+    "region": "APURIMAC",
+    "pia_soles": 4226112746.5535526,
+    "pim_soles": 4802400848.35631,
+    "devengado_soles": 4754376839.872746
+  },
+  {
+    "anio": 2022,
+    "region": "AREQUIPA",
+    "pia_soles": 11243040509.013784,
+    "pim_soles": 12776182396.606573,
+    "devengado_soles": 12498172667.656416
+  },
+  {
+    "anio": 2022,
+    "region": "AYACUCHO",
+    "pia_soles": 5639652173.913043,
+    "pim_soles": 6408695652.173912,
+    "devengado_soles": 5635550608.695651
+  },
+  {
+    "anio": 2022,
+    "region": "CAJAMARCA",
+    "pia_soles": 8674060148.462355,
+    "pim_soles": 9856886532.343584,
+    "devengado_soles": 8989480517.497349
+  },
+  {
+    "anio": 2022,
+    "region": "CALLAO",
+    "pia_soles": 5633399787.910924,
+    "pim_soles": 6401590668.080595,
+    "devengado_soles": 6337574761.399789
+  },
+  {
+    "anio": 2022,
+    "region": "CUSCO",
+    "pia_soles": 9863764156.945917,
+    "pim_soles": 11208822905.620361,
+    "devengado_soles": 11096734676.564157
+  },
+  {
+    "anio": 2022,
+    "region": "HUANCAVELICA",
+    "pia_soles": 3728923011.6648993,
+    "pim_soles": 4237412513.2555676,
+    "devengado_soles": 4019101020.572641
+  },
+  {
+    "anio": 2022,
+    "region": "HUANUCO",
+    "pia_soles": 5051927889.71368,
+    "pim_soles": 5740827147.401909,
+    "devengado_soles": 5648973913.043478
+  },
+  {
+    "anio": 2022,
+    "region": "ICA",
+    "pia_soles": 6283647932.131496,
+    "pim_soles": 7140509013.785791,
+    "devengado_soles": 6779484878.048781
+  },
+  {
+    "anio": 2022,
+    "region": "JUNIN",
+    "pia_soles": 8989680593.849419,
+    "pim_soles": 10215546129.37434,
+    "devengado_soles": 9924607375.609758
+  },
+  {
+    "anio": 2022,
+    "region": "LA LIBERTAD",
+    "pia_soles": 9473615270.413576,
+    "pim_soles": 10765471898.197245,
+    "devengado_soles": 10551884935.737011
+  },
+  {
+    "anio": 2022,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 6666544050.90138,
+    "pim_soles": 7575618239.660659,
+    "devengado_soles": 7127141639.872747
+  },
+  {
+    "anio": 2022,
+    "region": "LIMA",
+    "pia_soles": 91997607635.20679,
+    "pim_soles": 104542735949.09862,
+    "devengado_soles": 97852000848.3563
+  },
+  {
+    "anio": 2022,
+    "region": "LORETO",
+    "pia_soles": 7331797921.527041,
+    "pim_soles": 8331588547.18982,
+    "devengado_soles": 7550418805.005303
+  },
+  {
+    "anio": 2022,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 2379157921.527041,
+    "pim_soles": 2703588547.1898193,
+    "devengado_soles": 2403382074.9098616
+  },
+  {
+    "anio": 2022,
+    "region": "MOQUEGUA",
+    "pia_soles": 3387792831.3891835,
+    "pim_soles": 3849764581.124072,
+    "devengado_soles": 3492506427.995758
+  },
+  {
+    "anio": 2022,
+    "region": "PASCO",
+    "pia_soles": 3172210562.036055,
+    "pim_soles": 3604784729.5864263,
+    "devengado_soles": 3568736882.290562
+  },
+  {
+    "anio": 2022,
+    "region": "PIURA",
+    "pia_soles": 10434982142.099684,
+    "pim_soles": 11857934252.386003,
+    "devengado_soles": 11739354909.862143
+  },
+  {
+    "anio": 2022,
+    "region": "PUNO",
+    "pia_soles": 7931026595.970307,
+    "pim_soles": 9012530222.693531,
+    "devengado_soles": 8922404920.466595
+  },
+  {
+    "anio": 2022,
+    "region": "SAN MARTIN",
+    "pia_soles": 5535112279.957582,
+    "pim_soles": 6289900318.133616,
+    "devengado_soles": 6227001314.95228
+  },
+  {
+    "anio": 2022,
+    "region": "TACNA",
+    "pia_soles": 3949507189.819724,
+    "pim_soles": 4488076352.067868,
+    "devengado_soles": 3890623628.0805936
+  },
+  {
+    "anio": 2022,
+    "region": "TUMBES",
+    "pia_soles": 2723539342.52386,
+    "pim_soles": 3094931071.049841,
+    "devengado_soles": 2825548270.625663
+  },
+  {
+    "anio": 2022,
+    "region": "UCAYALI",
+    "pia_soles": 4776322714.7401905,
+    "pim_soles": 5427639448.568398,
+    "devengado_soles": 5373363054.082714
+  },
+  {
+    "anio": 2023,
+    "region": "AMAZONAS",
+    "pia_soles": 4244716861.081655,
+    "pim_soles": 4823541887.59279,
+    "devengado_soles": 4412962002.120892
+  },
+  {
+    "anio": 2023,
+    "region": "ANCASH",
+    "pia_soles": 10071893955.461298,
+    "pim_soles": 11445334040.296928,
+    "devengado_soles": 10009631338.282082
+  },
+  {
+    "anio": 2023,
+    "region": "APURIMAC",
+    "pia_soles": 4137003181.3361616,
+    "pim_soles": 4701139978.791093,
+    "devengado_soles": 4373188453.870626
+  },
+  {
+    "anio": 2023,
+    "region": "AREQUIPA",
+    "pia_soles": 10950890774.125134,
+    "pim_soles": 12444194061.505833,
+    "devengado_soles": 11444676394.485685
+  },
+  {
+    "anio": 2023,
+    "region": "AYACUCHO",
+    "pia_soles": 5377173276.776246,
+    "pim_soles": 6110424178.154825,
+    "devengado_soles": 5830811167.762461
+  },
+  {
+    "anio": 2023,
+    "region": "CAJAMARCA",
+    "pia_soles": 9487580487.80488,
+    "pim_soles": 10781341463.414637,
+    "devengado_soles": 10639890263.414637
+  },
+  {
+    "anio": 2023,
+    "region": "CALLAO",
+    "pia_soles": 6615747613.99788,
+    "pim_soles": 7517895015.906682,
+    "devengado_soles": 7238830752.916226
+  },
+  {
+    "anio": 2023,
+    "region": "CUSCO",
+    "pia_soles": 9861785790.031815,
+    "pim_soles": 11206574761.39979,
+    "devengado_soles": 10403287482.502653
+  },
+  {
+    "anio": 2023,
+    "region": "HUANCAVELICA",
+    "pia_soles": 3552157794.273596,
+    "pim_soles": 4036542948.038177,
+    "devengado_soles": 3712327818.4517508
+  },
+  {
+    "anio": 2023,
+    "region": "HUANUCO",
+    "pia_soles": 5819198303.287381,
+    "pim_soles": 6612725344.644752,
+    "devengado_soles": 5751483995.758219
+  },
+  {
+    "anio": 2023,
+    "region": "ICA",
+    "pia_soles": 7147667020.148462,
+    "pim_soles": 8122348886.532344,
+    "devengado_soles": 7586923647.932131
+  },
+  {
+    "anio": 2023,
+    "region": "JUNIN",
+    "pia_soles": 9448218451.749739,
+    "pim_soles": 10736611876.988338,
+    "devengado_soles": 9894861505.832453
+  },
+  {
+    "anio": 2023,
+    "region": "LA LIBERTAD",
+    "pia_soles": 10149022269.35313,
+    "pim_soles": 11532979851.537647,
+    "devengado_soles": 10639865891.834572
+  },
+  {
+    "anio": 2023,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 7283040509.013787,
+    "pim_soles": 8276182396.606576,
+    "devengado_soles": 7706781047.720043
+  },
+  {
+    "anio": 2023,
+    "region": "LIMA",
+    "pia_soles": 90665662778.36691,
+    "pim_soles": 103029162248.14421,
+    "devengado_soles": 101998870625.66277
+  },
+  {
+    "anio": 2023,
+    "region": "LORETO",
+    "pia_soles": 6910696924.708379,
+    "pim_soles": 7853064687.1686125,
+    "devengado_soles": 7365546431.389185
+  },
+  {
+    "anio": 2023,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 2436722799.5758214,
+    "pim_soles": 2769003181.3361607,
+    "devengado_soles": 2663559540.19088
+  },
+  {
+    "anio": 2023,
+    "region": "MOQUEGUA",
+    "pia_soles": 3709871898.197243,
+    "pim_soles": 4215763520.678685,
+    "devengado_soles": 4173605885.471898
+  },
+  {
+    "anio": 2023,
+    "region": "PASCO",
+    "pia_soles": 3376624390.2439027,
+    "pim_soles": 3837073170.7317076,
+    "devengado_soles": 3447840468.292683
+  },
+  {
+    "anio": 2023,
+    "region": "PIURA",
+    "pia_soles": 10106468716.861082,
+    "pim_soles": 11484623541.887594,
+    "devengado_soles": 11369777306.468718
+  },
+  {
+    "anio": 2023,
+    "region": "PUNO",
+    "pia_soles": 9046885259.80912,
+    "pim_soles": 10280551431.601273,
+    "devengado_soles": 10066715961.823965
+  },
+  {
+    "anio": 2023,
+    "region": "SAN MARTIN",
+    "pia_soles": 6284095864.262991,
+    "pim_soles": 7141018027.571581,
+    "devengado_soles": 7069607847.295865
+  },
+  {
+    "anio": 2023,
+    "region": "TACNA",
+    "pia_soles": 4553230116.648993,
+    "pim_soles": 5174125132.555674,
+    "devengado_soles": 5121142091.198304
+  },
+  {
+    "anio": 2023,
+    "region": "TUMBES",
+    "pia_soles": 3060132343.584306,
+    "pim_soles": 3477423117.7094383,
+    "devengado_soles": 3198116492.895016
+  },
+  {
+    "anio": 2023,
+    "region": "UCAYALI",
+    "pia_soles": 5098447507.95334,
+    "pim_soles": 5793690349.946977,
+    "devengado_soles": 5005748462.354188
+  },
+  {
+    "anio": 2024,
+    "region": "AMAZONAS",
+    "pia_soles": 3842417815.482503,
+    "pim_soles": 4366383881.230117,
+    "devengado_soles": 4322720042.417815
+  },
+  {
+    "anio": 2024,
+    "region": "ANCASH",
+    "pia_soles": 8995527041.35737,
+    "pim_soles": 10222189819.724285,
+    "devengado_soles": 10119967921.527042
+  },
+  {
+    "anio": 2024,
+    "region": "APURIMAC",
+    "pia_soles": 4446673594.909863,
+    "pim_soles": 5053038176.033936,
+    "devengado_soles": 4491948816.967127
+  },
+  {
+    "anio": 2024,
+    "region": "AREQUIPA",
+    "pia_soles": 13883936373.276777,
+    "pim_soles": 15777200424.178156,
+    "devengado_soles": 13828400627.78367
+  },
+  {
+    "anio": 2024,
+    "region": "AYACUCHO",
+    "pia_soles": 6587327253.446448,
+    "pim_soles": 7485599151.643691,
+    "devengado_soles": 6862797302.226936
+  },
+  {
+    "anio": 2024,
+    "region": "CAJAMARCA",
+    "pia_soles": 9571035843.054085,
+    "pim_soles": 10876177094.379642,
+    "devengado_soles": 9866867860.021212
+  },
+  {
+    "anio": 2024,
+    "region": "CALLAO",
+    "pia_soles": 7542523860.02121,
+    "pim_soles": 8571049840.933193,
+    "devengado_soles": 7989589819.724285
+  },
+  {
+    "anio": 2024,
+    "region": "CUSCO",
+    "pia_soles": 10792924708.37752,
+    "pim_soles": 12264687168.610817,
+    "devengado_soles": 12142040296.92471
+  },
+  {
+    "anio": 2024,
+    "region": "HUANCAVELICA",
+    "pia_soles": 3936912831.3891835,
+    "pim_soles": 4473764581.124072,
+    "devengado_soles": 4333467323.860022
+  },
+  {
+    "anio": 2024,
+    "region": "HUANUCO",
+    "pia_soles": 5931554612.937434,
+    "pim_soles": 6740402969.247085,
+    "devengado_soles": 6470786850.477201
+  },
+  {
+    "anio": 2024,
+    "region": "ICA",
+    "pia_soles": 7329056203.6055155,
+    "pim_soles": 8328472958.642632,
+    "devengado_soles": 7227781972.428421
+  },
+  {
+    "anio": 2024,
+    "region": "JUNIN",
+    "pia_soles": 10758769883.35101,
+    "pim_soles": 12225874867.444328,
+    "devengado_soles": 12103616118.769884
+  },
+  {
+    "anio": 2024,
+    "region": "LA LIBERTAD",
+    "pia_soles": 10553840933.191942,
+    "pim_soles": 11993001060.445389,
+    "devengado_soles": 11873071049.840935
+  },
+  {
+    "anio": 2024,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 7802100530.222693,
+    "pim_soles": 8866023329.798515,
+    "devengado_soles": 8221995395.121951
+  },
+  {
+    "anio": 2024,
+    "region": "LIMA",
+    "pia_soles": 101411367974.54932,
+    "pim_soles": 115240190880.16968,
+    "devengado_soles": 109524277412.51324
+  },
+  {
+    "anio": 2024,
+    "region": "LORETO",
+    "pia_soles": 8415748886.532345,
+    "pim_soles": 9563351007.423119,
+    "devengado_soles": 8290277721.314953
+  },
+  {
+    "anio": 2024,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 2484763520.6786847,
+    "pim_soles": 2823594909.8621416,
+    "devengado_soles": 2640174184.517497
+  },
+  {
+    "anio": 2024,
+    "region": "MOQUEGUA",
+    "pia_soles": 3659404878.0487804,
+    "pim_soles": 4158414634.1463413,
+    "devengado_soles": 3780497912.195122
+  },
+  {
+    "anio": 2024,
+    "region": "PASCO",
+    "pia_soles": 3524777942.7359495,
+    "pim_soles": 4005429480.3817606,
+    "devengado_soles": 3849057513.4676566
+  },
+  {
+    "anio": 2024,
+    "region": "PIURA",
+    "pia_soles": 9961254718.981974,
+    "pim_soles": 11319607635.206787,
+    "devengado_soles": 10051811580.063627
+  },
+  {
+    "anio": 2024,
+    "region": "PUNO",
+    "pia_soles": 8388425026.511136,
+    "pim_soles": 9532301166.489927,
+    "devengado_soles": 9416388384.305408
+  },
+  {
+    "anio": 2024,
+    "region": "SAN MARTIN",
+    "pia_soles": 6643682714.7401905,
+    "pim_soles": 7549639448.568398,
+    "devengado_soles": 6711327484.199364
+  },
+  {
+    "anio": 2024,
+    "region": "TACNA",
+    "pia_soles": 4604070413.573703,
+    "pim_soles": 5231898197.242844,
+    "devengado_soles": 4540450531.495229
+  },
+  {
+    "anio": 2024,
+    "region": "TUMBES",
+    "pia_soles": 3324972216.330859,
+    "pim_soles": 3778377518.5577946,
+    "devengado_soles": 3438625812.0890775
+  },
+  {
+    "anio": 2024,
+    "region": "UCAYALI",
+    "pia_soles": 5051498621.420996,
+    "pim_soles": 5740339342.523859,
+    "devengado_soles": 5631961735.737008
+  },
+  {
+    "anio": 2025,
+    "region": "AMAZONAS",
+    "pia_soles": 4304487804.878049,
+    "pim_soles": 4891463414.634147,
+    "devengado_soles": 4338923707.317074
+  },
+  {
+    "anio": 2025,
+    "region": "ANCASH",
+    "pia_soles": 11516195121.951221,
+    "pim_soles": 13086585365.85366,
+    "devengado_soles": 12877200000.0
+  },
+  {
+    "anio": 2025,
+    "region": "APURIMAC",
+    "pia_soles": 5419898536.585366,
+    "pim_soles": 6158975609.756098,
+    "devengado_soles": 5977655367.804879
+  },
+  {
+    "anio": 2025,
+    "region": "AREQUIPA",
+    "pia_soles": 13927609756.09756,
+    "pim_soles": 15826829268.292683,
+    "devengado_soles": 15668560975.609756
+  },
+  {
+    "anio": 2025,
+    "region": "AYACUCHO",
+    "pia_soles": 6326470243.902439,
+    "pim_soles": 7189170731.707317,
+    "devengado_soles": 6894702298.536586
+  },
+  {
+    "anio": 2025,
+    "region": "CAJAMARCA",
+    "pia_soles": 9707859512.195126,
+    "pim_soles": 11031658536.58537,
+    "devengado_soles": 9796112780.487808
+  },
+  {
+    "anio": 2025,
+    "region": "CALLAO",
+    "pia_soles": 7136585365.85366,
+    "pim_soles": 8109756097.560977,
+    "devengado_soles": 8028658536.585367
+  },
+  {
+    "anio": 2025,
+    "region": "CUSCO",
+    "pia_soles": 11190165853.658537,
+    "pim_soles": 12716097560.97561,
+    "devengado_soles": 11621495882.92683
+  },
+  {
+    "anio": 2025,
+    "region": "HUANCAVELICA",
+    "pia_soles": 4396136585.365854,
+    "pim_soles": 4995609756.097562,
+    "devengado_soles": 4795785365.85366
+  },
+  {
+    "anio": 2025,
+    "region": "HUANUCO",
+    "pia_soles": 5534985365.853659,
+    "pim_soles": 6289756097.560976,
+    "devengado_soles": 5651723239.024391
+  },
+  {
+    "anio": 2025,
+    "region": "ICA",
+    "pia_soles": 7737560975.609757,
+    "pim_soles": 8792682926.82927,
+    "devengado_soles": 8356565853.658537
+  },
+  {
+    "anio": 2025,
+    "region": "JUNIN",
+    "pia_soles": 10369834146.341465,
+    "pim_soles": 11783902439.024391,
+    "devengado_soles": 11666063414.634148
+  },
+  {
+    "anio": 2025,
+    "region": "LA LIBERTAD",
+    "pia_soles": 12872897560.975609,
+    "pim_soles": 14628292682.926828,
+    "devengado_soles": 14482009756.09756
+  },
+  {
+    "anio": 2025,
+    "region": "LAMBAYEQUE",
+    "pia_soles": 8228558048.780489,
+    "pim_soles": 9350634146.341465,
+    "devengado_soles": 9257127804.87805
+  },
+  {
+    "anio": 2025,
+    "region": "LIMA",
+    "pia_soles": 115477463414.63416,
+    "pim_soles": 131224390243.90245,
+    "devengado_soles": 127739070439.0244
+  },
+  {
+    "anio": 2025,
+    "region": "LORETO",
+    "pia_soles": 7883598048.780489,
+    "pim_soles": 8958634146.341465,
+    "devengado_soles": 8798095422.439026
+  },
+  {
+    "anio": 2025,
+    "region": "MADRE DE DIOS",
+    "pia_soles": 2820679024.3902435,
+    "pim_soles": 3205317073.170731,
+    "devengado_soles": 3173263902.4390235
+  },
+  {
+    "anio": 2025,
+    "region": "MOQUEGUA",
+    "pia_soles": 3878997073.170731,
+    "pim_soles": 4407951219.512195,
+    "devengado_soles": 4363871707.317073
+  },
+  {
+    "anio": 2025,
+    "region": "PASCO",
+    "pia_soles": 3919562926.829268,
+    "pim_soles": 4454048780.487804,
+    "devengado_soles": 4409508292.682926
+  },
+  {
+    "anio": 2025,
+    "region": "PIURA",
+    "pia_soles": 11658325853.658535,
+    "pim_soles": 13248097560.975609,
+    "devengado_soles": 12858073568.780489
+  },
+  {
+    "anio": 2025,
+    "region": "PUNO",
+    "pia_soles": 8846360975.609756,
+    "pim_soles": 10052682926.82927,
+    "devengado_soles": 9952156097.560976
+  },
+  {
+    "anio": 2025,
+    "region": "SAN MARTIN",
+    "pia_soles": 7047040000.000001,
+    "pim_soles": 8008000000.000001,
+    "devengado_soles": 7164917760.000001
+  },
+  {
+    "anio": 2025,
+    "region": "TACNA",
+    "pia_soles": 4461642926.829269,
+    "pim_soles": 5070048780.487806,
+    "devengado_soles": 4380522146.341465
+  },
+  {
+    "anio": 2025,
+    "region": "TUMBES",
+    "pia_soles": 3543352195.1219516,
+    "pim_soles": 4026536585.365854,
+    "devengado_soles": 3896398922.9268293
+  },
+  {
+    "anio": 2025,
+    "region": "UCAYALI",
+    "pia_soles": 5511547317.073172,
+    "pim_soles": 6263121951.219513,
+    "devengado_soles": 5417349962.926829
+  }
+]

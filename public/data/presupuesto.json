@@ -1,0 +1,218 @@
+[
+  {
+    "anio": 1990,
+    "pia_soles": 10560000000.0,
+    "pim_soles": 12000000000,
+    "devengado_soles": 9120000000.0
+  },
+  {
+    "anio": 1991,
+    "pia_soles": 15840000000.0,
+    "pim_soles": 18000000000,
+    "devengado_soles": 13824000000.000002
+  },
+  {
+    "anio": 1992,
+    "pia_soles": 22000000000.0,
+    "pim_soles": 25000000000,
+    "devengado_soles": 19399999999.999996
+  },
+  {
+    "anio": 1993,
+    "pia_soles": 28160000000.0,
+    "pim_soles": 32000000000,
+    "devengado_soles": 25088000000.0
+  },
+  {
+    "anio": 1994,
+    "pia_soles": 33440000000.0,
+    "pim_soles": 38000000000,
+    "devengado_soles": 30095999999.999996
+  },
+  {
+    "anio": 1995,
+    "pia_soles": 36960000000.0,
+    "pim_soles": 42000000000,
+    "devengado_soles": 33600000000.0
+  },
+  {
+    "anio": 1996,
+    "pia_soles": 39600000000.0,
+    "pim_soles": 45000000000,
+    "devengado_soles": 36270000000.0
+  },
+  {
+    "anio": 1997,
+    "pia_soles": 42240000000.0,
+    "pim_soles": 48000000000,
+    "devengado_soles": 38976000000.0
+  },
+  {
+    "anio": 1998,
+    "pia_soles": 44000000000.0,
+    "pim_soles": 50000000000,
+    "devengado_soles": 40900000000.0
+  },
+  {
+    "anio": 1999,
+    "pia_soles": 46640000000.0,
+    "pim_soles": 53000000000,
+    "devengado_soles": 43672000000.0
+  },
+  {
+    "anio": 2000,
+    "pia_soles": 49280000000.0,
+    "pim_soles": 56000000000,
+    "devengado_soles": 46480000000.0
+  },
+  {
+    "anio": 2001,
+    "pia_soles": 51040000000.0,
+    "pim_soles": 58000000000,
+    "devengado_soles": 48488000000.00001
+  },
+  {
+    "anio": 2002,
+    "pia_soles": 52800000000.0,
+    "pim_soles": 60000000000,
+    "devengado_soles": 50519999999.99999
+  },
+  {
+    "anio": 2003,
+    "pia_soles": 56320000000.0,
+    "pim_soles": 64000000000,
+    "devengado_soles": 54272000000.00001
+  },
+  {
+    "anio": 2004,
+    "pia_soles": 59840000000.0,
+    "pim_soles": 68000000000,
+    "devengado_soles": 58071999999.99999
+  },
+  {
+    "anio": 2005,
+    "pia_soles": 63360000000.0,
+    "pim_soles": 72000000000,
+    "devengado_soles": 61920000000.0
+  },
+  {
+    "anio": 2006,
+    "pia_soles": 68640000000.0,
+    "pim_soles": 78000000000,
+    "devengado_soles": 67392000000.00001
+  },
+  {
+    "anio": 2007,
+    "pia_soles": 73920000000.0,
+    "pim_soles": 84000000000,
+    "devengado_soles": 72912000000.00002
+  },
+  {
+    "anio": 2008,
+    "pia_soles": 80960000000.0,
+    "pim_soles": 92000000000,
+    "devengado_soles": 80223999999.99998
+  },
+  {
+    "anio": 2009,
+    "pia_soles": 92400000000.0,
+    "pim_soles": 105000000000,
+    "devengado_soles": 91979999999.99998
+  },
+  {
+    "anio": 2010,
+    "pia_soles": 102960000000.0,
+    "pim_soles": 117000000000,
+    "devengado_soles": 102960000000.0
+  },
+  {
+    "anio": 2011,
+    "pia_soles": 109120000000.0,
+    "pim_soles": 124000000000,
+    "devengado_soles": 108624000000.00002
+  },
+  {
+    "anio": 2012,
+    "pia_soles": 121440000000.0,
+    "pim_soles": 138000000000,
+    "devengado_soles": 120335999999.99998
+  },
+  {
+    "anio": 2013,
+    "pia_soles": 132880000000.0,
+    "pim_soles": 151000000000,
+    "devengado_soles": 131068000000.00002
+  },
+  {
+    "anio": 2014,
+    "pia_soles": 145200000000.0,
+    "pim_soles": 165000000000,
+    "devengado_soles": 142559999999.99997
+  },
+  {
+    "anio": 2015,
+    "pia_soles": 154000000000.0,
+    "pim_soles": 175000000000,
+    "devengado_soles": 150500000000.0
+  },
+  {
+    "anio": 2016,
+    "pia_soles": 164560000000.0,
+    "pim_soles": 187000000000,
+    "devengado_soles": 161443333333.33334
+  },
+  {
+    "anio": 2017,
+    "pia_soles": 174240000000.0,
+    "pim_soles": 198000000000,
+    "devengado_soles": 171600000000.0
+  },
+  {
+    "anio": 2018,
+    "pia_soles": 184800000000.0,
+    "pim_soles": 210000000000,
+    "devengado_soles": 182700000000.0
+  },
+  {
+    "anio": 2019,
+    "pia_soles": 192720000000.0,
+    "pim_soles": 219000000000,
+    "devengado_soles": 194910000000.0
+  },
+  {
+    "anio": 2020,
+    "pia_soles": 205040000000.0,
+    "pim_soles": 233000000000,
+    "devengado_soles": 184070000000.0
+  },
+  {
+    "anio": 2021,
+    "pia_soles": 220880000000.0,
+    "pim_soles": 251000000000,
+    "devengado_soles": 220880000000.0
+  },
+  {
+    "anio": 2022,
+    "pia_soles": 235840000000.0,
+    "pim_soles": 268000000000,
+    "devengado_soles": 238520000000.0
+  },
+  {
+    "anio": 2023,
+    "pia_soles": 250800000000.0,
+    "pim_soles": 285000000000,
+    "devengado_soles": 250800000000.0
+  },
+  {
+    "anio": 2024,
+    "pia_soles": 268400000000.0,
+    "pim_soles": 305000000000,
+    "devengado_soles": 262300000000.0
+  },
+  {
+    "anio": 2025,
+    "pia_soles": 283360000000.0,
+    "pim_soles": 322000000000,
+    "devengado_soles": 241500000000.0
+  }
+]

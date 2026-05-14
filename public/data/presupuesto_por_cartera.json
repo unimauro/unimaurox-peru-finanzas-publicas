@@ -1,0 +1,4754 @@
+[
+  {
+    "anio": 1990,
+    "sector": "Educación",
+    "pim_soles": 2071133404.4823902,
+    "devengado_soles": 1794429981.6435428
+  },
+  {
+    "anio": 1990,
+    "sector": "Salud",
+    "pim_soles": 1148926360.7257204,
+    "devengado_soles": 1046729360.9391676
+  },
+  {
+    "anio": 1990,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 1448196371.398079,
+    "devengado_soles": 1254717336.1792955
+  },
+  {
+    "anio": 1990,
+    "sector": "Interior",
+    "pim_soles": 849861259.3383138,
+    "devengado_soles": 754889263.6072572
+  },
+  {
+    "anio": 1990,
+    "sector": "Defensa",
+    "pim_soles": 945784418.3564569,
+    "devengado_soles": 901190683.0309501
+  },
+  {
+    "anio": 1990,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 495368196.37139815,
+    "devengado_soles": 442834399.1462114
+  },
+  {
+    "anio": 1990,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 786851654.2155817,
+    "devengado_soles": 763206762.0064033
+  },
+  {
+    "anio": 1990,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 441963713.9807897,
+    "devengado_soles": 434140956.2433297
+  },
+  {
+    "anio": 1990,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 241280683.03094986,
+    "devengado_soles": 237697664.88794023
+  },
+  {
+    "anio": 1990,
+    "sector": "Producción",
+    "pim_soles": 200747065.1013874,
+    "devengado_soles": 181174226.25400212
+  },
+  {
+    "anio": 1990,
+    "sector": "Energía y Minas",
+    "pim_soles": 205165421.55816436,
+    "devengado_soles": 202898343.64994663
+  },
+  {
+    "anio": 1990,
+    "sector": "Ambiente",
+    "pim_soles": 155065101.38740665,
+    "devengado_soles": 134495715.68836716
+  },
+  {
+    "anio": 1990,
+    "sector": "Cultura",
+    "pim_soles": 137417289.22091782,
+    "devengado_soles": 134332271.07790822
+  },
+  {
+    "anio": 1990,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 155833511.20597652,
+    "devengado_soles": 133829819.42369263
+  },
+  {
+    "anio": 1990,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 473340448.2390609,
+    "devengado_soles": 465411995.73105663
+  },
+  {
+    "anio": 1990,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 144922091.7822839,
+    "devengado_soles": 133683383.56456777
+  },
+  {
+    "anio": 1990,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 130117395.94450374,
+    "devengado_soles": 128816221.9850587
+  },
+  {
+    "anio": 1990,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 736136606.1899681,
+    "devengado_soles": 650376691.5688368
+  },
+  {
+    "anio": 1990,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 249477054.42902884,
+    "devengado_soles": 234159163.28708646
+  },
+  {
+    "anio": 1990,
+    "sector": "Poder Judicial",
+    "pim_soles": 319210245.46424764,
+    "devengado_soles": 286874247.59871936
+  },
+  {
+    "anio": 1990,
+    "sector": "Congreso de la República",
+    "pim_soles": 152913553.8954109,
+    "devengado_soles": 132629570.97118463
+  },
+  {
+    "anio": 1990,
+    "sector": "Contraloría",
+    "pim_soles": 106655282.81750266,
+    "devengado_soles": 95344490.07470651
+  },
+  {
+    "anio": 1991,
+    "sector": "Educación",
+    "pim_soles": 2800386979.722519,
+    "devengado_soles": 2772383109.925294
+  },
+  {
+    "anio": 1991,
+    "sector": "Salud",
+    "pim_soles": 1748009391.67556,
+    "devengado_soles": 1630717961.49413
+  },
+  {
+    "anio": 1991,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 1969434364.9946637,
+    "devengado_soles": 1855994945.570971
+  },
+  {
+    "anio": 1991,
+    "sector": "Interior",
+    "pim_soles": 1313788687.2998934,
+    "devengado_soles": 1184446191.035219
+  },
+  {
+    "anio": 1991,
+    "sector": "Defensa",
+    "pim_soles": 1230536286.0192103,
+    "devengado_soles": 1152643339.1141944
+  },
+  {
+    "anio": 1991,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 734599786.5528282,
+    "devengado_soles": 650414651.013874
+  },
+  {
+    "anio": 1991,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 1081152614.7278547,
+    "devengado_soles": 944927385.272145
+  },
+  {
+    "anio": 1991,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 685133404.4823906,
+    "devengado_soles": 598155718.7833512
+  },
+  {
+    "anio": 1991,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 386894343.6499467,
+    "devengado_soles": 383025400.2134472
+  },
+  {
+    "anio": 1991,
+    "sector": "Producción",
+    "pim_soles": 270576307.3639274,
+    "devengado_soles": 249593114.72785482
+  },
+  {
+    "anio": 1991,
+    "sector": "Energía y Minas",
+    "pim_soles": 304578441.8356456,
+    "devengado_soles": 277486189.434365
+  },
+  {
+    "anio": 1991,
+    "sector": "Ambiente",
+    "pim_soles": 221071504.8025614,
+    "devengado_soles": 212958180.5763074
+  },
+  {
+    "anio": 1991,
+    "sector": "Cultura",
+    "pim_soles": 177310565.63500535,
+    "devengado_soles": 157496109.9252935
+  },
+  {
+    "anio": 1991,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 253978655.28281748,
+    "devengado_soles": 250207072.25186762
+  },
+  {
+    "anio": 1991,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 756883671.2913555,
+    "devengado_soles": 717601408.7513341
+  },
+  {
+    "anio": 1991,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 248503735.32550696,
+    "devengado_soles": 246018697.9722519
+  },
+  {
+    "anio": 1991,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 183649946.63820705,
+    "devengado_soles": 171501502.66808966
+  },
+  {
+    "anio": 1991,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 1203329775.8804696,
+    "devengado_soles": 1075716653.1483457
+  },
+  {
+    "anio": 1991,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 364610458.91141945,
+    "devengado_soles": 340837856.9903949
+  },
+  {
+    "anio": 1991,
+    "sector": "Poder Judicial",
+    "pim_soles": 499946638.2070437,
+    "devengado_soles": 494947171.8249733
+  },
+  {
+    "anio": 1991,
+    "sector": "Congreso de la República",
+    "pim_soles": 237899679.8292423,
+    "devengado_soles": 212444414.08751336
+  },
+  {
+    "anio": 1991,
+    "sector": "Contraloría",
+    "pim_soles": 157985058.69797227,
+    "devengado_soles": 140330228.38847387
+  },
+  {
+    "anio": 1992,
+    "sector": "Educación",
+    "pim_soles": 3825758804.6958375,
+    "devengado_soles": 3510898855.06937
+  },
+  {
+    "anio": 1992,
+    "sector": "Salud",
+    "pim_soles": 2253131270.0106726,
+    "devengado_soles": 2176862776.5208116
+  },
+  {
+    "anio": 1992,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 2776414087.5133405,
+    "devengado_soles": 2418673132.3372464
+  },
+  {
+    "anio": 1992,
+    "sector": "Interior",
+    "pim_soles": 1770544290.288154,
+    "devengado_soles": 1641648665.955176
+  },
+  {
+    "anio": 1992,
+    "sector": "Defensa",
+    "pim_soles": 1873332443.9701178,
+    "devengado_soles": 1809920140.7417295
+  },
+  {
+    "anio": 1992,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 1018143009.6051228,
+    "devengado_soles": 949825613.660619
+  },
+  {
+    "anio": 1992,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 1610458911.4194236,
+    "devengado_soles": 1416720704.375667
+  },
+  {
+    "anio": 1992,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 988927427.9615797,
+    "devengado_soles": 883112193.1696907
+  },
+  {
+    "anio": 1992,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 522945570.9711846,
+    "devengado_soles": 463512806.83030945
+  },
+  {
+    "anio": 1992,
+    "sector": "Producción",
+    "pim_soles": 369797225.18676627,
+    "devengado_soles": 331634151.547492
+  },
+  {
+    "anio": 1992,
+    "sector": "Energía y Minas",
+    "pim_soles": 429829242.26254,
+    "devengado_soles": 379345797.7588047
+  },
+  {
+    "anio": 1992,
+    "sector": "Ambiente",
+    "pim_soles": 331696905.01600856,
+    "devengado_soles": 328379935.96584845
+  },
+  {
+    "anio": 1992,
+    "sector": "Cultura",
+    "pim_soles": 253735325.50693706,
+    "devengado_soles": 246351627.5346852
+  },
+  {
+    "anio": 1992,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 350667022.41195303,
+    "devengado_soles": 311146848.98612595
+  },
+  {
+    "anio": 1992,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1068303094.9839916,
+    "devengado_soles": 1026051707.5773748
+  },
+  {
+    "anio": 1992,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 298399146.2113127,
+    "devengado_soles": 290849647.8121665
+  },
+  {
+    "anio": 1992,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 269210245.46424764,
+    "devengado_soles": 234522505.33617932
+  },
+  {
+    "anio": 1992,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 1664887940.2347918,
+    "devengado_soles": 1439295624.3329773
+  },
+  {
+    "anio": 1992,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 552828175.026681,
+    "devengado_soles": 537791248.6659552
+  },
+  {
+    "anio": 1992,
+    "sector": "Poder Judicial",
+    "pim_soles": 694370330.8431163,
+    "devengado_soles": 618093750.0
+  },
+  {
+    "anio": 1992,
+    "sector": "Congreso de la República",
+    "pim_soles": 339701173.959445,
+    "devengado_soles": 323038831.37673426
+  },
+  {
+    "anio": 1992,
+    "sector": "Contraloría",
+    "pim_soles": 223052294.55709714,
+    "devengado_soles": 195159605.12273213
+  },
+  {
+    "anio": 1993,
+    "sector": "Educación",
+    "pim_soles": 5498845165.421558,
+    "devengado_soles": 5328380965.293489
+  },
+  {
+    "anio": 1993,
+    "sector": "Salud",
+    "pim_soles": 2853386382.070438,
+    "devengado_soles": 2691742043.526148
+  },
+  {
+    "anio": 1993,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 3891910352.1878333,
+    "devengado_soles": 3527238352.1878333
+  },
+  {
+    "anio": 1993,
+    "sector": "Interior",
+    "pim_soles": 2306937033.084312,
+    "devengado_soles": 2136800426.8943439
+  },
+  {
+    "anio": 1993,
+    "sector": "Defensa",
+    "pim_soles": 2177255069.3703313,
+    "devengado_soles": 1880168615.1547496
+  },
+  {
+    "anio": 1993,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 1386552828.175027,
+    "devengado_soles": 1372687299.8932767
+  },
+  {
+    "anio": 1993,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 2083927427.9615796,
+    "devengado_soles": 1959933745.9978657
+  },
+  {
+    "anio": 1993,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1151077908.2177162,
+    "devengado_soles": 1136171449.3062968
+  },
+  {
+    "anio": 1993,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 676200640.3415155,
+    "devengado_soles": 587145016.0085379
+  },
+  {
+    "anio": 1993,
+    "sector": "Producción",
+    "pim_soles": 503052294.5570971,
+    "devengado_soles": 498021771.61152613
+  },
+  {
+    "anio": 1993,
+    "sector": "Energía y Minas",
+    "pim_soles": 481536819.6371398,
+    "devengado_soles": 441906339.3810032
+  },
+  {
+    "anio": 1993,
+    "sector": "Ambiente",
+    "pim_soles": 418424759.87193173,
+    "devengado_soles": 367690757.73746
+  },
+  {
+    "anio": 1993,
+    "sector": "Cultura",
+    "pim_soles": 350053361.7929563,
+    "devengado_soles": 327562433.2977589
+  },
+  {
+    "anio": 1993,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 478599786.55282813,
+    "devengado_soles": 413749515.4749199
+  },
+  {
+    "anio": 1993,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1472614727.8548563,
+    "devengado_soles": 1261883560.2988262
+  },
+  {
+    "anio": 1993,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 415146211.31270015,
+    "devengado_soles": 386895511.6328709
+  },
+  {
+    "anio": 1993,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 317950907.15048033,
+    "devengado_soles": 279097306.29669166
+  },
+  {
+    "anio": 1993,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 2210971184.6318035,
+    "devengado_soles": 1997501916.7556028
+  },
+  {
+    "anio": 1993,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 665272145.144077,
+    "devengado_soles": 638960631.8036287
+  },
+  {
+    "anio": 1993,
+    "sector": "Poder Judicial",
+    "pim_soles": 869156883.6712915,
+    "devengado_soles": 860465314.8345785
+  },
+  {
+    "anio": 1993,
+    "sector": "Congreso de la República",
+    "pim_soles": 384000000.00000006,
+    "devengado_soles": 380121600.00000006
+  },
+  {
+    "anio": 1993,
+    "sector": "Contraloría",
+    "pim_soles": 293430096.05122733,
+    "devengado_soles": 275134729.56243336
+  },
+  {
+    "anio": 1994,
+    "sector": "Educación",
+    "pim_soles": 6851548431.163286,
+    "devengado_soles": 6385300560.422625
+  },
+  {
+    "anio": 1994,
+    "sector": "Salud",
+    "pim_soles": 3774901344.717183,
+    "devengado_soles": 3270574525.0629673
+  },
+  {
+    "anio": 1994,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 4519039487.726788,
+    "devengado_soles": 4348897651.013874
+  },
+  {
+    "anio": 1994,
+    "sector": "Interior",
+    "pim_soles": 3020533617.9295626,
+    "devengado_soles": 2990328281.750267
+  },
+  {
+    "anio": 1994,
+    "sector": "Defensa",
+    "pim_soles": 2518828175.026681,
+    "devengado_soles": 2306742842.689434
+  },
+  {
+    "anio": 1994,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 1612465314.8345785,
+    "devengado_soles": 1479759419.4236927
+  },
+  {
+    "anio": 1994,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 2438164354.322305,
+    "devengado_soles": 2130955645.6776948
+  },
+  {
+    "anio": 1994,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1385357524.0128071,
+    "devengado_soles": 1258181703.3084314
+  },
+  {
+    "anio": 1994,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 828132337.2465316,
+    "devengado_soles": 787512446.1045893
+  },
+  {
+    "anio": 1994,
+    "sector": "Producción",
+    "pim_soles": 653948772.678762,
+    "devengado_soles": 639267622.7321237
+  },
+  {
+    "anio": 1994,
+    "sector": "Energía y Minas",
+    "pim_soles": 610757737.4599786,
+    "devengado_soles": 529740723.5859124
+  },
+  {
+    "anio": 1994,
+    "sector": "Ambiente",
+    "pim_soles": 482279615.79509073,
+    "devengado_soles": 415556230.94983995
+  },
+  {
+    "anio": 1994,
+    "sector": "Cultura",
+    "pim_soles": 417310565.6350054,
+    "devengado_soles": 369486774.8132338
+  },
+  {
+    "anio": 1994,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 489255069.3703308,
+    "devengado_soles": 475947331.4834578
+  },
+  {
+    "anio": 1994,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1586510138.7406619,
+    "devengado_soles": 1486084046.9583778
+  },
+  {
+    "anio": 1994,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 451620064.03415155,
+    "devengado_soles": 395144975.0266809
+  },
+  {
+    "anio": 1994,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 406766275.3468517,
+    "devengado_soles": 402271508.00426894
+  },
+  {
+    "anio": 1994,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 2511163287.086446,
+    "devengado_soles": 2304494548.5592313
+  },
+  {
+    "anio": 1994,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 748644610.4589114,
+    "devengado_soles": 718324503.7353255
+  },
+  {
+    "anio": 1994,
+    "sector": "Poder Judicial",
+    "pim_soles": 1039220917.822839,
+    "devengado_soles": 1028828708.6446106
+  },
+  {
+    "anio": 1994,
+    "sector": "Congreso de la República",
+    "pim_soles": 472059765.20811105,
+    "devengado_soles": 424240110.99252945
+  },
+  {
+    "anio": 1994,
+    "sector": "Contraloría",
+    "pim_soles": 304324439.701174,
+    "devengado_soles": 300094329.98932767
+  },
+  {
+    "anio": 1995,
+    "sector": "Educación",
+    "pim_soles": 6890532550.693704,
+    "devengado_soles": 5904497342.689435
+  },
+  {
+    "anio": 1995,
+    "sector": "Salud",
+    "pim_soles": 4120643756.6702237,
+    "devengado_soles": 3883294676.2860184
+  },
+  {
+    "anio": 1995,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 4851739594.450373,
+    "devengado_soles": 4346430915.688367
+  },
+  {
+    "anio": 1995,
+    "sector": "Interior",
+    "pim_soles": 3225528281.750267,
+    "devengado_soles": 3137793912.4866595
+  },
+  {
+    "anio": 1995,
+    "sector": "Defensa",
+    "pim_soles": 3177454642.4759874,
+    "devengado_soles": 2891801470.1173964
+  },
+  {
+    "anio": 1995,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 1884397011.7395947,
+    "devengado_soles": 1865553041.6221988
+  },
+  {
+    "anio": 1995,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 2525378868.7299895,
+    "devengado_soles": 2406307255.0693707
+  },
+  {
+    "anio": 1995,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1540597652.08111,
+    "devengado_soles": 1374290135.5389543
+  },
+  {
+    "anio": 1995,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 902753468.5165422,
+    "devengado_soles": 805301231.5901815
+  },
+  {
+    "anio": 1995,
+    "sector": "Producción",
+    "pim_soles": 717406616.8623265,
+    "devengado_soles": 710232550.6937032
+  },
+  {
+    "anio": 1995,
+    "sector": "Energía y Minas",
+    "pim_soles": 623948772.678762,
+    "devengado_soles": 603420858.0576307
+  },
+  {
+    "anio": 1995,
+    "sector": "Ambiente",
+    "pim_soles": 497007470.65101385,
+    "devengado_soles": 491043381.00320166
+  },
+  {
+    "anio": 1995,
+    "sector": "Cultura",
+    "pim_soles": 435688367.12913555,
+    "devengado_soles": 382447248.6659552
+  },
+  {
+    "anio": 1995,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 628162219.8505869,
+    "devengado_soles": 550207288.3671291
+  },
+  {
+    "anio": 1995,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1791163287.086446,
+    "devengado_soles": 1599508815.3681962
+  },
+  {
+    "anio": 1995,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 518522945.5709712,
+    "devengado_soles": 481267071.9316969
+  },
+  {
+    "anio": 1995,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 428964781.2166489,
+    "devengado_soles": 414036806.83030945
+  },
+  {
+    "anio": 1995,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 2533447171.8249736,
+    "devengado_soles": 2221453152.614728
+  },
+  {
+    "anio": 1995,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 871376734.2582711,
+    "devengado_soles": 829463513.3404483
+  },
+  {
+    "anio": 1995,
+    "sector": "Poder Judicial",
+    "pim_soles": 1113874066.1686234,
+    "devengado_soles": 1031725853.7886873
+  },
+  {
+    "anio": 1995,
+    "sector": "Congreso de la República",
+    "pim_soles": 556175026.6808964,
+    "devengado_soles": 513043653.3617928
+  },
+  {
+    "anio": 1995,
+    "sector": "Contraloría",
+    "pim_soles": 342096051.22732127,
+    "devengado_soles": 311991598.71931696
+  },
+  {
+    "anio": 1996,
+    "sector": "Educación",
+    "pim_soles": 7618460618.996797,
+    "devengado_soles": 7469138790.864459
+  },
+  {
+    "anio": 1996,
+    "sector": "Salud",
+    "pim_soles": 4591463820.704376,
+    "devengado_soles": 4283376598.3351126
+  },
+  {
+    "anio": 1996,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 4907737459.978655,
+    "devengado_soles": 4396596603.521878
+  },
+  {
+    "anio": 1996,
+    "sector": "Interior",
+    "pim_soles": 3593756670.2241197,
+    "devengado_soles": 3294576427.427962
+  },
+  {
+    "anio": 1996,
+    "sector": "Defensa",
+    "pim_soles": 3293524546.42476,
+    "devengado_soles": 2872282756.937033
+  },
+  {
+    "anio": 1996,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2028601921.0245466,
+    "devengado_soles": 1890555560.2988265
+  },
+  {
+    "anio": 1996,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 2777801494.130203,
+    "devengado_soles": 2530716051.227321
+  },
+  {
+    "anio": 1996,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1736366061.8996801,
+    "devengado_soles": 1543976702.2411957
+  },
+  {
+    "anio": 1996,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 994130202.7748134,
+    "devengado_soles": 856592289.220918
+  },
+  {
+    "anio": 1996,
+    "sector": "Producción",
+    "pim_soles": 730469583.7780149,
+    "devengado_soles": 634960685.6990395
+  },
+  {
+    "anio": 1996,
+    "sector": "Energía y Minas",
+    "pim_soles": 753521878.3351121,
+    "devengado_soles": 690075336.1792957
+  },
+  {
+    "anio": 1996,
+    "sector": "Ambiente",
+    "pim_soles": 621835645.6776948,
+    "devengado_soles": 580701217.7161154
+  },
+  {
+    "anio": 1996,
+    "sector": "Cultura",
+    "pim_soles": 506189967.9829242,
+    "devengado_soles": 500115688.36712915
+  },
+  {
+    "anio": 1996,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 664914621.1312699,
+    "devengado_soles": 657567314.5677693
+  },
+  {
+    "anio": 1996,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1928708644.6104589,
+    "devengado_soles": 1883576862.326574
+  },
+  {
+    "anio": 1996,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 533660618.99679834,
+    "devengado_soles": 507484565.6350054
+  },
+  {
+    "anio": 1996,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 455282817.50266814,
+    "devengado_soles": 430788601.92102456
+  },
+  {
+    "anio": 1996,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 2904589114.1942368,
+    "devengado_soles": 2497220490.928495
+  },
+  {
+    "anio": 1996,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 883671291.3553896,
+    "devengado_soles": 874834578.4418356
+  },
+  {
+    "anio": 1996,
+    "sector": "Poder Judicial",
+    "pim_soles": 1245064034.1515477,
+    "devengado_soles": 1232613393.8100321
+  },
+  {
+    "anio": 1996,
+    "sector": "Congreso de la República",
+    "pim_soles": 538847385.2721453,
+    "devengado_soles": 478119284.9519745
+  },
+  {
+    "anio": 1996,
+    "sector": "Contraloría",
+    "pim_soles": 388815368.19637144,
+    "devengado_soles": 344995876.2006404
+  },
+  {
+    "anio": 1997,
+    "sector": "Educación",
+    "pim_soles": 8397369989.327642,
+    "devengado_soles": 7283458860.24333
+  },
+  {
+    "anio": 1997,
+    "sector": "Salud",
+    "pim_soles": 4453186937.033084,
+    "devengado_soles": 4175530731.5090714
+  },
+  {
+    "anio": 1997,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 5471590181.430097,
+    "devengado_soles": 4844545946.638207
+  },
+  {
+    "anio": 1997,
+    "sector": "Interior",
+    "pim_soles": 3822582710.7790823,
+    "devengado_soles": 3315517114.1942368
+  },
+  {
+    "anio": 1997,
+    "sector": "Defensa",
+    "pim_soles": 3174339381.0032024,
+    "devengado_soles": 3142595987.1931705
+  },
+  {
+    "anio": 1997,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 1971227321.2379937,
+    "devengado_soles": 1792141319.103522
+  },
+  {
+    "anio": 1997,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 3159701173.959445,
+    "devengado_soles": 2848628593.3831377
+  },
+  {
+    "anio": 1997,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1868260405.5496264,
+    "devengado_soles": 1714502574.172892
+  },
+  {
+    "anio": 1997,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1014300960.5122732,
+    "devengado_soles": 926006061.8996799
+  },
+  {
+    "anio": 1997,
+    "sector": "Producción",
+    "pim_soles": 767641408.7513341,
+    "devengado_soles": 699359705.4429029
+  },
+  {
+    "anio": 1997,
+    "sector": "Energía y Minas",
+    "pim_soles": 809903948.7726789,
+    "devengado_soles": 731707722.5186766
+  },
+  {
+    "anio": 1997,
+    "sector": "Ambiente",
+    "pim_soles": 633784418.3564569,
+    "devengado_soles": 553325486.4461046
+  },
+  {
+    "anio": 1997,
+    "sector": "Cultura",
+    "pim_soles": 513810032.01707584,
+    "devengado_soles": 453463043.7566703
+  },
+  {
+    "anio": 1997,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 710574172.892209,
+    "devengado_soles": 697321964.5677693
+  },
+  {
+    "anio": 1997,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 1891312700.1067238,
+    "devengado_soles": 1796747065.1013875
+  },
+  {
+    "anio": 1997,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 650996798.2924228,
+    "devengado_soles": 592472186.125934
+  },
+  {
+    "anio": 1997,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 541472785.4855922,
+    "devengado_soles": 530345519.74386334
+  },
+  {
+    "anio": 1997,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3242689434.3649955,
+    "devengado_soles": 3176052166.488795
+  },
+  {
+    "anio": 1997,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 979466382.0704377,
+    "devengado_soles": 953755389.5410886
+  },
+  {
+    "anio": 1997,
+    "sector": "Poder Judicial",
+    "pim_soles": 1354962646.7449307,
+    "devengado_soles": 1199683927.4279616
+  },
+  {
+    "anio": 1997,
+    "sector": "Congreso de la República",
+    "pim_soles": 604892209.1782284,
+    "devengado_soles": 548788456.7769477
+  },
+  {
+    "anio": 1997,
+    "sector": "Contraloría",
+    "pim_soles": 377033084.3116329,
+    "devengado_soles": 328094189.9679829
+  },
+  {
+    "anio": 1998,
+    "sector": "Educación",
+    "pim_soles": 8423769477.054429,
+    "devengado_soles": 7410390008.964782
+  },
+  {
+    "anio": 1998,
+    "sector": "Salud",
+    "pim_soles": 5464110992.529348,
+    "devengado_soles": 5242814497.331909
+  },
+  {
+    "anio": 1998,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 5969583778.014941,
+    "devengado_soles": 5268456163.2870865
+  },
+  {
+    "anio": 1998,
+    "sector": "Interior",
+    "pim_soles": 3522411953.0416226,
+    "devengado_soles": 3235863740.661687
+  },
+  {
+    "anio": 1998,
+    "sector": "Defensa",
+    "pim_soles": 3462966915.6883664,
+    "devengado_soles": 3381933489.8612585
+  },
+  {
+    "anio": 1998,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2166488794.0234795,
+    "devengado_soles": 1924383671.2913556
+  },
+  {
+    "anio": 1998,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 2974386339.381003,
+    "devengado_soles": 2777630683.0309496
+  },
+  {
+    "anio": 1998,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 1947972251.8676631,
+    "devengado_soles": 1745090941.8356462
+  },
+  {
+    "anio": 1998,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 993596584.8452508,
+    "devengado_soles": 887281750.266809
+  },
+  {
+    "anio": 1998,
+    "sector": "Producción",
+    "pim_soles": 841248665.9551761,
+    "devengado_soles": 817567516.008538
+  },
+  {
+    "anio": 1998,
+    "sector": "Energía y Minas",
+    "pim_soles": 742796157.9509071,
+    "devengado_soles": 686603628.601921
+  },
+  {
+    "anio": 1998,
+    "sector": "Ambiente",
+    "pim_soles": 680683030.9498398,
+    "devengado_soles": 634362550.6937033
+  },
+  {
+    "anio": 1998,
+    "sector": "Cultura",
+    "pim_soles": 572572038.4204909,
+    "devengado_soles": 530344850.5869796
+  },
+  {
+    "anio": 1998,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 722145144.0768409,
+    "devengado_soles": 675061280.6830308
+  },
+  {
+    "anio": 1998,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2128068303.094984,
+    "devengado_soles": 2106787620.0640342
+  },
+  {
+    "anio": 1998,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 674919957.3105656,
+    "devengado_soles": 668170757.7374599
+  },
+  {
+    "anio": 1998,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 567769477.054429,
+    "devengado_soles": 562091782.2838848
+  },
+  {
+    "anio": 1998,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3297758804.6958375,
+    "devengado_soles": 3157933831.376734
+  },
+  {
+    "anio": 1998,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1038420490.9284953,
+    "devengado_soles": 902647011.7395945
+  },
+  {
+    "anio": 1998,
+    "sector": "Poder Judicial",
+    "pim_soles": 1411419423.6926363,
+    "devengado_soles": 1362302027.7481325
+  },
+  {
+    "anio": 1998,
+    "sector": "Congreso de la República",
+    "pim_soles": 596798292.4226254,
+    "devengado_soles": 587935837.7801493
+  },
+  {
+    "anio": 1998,
+    "sector": "Contraloría",
+    "pim_soles": 443970117.3959446,
+    "devengado_soles": 430207043.7566703
+  },
+  {
+    "anio": 1999,
+    "sector": "Educación",
+    "pim_soles": 8747202582.71078,
+    "devengado_soles": 8043927495.060832
+  },
+  {
+    "anio": 1999,
+    "sector": "Salud",
+    "pim_soles": 5786038847.385273,
+    "devengado_soles": 5601174906.211314
+  },
+  {
+    "anio": 1999,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 6564194236.926362,
+    "devengado_soles": 5656037964.2476
+  },
+  {
+    "anio": 1999,
+    "sector": "Interior",
+    "pim_soles": 3805026680.8964787,
+    "devengado_soles": 3643693549.626468
+  },
+  {
+    "anio": 1999,
+    "sector": "Defensa",
+    "pim_soles": 3409492262.5400214,
+    "devengado_soles": 2996091325.707044
+  },
+  {
+    "anio": 1999,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2303265741.728922,
+    "devengado_soles": 2115895073.6392744
+  },
+  {
+    "anio": 1999,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 3258057630.736393,
+    "devengado_soles": 3225477054.429029
+  },
+  {
+    "anio": 1999,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2100485592.3159018,
+    "devengado_soles": 1913647398.8794024
+  },
+  {
+    "anio": 1999,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1188964781.216649,
+    "devengado_soles": 1124998475.9871933
+  },
+  {
+    "anio": 1999,
+    "sector": "Producción",
+    "pim_soles": 790757737.4599787,
+    "devengado_soles": 739200332.977588
+  },
+  {
+    "anio": 1999,
+    "sector": "Energía y Minas",
+    "pim_soles": 823847385.2721452,
+    "devengado_soles": 774045810.8324441
+  },
+  {
+    "anio": 1999,
+    "sector": "Ambiente",
+    "pim_soles": 645502668.0896479,
+    "devengado_soles": 569688379.7225188
+  },
+  {
+    "anio": 1999,
+    "sector": "Cultura",
+    "pim_soles": 605229455.7097118,
+    "devengado_soles": 547369519.7438633
+  },
+  {
+    "anio": 1999,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 760326574.1728921,
+    "devengado_soles": 651523841.4087512
+  },
+  {
+    "anio": 1999,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2135837780.149413,
+    "devengado_soles": 2061510625.4002135
+  },
+  {
+    "anio": 1999,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 642787620.0640342,
+    "devengado_soles": 574619992.9562434
+  },
+  {
+    "anio": 1999,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 557716115.2614727,
+    "devengado_soles": 552138954.108858
+  },
+  {
+    "anio": 1999,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3258057630.736393,
+    "devengado_soles": 3092059594.450374
+  },
+  {
+    "anio": 1999,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1196883671.2913554,
+    "devengado_soles": 1105202382.0704374
+  },
+  {
+    "anio": 1999,
+    "sector": "Poder Judicial",
+    "pim_soles": 1436712913.5538955,
+    "devengado_soles": 1422345784.4183564
+  },
+  {
+    "anio": 1999,
+    "sector": "Congreso de la República",
+    "pim_soles": 705233724.6531485,
+    "devengado_soles": 698181387.406617
+  },
+  {
+    "anio": 1999,
+    "sector": "Contraloría",
+    "pim_soles": 475585912.4866597,
+    "devengado_soles": 446384937.4599788
+  },
+  {
+    "anio": 2000,
+    "sector": "Educación",
+    "pim_soles": 10599813874.066166,
+    "devengado_soles": 10493815735.325504
+  },
+  {
+    "anio": 2000,
+    "sector": "Salud",
+    "pim_soles": 6092608751.334045,
+    "devengado_soles": 5290212178.783351
+  },
+  {
+    "anio": 2000,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 6311205976.520811,
+    "devengado_soles": 5492011440.76841
+  },
+  {
+    "anio": 2000,
+    "sector": "Interior",
+    "pim_soles": 4288153681.9637146,
+    "devengado_soles": 3751920064.034152
+  },
+  {
+    "anio": 2000,
+    "sector": "Defensa",
+    "pim_soles": 3866061899.6798306,
+    "devengado_soles": 3636031216.6488805
+  },
+  {
+    "anio": 2000,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2469498399.1462116,
+    "devengado_soles": 2385905878.3351126
+  },
+  {
+    "anio": 2000,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 3524951974.3863397,
+    "devengado_soles": 3472606437.566702
+  },
+  {
+    "anio": 2000,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2254941302.027748,
+    "devengado_soles": 1945112367.1291356
+  },
+  {
+    "anio": 2000,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1241921024.5464249,
+    "devengado_soles": 1222298672.3585913
+  },
+  {
+    "anio": 2000,
+    "sector": "Producción",
+    "pim_soles": 871376734.2582711,
+    "devengado_soles": 862662966.9156884
+  },
+  {
+    "anio": 2000,
+    "sector": "Energía y Minas",
+    "pim_soles": 848964781.2166489,
+    "devengado_soles": 758125549.6264675
+  },
+  {
+    "anio": 2000,
+    "sector": "Ambiente",
+    "pim_soles": 711445037.353255,
+    "devengado_soles": 624506453.7886872
+  },
+  {
+    "anio": 2000,
+    "sector": "Cultura",
+    "pim_soles": 614983991.4621131,
+    "devengado_soles": 608834151.547492
+  },
+  {
+    "anio": 2000,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 778501600.8537886,
+    "devengado_soles": 694462353.0416222
+  },
+  {
+    "anio": 2000,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2299765208.1109924,
+    "devengado_soles": 2055875107.7908218
+  },
+  {
+    "anio": 2000,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 679889007.470651,
+    "devengado_soles": 629747193.1696905
+  },
+  {
+    "anio": 2000,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 614386339.3810031,
+    "devengado_soles": 597675030.9498398
+  },
+  {
+    "anio": 2000,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3797481323.3724656,
+    "devengado_soles": 3748303940.2347927
+  },
+  {
+    "anio": 2000,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1129562433.2977588,
+    "devengado_soles": 988310651.013874
+  },
+  {
+    "anio": 2000,
+    "sector": "Poder Judicial",
+    "pim_soles": 1382070437.5667024,
+    "devengado_soles": 1339226254.0021346
+  },
+  {
+    "anio": 2000,
+    "sector": "Congreso de la República",
+    "pim_soles": 753758804.6958379,
+    "devengado_soles": 746145840.7684098
+  },
+  {
+    "anio": 2000,
+    "sector": "Contraloría",
+    "pim_soles": 443696905.0160086,
+    "devengado_soles": 396642848.23906094
+  },
+  {
+    "anio": 2001,
+    "sector": "Educación",
+    "pim_soles": 9574594194.236925,
+    "devengado_soles": 8340907732.309497
+  },
+  {
+    "anio": 2001,
+    "sector": "Salud",
+    "pim_soles": 6625028644.610459,
+    "devengado_soles": 6532940746.450374
+  },
+  {
+    "anio": 2001,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 6754493062.966915,
+    "devengado_soles": 6237098894.343649
+  },
+  {
+    "anio": 2001,
+    "sector": "Interior",
+    "pim_soles": 4662283884.738527,
+    "devengado_soles": 4380448823.906084
+  },
+  {
+    "anio": 2001,
+    "sector": "Defensa",
+    "pim_soles": 3707636072.5720387,
+    "devengado_soles": 3511687506.1366067
+  },
+  {
+    "anio": 2001,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2656734258.271078,
+    "devengado_soles": 2516325852.7214518
+  },
+  {
+    "anio": 2001,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 3814258271.0779085,
+    "devengado_soles": 3776115688.3671293
+  },
+  {
+    "anio": 2001,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2107993596.5848453,
+    "devengado_soles": 1836378621.664888
+  },
+  {
+    "anio": 2001,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1254087513.3404484,
+    "devengado_soles": 1162789942.3692636
+  },
+  {
+    "anio": 2001,
+    "sector": "Producción",
+    "pim_soles": 875570971.1846318,
+    "devengado_soles": 767744406.0832444
+  },
+  {
+    "anio": 2001,
+    "sector": "Energía y Minas",
+    "pim_soles": 979562433.2977589,
+    "devengado_soles": 924070221.4514409
+  },
+  {
+    "anio": 2001,
+    "sector": "Ambiente",
+    "pim_soles": 800734258.2710779,
+    "devengado_soles": 769825915.9018142
+  },
+  {
+    "anio": 2001,
+    "sector": "Cultura",
+    "pim_soles": 575667022.4119531,
+    "devengado_soles": 496023489.8612594
+  },
+  {
+    "anio": 2001,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 864243329.7758805,
+    "devengado_soles": 825136319.103522
+  },
+  {
+    "anio": 2001,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2641878335.1120596,
+    "devengado_soles": 2401863688.367129
+  },
+  {
+    "anio": 2001,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 784392742.796158,
+    "devengado_soles": 743682759.4450374
+  },
+  {
+    "anio": 2001,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 657993596.5848453,
+    "devengado_soles": 640721264.6744931
+  },
+  {
+    "anio": 2001,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3676840981.8569903,
+    "devengado_soles": 3154178036.2860193
+  },
+  {
+    "anio": 2001,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1259039487.7267878,
+    "devengado_soles": 1246449092.84952
+  },
+  {
+    "anio": 2001,
+    "sector": "Poder Judicial",
+    "pim_soles": 1624866595.5176096,
+    "devengado_soles": 1563690368.1963716
+  },
+  {
+    "anio": 2001,
+    "sector": "Congreso de la República",
+    "pim_soles": 721255069.3703308,
+    "devengado_soles": 714042518.6766275
+  },
+  {
+    "anio": 2001,
+    "sector": "Contraloría",
+    "pim_soles": 505101387.4066169,
+    "devengado_soles": 437619842.0490929
+  },
+  {
+    "anio": 2002,
+    "sector": "Educación",
+    "pim_soles": 11023791675.560297,
+    "devengado_soles": 10032752803.927427
+  },
+  {
+    "anio": 2002,
+    "sector": "Salud",
+    "pim_soles": 6452951974.386339,
+    "devengado_soles": 5836049765.635005
+  },
+  {
+    "anio": 2002,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 7269156883.671291,
+    "devengado_soles": 7147398505.869798
+  },
+  {
+    "anio": 2002,
+    "sector": "Interior",
+    "pim_soles": 4428601921.024547,
+    "devengado_soles": 3921084140.8751335
+  },
+  {
+    "anio": 2002,
+    "sector": "Defensa",
+    "pim_soles": 4191227321.2379932,
+    "devengado_soles": 3917959299.8932757
+  },
+  {
+    "anio": 2002,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2494770544.2902884,
+    "devengado_soles": 2227830096.0512276
+  },
+  {
+    "anio": 2002,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 3676840981.856991,
+    "devengado_soles": 3629225891.141943
+  },
+  {
+    "anio": 2002,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2151547491.9957314,
+    "devengado_soles": 1892716328.7086449
+  },
+  {
+    "anio": 2002,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1345997865.528282,
+    "devengado_soles": 1200697395.944504
+  },
+  {
+    "anio": 2002,
+    "sector": "Producción",
+    "pim_soles": 893276414.0875133,
+    "devengado_soles": 771388847.3852721
+  },
+  {
+    "anio": 2002,
+    "sector": "Energía y Minas",
+    "pim_soles": 1030629669.1568836,
+    "devengado_soles": 953641632.8708643
+  },
+  {
+    "anio": 2002,
+    "sector": "Ambiente",
+    "pim_soles": 788388473.8527215,
+    "devengado_soles": 780504589.1141943
+  },
+  {
+    "anio": 2002,
+    "sector": "Cultura",
+    "pim_soles": 665314834.5784419,
+    "devengado_soles": 611191472.7854856
+  },
+  {
+    "anio": 2002,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 880725720.3842049,
+    "devengado_soles": 824975782.2838846
+  },
+  {
+    "anio": 2002,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2717609391.67556,
+    "devengado_soles": 2447479018.1430097
+  },
+  {
+    "anio": 2002,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 733062966.9156884,
+    "devengado_soles": 662285737.4599787
+  },
+  {
+    "anio": 2002,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 626254002.1344718,
+    "devengado_soles": 574713297.7588047
+  },
+  {
+    "anio": 2002,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 3573105656.3500533,
+    "devengado_soles": 3397844823.9060836
+  },
+  {
+    "anio": 2002,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1372892209.1782284,
+    "devengado_soles": 1207733276.4140875
+  },
+  {
+    "anio": 2002,
+    "sector": "Poder Judicial",
+    "pim_soles": 1605656350.0533621,
+    "devengado_soles": 1584863100.3201714
+  },
+  {
+    "anio": 2002,
+    "sector": "Congreso de la República",
+    "pim_soles": 766872998.9327642,
+    "devengado_soles": 664418766.2753469
+  },
+  {
+    "anio": 2002,
+    "sector": "Contraloría",
+    "pim_soles": 551205976.5208112,
+    "devengado_soles": 506889016.00853795
+  },
+  {
+    "anio": 2003,
+    "sector": "Educación",
+    "pim_soles": 11858407684.098185,
+    "devengado_soles": 10972584630.096048
+  },
+  {
+    "anio": 2003,
+    "sector": "Salud",
+    "pim_soles": 6959965165.421558,
+    "devengado_soles": 6400383966.121665
+  },
+  {
+    "anio": 2003,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 8076840981.85699,
+    "devengado_soles": 7818785912.48666
+  },
+  {
+    "anio": 2003,
+    "sector": "Interior",
+    "pim_soles": 4671248665.955176,
+    "devengado_soles": 4624536179.295625
+  },
+  {
+    "anio": 2003,
+    "sector": "Defensa",
+    "pim_soles": 4115261472.7854857,
+    "devengado_soles": 3706204482.390609
+  },
+  {
+    "anio": 2003,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2879658484.52508,
+    "devengado_soles": 2571535026.6808968
+  },
+  {
+    "anio": 2003,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 4196542155.8164353,
+    "devengado_soles": 3687711419.4236927
+  },
+  {
+    "anio": 2003,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2306937033.084312,
+    "devengado_soles": 2233230394.8772683
+  },
+  {
+    "anio": 2003,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1342838847.3852725,
+    "devengado_soles": 1231047513.3404486
+  },
+  {
+    "anio": 2003,
+    "sector": "Producción",
+    "pim_soles": 997908217.7161152,
+    "devengado_soles": 927156525.0800426
+  },
+  {
+    "anio": 2003,
+    "sector": "Energía y Minas",
+    "pim_soles": 1102411953.0416222,
+    "devengado_soles": 961413464.2475986
+  },
+  {
+    "anio": 2003,
+    "sector": "Ambiente",
+    "pim_soles": 877011739.5944505,
+    "devengado_soles": 842325925.2934899
+  },
+  {
+    "anio": 2003,
+    "sector": "Cultura",
+    "pim_soles": 721963713.9807898,
+    "devengado_soles": 700954569.9039488
+  },
+  {
+    "anio": 2003,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 954535752.4012804,
+    "devengado_soles": 886859167.5560296
+  },
+  {
+    "anio": 2003,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 2876926360.7257204,
+    "devengado_soles": 2626489921.0245466
+  },
+  {
+    "anio": 2003,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 812260405.5496265,
+    "devengado_soles": 756986084.9519744
+  },
+  {
+    "anio": 2003,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 705570971.184632,
+    "devengado_soles": 614658151.5474921
+  },
+  {
+    "anio": 2003,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 4057203842.0490923,
+    "devengado_soles": 4016631803.6286016
+  },
+  {
+    "anio": 2003,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1379722518.6766276,
+    "devengado_soles": 1281900192.1024547
+  },
+  {
+    "anio": 2003,
+    "sector": "Poder Judicial",
+    "pim_soles": 1663180362.8601925,
+    "devengado_soles": 1630582027.7481327
+  },
+  {
+    "anio": 2003,
+    "sector": "Congreso de la República",
+    "pim_soles": 763082177.1611527,
+    "devengado_soles": 731452420.917823
+  },
+  {
+    "anio": 2003,
+    "sector": "Contraloría",
+    "pim_soles": 562271077.9082178,
+    "devengado_soles": 486617504.37566704
+  },
+  {
+    "anio": 2004,
+    "sector": "Educación",
+    "pim_soles": 13176248964.781216,
+    "devengado_soles": 11791425198.58271
+  },
+  {
+    "anio": 2004,
+    "sector": "Salud",
+    "pim_soles": 7491071590.18143,
+    "devengado_soles": 6967071132.448238
+  },
+  {
+    "anio": 2004,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 8174514407.684098,
+    "devengado_soles": 7346436098.185699
+  },
+  {
+    "anio": 2004,
+    "sector": "Interior",
+    "pim_soles": 5252764140.8751335,
+    "devengado_soles": 4920264170.757737
+  },
+  {
+    "anio": 2004,
+    "sector": "Defensa",
+    "pim_soles": 4054636072.572039,
+    "devengado_soles": 3732495236.606191
+  },
+  {
+    "anio": 2004,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 2728708644.6104593,
+    "devengado_soles": 2701421558.164355
+  },
+  {
+    "anio": 2004,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 4014685165.4215584,
+    "devengado_soles": 3974538313.7673426
+  },
+  {
+    "anio": 2004,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2344439701.1739597,
+    "devengado_soles": 2320995304.16222
+  },
+  {
+    "anio": 2004,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1370160085.3788688,
+    "devengado_soles": 1345908251.8676627
+  },
+  {
+    "anio": 2004,
+    "sector": "Producción",
+    "pim_soles": 1165869797.2251868,
+    "devengado_soles": 1002356558.1643544
+  },
+  {
+    "anio": 2004,
+    "sector": "Energía y Minas",
+    "pim_soles": 1065720384.2049094,
+    "devengado_soles": 1041794961.5795091
+  },
+  {
+    "anio": 2004,
+    "sector": "Ambiente",
+    "pim_soles": 869122732.1237993,
+    "devengado_soles": 780254932.7641408
+  },
+  {
+    "anio": 2004,
+    "sector": "Cultura",
+    "pim_soles": 682177161.1526148,
+    "devengado_soles": 642235688.3671292
+  },
+  {
+    "anio": 2004,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 883999999.9999999,
+    "devengado_soles": 761698599.9999999
+  },
+  {
+    "anio": 2004,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 3079957310.565635,
+    "devengado_soles": 2647993297.758805
+  },
+  {
+    "anio": 2004,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 930083244.3970119,
+    "devengado_soles": 819077809.1782285
+  },
+  {
+    "anio": 2004,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 733703308.4311634,
+    "devengado_soles": 655197054.429029
+  },
+  {
+    "anio": 2004,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 4611227321.237994,
+    "devengado_soles": 4385046621.131271
+  },
+  {
+    "anio": 2004,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1550138740.6616864,
+    "devengado_soles": 1441706535.7524014
+  },
+  {
+    "anio": 2004,
+    "sector": "Poder Judicial",
+    "pim_soles": 1779829242.2625403,
+    "devengado_soles": 1570788297.758805
+  },
+  {
+    "anio": 2004,
+    "sector": "Congreso de la República",
+    "pim_soles": 854318036.2860193,
+    "devengado_soles": 812413736.6061901
+  },
+  {
+    "anio": 2004,
+    "sector": "Contraloría",
+    "pim_soles": 550966915.6883672,
+    "devengado_soles": 534933778.44183576
+  },
+  {
+    "anio": 2005,
+    "sector": "Educación",
+    "pim_soles": 13156128922.09178,
+    "devengado_soles": 11648436547.620062
+  },
+  {
+    "anio": 2005,
+    "sector": "Salud",
+    "pim_soles": 7716801707.577374,
+    "devengado_soles": 7639633690.5016
+  },
+  {
+    "anio": 2005,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 8815965848.452509,
+    "devengado_soles": 7772155491.995732
+  },
+  {
+    "anio": 2005,
+    "sector": "Interior",
+    "pim_soles": 4975453575.2401285,
+    "devengado_soles": 4925699039.487727
+  },
+  {
+    "anio": 2005,
+    "sector": "Defensa",
+    "pim_soles": 4640811099.252934,
+    "devengado_soles": 4536624890.074706
+  },
+  {
+    "anio": 2005,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 3049050160.085379,
+    "devengado_soles": 2835769101.387407
+  },
+  {
+    "anio": 2005,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 4541302027.748132,
+    "devengado_soles": 4085582369.263607
+  },
+  {
+    "anio": 2005,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 2554962646.7449307,
+    "devengado_soles": 2492749306.296692
+  },
+  {
+    "anio": 2005,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1518377801.4941301,
+    "devengado_soles": 1479962843.1163287
+  },
+  {
+    "anio": 2005,
+    "sector": "Producción",
+    "pim_soles": 1171056563.5005336,
+    "devengado_soles": 1108053720.3842049
+  },
+  {
+    "anio": 2005,
+    "sector": "Energía y Minas",
+    "pim_soles": 1085763073.6392741,
+    "devengado_soles": 989184448.2390608
+  },
+  {
+    "anio": 2005,
+    "sector": "Ambiente",
+    "pim_soles": 931312700.1067237,
+    "devengado_soles": 908635235.859125
+  },
+  {
+    "anio": 2005,
+    "sector": "Cultura",
+    "pim_soles": 737673425.8271079,
+    "devengado_soles": 642624204.9092851
+  },
+  {
+    "anio": 2005,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1042885805.7630736,
+    "devengado_soles": 1032456947.7054428
+  },
+  {
+    "anio": 2005,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 3273425827.107791,
+    "devengado_soles": 3181278890.074707
+  },
+  {
+    "anio": 2005,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 854779082.1771612,
+    "devengado_soles": 783618723.5859126
+  },
+  {
+    "anio": 2005,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 773020277.4813234,
+    "devengado_soles": 764478403.4151547
+  },
+  {
+    "anio": 2005,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 4402988260.405549,
+    "devengado_soles": 4074085037.3532543
+  },
+  {
+    "anio": 2005,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1655154749.199573,
+    "devengado_soles": 1522080307.3639274
+  },
+  {
+    "anio": 2005,
+    "sector": "Poder Judicial",
+    "pim_soles": 1813447171.8249733,
+    "devengado_soles": 1726220362.860192
+  },
+  {
+    "anio": 2005,
+    "sector": "Congreso de la República",
+    "pim_soles": 928546424.7598721,
+    "devengado_soles": 889176056.3500535
+  },
+  {
+    "anio": 2005,
+    "sector": "Contraloría",
+    "pim_soles": 625792956.2433298,
+    "devengado_soles": 610554897.7588048
+  },
+  {
+    "anio": 2006,
+    "sector": "Educación",
+    "pim_soles": 14645233383.13767,
+    "devengado_soles": 13050367467.713978
+  },
+  {
+    "anio": 2006,
+    "sector": "Salud",
+    "pim_soles": 9569855795.090714,
+    "devengado_soles": 8918627108.23479
+  },
+  {
+    "anio": 2006,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 8506744930.629669,
+    "devengado_soles": 7491464923.1590185
+  },
+  {
+    "anio": 2006,
+    "sector": "Interior",
+    "pim_soles": 6089327641.408751,
+    "devengado_soles": 5790646120.5976515
+  },
+  {
+    "anio": 2006,
+    "sector": "Defensa",
+    "pim_soles": 4963363927.427962,
+    "devengado_soles": 4913730288.153683
+  },
+  {
+    "anio": 2006,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 3090032017.075774,
+    "devengado_soles": 3038273980.7897553
+  },
+  {
+    "anio": 2006,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 4640042689.434365,
+    "devengado_soles": 4557913933.831377
+  },
+  {
+    "anio": 2006,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 3006787620.0640345,
+    "devengado_soles": 2607937242.2625403
+  },
+  {
+    "anio": 2006,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1669882604.0554965,
+    "devengado_soles": 1613357077.908218
+  },
+  {
+    "anio": 2006,
+    "sector": "Producción",
+    "pim_soles": 1177491995.7310565,
+    "devengado_soles": 1067160995.7310565
+  },
+  {
+    "anio": 2006,
+    "sector": "Energía y Minas",
+    "pim_soles": 1177491995.7310565,
+    "devengado_soles": 1123091865.5282817
+  },
+  {
+    "anio": 2006,
+    "sector": "Ambiente",
+    "pim_soles": 1044883671.2913554,
+    "devengado_soles": 898338736.3927428
+  },
+  {
+    "anio": 2006,
+    "sector": "Cultura",
+    "pim_soles": 814130202.7748134,
+    "devengado_soles": 701495289.220918
+  },
+  {
+    "anio": 2006,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1107067235.859125,
+    "devengado_soles": 1092730715.1547494
+  },
+  {
+    "anio": 2006,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 3206574172.8922095,
+    "devengado_soles": 2787314599.786553
+  },
+  {
+    "anio": 2006,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1056870864.4610459,
+    "devengado_soles": 1016075649.0928494
+  },
+  {
+    "anio": 2006,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 770843116.3287088,
+    "devengado_soles": 682504495.1974387
+  },
+  {
+    "anio": 2006,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 5339295624.332977,
+    "devengado_soles": 4798424977.588047
+  },
+  {
+    "anio": 2006,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1791419423.6926363,
+    "devengado_soles": 1535067304.16222
+  },
+  {
+    "anio": 2006,
+    "sector": "Poder Judicial",
+    "pim_soles": 2043649946.6382072,
+    "devengado_soles": 2023213447.1718252
+  },
+  {
+    "anio": 2006,
+    "sector": "Congreso de la República",
+    "pim_soles": 998932764.1408751,
+    "devengado_soles": 948037139.8078976
+  },
+  {
+    "anio": 2006,
+    "sector": "Contraloría",
+    "pim_soles": 636653148.3457844,
+    "devengado_soles": 613892798.2924227
+  },
+  {
+    "anio": 2007,
+    "sector": "Educación",
+    "pim_soles": 16621462796.157946,
+    "devengado_soles": 16455248168.196365
+  },
+  {
+    "anio": 2007,
+    "sector": "Salud",
+    "pim_soles": 8995620064.034151,
+    "devengado_soles": 7853626096.905016
+  },
+  {
+    "anio": 2007,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 10452934898.612593,
+    "devengado_soles": 10348405549.626467
+  },
+  {
+    "anio": 2007,
+    "sector": "Interior",
+    "pim_soles": 6124738527.214515,
+    "devengado_soles": 5597398540.021344
+  },
+  {
+    "anio": 2007,
+    "sector": "Defensa",
+    "pim_soles": 5081013874.066169,
+    "devengado_soles": 4778693548.559232
+  },
+  {
+    "anio": 2007,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 3754450373.5325513,
+    "devengado_soles": 3481126386.339381
+  },
+  {
+    "anio": 2007,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 5255154749.1995735,
+    "devengado_soles": 4602990044.823907
+  },
+  {
+    "anio": 2007,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 3090608324.4397016,
+    "devengado_soles": 2812762636.072572
+  },
+  {
+    "anio": 2007,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 1705101387.406617,
+    "devengado_soles": 1688050373.5325508
+  },
+  {
+    "anio": 2007,
+    "sector": "Producción",
+    "pim_soles": 1381024546.42476,
+    "devengado_soles": 1264742279.6157951
+  },
+  {
+    "anio": 2007,
+    "sector": "Energía y Minas",
+    "pim_soles": 1359509071.5048027,
+    "devengado_soles": 1295408218.7833514
+  },
+  {
+    "anio": 2007,
+    "sector": "Ambiente",
+    "pim_soles": 1003696905.0160085,
+    "devengado_soles": 927767234.1515473
+  },
+  {
+    "anio": 2007,
+    "sector": "Cultura",
+    "pim_soles": 871376734.2582711,
+    "devengado_soles": 838569400.2134472
+  },
+  {
+    "anio": 2007,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1143278548.5592315,
+    "devengado_soles": 1068736787.1931696
+  },
+  {
+    "anio": 2007,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 3790309498.399146,
+    "devengado_soles": 3449560674.493063
+  },
+  {
+    "anio": 2007,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1054258271.0779082,
+    "devengado_soles": 1043715688.3671291
+  },
+  {
+    "anio": 2007,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 937716115.2614728,
+    "devengado_soles": 892611970.117396
+  },
+  {
+    "anio": 2007,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 5395005336.1792965,
+    "devengado_soles": 5053501498.399147
+  },
+  {
+    "anio": 2007,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1844951974.3863397,
+    "devengado_soles": 1826502454.6424763
+  },
+  {
+    "anio": 2007,
+    "sector": "Poder Judicial",
+    "pim_soles": 2097758804.695838,
+    "devengado_soles": 2038706894.3436503
+  },
+  {
+    "anio": 2007,
+    "sector": "Congreso de la República",
+    "pim_soles": 1039197438.6339381,
+    "devengado_soles": 966505577.801494
+  },
+  {
+    "anio": 2007,
+    "sector": "Contraloría",
+    "pim_soles": 677020277.4813235,
+    "devengado_soles": 645741940.6616863
+  },
+  {
+    "anio": 2008,
+    "sector": "Educación",
+    "pim_soles": 16128061472.785484,
+    "devengado_soles": 13988674118.420488
+  },
+  {
+    "anio": 2008,
+    "sector": "Salud",
+    "pim_soles": 10781779466.382069,
+    "devengado_soles": 10252933183.556028
+  },
+  {
+    "anio": 2008,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 11308046958.377802,
+    "devengado_soles": 10968240147.278547
+  },
+  {
+    "anio": 2008,
+    "sector": "Interior",
+    "pim_soles": 7051696905.016009,
+    "devengado_soles": 6812996964.781218
+  },
+  {
+    "anio": 2008,
+    "sector": "Defensa",
+    "pim_soles": 5763844183.5645685,
+    "devengado_soles": 5442798062.540022
+  },
+  {
+    "anio": 2008,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 4041323372.4653153,
+    "devengado_soles": 3789346860.1921034
+  },
+  {
+    "anio": 2008,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 5478762006.403416,
+    "devengado_soles": 5423974386.339381
+  },
+  {
+    "anio": 2008,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 3384951974.3863397,
+    "devengado_soles": 3103154722.518677
+  },
+  {
+    "anio": 2008,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 2063863393.8100324,
+    "devengado_soles": 1950866872.998933
+  },
+  {
+    "anio": 2008,
+    "sector": "Producción",
+    "pim_soles": 1483094983.9914622,
+    "devengado_soles": 1459662083.2443972
+  },
+  {
+    "anio": 2008,
+    "sector": "Energía y Minas",
+    "pim_soles": 1378527214.5144079,
+    "devengado_soles": 1242811210.2454646
+  },
+  {
+    "anio": 2008,
+    "sector": "Ambiente",
+    "pim_soles": 1254813233.724653,
+    "devengado_soles": 1227834749.1995728
+  },
+  {
+    "anio": 2008,
+    "sector": "Cultura",
+    "pim_soles": 988729989.3276416,
+    "devengado_soles": 923325500.5336182
+  },
+  {
+    "anio": 2008,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1220251867.6627533,
+    "devengado_soles": 1138372967.3425825
+  },
+  {
+    "anio": 2008,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 3821387406.616863,
+    "devengado_soles": 3783173532.550694
+  },
+  {
+    "anio": 2008,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1187654215.5816436,
+    "devengado_soles": 1174530636.4994662
+  },
+  {
+    "anio": 2008,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1006403415.1547494,
+    "devengado_soles": 958951494.130203
+  },
+  {
+    "anio": 2008,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 6179807897.545357,
+    "devengado_soles": 5641855620.0640335
+  },
+  {
+    "anio": 2008,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 1822326574.1728923,
+    "devengado_soles": 1724285404.4823906
+  },
+  {
+    "anio": 2008,
+    "sector": "Poder Judicial",
+    "pim_soles": 2300000000.0,
+    "devengado_soles": 2277000000.0
+  },
+  {
+    "anio": 2008,
+    "sector": "Congreso de la República",
+    "pim_soles": 1258347918.8900747,
+    "devengado_soles": 1154785885.1654215
+  },
+  {
+    "anio": 2008,
+    "sector": "Contraloría",
+    "pim_soles": 725788687.2998934,
+    "devengado_soles": 657782287.2998934
+  },
+  {
+    "anio": 2009,
+    "sector": "Educación",
+    "pim_soles": 19669232017.07577,
+    "devengado_soles": 18648398875.389538
+  },
+  {
+    "anio": 2009,
+    "sector": "Salud",
+    "pim_soles": 12279311846.318033,
+    "devengado_soles": 11420373982.668085
+  },
+  {
+    "anio": 2009,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 12092369263.607258,
+    "devengado_soles": 11971445570.971186
+  },
+  {
+    "anio": 2009,
+    "sector": "Interior",
+    "pim_soles": 8299146211.3127,
+    "devengado_soles": 8033988489.86126
+  },
+  {
+    "anio": 2009,
+    "sector": "Defensa",
+    "pim_soles": 6384773212.379936,
+    "devengado_soles": 5962420464.381004
+  },
+  {
+    "anio": 2009,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 4253788687.299894,
+    "devengado_soles": 3903701878.3351126
+  },
+  {
+    "anio": 2009,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 7147171824.973318,
+    "devengado_soles": 6199099482.390607
+  },
+  {
+    "anio": 2009,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 3945624332.9775877,
+    "devengado_soles": 3504700813.767342
+  },
+  {
+    "anio": 2009,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 2171718249.7331915,
+    "devengado_soles": 1970291382.070438
+  },
+  {
+    "anio": 2009,
+    "sector": "Producción",
+    "pim_soles": 1680896478.1216648,
+    "devengado_soles": 1445150747.0651014
+  },
+  {
+    "anio": 2009,
+    "sector": "Energía y Minas",
+    "pim_soles": 1719557097.1184633,
+    "devengado_soles": 1648281455.442903
+  },
+  {
+    "anio": 2009,
+    "sector": "Ambiente",
+    "pim_soles": 1382369263.6072571,
+    "devengado_soles": 1256781016.0085378
+  },
+  {
+    "anio": 2009,
+    "sector": "Cultura",
+    "pim_soles": 1177748132.337247,
+    "devengado_soles": 1099840093.3831382
+  },
+  {
+    "anio": 2009,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1389765208.1109924,
+    "devengado_soles": 1260864485.058698
+  },
+  {
+    "anio": 2009,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 4433084311.632872,
+    "devengado_soles": 4388753468.516542
+  },
+  {
+    "anio": 2009,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1243863393.8100321,
+    "devengado_soles": 1070593223.0522947
+  },
+  {
+    "anio": 2009,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1080256136.6061902,
+    "devengado_soles": 1052925656.3500535
+  },
+  {
+    "anio": 2009,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 6326894343.649946,
+    "devengado_soles": 5704011595.51761
+  },
+  {
+    "anio": 2009,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 2400320170.7577376,
+    "devengado_soles": 2291705683.03095
+  },
+  {
+    "anio": 2009,
+    "sector": "Poder Judicial",
+    "pim_soles": 2868729989.3276415,
+    "devengado_soles": 2774348772.678762
+  },
+  {
+    "anio": 2009,
+    "sector": "Congreso de la República",
+    "pim_soles": 1436157950.9071505,
+    "devengado_soles": 1339791752.4012806
+  },
+  {
+    "anio": 2009,
+    "sector": "Contraloría",
+    "pim_soles": 959231590.1814302,
+    "devengado_soles": 886665720.3842049
+  },
+  {
+    "anio": 2010,
+    "sector": "Educación",
+    "pim_soles": 23074522732.1238,
+    "devengado_soles": 22008479781.899677
+  },
+  {
+    "anio": 2010,
+    "sector": "Salud",
+    "pim_soles": 13253939807.897547,
+    "devengado_soles": 11659490849.007473
+  },
+  {
+    "anio": 2010,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 12870000000.0,
+    "devengado_soles": 12741300000.0
+  },
+  {
+    "anio": 2010,
+    "sector": "Interior",
+    "pim_soles": 8548367129.135539,
+    "devengado_soles": 8202158260.405549
+  },
+  {
+    "anio": 2010,
+    "sector": "Defensa",
+    "pim_soles": 6393794023.479189,
+    "devengado_soles": 5758250897.545358
+  },
+  {
+    "anio": 2010,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 5094557097.1184635,
+    "devengado_soles": 4578478463.180364
+  },
+  {
+    "anio": 2010,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 7469519743.863394,
+    "devengado_soles": 6918642662.753468
+  },
+  {
+    "anio": 2010,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 4073148345.784418,
+    "devengado_soles": 3521236744.9306293
+  },
+  {
+    "anio": 2010,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 2504823906.083245,
+    "devengado_soles": 2370064379.935966
+  },
+  {
+    "anio": 2010,
+    "sector": "Producción",
+    "pim_soles": 2013473852.7214513,
+    "devengado_soles": 1960620164.087513
+  },
+  {
+    "anio": 2010,
+    "sector": "Energía y Minas",
+    "pim_soles": 1818681963.713981,
+    "devengado_soles": 1637904976.5208113
+  },
+  {
+    "anio": 2010,
+    "sector": "Ambiente",
+    "pim_soles": 1381524012.8068304,
+    "devengado_soles": 1315072707.7908218
+  },
+  {
+    "anio": 2010,
+    "sector": "Cultura",
+    "pim_soles": 1319839914.6211314,
+    "devengado_soles": 1276417181.4300961
+  },
+  {
+    "anio": 2010,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1636251867.6627533,
+    "devengado_soles": 1538894881.5368195
+  },
+  {
+    "anio": 2010,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 5099551760.939169,
+    "devengado_soles": 4985066823.906084
+  },
+  {
+    "anio": 2010,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1435466382.0704377,
+    "devengado_soles": 1421111718.2497332
+  },
+  {
+    "anio": 2010,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1242422625.4002135,
+    "devengado_soles": 1176760589.6478124
+  },
+  {
+    "anio": 2010,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 7237267876.200641,
+    "devengado_soles": 6751647201.707578
+  },
+  {
+    "anio": 2010,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 2330010672.3585916,
+    "devengado_soles": 2186948017.075774
+  },
+  {
+    "anio": 2010,
+    "sector": "Poder Judicial",
+    "pim_soles": 3077961579.509072,
+    "devengado_soles": 2774936262.006404
+  },
+  {
+    "anio": 2010,
+    "sector": "Congreso de la República",
+    "pim_soles": 1417485592.315902,
+    "devengado_soles": 1393742708.6446106
+  },
+  {
+    "anio": 2010,
+    "sector": "Contraloría",
+    "pim_soles": 1005925293.4898615,
+    "devengado_soles": 935560819.2102456
+  },
+  {
+    "anio": 2011,
+    "sector": "Educación",
+    "pim_soles": 23891737716.115257,
+    "devengado_soles": 22969516640.273205
+  },
+  {
+    "anio": 2011,
+    "sector": "Salud",
+    "pim_soles": 14740251867.662754,
+    "devengado_soles": 13975232795.731056
+  },
+  {
+    "anio": 2011,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 14382411953.041622,
+    "devengado_soles": 12570228046.958378
+  },
+  {
+    "anio": 2011,
+    "sector": "Interior",
+    "pim_soles": 9096862326.574173,
+    "devengado_soles": 8304980461.045892
+  },
+  {
+    "anio": 2011,
+    "sector": "Defensa",
+    "pim_soles": 6971096051.227322,
+    "devengado_soles": 6761614614.887939
+  },
+  {
+    "anio": 2011,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 5584631803.628603,
+    "devengado_soles": 4865051995.731057
+  },
+  {
+    "anio": 2011,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 8059338313.7673435,
+    "devengado_soles": 7978744930.62967
+  },
+  {
+    "anio": 2011,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 4302945570.971185,
+    "devengado_soles": 3879320579.509072
+  },
+  {
+    "anio": 2011,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 2654685165.4215584,
+    "devengado_soles": 2289931423.6926365
+  },
+  {
+    "anio": 2011,
+    "sector": "Producción",
+    "pim_soles": 1869925293.4898615,
+    "devengado_soles": 1739124019.2102456
+  },
+  {
+    "anio": 2011,
+    "sector": "Energía y Minas",
+    "pim_soles": 1838164354.3223054,
+    "devengado_soles": 1604809389.5410888
+  },
+  {
+    "anio": 2011,
+    "sector": "Ambiente",
+    "pim_soles": 1616631803.6286018,
+    "devengado_soles": 1521978011.5261471
+  },
+  {
+    "anio": 2011,
+    "sector": "Cultura",
+    "pim_soles": 1329989327.641409,
+    "devengado_soles": 1297604087.5133407
+  },
+  {
+    "anio": 2011,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1811564567.7694767,
+    "devengado_soles": 1733033243.75667
+  },
+  {
+    "anio": 2011,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 4875304162.219851,
+    "devengado_soles": 4196174292.4226255
+  },
+  {
+    "anio": 2011,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1676977588.0469584,
+    "devengado_soles": 1655260728.2817504
+  },
+  {
+    "anio": 2011,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1306168623.2657418,
+    "devengado_soles": 1255750514.407684
+  },
+  {
+    "anio": 2011,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 7447940234.791889,
+    "devengado_soles": 6955258988.2604065
+  },
+  {
+    "anio": 2011,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 2509114194.2369266,
+    "devengado_soles": 2319299705.4429026
+  },
+  {
+    "anio": 2011,
+    "sector": "Poder Judicial",
+    "pim_soles": 3235645677.694771,
+    "devengado_soles": 3203289220.917823
+  },
+  {
+    "anio": 2011,
+    "sector": "Congreso de la República",
+    "pim_soles": 1603927427.9615796,
+    "devengado_soles": 1561824332.977588
+  },
+  {
+    "anio": 2011,
+    "sector": "Contraloría",
+    "pim_soles": 1067167556.0298827,
+    "devengado_soles": 996574422.198506
+  },
+  {
+    "anio": 2012,
+    "sector": "Educación",
+    "pim_soles": 24912743820.704372,
+    "devengado_soles": 23880110589.336178
+  },
+  {
+    "anio": 2012,
+    "sector": "Salud",
+    "pim_soles": 15912728452.508003,
+    "devengado_soles": 14784516005.225185
+  },
+  {
+    "anio": 2012,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 15876627534.685165,
+    "devengado_soles": 14750974642.475986
+  },
+  {
+    "anio": 2012,
+    "sector": "Interior",
+    "pim_soles": 10484759871.931698,
+    "devengado_soles": 10379912273.212381
+  },
+  {
+    "anio": 2012,
+    "sector": "Defensa",
+    "pim_soles": 7524829242.26254,
+    "devengado_soles": 6712523925.560299
+  },
+  {
+    "anio": 2012,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 6309413020.277481,
+    "devengado_soles": 5886051406.616861
+  },
+  {
+    "anio": 2012,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 9349242262.540022,
+    "devengado_soles": 8597563184.631804
+  },
+  {
+    "anio": 2012,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 5556819637.139809,
+    "devengado_soles": 5120609295.624333
+  },
+  {
+    "anio": 2012,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 2939679829.2422624,
+    "devengado_soles": 2597207129.1355386
+  },
+  {
+    "anio": 2012,
+    "sector": "Producción",
+    "pim_soles": 2047908217.7161155,
+    "devengado_soles": 1817108961.5795093
+  },
+  {
+    "anio": 2012,
+    "sector": "Energía y Minas",
+    "pim_soles": 2346147278.5485597,
+    "devengado_soles": 2005955923.1590185
+  },
+  {
+    "anio": 2012,
+    "sector": "Ambiente",
+    "pim_soles": 1793852721.451441,
+    "devengado_soles": 1552489837.7801495
+  },
+  {
+    "anio": 2012,
+    "sector": "Cultura",
+    "pim_soles": 1555261472.7854857,
+    "devengado_soles": 1366686019.2102456
+  },
+  {
+    "anio": 2012,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 1941425827.1077907,
+    "devengado_soles": 1776113417.9295623
+  },
+  {
+    "anio": 2012,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 5867577374.599787,
+    "devengado_soles": 5301062779.082177
+  },
+  {
+    "anio": 2012,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1694881536.8196373,
+    "devengado_soles": 1677932721.4514408
+  },
+  {
+    "anio": 2012,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1484567769.4770544,
+    "devengado_soles": 1448418544.2902882
+  },
+  {
+    "anio": 2012,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 8509754535.752402,
+    "devengado_soles": 8254036411.953041
+  },
+  {
+    "anio": 2012,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 3139978655.282818,
+    "devengado_soles": 2753290283.884739
+  },
+  {
+    "anio": 2012,
+    "sector": "Poder Judicial",
+    "pim_soles": 3836606189.9679832,
+    "devengado_soles": 3324035602.9882603
+  },
+  {
+    "anio": 2012,
+    "sector": "Congreso de la República",
+    "pim_soles": 1731995731.0565636,
+    "devengado_soles": 1624005797.225187
+  },
+  {
+    "anio": 2012,
+    "sector": "Contraloría",
+    "pim_soles": 1094574172.8922093,
+    "devengado_soles": 989932881.9637141
+  },
+  {
+    "anio": 2013,
+    "sector": "Educación",
+    "pim_soles": 29443859039.48772,
+    "devengado_soles": 28223411082.300957
+  },
+  {
+    "anio": 2013,
+    "sector": "Salud",
+    "pim_soles": 18874194236.92636,
+    "devengado_soles": 16962238360.725721
+  },
+  {
+    "anio": 2013,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 18453585912.486656,
+    "devengado_soles": 17706215683.030945
+  },
+  {
+    "anio": 2013,
+    "sector": "Interior",
+    "pim_soles": 10953543223.052296,
+    "devengado_soles": 9979225553.361794
+  },
+  {
+    "anio": 2013,
+    "sector": "Defensa",
+    "pim_soles": 8645314034.151548,
+    "devengado_soles": 7712052384.164888
+  },
+  {
+    "anio": 2013,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 6942454642.4759865,
+    "devengado_soles": 5962180046.958377
+  },
+  {
+    "anio": 2013,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 9794855923.15902,
+    "devengado_soles": 8514178511.205977
+  },
+  {
+    "anio": 2013,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 5471131270.0106735,
+    "devengado_soles": 5202772281.21665
+  },
+  {
+    "anio": 2013,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 3148922091.782284,
+    "devengado_soles": 3003441891.141942
+  },
+  {
+    "anio": 2013,
+    "sector": "Producción",
+    "pim_soles": 2325432230.522946,
+    "devengado_soles": 2271017116.328709
+  },
+  {
+    "anio": 2013,
+    "sector": "Energía y Minas",
+    "pim_soles": 2294007470.651014,
+    "devengado_soles": 1961376387.4066167
+  },
+  {
+    "anio": 2013,
+    "sector": "Ambiente",
+    "pim_soles": 1937699039.4877267,
+    "devengado_soles": 1857381414.3009605
+  },
+  {
+    "anio": 2013,
+    "sector": "Cultura",
+    "pim_soles": 1637310565.6350052,
+    "devengado_soles": 1558555927.4279613
+  },
+  {
+    "anio": 2013,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2241632870.864461,
+    "devengado_soles": 2103996612.593383
+  },
+  {
+    "anio": 2013,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 6207598719.316969,
+    "devengado_soles": 5855938251.867662
+  },
+  {
+    "anio": 2013,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1870014941.3020277,
+    "devengado_soles": 1836915676.8409817
+  },
+  {
+    "anio": 2013,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1498719316.9690502,
+    "devengado_soles": 1352594183.5645678
+  },
+  {
+    "anio": 2013,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 9707833511.205976,
+    "devengado_soles": 9610755176.093916
+  },
+  {
+    "anio": 2013,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 3132806830.3094983,
+    "devengado_soles": 2735097003.2017074
+  },
+  {
+    "anio": 2013,
+    "sector": "Poder Judicial",
+    "pim_soles": 4085218783.351121,
+    "devengado_soles": 4044366595.5176096
+  },
+  {
+    "anio": 2013,
+    "sector": "Congreso de la República",
+    "pim_soles": 1964772678.7620063,
+    "devengado_soles": 1722810923.3724651
+  },
+  {
+    "anio": 2013,
+    "sector": "Contraloría",
+    "pim_soles": 1367863393.8100321,
+    "devengado_soles": 1256587706.723586
+  },
+  {
+    "anio": 2014,
+    "sector": "Educación",
+    "pim_soles": 30395937246.531483,
+    "devengado_soles": 27721094768.836708
+  },
+  {
+    "anio": 2014,
+    "sector": "Salud",
+    "pim_soles": 21295248665.955173,
+    "devengado_soles": 18369281499.252934
+  },
+  {
+    "anio": 2014,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 19505923159.018147,
+    "devengado_soles": 16936993078.975456
+  },
+  {
+    "anio": 2014,
+    "sector": "Interior",
+    "pim_soles": 12560779082.177164,
+    "devengado_soles": 12016269308.964785
+  },
+  {
+    "anio": 2014,
+    "sector": "Defensa",
+    "pim_soles": 9321707577.374601,
+    "devengado_soles": 8864477820.704378
+  },
+  {
+    "anio": 2014,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 6853575240.12807,
+    "devengado_soles": 6276504204.9092865
+  },
+  {
+    "anio": 2014,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 10491675560.298826,
+    "devengado_soles": 9229526990.394878
+  },
+  {
+    "anio": 2014,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 5682550693.703309,
+    "devengado_soles": 5544180584.311634
+  },
+  {
+    "anio": 2014,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 3616969050.160086,
+    "devengado_soles": 3432684477.05443
+  },
+  {
+    "anio": 2014,
+    "sector": "Producción",
+    "pim_soles": 2707443970.1173964,
+    "devengado_soles": 2641517709.4450383
+  },
+  {
+    "anio": 2014,
+    "sector": "Energía y Minas",
+    "pim_soles": 2488207043.7566705,
+    "devengado_soles": 2299974180.896478
+  },
+  {
+    "anio": 2014,
+    "sector": "Ambiente",
+    "pim_soles": 2089882604.0554965,
+    "devengado_soles": 2068983778.0149415
+  },
+  {
+    "anio": 2014,
+    "sector": "Cultura",
+    "pim_soles": 1889487726.78762,
+    "devengado_soles": 1717827766.8089647
+  },
+  {
+    "anio": 2014,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2119818569.9039483,
+    "devengado_soles": 1895011810.5656347
+  },
+  {
+    "anio": 2014,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 7022625400.213448,
+    "devengado_soles": 6952399146.211313
+  },
+  {
+    "anio": 2014,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 1958868729.989328,
+    "devengado_soles": 1851620667.0224123
+  },
+  {
+    "anio": 2014,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1660565635.0053365,
+    "devengado_soles": 1553874292.9562438
+  },
+  {
+    "anio": 2014,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 10026787620.064035,
+    "devengado_soles": 9926519743.863396
+  },
+  {
+    "anio": 2014,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 3750800426.894344,
+    "devengado_soles": 3666594957.3105655
+  },
+  {
+    "anio": 2014,
+    "sector": "Poder Judicial",
+    "pim_soles": 4521211312.700108,
+    "devengado_soles": 4329511953.041623
+  },
+  {
+    "anio": 2014,
+    "sector": "Congreso de la República",
+    "pim_soles": 2223009605.122732,
+    "devengado_soles": 2141425152.6147277
+  },
+  {
+    "anio": 2014,
+    "sector": "Contraloría",
+    "pim_soles": 1507363927.4279616,
+    "devengado_soles": 1433427726.78762
+  },
+  {
+    "anio": 2015,
+    "sector": "Educación",
+    "pim_soles": 35457670757.73746,
+    "devengado_soles": 35099548283.08431
+  },
+  {
+    "anio": 2015,
+    "sector": "Salud",
+    "pim_soles": 21291355389.54109,
+    "devengado_soles": 19903159018.14301
+  },
+  {
+    "anio": 2015,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 19845784418.35646,
+    "devengado_soles": 18683813740.66169
+  },
+  {
+    "anio": 2015,
+    "sector": "Interior",
+    "pim_soles": 12851387406.616863,
+    "devengado_soles": 11769300586.979723
+  },
+  {
+    "anio": 2015,
+    "sector": "Defensa",
+    "pim_soles": 9409051494.130205,
+    "devengado_soles": 8384405786.419426
+  },
+  {
+    "anio": 2015,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 7620064034.151547,
+    "devengado_soles": 6826434364.994664
+  },
+  {
+    "anio": 2015,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 12024012806.830307,
+    "devengado_soles": 11731228094.98399
+  },
+  {
+    "anio": 2015,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 6079242262.540022,
+    "devengado_soles": 5474965581.643544
+  },
+  {
+    "anio": 2015,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 3462646744.9306297,
+    "devengado_soles": 3092143543.2230525
+  },
+  {
+    "anio": 2015,
+    "sector": "Producción",
+    "pim_soles": 2955576307.3639274,
+    "devengado_soles": 2833067669.4236927
+  },
+  {
+    "anio": 2015,
+    "sector": "Energía y Minas",
+    "pim_soles": 2650213447.171825,
+    "devengado_soles": 2411959258.271078
+  },
+  {
+    "anio": 2015,
+    "sector": "Ambiente",
+    "pim_soles": 2398078975.4535756,
+    "devengado_soles": 2202995250.8004274
+  },
+  {
+    "anio": 2015,
+    "sector": "Cultura",
+    "pim_soles": 1755602988.2604058,
+    "devengado_soles": 1554410885.8057632
+  },
+  {
+    "anio": 2015,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2444957310.565635,
+    "devengado_soles": 2164765202.774813
+  },
+  {
+    "anio": 2015,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 7298826040.554963,
+    "devengado_soles": 6254364034.151547
+  },
+  {
+    "anio": 2015,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2191889007.470651,
+    "devengado_soles": 2036484076.8409817
+  },
+  {
+    "anio": 2015,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1869530416.2219853,
+    "devengado_soles": 1847096051.2273214
+  },
+  {
+    "anio": 2015,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 11486125933.831377,
+    "devengado_soles": 9853373132.337246
+  },
+  {
+    "anio": 2015,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 3806296691.568837,
+    "devengado_soles": 3713613367.1291366
+  },
+  {
+    "anio": 2015,
+    "sector": "Poder Judicial",
+    "pim_soles": 4916622198.50587,
+    "devengado_soles": 4689474252.934898
+  },
+  {
+    "anio": 2015,
+    "sector": "Congreso de la República",
+    "pim_soles": 2091035218.7833514,
+    "devengado_soles": 1976551040.554963
+  },
+  {
+    "anio": 2015,
+    "sector": "Contraloría",
+    "pim_soles": 1426894343.649947,
+    "devengado_soles": 1366394023.4791892
+  },
+  {
+    "anio": 2016,
+    "sector": "Educación",
+    "pim_soles": 39445352913.553894,
+    "devengado_soles": 36423838880.37566
+  },
+  {
+    "anio": 2016,
+    "sector": "Salud",
+    "pim_soles": 25714563585.912483,
+    "devengado_soles": 22743245763.560295
+  },
+  {
+    "anio": 2016,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 23248271077.908222,
+    "devengado_soles": 22704261534.68517
+  },
+  {
+    "anio": 2016,
+    "sector": "Interior",
+    "pim_soles": 14165699039.487726,
+    "devengado_soles": 12744171140.875134
+  },
+  {
+    "anio": 2016,
+    "sector": "Defensa",
+    "pim_soles": 10471501067.235859,
+    "devengado_soles": 10216520016.248667
+  },
+  {
+    "anio": 2016,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 7998890074.706511,
+    "devengado_soles": 7332982475.987194
+  },
+  {
+    "anio": 2016,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 12189925293.48986,
+    "devengado_soles": 11151953154.749199
+  },
+  {
+    "anio": 2016,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 7138729989.3276415,
+    "devengado_soles": 7067342689.434365
+  },
+  {
+    "anio": 2016,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 3851760939.167557,
+    "devengado_soles": 3739674695.837781
+  },
+  {
+    "anio": 2016,
+    "sector": "Producción",
+    "pim_soles": 2754108858.0576305,
+    "devengado_soles": 2493432454.6424756
+  },
+  {
+    "anio": 2016,
+    "sector": "Energía y Minas",
+    "pim_soles": 3032513340.4482393,
+    "devengado_soles": 2961552528.2817507
+  },
+  {
+    "anio": 2016,
+    "sector": "Ambiente",
+    "pim_soles": 2409246531.483458,
+    "devengado_soles": 2130858094.7705443
+  },
+  {
+    "anio": 2016,
+    "sector": "Cultura",
+    "pim_soles": 1969786552.8281753,
+    "devengado_soles": 1903109278.0149417
+  },
+  {
+    "anio": 2016,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2796817502.6680894,
+    "devengado_soles": 2401906871.291355
+  },
+  {
+    "anio": 2016,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 8605592315.901815,
+    "devengado_soles": 8436922706.510139
+  },
+  {
+    "anio": 2016,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2258369263.6072574,
+    "devengado_soles": 2190505267.235859
+  },
+  {
+    "anio": 2016,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 1995731056.5635006,
+    "devengado_soles": 1975773745.9978657
+  },
+  {
+    "anio": 2016,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 11615154749.199574,
+    "devengado_soles": 11299222540.021345
+  },
+  {
+    "anio": 2016,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 3963521878.335112,
+    "devengado_soles": 3923886659.551761
+  },
+  {
+    "anio": 2016,
+    "sector": "Poder Judicial",
+    "pim_soles": 4839647812.16649,
+    "devengado_soles": 4137898879.4023485
+  },
+  {
+    "anio": 2016,
+    "sector": "Congreso de la República",
+    "pim_soles": 2418826040.5549626,
+    "devengado_soles": 2334650894.34365
+  },
+  {
+    "anio": 2016,
+    "sector": "Contraloría",
+    "pim_soles": 1687590181.4300961,
+    "devengado_soles": 1670714279.6157951
+  },
+  {
+    "anio": 2017,
+    "sector": "Educación",
+    "pim_soles": 39203543564.567764,
+    "devengado_soles": 37057149554.407684
+  },
+  {
+    "anio": 2017,
+    "sector": "Salud",
+    "pim_soles": 26095935112.05977,
+    "devengado_soles": 25834975760.93917
+  },
+  {
+    "anio": 2017,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 22640042689.434364,
+    "devengado_soles": 21206927987.19317
+  },
+  {
+    "anio": 2017,
+    "sector": "Interior",
+    "pim_soles": 14747513340.44824,
+    "devengado_soles": 14600038207.043758
+  },
+  {
+    "anio": 2017,
+    "sector": "Defensa",
+    "pim_soles": 11154088046.958376,
+    "devengado_soles": 10458630657.230522
+  },
+  {
+    "anio": 2017,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 8215837780.149414,
+    "devengado_soles": 7149422036.28602
+  },
+  {
+    "anio": 2017,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 11880000000.000002,
+    "devengado_soles": 10292832000.000002
+  },
+  {
+    "anio": 2017,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 7928452508.00427,
+    "devengado_soles": 6952063581.643544
+  },
+  {
+    "anio": 2017,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 4543223052.294558,
+    "devengado_soles": 4074362433.2977595
+  },
+  {
+    "anio": 2017,
+    "sector": "Producción",
+    "pim_soles": 3157011739.5944505,
+    "devengado_soles": 2855201417.289221
+  },
+  {
+    "anio": 2017,
+    "sector": "Energía y Minas",
+    "pim_soles": 3363041622.198506,
+    "devengado_soles": 3012780837.2465315
+  },
+  {
+    "anio": 2017,
+    "sector": "Ambiente",
+    "pim_soles": 2647325506.937033,
+    "devengado_soles": 2620852251.867663
+  },
+  {
+    "anio": 2017,
+    "sector": "Cultura",
+    "pim_soles": 2134258271.0779083,
+    "devengado_soles": 1873451910.3521879
+  },
+  {
+    "anio": 2017,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2719594450.3735323,
+    "devengado_soles": 2521607974.3863387
+  },
+  {
+    "anio": 2017,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 8553938100.320171,
+    "devengado_soles": 7638666723.585913
+  },
+  {
+    "anio": 2017,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2490108858.0576305,
+    "devengado_soles": 2405818673.21238
+  },
+  {
+    "anio": 2017,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2206104589.1141944,
+    "devengado_soles": 2110469955.1760943
+  },
+  {
+    "anio": 2017,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 12209647812.16649,
+    "devengado_soles": 10485645541.088583
+  },
+  {
+    "anio": 2017,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 4446019210.245464,
+    "devengado_soles": 4401559018.143009
+  },
+  {
+    "anio": 2017,
+    "sector": "Poder Judicial",
+    "pim_soles": 4960565635.005337,
+    "devengado_soles": 4674837054.4290285
+  },
+  {
+    "anio": 2017,
+    "sector": "Congreso de la República",
+    "pim_soles": 2591538954.108858,
+    "devengado_soles": 2279776817.9295626
+  },
+  {
+    "anio": 2017,
+    "sector": "Contraloría",
+    "pim_soles": 1710787620.0640342,
+    "devengado_soles": 1654502707.3639274
+  },
+  {
+    "anio": 2018,
+    "sector": "Educación",
+    "pim_soles": 39876377801.49413,
+    "devengado_soles": 36367256554.96265
+  },
+  {
+    "anio": 2018,
+    "sector": "Salud",
+    "pim_soles": 25912162219.850586,
+    "devengado_soles": 23878057485.592316
+  },
+  {
+    "anio": 2018,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 22828815368.19637,
+    "devengado_soles": 20364444749.19957
+  },
+  {
+    "anio": 2018,
+    "sector": "Interior",
+    "pim_soles": 15437353255.069368,
+    "devengado_soles": 14709482049.09285
+  },
+  {
+    "anio": 2018,
+    "sector": "Defensa",
+    "pim_soles": 10333927427.96158,
+    "devengado_soles": 10033210139.807898
+  },
+  {
+    "anio": 2018,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 8346211312.700108,
+    "devengado_soles": 7794109434.364996
+  },
+  {
+    "anio": 2018,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 12882390608.32444,
+    "devengado_soles": 12715563649.94664
+  },
+  {
+    "anio": 2018,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 7444130202.774814,
+    "devengado_soles": 6824406363.393811
+  },
+  {
+    "anio": 2018,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 4325506937.033085,
+    "devengado_soles": 3759946905.016009
+  },
+  {
+    "anio": 2018,
+    "sector": "Producción",
+    "pim_soles": 3267662753.4685163,
+    "devengado_soles": 3153948089.647812
+  },
+  {
+    "anio": 2018,
+    "sector": "Energía y Minas",
+    "pim_soles": 3368516542.155816,
+    "devengado_soles": 3142489082.1771607
+  },
+  {
+    "anio": 2018,
+    "sector": "Ambiente",
+    "pim_soles": 2896520811.0992527,
+    "devengado_soles": 2748943075.773746
+  },
+  {
+    "anio": 2018,
+    "sector": "Cultura",
+    "pim_soles": 2346531483.4578447,
+    "devengado_soles": 2133349098.1856995
+  },
+  {
+    "anio": 2018,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 2974738527.2145143,
+    "devengado_soles": 2882521632.8708644
+  },
+  {
+    "anio": 2018,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 9341302027.748133,
+    "devengado_soles": 8670129477.054428
+  },
+  {
+    "anio": 2018,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2670608324.439701,
+    "devengado_soles": 2321426286.01921
+  },
+  {
+    "anio": 2018,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2409284951.974386,
+    "devengado_soles": 2082826840.9818568
+  },
+  {
+    "anio": 2018,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 14415368196.371397,
+    "devengado_soles": 13543959188.900747
+  },
+  {
+    "anio": 2018,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 4217929562.433298,
+    "devengado_soles": 4147279242.262541
+  },
+  {
+    "anio": 2018,
+    "sector": "Poder Judicial",
+    "pim_soles": 5602988260.40555,
+    "devengado_soles": 5067342582.710779
+  },
+  {
+    "anio": 2018,
+    "sector": "Congreso de la República",
+    "pim_soles": 2797011739.5944505,
+    "devengado_soles": 2534931739.5944505
+  },
+  {
+    "anio": 2018,
+    "sector": "Contraloría",
+    "pim_soles": 1880811099.252935,
+    "devengado_soles": 1695645246.5314837
+  },
+  {
+    "anio": 2019,
+    "sector": "Educación",
+    "pim_soles": 45186174172.8922,
+    "devengado_soles": 43441987849.81856
+  },
+  {
+    "anio": 2019,
+    "sector": "Salud",
+    "pim_soles": 29011100618.996803,
+    "devengado_soles": 26623487038.053364
+  },
+  {
+    "anio": 2019,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 26198196371.398083,
+    "devengado_soles": 22399457897.54536
+  },
+  {
+    "anio": 2019,
+    "sector": "Interior",
+    "pim_soles": 15460885805.763075,
+    "devengado_soles": 15306276947.705444
+  },
+  {
+    "anio": 2019,
+    "sector": "Defensa",
+    "pim_soles": 10781017075.773745,
+    "devengado_soles": 9371399093.116327
+  },
+  {
+    "anio": 2019,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 9507918890.074709,
+    "devengado_soles": 8716384642.47599
+  },
+  {
+    "anio": 2019,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 14696606189.967983,
+    "devengado_soles": 12649368947.705444
+  },
+  {
+    "anio": 2019,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 7984034151.547493,
+    "devengado_soles": 7281439146.211313
+  },
+  {
+    "anio": 2019,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 4473489861.259339,
+    "devengado_soles": 4428754962.646746
+  },
+  {
+    "anio": 2019,
+    "sector": "Producción",
+    "pim_soles": 3702198505.869797,
+    "devengado_soles": 3358819594.4503736
+  },
+  {
+    "anio": 2019,
+    "sector": "Energía y Minas",
+    "pim_soles": 3761798292.422625,
+    "devengado_soles": 3387875542.1558166
+  },
+  {
+    "anio": 2019,
+    "sector": "Ambiente",
+    "pim_soles": 3012243329.775881,
+    "devengado_soles": 2982120896.4781218
+  },
+  {
+    "anio": 2019,
+    "sector": "Cultura",
+    "pim_soles": 2299850586.9797225,
+    "devengado_soles": 2276852081.1099253
+  },
+  {
+    "anio": 2019,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 3226802561.3660617,
+    "devengado_soles": 3050135121.13127
+  },
+  {
+    "anio": 2019,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 10087556029.882605,
+    "devengado_soles": 9036937069.37033
+  },
+  {
+    "anio": 2019,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2796281750.266809,
+    "devengado_soles": 2443950249.733191
+  },
+  {
+    "anio": 2019,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2208697972.251868,
+    "devengado_soles": 1915714186.2326574
+  },
+  {
+    "anio": 2019,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 13546680896.478123,
+    "devengado_soles": 12084316693.70331
+  },
+  {
+    "anio": 2019,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 4403372465.314836,
+    "devengado_soles": 4258501511.2059774
+  },
+  {
+    "anio": 2019,
+    "sector": "Poder Judicial",
+    "pim_soles": 6205389541.088581,
+    "devengado_soles": 6142715106.723586
+  },
+  {
+    "anio": 2019,
+    "sector": "Congreso de la República",
+    "pim_soles": 3009438633.9381003,
+    "devengado_soles": 2950453636.7129135
+  },
+  {
+    "anio": 2019,
+    "sector": "Contraloría",
+    "pim_soles": 1976375667.022412,
+    "devengado_soles": 1744250344.93063
+  },
+  {
+    "anio": 2020,
+    "sector": "Educación",
+    "pim_soles": 47540355176.09392,
+    "devengado_soles": 41234127061.985054
+  },
+  {
+    "anio": 2020,
+    "sector": "Salud",
+    "pim_soles": 29321296905.01601,
+    "devengado_soles": 27409548346.808964
+  },
+  {
+    "anio": 2020,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 26888249733.191036,
+    "devengado_soles": 26619367235.859127
+  },
+  {
+    "anio": 2020,
+    "sector": "Interior",
+    "pim_soles": 16083713980.789753,
+    "devengado_soles": 14026606962.646744
+  },
+  {
+    "anio": 2020,
+    "sector": "Defensa",
+    "pim_soles": 12024242262.54002,
+    "devengado_soles": 11263107727.321236
+  },
+  {
+    "anio": 2020,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 9508986125.933832,
+    "devengado_soles": 8726396567.769478
+  },
+  {
+    "anio": 2020,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 14129199573.105656,
+    "devengado_soles": 13355625896.47812
+  },
+  {
+    "anio": 2020,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 8050560298.82604,
+    "devengado_soles": 7089725927.161153
+  },
+  {
+    "anio": 2020,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 4645080042.689435,
+    "devengado_soles": 4571687778.014942
+  },
+  {
+    "anio": 2020,
+    "sector": "Producción",
+    "pim_soles": 4024658484.5250797,
+    "devengado_soles": 3754603900.2134466
+  },
+  {
+    "anio": 2020,
+    "sector": "Energía y Minas",
+    "pim_soles": 3591979722.5186768,
+    "devengado_soles": 3251998841.782284
+  },
+  {
+    "anio": 2020,
+    "sector": "Ambiente",
+    "pim_soles": 3001895410.8858056,
+    "devengado_soles": 2669285399.3596582
+  },
+  {
+    "anio": 2020,
+    "sector": "Cultura",
+    "pim_soles": 2310106723.5859127,
+    "devengado_soles": 2277996240.1280684
+  },
+  {
+    "anio": 2020,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 3465408751.3340445,
+    "devengado_soles": 3288846175.453575
+  },
+  {
+    "anio": 2020,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 9797438633.9381,
+    "devengado_soles": 9698484503.735327
+  },
+  {
+    "anio": 2020,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 2790032017.0757737,
+    "devengado_soles": 2610772459.9786553
+  },
+  {
+    "anio": 2020,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2606019210.2454643,
+    "devengado_soles": 2505426868.729989
+  },
+  {
+    "anio": 2020,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 15994194236.926361,
+    "devengado_soles": 15072928648.8794
+  },
+  {
+    "anio": 2020,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 4625186766.275347,
+    "devengado_soles": 4279685314.834578
+  },
+  {
+    "anio": 2020,
+    "sector": "Poder Judicial",
+    "pim_soles": 6030149413.020279,
+    "devengado_soles": 5785928361.792957
+  },
+  {
+    "anio": 2020,
+    "sector": "Congreso de la República",
+    "pim_soles": 2966087513.340448,
+    "devengado_soles": 2600813836.0725718
+  },
+  {
+    "anio": 2020,
+    "sector": "Contraloría",
+    "pim_soles": 2025135538.954109,
+    "devengado_soles": 1993138397.438634
+  },
+  {
+    "anio": 2021,
+    "sector": "Educación",
+    "pim_soles": 52888855581.64354,
+    "devengado_soles": 48234636290.4589
+  },
+  {
+    "anio": 2021,
+    "sector": "Salud",
+    "pim_soles": 34597432828.175026,
+    "devengado_soles": 31980137034.723583
+  },
+  {
+    "anio": 2021,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 28788655282.817505,
+    "devengado_soles": 28500768729.98933
+  },
+  {
+    "anio": 2021,
+    "sector": "Interior",
+    "pim_soles": 18488815368.19637,
+    "devengado_soles": 18143998961.579502
+  },
+  {
+    "anio": 2021,
+    "sector": "Defensa",
+    "pim_soles": 11671633938.10032,
+    "devengado_soles": 11554917598.719318
+  },
+  {
+    "anio": 2021,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 10607897545.357525,
+    "devengado_soles": 10329440234.79189
+  },
+  {
+    "anio": 2021,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 16377950907.150482,
+    "devengado_soles": 15185636081.109926
+  },
+  {
+    "anio": 2021,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 9563180362.860191,
+    "devengado_soles": 8367304658.484525
+  },
+  {
+    "anio": 2021,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 5180725720.384206,
+    "devengado_soles": 4660839894.343651
+  },
+  {
+    "anio": 2021,
+    "sector": "Producción",
+    "pim_soles": 4086451440.76841,
+    "devengado_soles": 3695786683.03095
+  },
+  {
+    "anio": 2021,
+    "sector": "Energía y Minas",
+    "pim_soles": 3704727854.855923,
+    "devengado_soles": 3600439765.7417293
+  },
+  {
+    "anio": 2021,
+    "sector": "Ambiente",
+    "pim_soles": 3066646744.9306297,
+    "devengado_soles": 2869614691.568837
+  },
+  {
+    "anio": 2021,
+    "sector": "Cultura",
+    "pim_soles": 2726979722.5186768,
+    "devengado_soles": 2388561538.954109
+  },
+  {
+    "anio": 2021,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 3419707577.374599,
+    "devengado_soles": 3378671086.4461036
+  },
+  {
+    "anio": 2021,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 11154364994.66382,
+    "devengado_soles": 10310537282.817501
+  },
+  {
+    "anio": 2021,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 3445959445.0373535,
+    "devengado_soles": 3411499850.58698
+  },
+  {
+    "anio": 2021,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2477854855.923159,
+    "devengado_soles": 2137397598.7193172
+  },
+  {
+    "anio": 2021,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 14931419423.692636,
+    "devengado_soles": 14782105229.45571
+  },
+  {
+    "anio": 2021,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 5362881536.819638,
+    "devengado_soles": 4626021613.66062
+  },
+  {
+    "anio": 2021,
+    "sector": "Poder Judicial",
+    "pim_soles": 6683511205.9765215,
+    "devengado_soles": 6095362219.850587
+  },
+  {
+    "anio": 2021,
+    "sector": "Congreso de la República",
+    "pim_soles": 3346309498.399146,
+    "devengado_soles": 3261647868.089648
+  },
+  {
+    "anio": 2021,
+    "sector": "Contraloría",
+    "pim_soles": 2061575240.1280684,
+    "devengado_soles": 2027043854.8559234
+  },
+  {
+    "anio": 2022,
+    "sector": "Educación",
+    "pim_soles": 55016767556.02988,
+    "devengado_soles": 53729375195.21878
+  },
+  {
+    "anio": 2022,
+    "sector": "Salud",
+    "pim_soles": 40032987662.75347,
+    "devengado_soles": 39058184413.16543
+  },
+  {
+    "anio": 2022,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 31178954108.858055,
+    "devengado_soles": 27457745935.965847
+  },
+  {
+    "anio": 2022,
+    "sector": "Interior",
+    "pim_soles": 19300576307.36393,
+    "devengado_soles": 17968836542.15582
+  },
+  {
+    "anio": 2022,
+    "sector": "Defensa",
+    "pim_soles": 12406941302.027748,
+    "devengado_soles": 10808306915.261473
+  },
+  {
+    "anio": 2022,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 10948815368.196373,
+    "devengado_soles": 10110136110.992529
+  },
+  {
+    "anio": 2022,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 16268772678.762007,
+    "devengado_soles": 14636201340.44824
+  },
+  {
+    "anio": 2022,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 10210885805.763075,
+    "devengado_soles": 9147422049.092852
+  },
+  {
+    "anio": 2022,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 5783308431.163288,
+    "devengado_soles": 4955716994.663821
+  },
+  {
+    "anio": 2022,
+    "sector": "Producción",
+    "pim_soles": 4204482390.608324,
+    "devengado_soles": 3814516648.879402
+  },
+  {
+    "anio": 2022,
+    "sector": "Energía y Minas",
+    "pim_soles": 4178740661.6862326,
+    "devengado_soles": 3834830305.2294555
+  },
+  {
+    "anio": 2022,
+    "sector": "Ambiente",
+    "pim_soles": 3548926360.7257204,
+    "devengado_soles": 3128733479.615795
+  },
+  {
+    "anio": 2022,
+    "sector": "Cultura",
+    "pim_soles": 2917395944.5037355,
+    "devengado_soles": 2646807470.651014
+  },
+  {
+    "anio": 2022,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 3673630736.392742,
+    "devengado_soles": 3573707980.3628597
+  },
+  {
+    "anio": 2022,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 11063223052.29456,
+    "devengado_soles": 10404961280.683033
+  },
+  {
+    "anio": 2022,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 3610706510.138741,
+    "devengado_soles": 3447322040.554963
+  },
+  {
+    "anio": 2022,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 2742924226.2540026,
+    "devengado_soles": 2496335338.313768
+  },
+  {
+    "anio": 2022,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 17161152614.727854,
+    "devengado_soles": 14721694770.544289
+  },
+  {
+    "anio": 2022,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 5708943436.499467,
+    "devengado_soles": 4951652089.647812
+  },
+  {
+    "anio": 2022,
+    "sector": "Poder Judicial",
+    "pim_soles": 7643863393.810032,
+    "devengado_soles": 7297978575.2401285
+  },
+  {
+    "anio": 2022,
+    "sector": "Congreso de la República",
+    "pim_soles": 3634732123.7993603,
+    "devengado_soles": 3553132387.6200643
+  },
+  {
+    "anio": 2022,
+    "sector": "Contraloría",
+    "pim_soles": 2256119530.416222,
+    "devengado_soles": 2124023731.9103522
+  },
+  {
+    "anio": 2023,
+    "sector": "Educación",
+    "pim_soles": 60426746318.036285,
+    "devengado_soles": 56085084595.08537
+  },
+  {
+    "anio": 2023,
+    "sector": "Salud",
+    "pim_soles": 39803398078.97546,
+    "devengado_soles": 37548535577.8015
+  },
+  {
+    "anio": 2023,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 32654855923.15902,
+    "devengado_soles": 28540344076.840984
+  },
+  {
+    "anio": 2023,
+    "sector": "Interior",
+    "pim_soles": 21482977588.04696,
+    "devengado_soles": 20245558078.975452
+  },
+  {
+    "anio": 2023,
+    "sector": "Defensa",
+    "pim_soles": 13818393810.032017,
+    "devengado_soles": 12300443250.0
+  },
+  {
+    "anio": 2023,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 11813660618.9968,
+    "devengado_soles": 10998518036.28602
+  },
+  {
+    "anio": 2023,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 17501494130.202774,
+    "devengado_soles": 16377023132.337248
+  },
+  {
+    "anio": 2023,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 10155976520.8111,
+    "devengado_soles": 9870085781.750269
+  },
+  {
+    "anio": 2023,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 6448239060.832444,
+    "devengado_soles": 6168707897.545359
+  },
+  {
+    "anio": 2023,
+    "sector": "Producción",
+    "pim_soles": 4639994663.820704,
+    "devengado_soles": 4359506986.392743
+  },
+  {
+    "anio": 2023,
+    "sector": "Energía y Minas",
+    "pim_soles": 4699306296.691568,
+    "devengado_soles": 4652313233.724652
+  },
+  {
+    "anio": 2023,
+    "sector": "Ambiente",
+    "pim_soles": 3861643543.2230525,
+    "devengado_soles": 3734595470.651014
+  },
+  {
+    "anio": 2023,
+    "sector": "Cultura",
+    "pim_soles": 2892582710.7790823,
+    "devengado_soles": 2833140136.072572
+  },
+  {
+    "anio": 2023,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 4159722518.676627,
+    "devengado_soles": 4117709321.2379932
+  },
+  {
+    "anio": 2023,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 12470651013.874067,
+    "devengado_soles": 11752341515.47492
+  },
+  {
+    "anio": 2023,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 3584247598.719317,
+    "devengado_soles": 3217758281.750267
+  },
+  {
+    "anio": 2023,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 3275827107.7908216,
+    "devengado_soles": 3183612574.70651
+  },
+  {
+    "anio": 2023,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 19581963713.98079,
+    "devengado_soles": 18063382427.96158
+  },
+  {
+    "anio": 2023,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 6253575240.128069,
+    "devengado_soles": 5429979381.003202
+  },
+  {
+    "anio": 2023,
+    "sector": "Poder Judicial",
+    "pim_soles": 7573639274.279616,
+    "devengado_soles": 7497902881.53682
+  },
+  {
+    "anio": 2023,
+    "sector": "Congreso de la República",
+    "pim_soles": 3930992529.3489857,
+    "devengado_soles": 3387139712.9135537
+  },
+  {
+    "anio": 2023,
+    "sector": "Contraloría",
+    "pim_soles": 2472230522.9455714,
+    "devengado_soles": 2325132806.83031
+  },
+  {
+    "anio": 2024,
+    "sector": "Educación",
+    "pim_soles": 66934642475.98719,
+    "devengado_soles": 66265296051.22732
+  },
+  {
+    "anio": 2024,
+    "sector": "Salud",
+    "pim_soles": 43365961152.61473,
+    "devengado_soles": 41733232715.21879
+  },
+  {
+    "anio": 2024,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 33800640341.515476,
+    "devengado_soles": 31596838591.248665
+  },
+  {
+    "anio": 2024,
+    "sector": "Interior",
+    "pim_soles": 24175400213.44717,
+    "devengado_soles": 20715900442.90288
+  },
+  {
+    "anio": 2024,
+    "sector": "Defensa",
+    "pim_soles": 13731835645.677694,
+    "devengado_soles": 12119031549.09285
+  },
+  {
+    "anio": 2024,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 13710352187.83351,
+    "devengado_soles": 13506753457.84418
+  },
+  {
+    "anio": 2024,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 19413233724.65315,
+    "devengado_soles": 17852409733.191036
+  },
+  {
+    "anio": 2024,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 10857283884.73853,
+    "devengado_soles": 10242218752.66809
+  },
+  {
+    "anio": 2024,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 6269263607.257204,
+    "devengado_soles": 5389999386.339381
+  },
+  {
+    "anio": 2024,
+    "sector": "Producción",
+    "pim_soles": 5043729989.3276415,
+    "devengado_soles": 4647797185.1654215
+  },
+  {
+    "anio": 2024,
+    "sector": "Energía y Minas",
+    "pim_soles": 4946077908.217716,
+    "devengado_soles": 4670581368.729989
+  },
+  {
+    "anio": 2024,
+    "sector": "Ambiente",
+    "pim_soles": 3827961579.5090714,
+    "devengado_soles": 3789681963.7139807
+  },
+  {
+    "anio": 2024,
+    "sector": "Cultura",
+    "pim_soles": 3030469583.778015,
+    "devengado_soles": 2953798703.308431
+  },
+  {
+    "anio": 2024,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 4151189967.9829245,
+    "devengado_soles": 4109678068.3030953
+  },
+  {
+    "anio": 2024,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 12317182497.331911,
+    "devengado_soles": 10531191035.218784
+  },
+  {
+    "anio": 2024,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 3706872998.9327645,
+    "devengado_soles": 3669804268.9434366
+  },
+  {
+    "anio": 2024,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 3128121664.8879404,
+    "devengado_soles": 3096840448.239061
+  },
+  {
+    "anio": 2024,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 19999146211.3127,
+    "devengado_soles": 19265177545.35752
+  },
+  {
+    "anio": 2024,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 6327854855.92316,
+    "devengado_soles": 6011462113.127002
+  },
+  {
+    "anio": 2024,
+    "sector": "Poder Judicial",
+    "pim_soles": 7657550693.703309,
+    "devengado_soles": 7580975186.766276
+  },
+  {
+    "anio": 2024,
+    "sector": "Congreso de la República",
+    "pim_soles": 3605314834.578442,
+    "devengado_soles": 3558626007.4706516
+  },
+  {
+    "anio": 2024,
+    "sector": "Contraloría",
+    "pim_soles": 2606659551.7609396,
+    "devengado_soles": 2416894736.392743
+  },
+  {
+    "anio": 2025,
+    "sector": "Educación",
+    "pim_soles": 64820868089.647804,
+    "devengado_soles": 64172659408.75133
+  },
+  {
+    "anio": 2025,
+    "sector": "Salud",
+    "pim_soles": 43600105869.79722,
+    "devengado_soles": 38644953837.69476
+  },
+  {
+    "anio": 2025,
+    "sector": "Transporte y Comunicaciones",
+    "pim_soles": 39464759871.931694,
+    "devengado_soles": 38241352315.90181
+  },
+  {
+    "anio": 2025,
+    "sector": "Interior",
+    "pim_soles": 23959274279.615795,
+    "devengado_soles": 23719681536.819637
+  },
+  {
+    "anio": 2025,
+    "sector": "Defensa",
+    "pim_soles": 15921731590.18143,
+    "devengado_soles": 14838257755.469585
+  },
+  {
+    "anio": 2025,
+    "sector": "Justicia y Derechos Humanos",
+    "pim_soles": 13113681963.713982,
+    "devengado_soles": 12532745852.721453
+  },
+  {
+    "anio": 2025,
+    "sector": "Vivienda Construcción y Saneamiento",
+    "pim_soles": 22124183564.56777,
+    "devengado_soles": 21902941728.92209
+  },
+  {
+    "anio": 2025,
+    "sector": "Agricultura y Riego",
+    "pim_soles": 11931526147.278547,
+    "devengado_soles": 10847546996.798292
+  },
+  {
+    "anio": 2025,
+    "sector": "Trabajo y Promoción del Empleo",
+    "pim_soles": 7024204909.284952,
+    "devengado_soles": 6145828085.378869
+  },
+  {
+    "anio": 2025,
+    "sector": "Producción",
+    "pim_soles": 4917630736.392743,
+    "devengado_soles": 4307352762.006404
+  },
+  {
+    "anio": 2025,
+    "sector": "Energía y Minas",
+    "pim_soles": 5020725720.384206,
+    "devengado_soles": 4970518463.180364
+  },
+  {
+    "anio": 2025,
+    "sector": "Ambiente",
+    "pim_soles": 4206275346.851654,
+    "devengado_soles": 3668292729.9893274
+  },
+  {
+    "anio": 2025,
+    "sector": "Cultura",
+    "pim_soles": 3422753468.5165424,
+    "devengado_soles": 2932957447.1718254
+  },
+  {
+    "anio": 2025,
+    "sector": "Mujer y Poblaciones Vulnerables",
+    "pim_soles": 4565733191.035218,
+    "devengado_soles": 3912376771.3980784
+  },
+  {
+    "anio": 2025,
+    "sector": "Desarrollo e Inclusión Social",
+    "pim_soles": 13182411953.041624,
+    "devengado_soles": 12398058441.835648
+  },
+  {
+    "anio": 2025,
+    "sector": "Comercio Exterior y Turismo",
+    "pim_soles": 4346484525.080043,
+    "devengado_soles": 3980510528.068303
+  },
+  {
+    "anio": 2025,
+    "sector": "Relaciones Exteriores",
+    "pim_soles": 3443372465.3148346,
+    "devengado_soles": 2976795496.264674
+  },
+  {
+    "anio": 2025,
+    "sector": "Economía y Finanzas",
+    "pim_soles": 21814898612.593384,
+    "devengado_soles": 19708670151.547493
+  },
+  {
+    "anio": 2025,
+    "sector": "Presidencia del Consejo de Ministros",
+    "pim_soles": 7360981856.990395,
+    "devengado_soles": 7230692478.121664
+  },
+  {
+    "anio": 2025,
+    "sector": "Poder Judicial",
+    "pim_soles": 8187459978.655285,
+    "devengado_soles": 8105585378.8687315
+  },
+  {
+    "anio": 2025,
+    "sector": "Congreso de la República",
+    "pim_soles": 3938228388.473853,
+    "devengado_soles": 3655266678.7620063
+  },
+  {
+    "anio": 2025,
+    "sector": "Contraloría",
+    "pim_soles": 2628234791.889008,
+    "devengado_soles": 2359497784.418357
+  }
+]
