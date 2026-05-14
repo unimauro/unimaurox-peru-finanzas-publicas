@@ -1,0 +1,42 @@
+[
+  {
+    "carrera": "Ingeniería Civil",
+    "pct": 23.2
+  },
+  {
+    "carrera": "Ingeniería Industrial",
+    "pct": 21.5
+  },
+  {
+    "carrera": "Ingeniería de Sistemas / Informática",
+    "pct": 18.4
+  },
+  {
+    "carrera": "Ingeniería Electrónica/Telecom",
+    "pct": 8.6
+  },
+  {
+    "carrera": "Ingeniería Ambiental",
+    "pct": 7.2
+  },
+  {
+    "carrera": "Ingeniería Mecánica",
+    "pct": 6.1
+  },
+  {
+    "carrera": "Ingeniería Química/Procesos",
+    "pct": 4.8
+  },
+  {
+    "carrera": "Ingeniería de Minas/Metalúrgica",
+    "pct": 3.7
+  },
+  {
+    "carrera": "Ingeniería Agrícola/Agroindustrial",
+    "pct": 3.2
+  },
+  {
+    "carrera": "Otras ingenierías",
+    "pct": 3.3
+  }
+]

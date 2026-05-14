@@ -90,6 +90,7 @@ export default function Topbar({ abrirSidebar }) {
 }
 
 function Filtros({ anio, setAnio, anioMin, anioMax, unidad, setUnidad }) {
+  const esActual = anio === anioMax;
   return (
     <>
       <label className="flex flex-1 items-center gap-2 text-sm text-slate-600 dark:text-slate-300 sm:flex-initial">
@@ -104,6 +105,14 @@ function Filtros({ anio, setAnio, anioMin, anioMax, unidad, setUnidad }) {
           onChange={(e) => setAnio(Number(e.target.value))}
           className="h-2 flex-1 cursor-pointer appearance-none rounded-full bg-slate-200 accent-peru-azul dark:bg-slate-700 sm:flex-initial sm:w-48"
         />
+        {esActual && (
+          <span
+            className="hidden items-center gap-1 rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold text-amber-800 dark:bg-amber-900/50 dark:text-amber-200 lg:inline-flex"
+            title="Año en curso · BCRP I trim · MEF a abr-2026 · SUNAT a abr-2026 · INEI último anual disponible"
+          >
+            ⚠ Parcial · I trim/abr 2026
+          </span>
+        )}
       </label>
 
       <label className="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-300">

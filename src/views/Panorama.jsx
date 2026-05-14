@@ -105,6 +105,15 @@ export default function Panorama() {
         (SIAF). Todas las cifras están en soles corrientes (nominales).
       </SourceBanner>
 
+      {anio === 2026 && (
+        <SourceBanner color="ambar">
+          ⚠ <strong>Datos parciales 2026:</strong> el año está en curso. PBI y
+          deuda corresponden al <strong>I trimestre 2026</strong> (BCRP). PIM y
+          ejecución son el <strong>acumulado a abril 2026</strong> (MEF Consulta
+          Amigable). La ejecución porcentual se completa al cierre del año.
+        </SourceBanner>
+      )}
+
       {/* KPIs */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {loading ? (

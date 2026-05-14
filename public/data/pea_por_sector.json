@@ -1,0 +1,47 @@
+[
+  {
+    "sector": "Agricultura, pesca, minería",
+    "pct": 26.0,
+    "informalidad_pct": 95.5
+  },
+  {
+    "sector": "Comercio",
+    "pct": 19.5,
+    "informalidad_pct": 84.2
+  },
+  {
+    "sector": "Servicios",
+    "pct": 18.8,
+    "informalidad_pct": 60.8
+  },
+  {
+    "sector": "Transportes y comunicaciones",
+    "pct": 9.2,
+    "informalidad_pct": 75.9
+  },
+  {
+    "sector": "Manufactura",
+    "pct": 8.4,
+    "informalidad_pct": 67.3
+  },
+  {
+    "sector": "Construcción",
+    "pct": 7.1,
+    "informalidad_pct": 81.4
+  },
+  {
+    "sector": "Hoteles y restaurantes",
+    "pct": 6.6,
+    "informalidad_pct": 88.5
+  },
+  {
+    "sector": "Administración pública",
+    "pct": 2.8,
+    "informalidad_pct": 18.2
+  },
+  {
+    "sector": "Otros",
+    "pct": 1.6,
+    "informalidad_pct": 70.0
+  }
+]

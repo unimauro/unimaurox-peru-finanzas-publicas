@@ -1,0 +1,298 @@
+[
+  {
+    "anio": 1990,
+    "inversion_privada_usd": 1580000000,
+    "fdi_usd": 41000000,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1991,
+    "inversion_privada_usd": 2288000000.0,
+    "fdi_usd": 544200000.0,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1992,
+    "inversion_privada_usd": 2996000000.0,
+    "fdi_usd": 1047400000.0000001,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1993,
+    "inversion_privada_usd": 3704000000.0,
+    "fdi_usd": 1550600000.0000002,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1994,
+    "inversion_privada_usd": 4412000000.0,
+    "fdi_usd": 2053800000.0000002,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1995,
+    "inversion_privada_usd": 5120000000,
+    "fdi_usd": 2557000000,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1996,
+    "inversion_privada_usd": 5454000000.0,
+    "fdi_usd": 2207600000.0000005,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1997,
+    "inversion_privada_usd": 5788000000.0,
+    "fdi_usd": 1858200000.0,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1998,
+    "inversion_privada_usd": 6122000000.0,
+    "fdi_usd": 1508800000.0000002,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 1999,
+    "inversion_privada_usd": 6456000000.0,
+    "fdi_usd": 1159399999.9999998,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2000,
+    "inversion_privada_usd": 6790000000,
+    "fdi_usd": 810000000,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2001,
+    "inversion_privada_usd": 7374000000.0,
+    "fdi_usd": 1163800000.0000002,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2002,
+    "inversion_privada_usd": 7958000000.0,
+    "fdi_usd": 1517600000.0000002,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2003,
+    "inversion_privada_usd": 8542000000.0,
+    "fdi_usd": 1871399999.9999998,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2004,
+    "inversion_privada_usd": 9126000000.0,
+    "fdi_usd": 2225200000.0000005,
+    "informalidad_pct": null,
+    "id_pct_pbi": null,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2005,
+    "inversion_privada_usd": 9710000000,
+    "fdi_usd": 2579000000,
+    "informalidad_pct": null,
+    "id_pct_pbi": 0.11,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2006,
+    "inversion_privada_usd": 13973333333.333334,
+    "fdi_usd": 4027333333.3333335,
+    "informalidad_pct": null,
+    "id_pct_pbi": 0.11,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2007,
+    "inversion_privada_usd": 18236666666.666668,
+    "fdi_usd": 5475666666.666667,
+    "informalidad_pct": 79.1,
+    "id_pct_pbi": 0.11,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2008,
+    "inversion_privada_usd": 22500000000,
+    "fdi_usd": 6924000000,
+    "informalidad_pct": 78.0,
+    "id_pct_pbi": 0.12,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2009,
+    "inversion_privada_usd": 25700000000.0,
+    "fdi_usd": 7689500000.0,
+    "informalidad_pct": 77.6,
+    "id_pct_pbi": 0.12,
+    "egresados_universitarios_total": null
+  },
+  {
+    "anio": 2010,
+    "inversion_privada_usd": 28900000000,
+    "fdi_usd": 8455000000,
+    "informalidad_pct": 76.5,
+    "id_pct_pbi": 0.12,
+    "egresados_universitarios_total": 105000
+  },
+  {
+    "anio": 2011,
+    "inversion_privada_usd": 32850000000.0,
+    "fdi_usd": 7682000000,
+    "informalidad_pct": 75.9,
+    "id_pct_pbi": 0.11,
+    "egresados_universitarios_total": 117000
+  },
+  {
+    "anio": 2012,
+    "inversion_privada_usd": 36800000000,
+    "fdi_usd": 11788000000,
+    "informalidad_pct": 74.3,
+    "id_pct_pbi": 0.1,
+    "egresados_universitarios_total": 129000
+  },
+  {
+    "anio": 2013,
+    "inversion_privada_usd": 37550000000.0,
+    "fdi_usd": 9298000000,
+    "informalidad_pct": 73.7,
+    "id_pct_pbi": 0.09,
+    "egresados_universitarios_total": 141000
+  },
+  {
+    "anio": 2014,
+    "inversion_privada_usd": 38300000000,
+    "fdi_usd": 4441000000,
+    "informalidad_pct": 73.7,
+    "id_pct_pbi": 0.08,
+    "egresados_universitarios_total": 153000
+  },
+  {
+    "anio": 2015,
+    "inversion_privada_usd": 35800000000,
+    "fdi_usd": 8125000000,
+    "informalidad_pct": 73.2,
+    "id_pct_pbi": 0.11,
+    "egresados_universitarios_total": 165000
+  },
+  {
+    "anio": 2016,
+    "inversion_privada_usd": 32500000000,
+    "fdi_usd": 5583000000,
+    "informalidad_pct": 72.0,
+    "id_pct_pbi": 0.13,
+    "egresados_universitarios_total": 176000
+  },
+  {
+    "anio": 2017,
+    "inversion_privada_usd": 33100000000,
+    "fdi_usd": 6768000000,
+    "informalidad_pct": 72.5,
+    "id_pct_pbi": 0.15,
+    "egresados_universitarios_total": 187000
+  },
+  {
+    "anio": 2018,
+    "inversion_privada_usd": 36200000000,
+    "fdi_usd": 6488000000,
+    "informalidad_pct": 72.4,
+    "id_pct_pbi": 0.16,
+    "egresados_universitarios_total": 198000
+  },
+  {
+    "anio": 2019,
+    "inversion_privada_usd": 36500000000,
+    "fdi_usd": 8892000000,
+    "informalidad_pct": 71.7,
+    "id_pct_pbi": 0.15,
+    "egresados_universitarios_total": 205000
+  },
+  {
+    "anio": 2020,
+    "inversion_privada_usd": 27400000000,
+    "fdi_usd": 1006000000,
+    "informalidad_pct": 76.0,
+    "id_pct_pbi": 0.15,
+    "egresados_universitarios_total": 212000
+  },
+  {
+    "anio": 2021,
+    "inversion_privada_usd": 39800000000,
+    "fdi_usd": 7410000000,
+    "informalidad_pct": 76.8,
+    "id_pct_pbi": 0.15,
+    "egresados_universitarios_total": 225000
+  },
+  {
+    "anio": 2022,
+    "inversion_privada_usd": 41300000000,
+    "fdi_usd": 11503000000,
+    "informalidad_pct": 76.5,
+    "id_pct_pbi": 0.16,
+    "egresados_universitarios_total": 238000
+  },
+  {
+    "anio": 2023,
+    "inversion_privada_usd": 38900000000,
+    "fdi_usd": 3584000000,
+    "informalidad_pct": 71.7,
+    "id_pct_pbi": 0.17,
+    "egresados_universitarios_total": 245000
+  },
+  {
+    "anio": 2024,
+    "inversion_privada_usd": 41500000000,
+    "fdi_usd": 6500000000,
+    "informalidad_pct": 71.1,
+    "id_pct_pbi": 0.17,
+    "egresados_universitarios_total": 252000
+  },
+  {
+    "anio": 2025,
+    "inversion_privada_usd": 44200000000,
+    "fdi_usd": 7200000000,
+    "informalidad_pct": 70.5,
+    "id_pct_pbi": 0.17,
+    "egresados_universitarios_total": 260000
+  },
+  {
+    "anio": 2026,
+    "inversion_privada_usd": 46800000000,
+    "fdi_usd": 7800000000,
+    "informalidad_pct": 69.9,
+    "id_pct_pbi": 0.18,
+    "egresados_universitarios_total": 268000
+  }
+]

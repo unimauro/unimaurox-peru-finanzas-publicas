@@ -28,6 +28,13 @@ export const cargarCanonRegional = () => fetchJSON('canon_por_region.json');
 export const cargarObrasTopEmpresas = () => fetchJSON('obras_top_empresas.json');
 export const cargarInversionComponentes = () => fetchJSON('inversion_componentes.json');
 export const cargarCarteraProyectos = () => fetchJSON('cartera_proyectos_mineros.json');
+export const cargarInversionEmpleo = () => fetchJSON('inversion_empleo.json');
+export const cargarFdiPorPais = () => fetchJSON('fdi_por_pais.json');
+export const cargarPeaPorSector = () => fetchJSON('pea_por_sector.json');
+export const cargarIDInternacional = () => fetchJSON('id_internacional.json');
+export const cargarIDFuentes = () => fetchJSON('id_fuentes.json');
+export const cargarEgresadosPorArea = () => fetchJSON('egresados_por_area.json');
+export const cargarIngenieriaDesagregada = () => fetchJSON('ingenieria_desagregada.json');
 export const cargarPoblacion = () => fetchJSON('poblacion.json');
 export const cargarMetadata = () => fetchJSON('metadata.json');
 

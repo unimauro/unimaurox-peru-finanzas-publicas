@@ -1,0 +1,54 @@
+[
+  {
+    "pais": "España",
+    "porcentaje": 18.5
+  },
+  {
+    "pais": "Reino Unido",
+    "porcentaje": 15.2
+  },
+  {
+    "pais": "Chile",
+    "porcentaje": 11.8
+  },
+  {
+    "pais": "Estados Unidos",
+    "porcentaje": 9.6
+  },
+  {
+    "pais": "Brasil",
+    "porcentaje": 7.1
+  },
+  {
+    "pais": "China",
+    "porcentaje": 6.4
+  },
+  {
+    "pais": "Países Bajos",
+    "porcentaje": 5.3
+  },
+  {
+    "pais": "Canadá",
+    "porcentaje": 4.9
+  },
+  {
+    "pais": "Colombia",
+    "porcentaje": 3.8
+  },
+  {
+    "pais": "México",
+    "porcentaje": 3.1
+  },
+  {
+    "pais": "Japón",
+    "porcentaje": 2.4
+  },
+  {
+    "pais": "Suiza",
+    "porcentaje": 2.2
+  },
+  {
+    "pais": "Otros",
+    "porcentaje": 9.7
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "area": "Ciencias Empresariales",
+    "pct": 31.5,
+    "color": "#3B82F6"
+  },
+  {
+    "area": "Ciencias Sociales",
+    "pct": 17.2,
+    "color": "#F59E0B"
+  },
+  {
+    "area": "Ingeniería y Tecnología",
+    "pct": 16.8,
+    "color": "#10B981"
+  },
+  {
+    "area": "Ciencias de la Salud",
+    "pct": 12.4,
+    "color": "#EF4444"
+  },
+  {
+    "area": "Educación",
+    "pct": 9.6,
+    "color": "#A855F7"
+  },
+  {
+    "area": "Derecho",
+    "pct": 7.8,
+    "color": "#06B6D4"
+  },
+  {
+    "area": "Humanidades y Artes",
+    "pct": 2.9,
+    "color": "#EC4899"
+  },
+  {
+    "area": "Ciencias Naturales",
+    "pct": 1.8,
+    "color": "#84CC16"
+  }
+]
