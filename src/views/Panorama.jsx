@@ -187,8 +187,8 @@ export default function Panorama() {
                 type="monotone"
                 dataKey="pbi"
                 name="PBI nominal"
-                stroke="#0B2545"
-                strokeWidth={2.5}
+                stroke="#3B82F6"
+                strokeWidth={3}
                 dot={false}
                 activeDot={{ r: 5 }}
               />
@@ -197,8 +197,8 @@ export default function Panorama() {
                 type="monotone"
                 dataKey="deuda"
                 name="Deuda pública"
-                stroke="#D91023"
-                strokeWidth={2.5}
+                stroke="#EF4444"
+                strokeWidth={3}
                 dot={false}
                 activeDot={{ r: 5 }}
               />
@@ -228,12 +228,12 @@ export default function Panorama() {
                 <AreaChart data={composicionDeuda} margin={{ top: 10, right: 10, left: 0, bottom: 0 }}>
                   <defs>
                     <linearGradient id="gradInterna" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="0%" stopColor="#0B2545" stopOpacity={0.85} />
-                      <stop offset="100%" stopColor="#0B2545" stopOpacity={0.35} />
+                      <stop offset="0%" stopColor="#3B82F6" stopOpacity={0.95} />
+                      <stop offset="100%" stopColor="#3B82F6" stopOpacity={0.4} />
                     </linearGradient>
                     <linearGradient id="gradExterna" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="0%" stopColor="#C9A02E" stopOpacity={0.85} />
-                      <stop offset="100%" stopColor="#C9A02E" stopOpacity={0.35} />
+                      <stop offset="0%" stopColor="#F59E0B" stopOpacity={0.95} />
+                      <stop offset="100%" stopColor="#F59E0B" stopOpacity={0.4} />
                     </linearGradient>
                   </defs>
                   <CartesianGrid strokeDasharray="3 3" className="opacity-30" />
@@ -251,7 +251,8 @@ export default function Panorama() {
                     type="monotone"
                     dataKey="externa"
                     stackId="1"
-                    stroke="#C9A02E"
+                    stroke="#F59E0B"
+                    strokeWidth={2}
                     fill="url(#gradExterna)"
                     name="Deuda externa"
                   />
@@ -259,7 +260,8 @@ export default function Panorama() {
                     type="monotone"
                     dataKey="interna"
                     stackId="1"
-                    stroke="#0B2545"
+                    stroke="#3B82F6"
+                    strokeWidth={2}
                     fill="url(#gradInterna)"
                     name="Deuda interna"
                   />
@@ -287,7 +289,7 @@ export default function Panorama() {
                   <Bar
                     dataKey="variacion"
                     name="Variación %"
-                    fill="#D91023"
+                    fill="#EF4444"
                     radius={[4, 4, 0, 0]}
                   />
                 </BarChart>

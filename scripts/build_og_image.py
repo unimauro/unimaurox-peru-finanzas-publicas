@@ -1,4 +1,4 @@
-"""Genera la imagen Open Graph (1200x630) para previews en WhatsApp/Twitter/etc.
+"""Genera la imagen Open Graph (1200x630) con cifras clave del dashboard.
 
 Salida: public/og-image.png
 """
@@ -13,22 +13,21 @@ W, H = 1200, 630
 # Paleta institucional
 AZUL = (11, 37, 69)         # #0B2545
 AZUL_MEDIO = (27, 58, 107)  # #1B3A6B
-ROJO = (217, 16, 35)        # #D91023
-DORADO = (201, 160, 46)     # #C9A02E
+AZUL_OSCURO = (6, 24, 46)
+ROJO = (217, 16, 35)
+DORADO = (201, 160, 46)
+DORADO_CLARO = (242, 201, 76)
 BLANCO = (255, 255, 255)
 GRIS = (200, 210, 220)
+GRIS_OSCURO = (140, 155, 175)
+EMERALD = (34, 197, 94)
 
 
 def find_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
-    """Intenta encontrar una fuente decente en el sistema."""
     candidatos = [
-        # macOS
         "/System/Library/Fonts/Supplemental/Arial Bold.ttf" if bold else "/System/Library/Fonts/Supplemental/Arial.ttf",
         "/System/Library/Fonts/HelveticaNeue.ttc",
-        "/System/Library/Fonts/SFNSDisplay.ttf",
-        # Linux común
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
     ]
     for c in candidatos:
         try:
@@ -42,108 +41,142 @@ def lerp(c1, c2, t):
     return tuple(int(c1[i] + (c2[i] - c1[i]) * t) for i in range(3))
 
 
-def gradient_background(img: Image.Image):
-    """Fondo con gradiente diagonal azul → azul medio."""
+def gradient_background(img):
     draw = ImageDraw.Draw(img)
     for y in range(H):
         t = y / H
-        color = lerp(AZUL, AZUL_MEDIO, t)
+        color = lerp(AZUL_OSCURO, AZUL_MEDIO, t)
         draw.line([(0, y), (W, y)], fill=color)
 
 
-def draw_chart_bars(draw: ImageDraw.ImageDraw, x0: int, y_base: int):
-    """Tres barras estilo dashboard."""
-    bar_w = 90
-    gap = 30
-    alturas = [180, 250, 340]
-    colores = [ROJO, DORADO, BLANCO]
-    for i, (h, c) in enumerate(zip(alturas, colores)):
-        x = x0 + i * (bar_w + gap)
-        # Sombra suave
-        for off in range(8, 0, -1):
-            shadow = (0, 0, 0, max(0, 60 - off * 6))
-            draw.rounded_rectangle(
-                [x + 2, y_base - h + 2 + off, x + bar_w + 2, y_base + off],
-                radius=10, fill=(0, 0, 0, 30),
-            )
-        draw.rounded_rectangle(
-            [x, y_base - h, x + bar_w, y_base],
-            radius=10, fill=c,
-        )
-
-
-def draw_text_with_shadow(draw, pos, text, font, fill, shadow=(0, 0, 0, 80)):
-    x, y = pos
-    draw.text((x + 2, y + 2), text, font=font, fill=(0, 0, 0))
-    draw.text(pos, text, font=font, fill=fill)
+def draw_kpi_box(draw, x, y, w, h, etiqueta, valor, sub, color_valor, color_accento):
+    # Card con borde sutil
+    draw.rounded_rectangle([x, y, x + w, y + h], radius=18,
+                           fill=(255, 255, 255, 12),
+                           outline=(255, 255, 255, 40), width=2)
+    # Línea de acento arriba
+    draw.rounded_rectangle([x + 18, y + 14, x + 60, y + 18], radius=2,
+                           fill=color_accento)
+    # Etiqueta
+    font_lbl = find_font(20, bold=True)
+    draw.text((x + 18, y + 28), etiqueta.upper(), font=font_lbl, fill=GRIS_OSCURO)
+    # Valor grande
+    font_val = find_font(56, bold=True)
+    draw.text((x + 18, y + 60), valor, font=font_val, fill=color_valor)
+    # Subtitle
+    font_sub = find_font(20)
+    draw.text((x + 18, y + h - 38), sub, font=font_sub, fill=GRIS)
 
 
 def main():
-    img = Image.new("RGB", (W, H), AZUL)
+    img = Image.new("RGB", (W, H), AZUL_OSCURO)
     gradient_background(img)
     draw = ImageDraw.Draw(img, "RGBA")
 
-    # Acento dorado decorativo arriba a la derecha
-    for i in range(5):
+    # Decoración: curvas suaves en esquina superior derecha
+    for i in range(6):
         draw.ellipse(
-            [W - 200 - i * 30, -100 - i * 20, W + 50 - i * 30, 200 - i * 20],
-            outline=(DORADO[0], DORADO[1], DORADO[2], 25 + i * 5), width=2,
+            [W - 220 - i * 25, -120 - i * 18, W + 60 - i * 25, 220 - i * 18],
+            outline=(DORADO[0], DORADO[1], DORADO[2], 22 + i * 4), width=2,
         )
 
-    # Línea decorativa horizontal arriba
-    draw.rectangle([60, 60, 60 + 8, 110], fill=ROJO)
-    draw.rectangle([60 + 12, 60, 60 + 20, 110], fill=BLANCO)
-    draw.rectangle([60 + 24, 60, 60 + 32, 110], fill=ROJO)
+    # Banderín peruano (3 franjas verticales) decorativo a la izquierda
+    band_w = 5
+    band_h = 70
+    draw.rectangle([60, 70, 60 + band_w, 70 + band_h], fill=ROJO)
+    draw.rectangle([60 + band_w + 3, 70, 60 + 2 * band_w + 3, 70 + band_h], fill=BLANCO)
+    draw.rectangle([60 + 2 * band_w + 6, 70, 60 + 3 * band_w + 6, 70 + band_h], fill=ROJO)
 
     # Chip "Perú · 1990-2025"
-    font_chip = find_font(22, bold=True)
-    chip_text = "PERÚ  ·  1990 – 2025"
+    font_chip = find_font(18, bold=True)
+    chip_text = "DASHBOARD CIUDADANO · 1990–2025"
     bbox = draw.textbbox((0, 0), chip_text, font=font_chip)
     cw = bbox[2] - bbox[0]
-    ch = bbox[3] - bbox[1]
-    chip_x, chip_y = 110, 70
+    chip_x, chip_y = 110, 78
     draw.rounded_rectangle(
-        [chip_x - 14, chip_y - 8, chip_x + cw + 14, chip_y + ch + 12],
-        radius=24, outline=(DORADO[0], DORADO[1], DORADO[2], 200), width=2,
+        [chip_x - 14, chip_y - 6, chip_x + cw + 14, chip_y + 30],
+        radius=20, fill=(DORADO[0], DORADO[1], DORADO[2], 35),
+        outline=(DORADO[0], DORADO[1], DORADO[2], 180), width=2,
     )
-    draw.text((chip_x, chip_y), chip_text, font=font_chip,
-              fill=(DORADO[0], DORADO[1], DORADO[2]))
+    draw.text((chip_x, chip_y + 2), chip_text, font=font_chip,
+              fill=(DORADO_CLARO[0], DORADO_CLARO[1], DORADO_CLARO[2]))
 
-    # Título grande
-    font_title = find_font(82, bold=True)
-    titulo_l1 = "Finanzas Públicas"
-    titulo_l2 = "del Perú"
-    draw_text_with_shadow(draw, (110, 145), titulo_l1, font_title, BLANCO)
-    draw_text_with_shadow(draw, (110, 235), titulo_l2, font_title,
-                          (DORADO[0], DORADO[1], DORADO[2]))
+    # Título principal
+    font_title = find_font(64, bold=True)
+    draw.text((60, 145), "Finanzas Públicas", font=font_title, fill=BLANCO)
+    draw.text((60, 215), "del Perú", font=font_title,
+              fill=(DORADO_CLARO[0], DORADO_CLARO[1], DORADO_CLARO[2]))
 
-    # Subtítulo
-    font_sub = find_font(28)
-    subtitulo = "PBI · Deuda · Presupuesto · Mapa regional"
-    draw.text((110, 345), subtitulo, font=font_sub, fill=GRIS)
+    # KPI Cards en grid 4 columnas
+    card_y = 320
+    card_h = 175
+    card_w = 250
+    card_gap = 25
+    start_x = (W - (4 * card_w + 3 * card_gap)) // 2
 
-    subtitulo2 = "Dashboard interactivo con datos oficiales de BCRP, MEF e INEI"
-    font_sub2 = find_font(22)
-    draw.text((110, 388), subtitulo2, font=font_sub2, fill=(180, 195, 215))
+    kpis = [
+        {
+            "etiqueta": "PBI 2025",
+            "valor": "S/ 1.07",
+            "sub": "billones · BCRP",
+            "color_valor": BLANCO,
+            "accento": (96, 165, 250),  # azul claro
+        },
+        {
+            "etiqueta": "Deuda Pública",
+            "valor": "34.0%",
+            "sub": "del PBI · MEF",
+            "color_valor": (DORADO_CLARO[0], DORADO_CLARO[1], DORADO_CLARO[2]),
+            "accento": DORADO,
+        },
+        {
+            "etiqueta": "Presupuesto",
+            "valor": "S/ 258",
+            "sub": "mil millones · PIM",
+            "color_valor": BLANCO,
+            "accento": (244, 114, 182),  # rosa
+        },
+        {
+            "etiqueta": "Ejecución",
+            "valor": "88%",
+            "sub": "Devengado / PIM",
+            "color_valor": (134, 239, 172),  # verde claro
+            "accento": EMERALD,
+        },
+    ]
+    for i, k in enumerate(kpis):
+        x = start_x + i * (card_w + card_gap)
+        draw_kpi_box(draw, x, card_y, card_w, card_h,
+                     k["etiqueta"], k["valor"], k["sub"],
+                     k["color_valor"], k["accento"])
 
-    # Barras decorativas (representan los KPIs)
-    draw_chart_bars(draw, x0=760, y_base=480)
+    # Subtitle debajo de las cards
+    font_sub = find_font(22)
+    sub = "PBI · Deuda · Presupuesto · Ejecución · Mapa regional"
+    bbox = draw.textbbox((0, 0), sub, font=font_sub)
+    sw = bbox[2] - bbox[0]
+    draw.text(((W - sw) // 2, 525), sub, font=font_sub, fill=GRIS)
 
-    # Footer URL
+    # Footer: URL + autor
     font_url = find_font(20, bold=True)
     url = "unimauro.github.io/unimaurox-peru-finanzas-publicas"
-    draw.text((110, H - 70), url, font=font_url, fill=BLANCO)
+    bbox = draw.textbbox((0, 0), url, font=font_url)
+    uw = bbox[2] - bbox[0]
+    draw.text(((W - uw) // 2, H - 75), url, font=font_url, fill=BLANCO)
 
-    # Pequeño autor
-    font_autor = find_font(18)
-    draw.text((110, H - 40), "por @unimauro · open source · MIT", font=font_autor,
-              fill=(160, 180, 200))
+    font_autor = find_font(16)
+    autor = "Datos oficiales · BCRP · MEF · INEI  ·  por @unimauro  ·  Open source MIT"
+    bbox = draw.textbbox((0, 0), autor, font=font_autor)
+    aw = bbox[2] - bbox[0]
+    draw.text(((W - aw) // 2, H - 48), autor, font=font_autor,
+              fill=GRIS_OSCURO)
 
-    # Línea de color (banda inferior estilo banderín)
+    # Banderín peruano horizontal en el footer
     band = 6
-    draw.rectangle([0, H - band - 12, W // 3, H - band - 6], fill=ROJO)
-    draw.rectangle([W // 3, H - band - 12, 2 * W // 3, H - band - 6], fill=BLANCO)
-    draw.rectangle([2 * W // 3, H - band - 12, W, H - band - 6], fill=ROJO)
+    third = W // 3
+    draw.rectangle([0, H - band - 18, third, H - band - 12], fill=ROJO)
+    draw.rectangle([third, H - band - 18, 2 * third, H - band - 12], fill=BLANCO)
+    draw.rectangle([2 * third, H - band - 18, W, H - band - 12], fill=ROJO)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     img.save(OUT, "PNG", optimize=True)

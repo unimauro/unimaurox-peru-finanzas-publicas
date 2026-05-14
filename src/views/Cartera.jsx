@@ -19,17 +19,18 @@ import { cargarPresupuestoCartera } from '../utils/data.js';
 import { useFilters } from '../context/FilterContext.jsx';
 import { escalar, sufijoUnidad, tickSoles } from '../utils/format.js';
 
+// Paleta con buen contraste en ambos modos (claro y oscuro)
 const PALETA = [
-  '#0B2545',
-  '#1B3A6B',
-  '#D91023',
-  '#C9A02E',
-  '#16a34a',
-  '#0ea5e9',
-  '#8b5cf6',
-  '#ec4899',
-  '#f97316',
-  '#14b8a6',
+  '#3B82F6', // azul vibrante
+  '#F59E0B', // ámbar
+  '#EF4444', // rojo coral
+  '#10B981', // verde esmeralda
+  '#A855F7', // violeta
+  '#EC4899', // rosa
+  '#06B6D4', // cyan
+  '#F97316', // naranja
+  '#84CC16', // lima
+  '#F2C94C', // dorado claro
 ];
 
 export default function Cartera() {

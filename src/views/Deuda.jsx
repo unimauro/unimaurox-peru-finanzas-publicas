@@ -25,7 +25,7 @@ import { cargarDeuda } from '../utils/data.js';
 import { useFilters } from '../context/FilterContext.jsx';
 import { escalar, sufijoUnidad, tickSoles } from '../utils/format.js';
 
-const PALETA_MONEDA = ['#0B2545', '#C9A02E', '#16a34a', '#0ea5e9'];
+const PALETA_MONEDA = ['#3B82F6', '#F59E0B', '#10B981', '#A855F7'];
 
 export default function Deuda() {
   // 1. Hooks
@@ -170,14 +170,14 @@ export default function Deuda() {
               }}
             />
             <Legend wrapperStyle={{ fontSize: 12 }} />
-            <Bar yAxisId="left" dataKey="interna" stackId="d" fill="#0B2545" name="Deuda interna" />
-            <Bar yAxisId="left" dataKey="externa" stackId="d" fill="#C9A02E" name="Deuda externa" />
+            <Bar yAxisId="left" dataKey="interna" stackId="d" fill="#3B82F6" name="Deuda interna" />
+            <Bar yAxisId="left" dataKey="externa" stackId="d" fill="#F59E0B" name="Deuda externa" />
             <Line
               yAxisId="right"
               type="monotone"
               dataKey="pct_pbi"
-              stroke="#D91023"
-              strokeWidth={2.5}
+              stroke="#EF4444"
+              strokeWidth={3}
               dot={false}
               name="% del PBI"
             />
@@ -207,7 +207,7 @@ export default function Deuda() {
             />
             <Bar dataKey="nueva" radius={[4, 4, 0, 0]}>
               {nuevaDeuda.map((d, i) => (
-                <Cell key={i} fill={d.nueva >= 0 ? '#D91023' : '#16a34a'} />
+                <Cell key={i} fill={d.nueva >= 0 ? '#EF4444' : '#10B981'} />
               ))}
             </Bar>
           </BarChart>
