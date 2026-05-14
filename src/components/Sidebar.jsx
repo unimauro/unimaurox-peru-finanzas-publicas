@@ -1,4 +1,4 @@
-import { LayoutDashboard, Wallet, Map, Building2, Landmark, X } from 'lucide-react';
+import { LayoutDashboard, Wallet, Map, Building2, Landmark, HelpCircle, X } from 'lucide-react';
 
 const items = [
   { id: 'panorama', label: 'Panorama General', icon: LayoutDashboard },
@@ -6,6 +6,7 @@ const items = [
   { id: 'mapa', label: 'Mapa Regional', icon: Map },
   { id: 'cartera', label: 'Por Cartera Ministerial', icon: Building2 },
   { id: 'deuda', label: 'Deuda Pública', icon: Landmark },
+  { id: 'guia', label: 'Guía & FAQ', icon: HelpCircle },
 ];
 
 export default function Sidebar({ vista, setVista, abierta, cerrar }) {

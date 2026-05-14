@@ -1,6 +1,7 @@
 import { Menu, Moon, Sun, ExternalLink } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext.jsx';
 import { useFilters } from '../context/FilterContext.jsx';
+import DonateButtons from './DonateButtons.jsx';
 
 const UNIDADES = [
   { v: 'soles', l: 'Soles' },
@@ -55,11 +56,12 @@ export default function Topbar({ abrirSidebar }) {
       </div>
 
       <div className="flex items-center gap-2">
+        <DonateButtons />
         <a
           href="https://github.com/unimauro/unimaurox-peru-finanzas-publicas"
           target="_blank"
           rel="noreferrer"
-          className="btn"
+          className="btn hidden md:inline-flex"
           aria-label="GitHub"
         >
           <ExternalLink size={16} />

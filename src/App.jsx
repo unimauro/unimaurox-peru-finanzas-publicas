@@ -8,6 +8,7 @@ const Presupuesto = lazy(() => import('./views/Presupuesto.jsx'));
 const Mapa = lazy(() => import('./views/Mapa.jsx'));
 const Cartera = lazy(() => import('./views/Cartera.jsx'));
 const Deuda = lazy(() => import('./views/Deuda.jsx'));
+const Guia = lazy(() => import('./views/Guia.jsx'));
 
 const VIEW_TITLES = {
   panorama: 'Panorama General',
@@ -15,6 +16,7 @@ const VIEW_TITLES = {
   mapa: 'Mapa Regional',
   cartera: 'Por Cartera Ministerial',
   deuda: 'Análisis de Deuda Pública',
+  guia: 'Guía & Preguntas Frecuentes',
 };
 
 export default function App() {
@@ -49,6 +51,7 @@ export default function App() {
             {vista === 'mapa' && <Mapa />}
             {vista === 'cartera' && <Cartera />}
             {vista === 'deuda' && <Deuda />}
+            {vista === 'guia' && <Guia />}
           </Suspense>
 
           <footer className="mt-12 border-t border-slate-200 pt-6 text-center text-xs text-slate-500 dark:border-slate-800 dark:text-slate-400">
