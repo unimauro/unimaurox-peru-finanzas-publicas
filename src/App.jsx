@@ -1,4 +1,4 @@
-import { useState, Suspense, lazy } from 'react';
+import { useState, useEffect, Suspense, lazy } from 'react';
 import Sidebar from './components/Sidebar.jsx';
 import Topbar from './components/Topbar.jsx';
 import { SkeletonChart } from './components/Skeleton.jsx';
@@ -26,6 +26,16 @@ const VIEW_TITLES = {
 export default function App() {
   const [vista, setVista] = useState('panorama');
   const [sidebarAbierta, setSidebarAbierta] = useState(false);
+
+  // Tracking de cambio de vista en Google Analytics (si está cargado)
+  useEffect(() => {
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', 'page_view', {
+        page_title: VIEW_TITLES[vista],
+        page_path: `/#${vista}`,
+      });
+    }
+  }, [vista]);
 
   return (
     <div className="flex min-h-screen">

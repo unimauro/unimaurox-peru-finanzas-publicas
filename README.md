@@ -53,6 +53,22 @@ pip install -r scripts/requirements.txt
 python scripts/build_data.py
 ```
 
+## 📈 Google Analytics 4 (opcional)
+
+Para activar tracking:
+
+1. Crea una propiedad GA4 en https://analytics.google.com/
+   - **Crear cuenta** → nombre "unimauro"
+   - **Crear propiedad** → "Finanzas Públicas Perú", zona horaria Lima, moneda PEN
+   - **Crear flujo de datos web** → URL `https://unimauro.github.io/unimaurox-peru-finanzas-publicas/`
+   - Copia el **Measurement ID** (formato `G-XXXXXXXXXX`)
+2. En `index.html`, reemplaza las dos ocurrencias de `G-XXXXXXXXXX` por tu ID real.
+3. Haz commit + push. GitHub Pages deploya y los datos empiezan a llegar en 24 h.
+
+El código ya está listo con `anonymize_ip: true` y trackea cambios de pestaña SPA (ver `App.jsx`). Si nunca cambias el placeholder, el script se carga pero no reporta a ninguna propiedad real.
+
+Alternativas privacy-first si prefieres después: GoatCounter (gratis, 3 KB) o Plausible ($9/mes).
+
 ## 📦 Estructura
 
 ```
