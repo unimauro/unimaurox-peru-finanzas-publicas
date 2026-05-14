@@ -120,13 +120,16 @@ export default function ShareModal({ abierto, onClose }) {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
+      className="fixed inset-0 z-[100] overflow-y-auto bg-black/70 backdrop-blur-sm"
       onClick={onClose}
+      role="dialog"
+      aria-modal="true"
     >
-      <div
-        className="relative w-full max-w-lg rounded-2xl bg-white p-6 shadow-2xl dark:bg-slate-900"
-        onClick={(e) => e.stopPropagation()}
-      >
+      <div className="flex min-h-full items-center justify-center p-3 sm:p-4">
+        <div
+          className="relative w-full max-w-lg rounded-2xl bg-white p-5 shadow-2xl dark:bg-slate-900 sm:p-6"
+          onClick={(e) => e.stopPropagation()}
+        >
         <button
           onClick={onClose}
           className="absolute right-3 top-3 rounded-full p-1.5 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800"
@@ -216,14 +219,15 @@ export default function ShareModal({ abierto, onClose }) {
           ))}
         </div>
 
-        {/* Tip para Instagram */}
-        <div className="mt-3 flex items-start gap-2 rounded-lg bg-purple-50 p-3 text-xs text-purple-900 dark:bg-purple-950/40 dark:text-purple-200">
-          <IconInstagram width={14} height={14} className="mt-0.5 shrink-0" />
-          <div>
-            <strong>Instagram / TikTok:</strong> copia el texto con el botón
-            de arriba, pégalo en tu publicación o historia. La imagen del
-            preview (favicon + 3 barras) se generará automáticamente al pegar
-            el link.
+          {/* Tip para Instagram */}
+          <div className="mt-3 flex items-start gap-2 rounded-lg bg-purple-50 p-3 text-xs text-purple-900 dark:bg-purple-950/40 dark:text-purple-200">
+            <IconInstagram width={14} height={14} className="mt-0.5 shrink-0" />
+            <div>
+              <strong>Instagram / TikTok:</strong> copia el texto con el botón
+              de arriba, pégalo en tu publicación o historia. La imagen del
+              preview (favicon + 3 barras) se generará automáticamente al pegar
+              el link.
+            </div>
           </div>
         </div>
       </div>

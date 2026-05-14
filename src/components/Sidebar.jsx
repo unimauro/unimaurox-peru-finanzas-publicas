@@ -41,7 +41,7 @@ export default function Sidebar({ vista, setVista, abierta, cerrar }) {
               <p className="text-sm font-semibold leading-tight text-slate-900 dark:text-white">
                 Finanzas Públicas
               </p>
-              <p className="text-xs text-slate-500 dark:text-slate-400">Perú · 1990-2025</p>
+              <p className="text-xs text-slate-500 dark:text-slate-400">Perú · 1990-2026</p>
             </div>
           </div>
           <button
