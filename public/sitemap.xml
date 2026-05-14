@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemaps/image/1.1">
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/og-image.png</image:loc>
+      <image:title>Finanzas Públicas del Perú · Dashboard 1990-2026</image:title>
+      <image:caption>PBI, deuda, presupuesto, recaudación SUNAT, canon minero, inversión minera</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Data endpoints (JSON), citables como dataset -->
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/pbi.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/deuda.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/presupuesto.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/presupuesto_por_region.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/presupuesto_por_cartera.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/presupuesto_funcion.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/macroeconomico.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/canon_inversion.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/canon_por_region.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://unimauro.github.io/unimaurox-peru-finanzas-publicas/data/cartera_proyectos_mineros.json</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

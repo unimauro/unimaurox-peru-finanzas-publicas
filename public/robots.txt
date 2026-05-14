@@ -1,0 +1,96 @@
+# robots.txt para Finanzas Públicas del Perú
+# https://unimauro.github.io/unimaurox-peru-finanzas-publicas/
+#
+# Política: open web. Todos los buscadores, motores de IA y servicios
+# de descubrimiento están permitidos. Los datos son públicos y queremos
+# que sean fácilmente accesibles y citables.
+
+# Default: permitir todo
+User-agent: *
+Allow: /
+
+# Buscadores tradicionales (explícito por si acaso)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Motores de IA / LLM training & retrieval
+# (la mayoría respeta este archivo; los que no, igual no lo necesitan)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Archivos sitemap
+Sitemap: https://unimauro.github.io/unimaurox-peru-finanzas-publicas/sitemap.xml
+
+# Crawl-delay no aplicado: el sitio es estático en GitHub Pages, soporta carga
