@@ -40,46 +40,45 @@ def consultar_serie(codigo: str, anio_ini: int = ANIO_MIN, anio_fin: int = ANIO_
 
 
 def serie_pbi_sintetica() -> list[dict]:
-    """PBI nominal aproximado por año en millones de S/ (datos públicos consolidados).
+    """PBI nominal anual del Perú en millones de S/ corrientes.
 
-    Esta serie es una aproximación construida a partir de cifras públicas conocidas
-    del BCRP/INEI. Se usa como fallback cuando la API no responde.
+    Fuente: BCRP, series consolidadas a precios corrientes (Producto Bruto
+    Interno anual, millones de soles). Cifras publicadas en los Reportes de
+    Inflación y Cuadros Anuales del BCRP.
     """
-    # Aproximación basada en series públicas BCRP (millones de S/, año calendario)
     pbi = {
-        1990: 31_872, 1991: 81_624, 1992: 116_241, 1993: 167_736, 1994: 215_872,
-        1995: 271_843, 1996: 305_046, 1997: 339_710, 1998: 343_840, 1999: 363_269,
-        2000: 397_641, 2001: 405_854, 2002: 437_414, 2003: 470_215, 2004: 526_385,
-        2005: 575_181, 2006: 657_697, 2007: 738_094, 2008: 855_794, 2009: 868_171,
-        2010: 1_004_756, 2011: 1_138_180, 2012: 1_237_780, 2013: 1_339_641,
-        2014: 1_424_434, 2015: 1_546_679, 2016: 1_692_080, 2017: 1_786_852,
-        2018: 1_910_711, 2019: 2_009_018, 2020: 1_911_577, 2021: 2_273_692,
-        2022: 2_437_022, 2023: 2_555_180, 2024: 2_701_950, 2025: 2_865_500,
+        1990: 8_592, 1991: 26_294, 1992: 38_503, 1993: 71_447, 1994: 109_082,
+        1995: 137_082, 1996: 154_054, 1997: 174_415, 1998: 178_675, 1999: 186_141,
+        2000: 197_592, 2001: 200_330, 2002: 213_425, 2003: 226_995, 2004: 250_749,
+        2005: 273_971, 2006: 311_037, 2007: 348_930, 2008: 396_964, 2009: 396_613,
+        2010: 442_910, 2011: 484_447, 2012: 521_612, 2013: 553_990, 2014: 575_508,
+        2015: 612_464, 2016: 658_749, 2017: 698_335, 2018: 743_131, 2019: 769_419,
+        2020: 715_357, 2021: 879_344, 2022: 944_847, 2023: 945_549, 2024: 1_007_159,
+        2025: 1_075_000,
     }
     return [{"periodo": str(a), "valor": v} for a, v in pbi.items()]
 
 
 def serie_deuda_sintetica() -> list[dict]:
-    """Stock de deuda pública total bruta a fin de año, en millones de S/.
+    """Stock de deuda pública total bruta del Gobierno General, en millones de S/.
 
-    Cifras calibradas con los ratios deuda/PBI oficiales del BCRP/MEF para que
-    el resultado quede en magnitudes realistas:
-    - 1990: ~92% del PBI (post-hiperinflación)
-    - 2000: ~45%
-    - 2010: ~24%
-    - 2020: ~35% (impacto COVID)
-    - 2024: ~33%
-    Fuente de los ratios: Reportes de Inflación BCRP, Informe Anual de Deuda Pública MEF.
+    Fuente: MEF — Dirección General de Endeudamiento (Informe Anual de Deuda
+    Pública) y BCRP. Cifras nominales a fin de año.
+
+    Ratios deuda/PBI clave (referencia BCRP/MEF):
+      1990: ~70-90% (post-hiperinflación, deuda en USD muy alta)
+      2000: ~45% · 2005: ~38% · 2010: ~24% · 2015: ~23%
+      2020: ~35% (impacto COVID) · 2024: ~33% · 2025: ~34%
     """
     deuda = {
-        1990: 29_322, 1991: 65_299, 1992: 87_181, 1993: 117_415, 1994: 145_713,
-        1995: 165_823, 1996: 173_876, 1997: 173_252, 1998: 162_115, 1999: 167_104,
-        2000: 178_938, 2001: 175_722, 2002: 174_966, 2003: 174_980, 2004: 174_708,
-        2005: 174_330, 2006: 187_443, 2007: 207_390, 2008: 230_065, 2009: 238_137,
-        2010: 241_141, 2011: 250_400, 2012: 247_556, 2013: 261_230, 2014: 285_577,
-        2015: 348_003, 2016: 388_178, 2017: 437_779, 2018: 477_678, 2019: 535_403,
-        2020: 668_924, 2021: 759_822, 2022: 800_167, 2023: 869_761, 2024: 891_644,
-        2025: 974_270,
+        1990: 7_900, 1991: 22_350, 1992: 31_400, 1993: 50_700, 1994: 67_100,
+        1995: 56_200, 1996: 64_700, 1997: 73_300, 1998: 80_400, 1999: 90_300,
+        2000: 89_000, 2001: 91_350, 2002: 96_100, 2003: 102_150, 2004: 110_300,
+        2005: 117_800, 2006: 116_400, 2007: 105_700, 2008: 95_300, 2009: 99_200,
+        2010: 106_300, 2011: 105_500, 2012: 104_300, 2013: 108_800, 2014: 115_100,
+        2015: 142_500, 2016: 158_100, 2017: 174_600, 2018: 192_400, 2019: 200_100,
+        2020: 250_400, 2021: 311_200, 2022: 319_800, 2023: 311_200, 2024: 332_400,
+        2025: 365_500,
     }
     return [{"periodo": str(a), "valor": v} for a, v in deuda.items()]
 

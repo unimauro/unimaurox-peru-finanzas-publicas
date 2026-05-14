@@ -1,150 +1,150 @@
 [
   {
     "anio": 1990,
-    "deuda_total_soles": 29322000000.0,
-    "deuda_interna_soles": 2345760000.0,
-    "deuda_externa_soles": 26976240000.0,
-    "deuda_pct_pbi": 91.9992469879518
+    "deuda_total_soles": 7900000000.0,
+    "deuda_interna_soles": 632000000.0,
+    "deuda_externa_soles": 7268000000.0,
+    "deuda_pct_pbi": 91.94599627560521
   },
   {
     "anio": 1991,
-    "deuda_total_soles": 65299000000.0,
-    "deuda_interna_soles": 6138105999.999992,
-    "deuda_externa_soles": 59160894000.00001,
-    "deuda_pct_pbi": 79.99975497402725
+    "deuda_total_soles": 22350000000.0,
+    "deuda_interna_soles": 2100899999.9999962,
+    "deuda_externa_soles": 20249100000.000004,
+    "deuda_pct_pbi": 85.00038031490074
   },
   {
     "anio": 1992,
-    "deuda_total_soles": 87181000000.0,
-    "deuda_interna_soles": 9415547999.999985,
-    "deuda_externa_soles": 77765452000.00002,
-    "deuda_pct_pbi": 75.00021507041406
+    "deuda_total_soles": 31400000000.0,
+    "deuda_interna_soles": 3391199999.999996,
+    "deuda_externa_soles": 28008800000.000004,
+    "deuda_pct_pbi": 81.55208685037529
   },
   {
     "anio": 1993,
-    "deuda_total_soles": 117415000000.0,
-    "deuda_interna_soles": 14324629999.999985,
-    "deuda_externa_soles": 103090370000.00002,
-    "deuda_pct_pbi": 69.9998807650117
+    "deuda_total_soles": 50700000000.0,
+    "deuda_interna_soles": 6185399999.999992,
+    "deuda_externa_soles": 44514600000.00001,
+    "deuda_pct_pbi": 70.96169188349405
   },
   {
     "anio": 1994,
-    "deuda_total_soles": 145713000000.0,
-    "deuda_interna_soles": 19816968000.0,
-    "deuda_externa_soles": 125896032000.0,
-    "deuda_pct_pbi": 67.49972205751557
+    "deuda_total_soles": 67100000000.0,
+    "deuda_interna_soles": 9125600000.0,
+    "deuda_externa_soles": 57974400000.0,
+    "deuda_pct_pbi": 61.51335692414881
   },
   {
     "anio": 1995,
-    "deuda_total_soles": 165823000000.0,
-    "deuda_interna_soles": 24873450000.0,
-    "deuda_externa_soles": 140949550000.0,
-    "deuda_pct_pbi": 60.999547532951006
+    "deuda_total_soles": 56200000000.0,
+    "deuda_interna_soles": 8430000000.0,
+    "deuda_externa_soles": 47770000000.0,
+    "deuda_pct_pbi": 40.99735924483156
   },
   {
     "anio": 1996,
-    "deuda_total_soles": 173876000000.0,
-    "deuda_interna_soles": 28515664000.0,
-    "deuda_externa_soles": 145360336000.0,
-    "deuda_pct_pbi": 56.99992787972962
+    "deuda_total_soles": 64700000000.0,
+    "deuda_interna_soles": 10610799999.999992,
+    "deuda_externa_soles": 54089200000.00001,
+    "deuda_pct_pbi": 41.99826035026679
   },
   {
     "anio": 1997,
-    "deuda_total_soles": 173252000000.0,
-    "deuda_interna_soles": 30838856000.0,
-    "deuda_externa_soles": 142413144000.0,
-    "deuda_pct_pbi": 50.99997056312737
+    "deuda_total_soles": 73300000000.0,
+    "deuda_interna_soles": 13047399999.999992,
+    "deuda_externa_soles": 60252600000.00001,
+    "deuda_pct_pbi": 42.02620187483875
   },
   {
     "anio": 1998,
-    "deuda_total_soles": 162115000000.0,
-    "deuda_interna_soles": 31126079999.999985,
-    "deuda_externa_soles": 130988920000.00002,
-    "deuda_pct_pbi": 47.14838296882271
+    "deuda_total_soles": 80400000000.0,
+    "deuda_interna_soles": 15436799999.999992,
+    "deuda_externa_soles": 64963200000.00001,
+    "deuda_pct_pbi": 44.997901217293965
   },
   {
     "anio": 1999,
-    "deuda_total_soles": 167104000000.0,
-    "deuda_interna_soles": 34423424000.0,
-    "deuda_externa_soles": 132680576000.0,
-    "deuda_pct_pbi": 46.00007157230592
+    "deuda_total_soles": 90300000000.0,
+    "deuda_interna_soles": 18601800000.0,
+    "deuda_externa_soles": 71698200000.0,
+    "deuda_pct_pbi": 48.511612164971716
   },
   {
     "anio": 2000,
-    "deuda_total_soles": 178938000000.0,
-    "deuda_interna_soles": 39366360000.0,
-    "deuda_externa_soles": 139571640000.0,
-    "deuda_pct_pbi": 44.99988683259523
+    "deuda_total_soles": 89000000000.0,
+    "deuda_interna_soles": 19580000000.0,
+    "deuda_externa_soles": 69420000000.0,
+    "deuda_pct_pbi": 45.04230940523908
   },
   {
     "anio": 2001,
-    "deuda_total_soles": 175722000000.0,
-    "deuda_interna_soles": 42173279999.999985,
-    "deuda_externa_soles": 133548720000.00002,
-    "deuda_pct_pbi": 43.29685059159205
+    "deuda_total_soles": 91350000000.0,
+    "deuda_interna_soles": 21923999999.999985,
+    "deuda_externa_soles": 69426000000.00002,
+    "deuda_pct_pbi": 45.59976039534768
   },
   {
     "anio": 2002,
-    "deuda_total_soles": 174966000000.0,
-    "deuda_interna_soles": 45491160000.0,
-    "deuda_externa_soles": 129474840000.0,
-    "deuda_pct_pbi": 40.00009144654721
+    "deuda_total_soles": 96100000000.0,
+    "deuda_interna_soles": 24986000000.0,
+    "deuda_externa_soles": 71114000000.0,
+    "deuda_pct_pbi": 45.02752723439147
   },
   {
     "anio": 2003,
-    "deuda_total_soles": 174980000000.0,
-    "deuda_interna_soles": 48994400000.0,
-    "deuda_externa_soles": 125985600000.0,
-    "deuda_pct_pbi": 37.21276437374393
+    "deuda_total_soles": 102150000000.0,
+    "deuda_interna_soles": 28602000000.0,
+    "deuda_externa_soles": 73548000000.0,
+    "deuda_pct_pbi": 45.000991211260164
   },
   {
     "anio": 2004,
-    "deuda_total_soles": 174708000000.0,
-    "deuda_interna_soles": 52412400000.000015,
-    "deuda_externa_soles": 122295599999.99998,
-    "deuda_pct_pbi": 33.190155494552464
+    "deuda_total_soles": 110300000000.0,
+    "deuda_interna_soles": 33090000000.0,
+    "deuda_externa_soles": 77210000000.0,
+    "deuda_pct_pbi": 43.98821131888861
   },
   {
     "anio": 2005,
-    "deuda_total_soles": 174330000000.0,
-    "deuda_interna_soles": 55785599999.999985,
-    "deuda_externa_soles": 118544400000.00002,
-    "deuda_pct_pbi": 30.3087202115508
+    "deuda_total_soles": 117800000000.0,
+    "deuda_interna_soles": 37696000000.0,
+    "deuda_externa_soles": 80104000000.0,
+    "deuda_pct_pbi": 42.99725153392147
   },
   {
     "anio": 2006,
-    "deuda_total_soles": 187443000000.0,
-    "deuda_interna_soles": 64980239999.999985,
-    "deuda_externa_soles": 122462760000.00002,
-    "deuda_pct_pbi": 28.499901930524242
+    "deuda_total_soles": 116400000000.0,
+    "deuda_interna_soles": 40351999999.999985,
+    "deuda_externa_soles": 76048000000.00002,
+    "deuda_pct_pbi": 37.423200455251305
   },
   {
     "anio": 2007,
-    "deuda_total_soles": 207390000000.0,
-    "deuda_interna_soles": 77425599999.99998,
-    "deuda_externa_soles": 129964400000.00002,
-    "deuda_pct_pbi": 28.098047132208094
+    "deuda_total_soles": 105700000000.0,
+    "deuda_interna_soles": 39461333333.33333,
+    "deuda_externa_soles": 66238666666.66667,
+    "deuda_pct_pbi": 30.292608832717168
   },
   {
     "anio": 2008,
-    "deuda_total_soles": 230065000000.0,
-    "deuda_interna_soles": 92026000000.0,
-    "deuda_externa_soles": 138039000000.0,
-    "deuda_pct_pbi": 26.883221896858355
+    "deuda_total_soles": 95300000000.0,
+    "deuda_interna_soles": 38120000000.0,
+    "deuda_externa_soles": 57180000000.0,
+    "deuda_pct_pbi": 24.007214760028617
   },
   {
     "anio": 2009,
-    "deuda_total_soles": 238137000000.0,
-    "deuda_interna_soles": 101208225000.00002,
-    "deuda_externa_soles": 136928774999.99998,
-    "deuda_pct_pbi": 27.429734464754063
+    "deuda_total_soles": 99200000000.0,
+    "deuda_interna_soles": 42160000000.00001,
+    "deuda_externa_soles": 57039999999.99999,
+    "deuda_pct_pbi": 25.011787309039292
   },
   {
     "anio": 2010,
-    "deuda_total_soles": 241141000000.0,
-    "deuda_interna_soles": 108513449999.99998,
-    "deuda_externa_soles": 132627550000.00002,
-    "deuda_pct_pbi": 23.999956208273453,
+    "deuda_total_soles": 106300000000.0,
+    "deuda_interna_soles": 47834999999.99999,
+    "deuda_externa_soles": 58465000000.00001,
+    "deuda_pct_pbi": 24.00036124720598,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -184,10 +184,10 @@
   },
   {
     "anio": 2011,
-    "deuda_total_soles": 250400000000.0,
-    "deuda_interna_soles": 125200000000.0,
-    "deuda_externa_soles": 125200000000.0,
-    "deuda_pct_pbi": 22.000035143826107,
+    "deuda_total_soles": 105500000000.0,
+    "deuda_interna_soles": 52750000000.0,
+    "deuda_externa_soles": 52750000000.0,
+    "deuda_pct_pbi": 21.777408054957508,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -227,10 +227,10 @@
   },
   {
     "anio": 2012,
-    "deuda_total_soles": 247556000000.0,
-    "deuda_interna_soles": 136155800000.0,
-    "deuda_externa_soles": 111400200000.0,
-    "deuda_pct_pbi": 20.0,
+    "deuda_total_soles": 104300000000.0,
+    "deuda_interna_soles": 57365000000.0,
+    "deuda_externa_soles": 46935000000.0,
+    "deuda_pct_pbi": 19.995705620269472,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -270,10 +270,10 @@
   },
   {
     "anio": 2013,
-    "deuda_total_soles": 261230000000.0,
-    "deuda_interna_soles": 147594950000.0,
-    "deuda_externa_soles": 113635050000.0,
-    "deuda_pct_pbi": 19.50000037323432,
+    "deuda_total_soles": 108800000000.0,
+    "deuda_interna_soles": 61472000000.0,
+    "deuda_externa_soles": 47328000000.0,
+    "deuda_pct_pbi": 19.639343670463365,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -313,10 +313,10 @@
   },
   {
     "anio": 2014,
-    "deuda_total_soles": 285577000000.0,
-    "deuda_interna_soles": 165634660000.0,
-    "deuda_externa_soles": 119942340000.0,
-    "deuda_pct_pbi": 20.04845433344051,
+    "deuda_total_soles": 115100000000.0,
+    "deuda_interna_soles": 66758000000.0,
+    "deuda_externa_soles": 48342000000.0,
+    "deuda_pct_pbi": 19.999721984750863,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -356,10 +356,10 @@
   },
   {
     "anio": 2015,
-    "deuda_total_soles": 348003000000.0,
-    "deuda_interna_soles": 201841740000.0,
-    "deuda_externa_soles": 146161260000.0,
-    "deuda_pct_pbi": 22.50001454729779,
+    "deuda_total_soles": 142500000000.0,
+    "deuda_interna_soles": 82650000000.0,
+    "deuda_externa_soles": 59850000000.0,
+    "deuda_pct_pbi": 23.266673633062513,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -399,10 +399,10 @@
   },
   {
     "anio": 2016,
-    "deuda_total_soles": 388178000000.0,
-    "deuda_interna_soles": 225143240000.0,
-    "deuda_externa_soles": 163034760000.0,
-    "deuda_pct_pbi": 22.9408774998818,
+    "deuda_total_soles": 158100000000.0,
+    "deuda_interna_soles": 91698000000.0,
+    "deuda_externa_soles": 66402000000.0,
+    "deuda_pct_pbi": 24.000036432692877,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -442,10 +442,10 @@
   },
   {
     "anio": 2017,
-    "deuda_total_soles": 437779000000.0,
-    "deuda_interna_soles": 249534030000.0,
-    "deuda_externa_soles": 188244970000.0,
-    "deuda_pct_pbi": 24.50001455072944,
+    "deuda_total_soles": 174600000000.0,
+    "deuda_interna_soles": 99522000000.0,
+    "deuda_externa_soles": 75078000000.0,
+    "deuda_pct_pbi": 25.002326963420135,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -485,10 +485,10 @@
   },
   {
     "anio": 2018,
-    "deuda_total_soles": 477678000000.0,
-    "deuda_interna_soles": 267499680000.0,
-    "deuda_externa_soles": 210178320000.0,
-    "deuda_pct_pbi": 25.000013084134647,
+    "deuda_total_soles": 192400000000.0,
+    "deuda_interna_soles": 107744000000.0,
+    "deuda_externa_soles": 84656000000.0,
+    "deuda_pct_pbi": 25.890455384043996,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -528,10 +528,10 @@
   },
   {
     "anio": 2019,
-    "deuda_total_soles": 535403000000.0,
-    "deuda_interna_soles": 294471650000.0,
-    "deuda_externa_soles": 240931350000.0,
-    "deuda_pct_pbi": 26.649985216658088,
+    "deuda_total_soles": 200100000000.0,
+    "deuda_interna_soles": 110055000000.0,
+    "deuda_externa_soles": 90045000000.0,
+    "deuda_pct_pbi": 26.0066361761277,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -571,10 +571,10 @@
   },
   {
     "anio": 2020,
-    "deuda_total_soles": 668924000000.0,
-    "deuda_interna_soles": 361218960000.0,
-    "deuda_externa_soles": 307705040000.0,
-    "deuda_pct_pbi": 34.99330657357773,
+    "deuda_total_soles": 250400000000.0,
+    "deuda_interna_soles": 135216000000.0,
+    "deuda_externa_soles": 115184000000.0,
+    "deuda_pct_pbi": 35.00350174807823,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -614,10 +614,10 @@
   },
   {
     "anio": 2021,
-    "deuda_total_soles": 759822000000.0,
-    "deuda_interna_soles": 402705660000.0,
-    "deuda_externa_soles": 357116340000.0,
-    "deuda_pct_pbi": 33.41798273468878,
+    "deuda_total_soles": 311200000000.0,
+    "deuda_interna_soles": 164936000000.0,
+    "deuda_externa_soles": 146264000000.0,
+    "deuda_pct_pbi": 35.39001801342819,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -657,10 +657,10 @@
   },
   {
     "anio": 2022,
-    "deuda_total_soles": 800167000000.0,
-    "deuda_interna_soles": 416086840000.0,
-    "deuda_externa_soles": 384080160000.0,
-    "deuda_pct_pbi": 32.833802895501144,
+    "deuda_total_soles": 319800000000.0,
+    "deuda_interna_soles": 166296000000.0,
+    "deuda_externa_soles": 153504000000.0,
+    "deuda_pct_pbi": 33.84674979123604,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -700,10 +700,10 @@
   },
   {
     "anio": 2023,
-    "deuda_total_soles": 869761000000.0,
-    "deuda_interna_soles": 434880500000.0,
-    "deuda_externa_soles": 434880500000.0,
-    "deuda_pct_pbi": 34.039128358863174,
+    "deuda_total_soles": 311200000000.0,
+    "deuda_interna_soles": 155600000000.0,
+    "deuda_externa_soles": 155600000000.0,
+    "deuda_pct_pbi": 32.91209657035225,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -743,10 +743,10 @@
   },
   {
     "anio": 2024,
-    "deuda_total_soles": 891644000000.0,
-    "deuda_interna_soles": 436905560000.0,
-    "deuda_externa_soles": 454738440000.0,
-    "deuda_pct_pbi": 33.00001850515368,
+    "deuda_total_soles": 332400000000.0,
+    "deuda_interna_soles": 162876000000.0,
+    "deuda_externa_soles": 169524000000.0,
+    "deuda_pct_pbi": 33.00372632325184,
     "composicion_moneda": [
       {
         "moneda": "Soles",
@@ -786,9 +786,9 @@
   },
   {
     "anio": 2025,
-    "deuda_total_soles": 974270000000.0,
-    "deuda_interna_soles": 467649600000.0,
-    "deuda_externa_soles": 506620400000.0,
+    "deuda_total_soles": 365500000000.0,
+    "deuda_interna_soles": 175440000000.0,
+    "deuda_externa_soles": 190060000000.0,
     "deuda_pct_pbi": 34.0,
     "composicion_moneda": [
       {
