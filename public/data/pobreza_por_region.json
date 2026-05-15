@@ -1,0 +1,102 @@
+[
+  {
+    "region": "CAJAMARCA",
+    "pobreza_pct": 41.5
+  },
+  {
+    "region": "LORETO",
+    "pobreza_pct": 38.0
+  },
+  {
+    "region": "PASCO",
+    "pobreza_pct": 37.8
+  },
+  {
+    "region": "HUANCAVELICA",
+    "pobreza_pct": 36.0
+  },
+  {
+    "region": "PUNO",
+    "pobreza_pct": 35.5
+  },
+  {
+    "region": "AMAZONAS",
+    "pobreza_pct": 33.0
+  },
+  {
+    "region": "AYACUCHO",
+    "pobreza_pct": 32.5
+  },
+  {
+    "region": "UCAYALI",
+    "pobreza_pct": 32.2
+  },
+  {
+    "region": "HUANUCO",
+    "pobreza_pct": 31.8
+  },
+  {
+    "region": "APURIMAC",
+    "pobreza_pct": 31.0
+  },
+  {
+    "region": "PIURA",
+    "pobreza_pct": 28.5
+  },
+  {
+    "region": "SAN MARTIN",
+    "pobreza_pct": 27.8
+  },
+  {
+    "region": "LA LIBERTAD",
+    "pobreza_pct": 27.0
+  },
+  {
+    "region": "JUNIN",
+    "pobreza_pct": 26.2
+  },
+  {
+    "region": "ANCASH",
+    "pobreza_pct": 25.8
+  },
+  {
+    "region": "CUSCO",
+    "pobreza_pct": 24.5
+  },
+  {
+    "region": "TUMBES",
+    "pobreza_pct": 24.0
+  },
+  {
+    "region": "LAMBAYEQUE",
+    "pobreza_pct": 23.4
+  },
+  {
+    "region": "LIMA",
+    "pobreza_pct": 22.1
+  },
+  {
+    "region": "AREQUIPA",
+    "pobreza_pct": 18.5
+  },
+  {
+    "region": "TACNA",
+    "pobreza_pct": 12.5
+  },
+  {
+    "region": "ICA",
+    "pobreza_pct": 11.0
+  },
+  {
+    "region": "MOQUEGUA",
+    "pobreza_pct": 10.8
+  },
+  {
+    "region": "MADRE DE DIOS",
+    "pobreza_pct": 8.8
+  },
+  {
+    "region": "CALLAO",
+    "pobreza_pct": 21.5
+  }
+]

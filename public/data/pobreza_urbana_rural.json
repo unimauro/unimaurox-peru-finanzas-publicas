@@ -1,0 +1,57 @@
+[
+  {
+    "anio": 2004,
+    "urbana": 48.2,
+    "rural": 83.4
+  },
+  {
+    "anio": 2007,
+    "urbana": 30.1,
+    "rural": 74.0
+  },
+  {
+    "anio": 2010,
+    "urbana": 20.0,
+    "rural": 61.0
+  },
+  {
+    "anio": 2014,
+    "urbana": 15.3,
+    "rural": 46.0
+  },
+  {
+    "anio": 2019,
+    "urbana": 14.6,
+    "rural": 40.8
+  },
+  {
+    "anio": 2020,
+    "urbana": 26.0,
+    "rural": 45.7
+  },
+  {
+    "anio": 2022,
+    "urbana": 24.1,
+    "rural": 41.1
+  },
+  {
+    "anio": 2023,
+    "urbana": 26.4,
+    "rural": 39.8
+  },
+  {
+    "anio": 2024,
+    "urbana": 22.0,
+    "rural": 39.5
+  },
+  {
+    "anio": 2025,
+    "urbana": 20.9,
+    "rural": 38.6
+  },
+  {
+    "anio": 2026,
+    "urbana": 20.0,
+    "rural": 37.7
+  }
+]

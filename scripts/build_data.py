@@ -19,6 +19,7 @@ import fetch_macroeconomico
 import fetch_funcion
 import fetch_canon
 import fetch_inversion_empleo
+import fetch_inflacion_pobreza
 
 
 def main():
@@ -26,28 +27,31 @@ def main():
     print("Pipeline de datos · Finanzas Públicas del Perú 1990-2026")
     print("=" * 60)
 
-    print("\n[1/8] BCRP — PBI y deuda pública")
+    print("\n[1/9] BCRP — PBI y deuda pública")
     fetch_bcrp.main()
 
-    print("\n[2/8] MEF — Presupuesto y ejecución")
+    print("\n[2/9] MEF — Presupuesto y ejecución")
     fetch_mef.main()
 
-    print("\n[3/8] INEI — Población departamental")
+    print("\n[3/9] INEI — Población departamental")
     fetch_inei.main()
 
-    print("\n[4/8] BCRP/SUNAT/MINEM — Macro: SUNAT, comercio, minería")
+    print("\n[4/9] BCRP/SUNAT/MINEM — Macro: SUNAT, comercio, minería")
     fetch_macroeconomico.build()
 
-    print("\n[5/8] MEF — Presupuesto por función (Salud, Educación, etc.)")
+    print("\n[5/9] MEF — Presupuesto por función (Salud, Educación, etc.)")
     fetch_funcion.build()
 
-    print("\n[6/8] MEF/ProInversión/MINEM — Canon, OxI, inversión minera")
+    print("\n[6/9] MEF/ProInversión/MINEM — Canon, OxI, inversión minera")
     fetch_canon.build()
 
-    print("\n[7/8] BCRP/INEI/CONCYTEC/SUNEDU — Inversión, empleo, I+D, profesionales")
+    print("\n[7/9] BCRP/INEI/CONCYTEC/SUNEDU — Inversión, empleo, I+D, profesionales")
     fetch_inversion_empleo.build()
 
-    print("\n[8/8] Metadata global")
+    print("\n[8/9] BCRP/INEI — Inflación, tipo de cambio y pobreza")
+    fetch_inflacion_pobreza.build()
+
+    print("\n[9/9] Metadata global")
     guardar_json("metadata.json", metadata({
         "version": "1.3.0",
         "corte_2026": {
@@ -77,6 +81,9 @@ def main():
             "pea_por_sector.json", "id_internacional.json",
             "id_fuentes.json", "egresados_por_area.json",
             "ingenieria_desagregada.json",
+            "inflacion_pobreza.json", "ipc_desagregado.json",
+            "pobreza_urbana_rural.json", "pobreza_por_region.json",
+            "pobreza_ambito_2024.json",
         ],
         "nota": (
             "El PBI y la deuda pública se obtienen del BCRP cuando la API responde; "

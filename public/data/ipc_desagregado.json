@@ -1,0 +1,62 @@
+[
+  {
+    "grupo": "Alimentos y bebidas no alcohólicas",
+    "variacion_pct": 2.8,
+    "peso_canasta": 25.7
+  },
+  {
+    "grupo": "Restaurantes y hoteles",
+    "variacion_pct": 4.1,
+    "peso_canasta": 14.9
+  },
+  {
+    "grupo": "Transporte",
+    "variacion_pct": 1.9,
+    "peso_canasta": 12.9
+  },
+  {
+    "grupo": "Vivienda, agua, luz, gas",
+    "variacion_pct": 3.5,
+    "peso_canasta": 12.1
+  },
+  {
+    "grupo": "Bienes y servicios diversos",
+    "variacion_pct": 4.2,
+    "peso_canasta": 8.4
+  },
+  {
+    "grupo": "Recreación y cultura",
+    "variacion_pct": 2.0,
+    "peso_canasta": 6.9
+  },
+  {
+    "grupo": "Muebles y mantenimiento hogar",
+    "variacion_pct": 2.6,
+    "peso_canasta": 5.7
+  },
+  {
+    "grupo": "Salud",
+    "variacion_pct": 3.4,
+    "peso_canasta": 4.5
+  },
+  {
+    "grupo": "Educación",
+    "variacion_pct": 2.8,
+    "peso_canasta": 4.2
+  },
+  {
+    "grupo": "Vestido y calzado",
+    "variacion_pct": 1.6,
+    "peso_canasta": 3.2
+  },
+  {
+    "grupo": "Comunicaciones",
+    "variacion_pct": -1.2,
+    "peso_canasta": 1.5
+  },
+  {
+    "grupo": "Bebidas alcohólicas y tabaco",
+    "variacion_pct": 3.1,
+    "peso_canasta": 0.0
+  }
+]

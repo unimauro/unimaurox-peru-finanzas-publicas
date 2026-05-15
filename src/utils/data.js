@@ -35,6 +35,11 @@ export const cargarIDInternacional = () => fetchJSON('id_internacional.json');
 export const cargarIDFuentes = () => fetchJSON('id_fuentes.json');
 export const cargarEgresadosPorArea = () => fetchJSON('egresados_por_area.json');
 export const cargarIngenieriaDesagregada = () => fetchJSON('ingenieria_desagregada.json');
+export const cargarInflacionPobreza = () => fetchJSON('inflacion_pobreza.json');
+export const cargarIpcDesagregado = () => fetchJSON('ipc_desagregado.json');
+export const cargarPobrezaUrbanaRural = () => fetchJSON('pobreza_urbana_rural.json');
+export const cargarPobrezaPorRegion = () => fetchJSON('pobreza_por_region.json');
+export const cargarPobrezaAmbito = () => fetchJSON('pobreza_ambito_2024.json');
 export const cargarPoblacion = () => fetchJSON('poblacion.json');
 export const cargarMetadata = () => fetchJSON('metadata.json');
 

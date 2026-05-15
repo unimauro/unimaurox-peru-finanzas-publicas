@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-05-14T20:59:26.153297Z",
+  "generado_en": "2026-05-15T00:01:16.272527Z",
   "rango_anios": [
     1990,
     2026
@@ -46,7 +46,12 @@
     "id_internacional.json",
     "id_fuentes.json",
     "egresados_por_area.json",
-    "ingenieria_desagregada.json"
+    "ingenieria_desagregada.json",
+    "inflacion_pobreza.json",
+    "ipc_desagregado.json",
+    "pobreza_urbana_rural.json",
+    "pobreza_por_region.json",
+    "pobreza_ambito_2024.json"
   ],
   "nota": "El PBI y la deuda pública se obtienen del BCRP cuando la API responde; el detalle de presupuesto por región/sector se construye a partir de totales públicos del MEF distribuidos según pesos históricos conocidos. Para reemplazar con cifras 100% oficiales del SIAF Consulta Amigable, ver scripts/fetch_mef.py."
 }

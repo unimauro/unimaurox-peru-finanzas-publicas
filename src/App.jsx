@@ -12,6 +12,7 @@ const Deuda = lazy(() => import('./views/Deuda.jsx'));
 const Economia = lazy(() => import('./views/Economia.jsx'));
 const CanonInversion = lazy(() => import('./views/CanonInversion.jsx'));
 const InversionEmpleo = lazy(() => import('./views/InversionEmpleo.jsx'));
+const InflacionPobreza = lazy(() => import('./views/InflacionPobreza.jsx'));
 const Guia = lazy(() => import('./views/Guia.jsx'));
 
 const VIEW_TITLES = {
@@ -24,6 +25,7 @@ const VIEW_TITLES = {
   economia: 'Economía Real: SUNAT · Comercio · Minería',
   canon: 'Canon Minero · Obras por Impuestos · Inversión Privada',
   inversion: 'Inversión Privada · IED · Empleo · I+D · Profesionales',
+  inflacion: 'Inflación · Tipo de Cambio · Pobreza',
   guia: 'Guía & Preguntas Frecuentes',
 };
 
@@ -73,6 +75,7 @@ export default function App() {
             {vista === 'economia' && <Economia />}
             {vista === 'canon' && <CanonInversion />}
             {vista === 'inversion' && <InversionEmpleo />}
+            {vista === 'inflacion' && <InflacionPobreza />}
             {vista === 'guia' && <Guia />}
           </Suspense>
 

@@ -1,0 +1,298 @@
+[
+  {
+    "anio": 1990,
+    "inflacion_pct": 7649.6,
+    "tipo_cambio_sol_usd": 0.18,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1991,
+    "inflacion_pct": 139.2,
+    "tipo_cambio_sol_usd": 0.78,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1992,
+    "inflacion_pct": 56.7,
+    "tipo_cambio_sol_usd": 1.25,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1993,
+    "inflacion_pct": 39.5,
+    "tipo_cambio_sol_usd": 1.99,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1994,
+    "inflacion_pct": 15.4,
+    "tipo_cambio_sol_usd": 2.18,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1995,
+    "inflacion_pct": 10.2,
+    "tipo_cambio_sol_usd": 2.25,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1996,
+    "inflacion_pct": 11.8,
+    "tipo_cambio_sol_usd": 2.45,
+    "pobreza_total_pct": null,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1997,
+    "inflacion_pct": 6.5,
+    "tipo_cambio_sol_usd": 2.66,
+    "pobreza_total_pct": 50.7,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1998,
+    "inflacion_pct": 6.0,
+    "tipo_cambio_sol_usd": 2.92,
+    "pobreza_total_pct": 50.0,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 1999,
+    "inflacion_pct": 3.7,
+    "tipo_cambio_sol_usd": 3.38,
+    "pobreza_total_pct": 51.5,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2000,
+    "inflacion_pct": 3.7,
+    "tipo_cambio_sol_usd": 3.49,
+    "pobreza_total_pct": 54.2,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2001,
+    "inflacion_pct": -0.1,
+    "tipo_cambio_sol_usd": 3.51,
+    "pobreza_total_pct": 54.8,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2002,
+    "inflacion_pct": 1.5,
+    "tipo_cambio_sol_usd": 3.52,
+    "pobreza_total_pct": 54.3,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2003,
+    "inflacion_pct": 2.5,
+    "tipo_cambio_sol_usd": 3.48,
+    "pobreza_total_pct": 52.3,
+    "pobreza_extrema_pct": null,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2004,
+    "inflacion_pct": 3.5,
+    "tipo_cambio_sol_usd": 3.41,
+    "pobreza_total_pct": 58.7,
+    "pobreza_extrema_pct": 16.4,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2005,
+    "inflacion_pct": 1.5,
+    "tipo_cambio_sol_usd": 3.3,
+    "pobreza_total_pct": 55.6,
+    "pobreza_extrema_pct": 15.8,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2006,
+    "inflacion_pct": 1.1,
+    "tipo_cambio_sol_usd": 3.27,
+    "pobreza_total_pct": 49.2,
+    "pobreza_extrema_pct": 13.8,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2007,
+    "inflacion_pct": 3.9,
+    "tipo_cambio_sol_usd": 3.13,
+    "pobreza_total_pct": 42.4,
+    "pobreza_extrema_pct": 11.2,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2008,
+    "inflacion_pct": 6.7,
+    "tipo_cambio_sol_usd": 2.92,
+    "pobreza_total_pct": 37.3,
+    "pobreza_extrema_pct": 10.9,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2009,
+    "inflacion_pct": 0.3,
+    "tipo_cambio_sol_usd": 3.01,
+    "pobreza_total_pct": 33.5,
+    "pobreza_extrema_pct": 9.5,
+    "linea_pobreza_soles_mes": null
+  },
+  {
+    "anio": 2010,
+    "inflacion_pct": 2.1,
+    "tipo_cambio_sol_usd": 2.83,
+    "pobreza_total_pct": 30.8,
+    "pobreza_extrema_pct": 7.6,
+    "linea_pobreza_soles_mes": 256
+  },
+  {
+    "anio": 2011,
+    "inflacion_pct": 4.7,
+    "tipo_cambio_sol_usd": 2.75,
+    "pobreza_total_pct": 27.8,
+    "pobreza_extrema_pct": 6.3,
+    "linea_pobreza_soles_mes": 267
+  },
+  {
+    "anio": 2012,
+    "inflacion_pct": 2.6,
+    "tipo_cambio_sol_usd": 2.64,
+    "pobreza_total_pct": 25.8,
+    "pobreza_extrema_pct": 6.0,
+    "linea_pobreza_soles_mes": 279
+  },
+  {
+    "anio": 2013,
+    "inflacion_pct": 2.9,
+    "tipo_cambio_sol_usd": 2.7,
+    "pobreza_total_pct": 23.9,
+    "pobreza_extrema_pct": 4.7,
+    "linea_pobreza_soles_mes": 291
+  },
+  {
+    "anio": 2014,
+    "inflacion_pct": 3.2,
+    "tipo_cambio_sol_usd": 2.84,
+    "pobreza_total_pct": 22.7,
+    "pobreza_extrema_pct": 4.3,
+    "linea_pobreza_soles_mes": 303
+  },
+  {
+    "anio": 2015,
+    "inflacion_pct": 4.4,
+    "tipo_cambio_sol_usd": 3.19,
+    "pobreza_total_pct": 21.8,
+    "pobreza_extrema_pct": 4.1,
+    "linea_pobreza_soles_mes": 315
+  },
+  {
+    "anio": 2016,
+    "inflacion_pct": 3.2,
+    "tipo_cambio_sol_usd": 3.38,
+    "pobreza_total_pct": 20.7,
+    "pobreza_extrema_pct": 3.8,
+    "linea_pobreza_soles_mes": 324
+  },
+  {
+    "anio": 2017,
+    "inflacion_pct": 1.4,
+    "tipo_cambio_sol_usd": 3.26,
+    "pobreza_total_pct": 21.7,
+    "pobreza_extrema_pct": 3.8,
+    "linea_pobreza_soles_mes": 334
+  },
+  {
+    "anio": 2018,
+    "inflacion_pct": 2.2,
+    "tipo_cambio_sol_usd": 3.29,
+    "pobreza_total_pct": 20.5,
+    "pobreza_extrema_pct": 2.8,
+    "linea_pobreza_soles_mes": 344
+  },
+  {
+    "anio": 2019,
+    "inflacion_pct": 1.9,
+    "tipo_cambio_sol_usd": 3.34,
+    "pobreza_total_pct": 20.2,
+    "pobreza_extrema_pct": 2.9,
+    "linea_pobreza_soles_mes": 352
+  },
+  {
+    "anio": 2020,
+    "inflacion_pct": 2.0,
+    "tipo_cambio_sol_usd": 3.49,
+    "pobreza_total_pct": 30.1,
+    "pobreza_extrema_pct": 5.1,
+    "linea_pobreza_soles_mes": 360
+  },
+  {
+    "anio": 2021,
+    "inflacion_pct": 6.4,
+    "tipo_cambio_sol_usd": 3.88,
+    "pobreza_total_pct": 25.9,
+    "pobreza_extrema_pct": 4.1,
+    "linea_pobreza_soles_mes": 387
+  },
+  {
+    "anio": 2022,
+    "inflacion_pct": 8.5,
+    "tipo_cambio_sol_usd": 3.84,
+    "pobreza_total_pct": 27.5,
+    "pobreza_extrema_pct": 5.0,
+    "linea_pobreza_soles_mes": 415
+  },
+  {
+    "anio": 2023,
+    "inflacion_pct": 3.2,
+    "tipo_cambio_sol_usd": 3.74,
+    "pobreza_total_pct": 29.0,
+    "pobreza_extrema_pct": 5.7,
+    "linea_pobreza_soles_mes": 446
+  },
+  {
+    "anio": 2024,
+    "inflacion_pct": 2.0,
+    "tipo_cambio_sol_usd": 3.78,
+    "pobreza_total_pct": 27.6,
+    "pobreza_extrema_pct": 5.3,
+    "linea_pobreza_soles_mes": 458
+  },
+  {
+    "anio": 2025,
+    "inflacion_pct": 2.2,
+    "tipo_cambio_sol_usd": 3.71,
+    "pobreza_total_pct": 26.4,
+    "pobreza_extrema_pct": 5.0,
+    "linea_pobreza_soles_mes": 471
+  },
+  {
+    "anio": 2026,
+    "inflacion_pct": 2.3,
+    "tipo_cambio_sol_usd": 3.65,
+    "pobreza_total_pct": 25.5,
+    "pobreza_extrema_pct": 4.8,
+    "linea_pobreza_soles_mes": 485
+  }
+]
